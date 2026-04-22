@@ -13,6 +13,14 @@ const INDIESHUFFLE_BASE_URL = "https://www.indieshuffle.com";
 const INDIESHUFFLE_WINDOW_DAYS = 365;
 const INDIESHUFFLE_MAX_PAGES = 20;
 const INDIESHUFFLE_POST_LIMIT = 80; // cap to avoid excessive individual page fetches
+const PITCHFORK_FEED_URL = "https://pitchfork.com/feed/feed-album-reviews/rss";
+const PITCHFORK_WINDOW_DAYS = 365;
+const KEXP_PLAYS_API = "https://api.kexp.org/v2/plays/";
+const KEXP_WINDOW_DAYS = 365;
+const NPR_FEED_URL = "https://feeds.npr.org/1108/rss.xml";
+const NPR_WINDOW_DAYS = 365;
+const QUIETUS_FEED_URL = "https://thequietus.com/feed/";
+const QUIETUS_WINDOW_DAYS = 365;
 // Genre slugs from /songs/<slug> hrefs — excludes artist-name tags that share the same prefix.
 const INDIESHUFFLE_TARGET_GENRE_SLUGS = new Set([
   "indie",
@@ -53,6 +61,22 @@ const SOURCE_DEFINITIONS = {
   },
   "stereogum-album-of-the-week": {
     label: "Stereogum Album of the Week",
+    weight: 4,
+  },
+  "pitchfork-bnm": {
+    label: "Pitchfork Best New Music",
+    weight: 5,
+  },
+  "kexp-song-of-the-day": {
+    label: "KEXP Song of the Day",
+    weight: 3,
+  },
+  "npr-music": {
+    label: "NPR Music",
+    weight: 4,
+  },
+  "the-quietus": {
+    label: "The Quietus",
     weight: 4,
   },
 };
@@ -474,13 +498,248 @@ function aggregateMentions(mentions) {
     });
 }
 
+function slugToTitleCase(slug = "") {
+  return slug
+    .split("-")
+    .filter(Boolean)
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(" ");
+}
+
+async function fetchPitchforkMentions() {
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - PITCHFORK_WINDOW_DAYS);
+
+  let xml;
+  try {
+    xml = await fetchHtml(PITCHFORK_FEED_URL);
+  } catch {
+    return [];
+  }
+
+  const $ = cheerio.load(xml, { xmlMode: true });
+  const mentions = [];
+
+  $("item").each((_, el) => {
+    const pubDate = cleanText($(el).find("pubDate").text());
+    const publishedAt = toIsoDate(pubDate);
+    if (publishedAt && new Date(publishedAt) < cutoff) return;
+
+    // Pitchfork RSS: title = album name only; artist is encoded in the URL slug
+    // e.g. /reviews/albums/yaya-bey-fidelity/ with title "Fidelity"
+    const link = cleanText($(el).find("link").text()) || cleanText($(el).find("guid").text());
+    const urlMatch = link.match(/\/reviews\/albums\/([^/]+)\/?$/);
+    if (!urlMatch) return;
+
+    const albumTitle = cleanText($(el).find("title").text());
+    if (!albumTitle) return;
+
+    // Build a slug from the album title and remove it from the full URL slug to get artist slug
+    const albumSlug = normalizeKey(albumTitle).replace(/\s+/g, "-");
+    const fullSlug = urlMatch[1];
+    const escapedAlbumSlug = albumSlug.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const artistSlug = fullSlug
+      .replace(new RegExp(`-?${escapedAlbumSlug}$`), "")
+      .replace(/-$/, "")
+      .trim();
+    if (!artistSlug) return;
+
+    const artist = slugToTitleCase(artistSlug);
+    const mention = buildMention({
+      artist,
+      album: albumTitle,
+      sourceId: "pitchfork-bnm",
+      publishedAt,
+      url: link,
+    });
+    if (mention?.artistKey && mention.albumKey) mentions.push(mention);
+  });
+
+  return mentions;
+}
+
+async function fetchKexpMentions() {
+  // KEXP has no public RSS feed; use their open API to fetch tracks with
+  // rotation_status "R/N" (Rotation New) — KEXP's editorial signal for newly
+  // championed music. We paginate until we reach the window cutoff.
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - KEXP_WINDOW_DAYS);
+
+  const seen = new Map(); // artistKey__albumKey → mention
+  let nextUrl = `${KEXP_PLAYS_API}?format=json&limit=200&ordering=-airdate`;
+  let pages = 0;
+
+  while (nextUrl && pages < 20) {
+    let data;
+    try {
+      const res = await fetch(nextUrl, {
+        headers: REQUEST_HEADERS,
+        signal: AbortSignal.timeout(12000),
+      });
+      if (!res.ok) break;
+      data = await res.json();
+    } catch {
+      break;
+    }
+
+    pages++;
+    let reachedCutoff = false;
+
+    for (const play of data.results || []) {
+      if (play.play_type !== "trackplay") continue;
+      if (play.rotation_status !== "R/N") continue;
+      if (!play.artist || !play.album) continue;
+
+      const airdate = toIsoDate(play.airdate);
+      if (airdate && new Date(airdate) < cutoff) {
+        reachedCutoff = true;
+        break;
+      }
+
+      const key = `${normalizeKey(play.artist)}__${normalizeKey(play.album)}`;
+      if (seen.has(key)) continue;
+
+      const mention = buildMention({
+        artist: play.artist,
+        album: play.album,
+        sourceId: "kexp-song-of-the-day",
+        publishedAt: airdate,
+        url: `https://www.kexp.org/playlist/`,
+      });
+      if (mention?.artistKey && mention.albumKey) seen.set(key, mention);
+    }
+
+    if (reachedCutoff || !data.next) break;
+    nextUrl = data.next;
+  }
+
+  return Array.from(seen.values());
+}
+
+async function fetchNprMentions() {
+  // NPR Music feed (World Cafe): items are artist interview/profile articles.
+  // Artist is often extractable from the URL slug (pattern: /artist-name-album-title-slug/)
+  // Album title is in an <em> tag in the description CDATA.
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - NPR_WINDOW_DAYS);
+
+  let xml;
+  try {
+    xml = await fetchHtml(NPR_FEED_URL);
+  } catch {
+    return [];
+  }
+
+  const $ = cheerio.load(xml, { xmlMode: true });
+  const mentions = [];
+
+  $("item").each((_, el) => {
+    const pubDate = cleanText($(el).find("pubDate").text());
+    const publishedAt = toIsoDate(pubDate);
+    if (publishedAt && new Date(publishedAt) < cutoff) return;
+
+    const link = cleanText($(el).find("link").text()) || cleanText($(el).find("guid").text());
+
+    // Skip roundup articles — these list many albums, not one artist
+    const rawTitle = cleanText($(el).find("title").text());
+    if (/^(the\s+)?best new albums/i.test(rawTitle)) return;
+    if (/new music friday/i.test(rawTitle)) return;
+
+    // Extract album title from <em> in description.
+    // NPR encodes entities in description (&lt;em&gt;) but cheerio decodes them
+    // when parsing in xmlMode, so we match actual <em> tags.
+    const descText = $(el).find("description").text();
+    const emMatch = descText.match(/<em>(.+?)<\/em>/);
+    const album = emMatch ? cleanText(emMatch[1]).replace(/,?\s*$/, "") : null;
+    if (!album) return;
+
+    // Extract artist from URL slug: last path segment, split on "-album-"
+    // e.g. /born-ruffians-album-beautys-pride → "Born Ruffians"
+    const slugMatch = link.match(/\/([^/]+)$/);
+    if (!slugMatch) return;
+    const lastSegment = slugMatch[1].replace(/[?#].*/, "");
+    const albumPart = /-album-/i.test(lastSegment)
+      ? lastSegment.split(/-album-/i)[0]
+      : null;
+    if (!albumPart) return;
+
+    const artist = slugToTitleCase(albumPart);
+
+    const mention = buildMention({
+      artist,
+      album,
+      sourceId: "npr-music",
+      publishedAt,
+      url: link,
+    });
+    if (mention?.artistKey && mention.albumKey) mentions.push(mention);
+  });
+
+  return mentions;
+}
+
+async function fetchQuietusMentions() {
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - QUIETUS_WINDOW_DAYS);
+
+  let xml;
+  try {
+    xml = await fetchHtml(QUIETUS_FEED_URL);
+  } catch {
+    return [];
+  }
+
+  const $ = cheerio.load(xml, { xmlMode: true });
+  const mentions = [];
+
+  $("item").each((_, el) => {
+    // Filter to review items only via category (not title text)
+    const categories = $(el).find("category").toArray().map((c) => cleanText($(c).text()));
+    if (!categories.some((c) => /^reviews?$/i.test(c))) return;
+
+    const pubDate = cleanText($(el).find("pubDate").text());
+    const publishedAt = toIsoDate(pubDate);
+    if (publishedAt && new Date(publishedAt) < cutoff) return;
+
+    const link = cleanText($(el).find("link").text()) || cleanText($(el).find("guid").text());
+    // Quietus review title format: "Artist Name – Album Title"
+    const rawTitle = cleanText($(el).find("title").text());
+    const parsed = parseArtistAlbumText(rawTitle);
+    if (!parsed) return;
+
+    const mention = buildMention({
+      artist: parsed.artist,
+      album: parsed.album,
+      sourceId: "the-quietus",
+      publishedAt,
+      url: link,
+    });
+    if (mention?.artistKey && mention.albumKey) mentions.push(mention);
+  });
+
+  return mentions;
+}
+
 async function main() {
   console.log("Fetching editorial signals...");
-  const [needleMentions, bandcampMentions, indieshuffleMentions, stereogumMentions] = await Promise.all([
+  const [
+    needleMentions,
+    bandcampMentions,
+    indieshuffleMentions,
+    stereogumMentions,
+    pitchforkMentions,
+    kexpMentions,
+    nprMentions,
+    quietusMentions,
+  ] = await Promise.all([
     fetchNeedleMentions().then((r) => { console.log(`Needle Drop done: ${r.length} mentions`); return r; }),
     fetchBandcampMentions().then((r) => { console.log(`Bandcamp done: ${r.length} mentions`); return r; }),
     fetchIndieshuffleMentions().then((r) => { console.log(`IndieShuffle done: ${r.length} mentions`); return r; }),
     fetchSterogumMentions().then((r) => { console.log(`Stereogum done: ${r.length} mentions`); return r; }),
+    fetchPitchforkMentions().then((r) => { console.log(`Pitchfork BNM done: ${r.length} mentions`); return r; }),
+    fetchKexpMentions().then((r) => { console.log(`KEXP done: ${r.length} mentions`); return r; }),
+    fetchNprMentions().then((r) => { console.log(`NPR Music done: ${r.length} mentions`); return r; }),
+    fetchQuietusMentions().then((r) => { console.log(`The Quietus done: ${r.length} mentions`); return r; }),
   ]);
 
   const items = aggregateMentions([
@@ -488,6 +747,10 @@ async function main() {
     ...bandcampMentions,
     ...indieshuffleMentions,
     ...stereogumMentions,
+    ...pitchforkMentions,
+    ...kexpMentions,
+    ...nprMentions,
+    ...quietusMentions,
   ]);
   const payload = {
     generatedAt: new Date().toISOString(),
@@ -502,6 +765,10 @@ async function main() {
   console.log(`Bandcamp mentions: ${bandcampMentions.length}`);
   console.log(`IndieShuffle mentions: ${indieshuffleMentions.length}`);
   console.log(`Stereogum AOTW mentions: ${stereogumMentions.length}`);
+  console.log(`Pitchfork BNM mentions: ${pitchforkMentions.length}`);
+  console.log(`KEXP mentions: ${kexpMentions.length}`);
+  console.log(`NPR Music mentions: ${nprMentions.length}`);
+  console.log(`The Quietus mentions: ${quietusMentions.length}`);
 }
 
 main().catch((error) => {

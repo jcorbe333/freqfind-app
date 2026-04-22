@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "WebFetch(domain:www.indieshuffle.com)",
+      "WebSearch",
+      "Bash(node scripts/update-editorial-signals.mjs)",
+      "Bash(node -e ' *)",
+      "Bash(node --input-type=module)",
+      "WebFetch(domain:bleep.com)",
+      "WebFetch(domain:ra.co)",
+      "WebFetch(domain:www.thewire.co.uk)",
+      "WebFetch(domain:pitchfork.com)",
+      "WebFetch(domain:www.factmag.com)",
+      "WebFetch(domain:www.stereogum.com)",
+      "WebFetch(domain:thequietus.com)",
+      "Bash(curl -s --max-time 10 \"https://www.stereogum.com/category/album-of-the-week/feed/\")",
+      "Bash(curl -sL --max-time 10 -I \"https://www.stereogum.com/category/album-of-the-week/feed/\")",
+      "Bash(curl -sL --max-time 10 \"https://stereogum.com/category/album-of-the-week/feed\")",
+      "Bash(python3 -)",
+      "Bash(npm run *)"
+    ]
+  }
+}

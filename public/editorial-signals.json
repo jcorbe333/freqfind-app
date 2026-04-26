@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T08:44:23.090Z",
+  "generatedAt": "2026-04-26T08:53:49.910Z",
   "items": [
     {
       "artist": "Carla dal Forno",
@@ -55,31 +55,6 @@
         }
       ],
       "editorialWeight": 12,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "WU LYF",
-      "album": "A Wave That Will Never Break",
-      "artistKey": "wu lyf",
-      "albumKey": "a wave that will never break",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-16",
-          "url": "https://pitchfork.com/reviews/albums/wu-lyf-a-wave-that-will-never-break/"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-04-07",
-          "url": "https://stereogum.com/2494947/album-of-the-week-wu-lyf-a-wave-that-will-never-break/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 11,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -845,6 +820,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Book Of Love",
+      "album": "Book of Love",
+      "artistKey": "book of love",
+      "albumKey": "book of love",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-04-26",
+          "url": "https://pitchfork.com/reviews/albums/book-of-love-book-of-love/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -9038,6 +9031,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "WU LYF",
+      "album": "A Wave That Will Never Break",
+      "artistKey": "wu lyf",
+      "albumKey": "a wave that will never break",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-04-07",
+          "url": "https://stereogum.com/2494947/album-of-the-week-wu-lyf-a-wave-that-will-never-break/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Musica Transonic + Mainliner",
       "album": "Solid Static",
       "artistKey": "musica transonic mainliner",
@@ -12980,20 +12991,20 @@
       "mentionCount": 1
     },
     {
-      "artist": "Various Artists",
-      "album": "TV, Anime & Manga New Age Soundtracks 1984–1993",
-      "artistKey": "various artists",
-      "albumKey": "tv anime and manga new age soundtracks 1984 1993",
+      "artist": "Max F",
+      "album": "Hidden Atmospheres",
+      "artistKey": "max f",
+      "albumKey": "hidden atmospheres",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-04-25",
-          "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-tv-anime-manga-new-age-soundtracks-1984-1993-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13016,10 +13027,100 @@
       "mentionCount": 1
     },
     {
+      "artist": "Fragrance.",
+      "album": "Salt Water",
+      "artistKey": "fragrance",
+      "albumKey": "salt water",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-04-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Jusmoni",
       "album": "Sweet to Me",
       "artistKey": "jusmoni",
       "albumKey": "sweet to me",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-04-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lexx",
+      "album": "In Between State",
+      "artistKey": "lexx",
+      "albumKey": "in between state",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-04-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Linda & Norm",
+      "album": "Moments to Want You",
+      "artistKey": "linda and norm",
+      "albumKey": "moments to want you",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-04-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lyrics Born",
+      "album": "Live on KEXP from Noise Pop",
+      "artistKey": "lyrics born",
+      "albumKey": "live on kexp from noise pop",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-04-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mandrake Handshake",
+      "album": "Live on KEXP from Trans Musicales",
+      "artistKey": "mandrake handshake",
+      "albumKey": "live on kexp from trans musicales",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14096,24 +14197,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Max F",
-      "album": "Hidden Atmospheres",
-      "artistKey": "max f",
-      "albumKey": "hidden atmospheres",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Nelson of the East",
       "album": "Super Deception",
       "artistKey": "nelson of the east",
@@ -14204,24 +14287,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Captain Planet & Tony Allen",
-      "album": "DIG",
-      "artistKey": "captain planet and tony allen",
-      "albumKey": "dig",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Cousin Chris",
       "album": "Entrypoint 01",
       "artistKey": "cousin chris",
@@ -14294,24 +14359,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sleep",
-      "album": "The Sciences",
-      "artistKey": "sleep",
-      "albumKey": "the sciences",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "The Olympians",
       "album": "In Search of a Revival",
       "artistKey": "the olympians",
@@ -14340,132 +14387,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-04-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Alela Diane",
-      "album": "California",
-      "artistKey": "alela diane",
-      "albumKey": "california",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Flea",
-      "album": "Honora",
-      "artistKey": "flea",
-      "albumKey": "honora",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Geowulf",
-      "album": "Great Big Blue",
-      "artistKey": "geowulf",
-      "albumKey": "great big blue",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Johanna Samuels",
-      "album": "White Limousine",
-      "artistKey": "johanna samuels",
-      "albumKey": "white limousine",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sam Coffey and The Iron Lungs",
-      "album": "Sam Coffey & The Iron Lungs",
-      "artistKey": "sam coffey and the iron lungs",
-      "albumKey": "sam coffey and the iron lungs",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Spencer Krug",
-      "album": "I’ll Believe in Anything (2026 solo piano version)",
-      "artistKey": "spencer krug",
-      "albumKey": "ill believe in anything 2026 solo piano version",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ya Tseen feat. *Jahon Mikal",
-      "album": "Stand On My Shoulders",
-      "artistKey": "ya tseen feat jahon mikal",
-      "albumKey": "stand on my shoulders",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-15",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

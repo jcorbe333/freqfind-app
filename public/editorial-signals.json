@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T08:53:49.910Z",
+  "generatedAt": "2026-04-27T10:09:51.948Z",
   "items": [
     {
       "artist": "Carla dal Forno",
@@ -380,31 +380,6 @@
         }
       ],
       "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Shabaka",
-      "album": "Of The Earth",
-      "artistKey": "shabaka",
-      "albumKey": "of the earth",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-16",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-03-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/shabaka-of-the-earth-review"
-        }
-      ],
-      "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -823,6 +798,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Loukeman",
+      "album": "Sd-3",
+      "artistKey": "loukeman",
+      "albumKey": "sd 3",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-04-27",
+          "url": "https://pitchfork.com/reviews/albums/loukeman-sd-3/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sonic Youth",
+      "album": "Diamond Seas",
+      "artistKey": "sonic youth",
+      "albumKey": "diamond seas",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-04-27",
+          "url": "https://pitchfork.com/reviews/albums/sonic-youth-diamond-seas/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tezzus Diamond Uy Scuti Boyz",
+      "album": "UY SCUTI BØYZ",
+      "artistKey": "tezzus diamond uy scuti boyz",
+      "albumKey": "uy scuti b yz",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-04-27",
+          "url": "https://pitchfork.com/reviews/albums/tezzus-diamond-uy-scuti-boyz/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Xang",
+      "album": "GroakDontCroak vol. 1",
+      "artistKey": "xang",
+      "albumKey": "groakdontcroak vol 1",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-04-27",
+          "url": "https://pitchfork.com/reviews/albums/xang-groakdontcroak-vol-1/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Book Of Love",
       "album": "Book of Love",
       "artistKey": "book of love",
@@ -1165,24 +1212,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Bloodz Boi Jackzebra",
-      "album": "Bloodzebra",
-      "artistKey": "bloodz boi jackzebra",
-      "albumKey": "bloodzebra",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-17",
-          "url": "https://pitchfork.com/reviews/albums/bloodz-boi-jackzebra-bloodzebra/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Mia Mi7",
       "album": "M.I.7",
       "artistKey": "mia mi7",
@@ -1201,24 +1230,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Souled American",
-      "album": "Sanctions",
-      "artistKey": "souled american",
-      "albumKey": "sanctions",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-17",
-          "url": "https://pitchfork.com/reviews/albums/souled-american-sanctions/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Zayn",
       "album": "KONNAKOL",
       "artistKey": "zayn",
@@ -1230,42 +1241,6 @@
           "weight": 5,
           "publishedAt": "2026-04-17",
           "url": "https://pitchfork.com/reviews/albums/zayn-konnakol/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "artistKey": "nine vicious",
-      "albumKey": "emotions",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-16",
-          "url": "https://pitchfork.com/reviews/albums/nine-vicious-emotions/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tokischa Amor Y Droga",
-      "album": "AMOR & DROGA",
-      "artistKey": "tokischa amor y droga",
-      "albumKey": "amor and droga",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-16",
-          "url": "https://pitchfork.com/reviews/albums/tokischa-amor-y-droga/"
         }
       ],
       "editorialWeight": 5,
@@ -8599,6 +8574,24 @@
       "mentionCount": 9
     },
     {
+      "artist": "Irmin Schmidt",
+      "album": "Requiem",
+      "artistKey": "irmin schmidt",
+      "albumKey": "requiem",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-04-27",
+          "url": "https://thequietus.com/quietus-reviews/irmin-schmidt-requiem-review/?utm_source=rss&utm_medium=rss&utm_campaign=irmin-schmidt-requiem-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Steve Gunn",
       "album": "Shape of a Wave",
       "artistKey": "steve gunn",
@@ -9420,6 +9413,24 @@
           "weight": 4,
           "publishedAt": "2026-03-06",
           "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-help-2-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shabaka",
+      "album": "Of The Earth",
+      "artistKey": "shabaka",
+      "albumKey": "of the earth",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-03-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/shabaka-of-the-earth-review"
         }
       ],
       "editorialWeight": 4,
@@ -13009,6 +13020,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Naïka",
+      "album": "ECLESIA",
+      "artistKey": "naika",
+      "albumKey": "eclesia",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Chalk",
       "album": "Crystalpunk",
       "artistKey": "chalk",
@@ -13981,24 +14010,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Naïka",
-      "album": "ECLESIA",
-      "artistKey": "naika",
-      "albumKey": "eclesia",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Nina Simone",
       "album": "Four Women (DESIREE remix)",
       "artistKey": "nina simone",
@@ -14244,150 +14255,6 @@
           "weight": 3,
           "publishedAt": "2026-04-17",
           "url": "https://www.indieshuffle.com/slowdaze-opals/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Alabama Shakes",
-      "album": "Another Life",
-      "artistKey": "alabama shakes",
-      "albumKey": "another life",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bob Mould",
-      "album": "Live on KEXP",
-      "artistKey": "bob mould",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cousin Chris",
-      "album": "Entrypoint 01",
-      "artistKey": "cousin chris",
-      "albumKey": "entrypoint 01",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Deep Sea Diver",
-      "album": "Live on KEXP",
-      "artistKey": "deep sea diver",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kassa Overall",
-      "album": "CREAM",
-      "artistKey": "kassa overall",
-      "albumKey": "cream",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sharon Jones and the Dap‐Kings",
-      "album": "Live on KEXP",
-      "artistKey": "sharon jones and the dap kings",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Olympians",
-      "album": "In Search of a Revival",
-      "artistKey": "the olympians",
-      "albumKey": "in search of a revival",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "WILLOW",
-      "album": "petal rock black",
-      "artistKey": "willow",
-      "albumKey": "petal rock black",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-16",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

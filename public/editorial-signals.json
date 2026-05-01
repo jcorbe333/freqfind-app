@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T10:02:00.118Z",
+  "generatedAt": "2026-05-01T09:28:24.005Z",
   "items": [
     {
       "artist": "Carla dal Forno",
@@ -459,24 +459,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Yaya Bey",
-      "album": "Fidelity",
-      "artistKey": "yaya bey",
-      "albumKey": "fidelity",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-22",
-          "url": "https://pitchfork.com/reviews/albums/yaya-bey-fidelity/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "SPELLLING",
       "album": "Portrait of My Heart",
       "artistKey": "spellling",
@@ -798,6 +780,78 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gobby",
+      "album": "i guess bro",
+      "artistKey": "gobby",
+      "albumKey": "i guess bro",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-01",
+          "url": "https://pitchfork.com/reviews/albums/gobby-i-guess-bro/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Middle of Nowhere",
+      "artistKey": "kacey musgraves",
+      "albumKey": "middle of nowhere",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-01",
+          "url": "https://pitchfork.com/reviews/albums/kacey-musgraves-middle-of-nowhere/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Knats",
+      "album": "A Great Day in Newcastle",
+      "artistKey": "knats",
+      "albumKey": "a great day in newcastle",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-01",
+          "url": "https://pitchfork.com/reviews/albums/knats-a-great-day-in-newcastle/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Youbet",
+      "album": "youbet",
+      "artistKey": "youbet",
+      "albumKey": "youbet",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-01",
+          "url": "https://pitchfork.com/reviews/albums/youbet-youbet/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1190,60 +1244,6 @@
           "weight": 5,
           "publishedAt": "2026-04-23",
           "url": "https://pitchfork.com/reviews/albums/starker-living-type-dangerous-vol-1/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Black Nile",
-      "album": "Indigo Garden",
-      "artistKey": "black nile",
-      "albumKey": "indigo garden",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-22",
-          "url": "https://pitchfork.com/reviews/albums/black-nile-indigo-garden/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Justine Skye",
-      "album": "CANDY",
-      "artistKey": "justine skye",
-      "albumKey": "candy",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-22",
-          "url": "https://pitchfork.com/reviews/albums/justine-skye-candy/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "National Photo Committee",
-      "album": "Red Hot Photo Committee",
-      "artistKey": "national photo committee",
-      "albumKey": "red hot photo committee",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-22",
-          "url": "https://pitchfork.com/reviews/albums/national-photo-committee-red-hot-photo-committee/"
         }
       ],
       "editorialWeight": 5,
@@ -1658,24 +1658,6 @@
           "weight": 4,
           "publishedAt": "2025-08-01",
           "url": "https://www.npr.org/sections/world-cafe/2025/08/01/nx-s1-5471529/haim-album-i-quit"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Yaya Bey",
-      "album": "do it afraid",
-      "artistKey": "yaya bey",
-      "albumKey": "do it afraid",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-20",
-          "url": "https://daily.bandcamp.com/album-of-the-day/yaya-bey-do-it-afraid-review"
         }
       ],
       "editorialWeight": 5,
@@ -8577,22 +8559,40 @@
       "mentionCount": 1
     },
     {
-      "artist": "Charbel Harber",
-      "album": "May a soft sun bless your sky while you wait for the inevitable",
-      "artistKey": "charbel harber",
-      "albumKey": "may a soft sun bless your sky while you wait for the inevitable",
+      "artist": "Pure Wrath",
+      "album": "Bleak Days Ahead",
+      "artistKey": "pure wrath",
+      "albumKey": "bleak days ahead",
       "sources": [
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-04-29",
-          "url": "https://daily.bandcamp.com/album-of-the-day/charbel-harber-may-a-soft-sun-bless-your-sky-while-you-wait-for-the-inevitable-review"
+          "publishedAt": "2026-04-30",
+          "url": "https://daily.bandcamp.com/album-of-the-day/pure-wrath-bleak-days-ahead-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "Bonner Kramer • Thurston Moore",
+      "album": "They Came Like Swallows",
+      "artistKey": "bonner kramer thurston moore",
+      "albumKey": "they came like swallows",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-05-01",
+          "url": "https://thequietus.com/quietus-reviews/bonner-kramer-thurston-moore-they-came-like-swallows-review/?utm_source=rss&utm_medium=rss&utm_campaign=bonner-kramer-thurston-moore-they-came-like-swallows-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Aja Ireland",
@@ -8613,6 +8613,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Steve Gunn",
+      "album": "Shape of a Wave",
+      "artistKey": "steve gunn",
+      "albumKey": "shape of a wave",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-04-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Vince Staples",
       "album": "Cry Baby",
       "artistKey": "vince staples",
@@ -8628,6 +8646,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Charbel Harber",
+      "album": "May a soft sun bless your sky while you wait for the inevitable",
+      "artistKey": "charbel harber",
+      "albumKey": "may a soft sun bless your sky while you wait for the inevitable",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-04-29",
+          "url": "https://daily.bandcamp.com/album-of-the-day/charbel-harber-may-a-soft-sun-bless-your-sky-while-you-wait-for-the-inevitable-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -8721,24 +8757,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Steve Gunn",
-      "album": "Shape of a Wave",
-      "artistKey": "steve gunn",
-      "albumKey": "shape of a wave",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Bali Gamelan Sound",
       "album": "Topeng Semar Pegulingan",
       "artistKey": "bali gamelan sound",
@@ -8786,42 +8804,6 @@
           "weight": 4,
           "publishedAt": "2026-04-22",
           "url": "https://daily.bandcamp.com/album-of-the-day/fat-ray-raphy-santa-rosa-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gnod",
-      "album": "Chronicles Of Gnowt Vol.1",
-      "artistKey": "gnod",
-      "albumKey": "chronicles of gnowt vol 1",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-04-22",
-          "url": "https://thequietus.com/quietus-reviews/gnod-chronicles-of-gnowt-vol-1-review/?utm_source=rss&utm_medium=rss&utm_campaign=gnod-chronicles-of-gnowt-vol-1-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tanya Donelly and Chris Brokaw",
-      "album": "The Undone Is Done Again",
-      "artistKey": "tanya donelly and chris brokaw",
-      "albumKey": "the undone is done again",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-04-22",
-          "url": "https://thequietus.com/quietus-reviews/tanya-donelly-and-chris-brokaw-the-undone-is-done-again-review/?utm_source=rss&utm_medium=rss&utm_campaign=tanya-donelly-and-chris-brokaw-the-undone-is-done-again-review"
         }
       ],
       "editorialWeight": 4,
@@ -12429,6 +12411,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Yaya Bey",
+      "album": "do it afraid",
+      "artistKey": "yaya bey",
+      "albumKey": "do it afraid",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-06-20",
+          "url": "https://daily.bandcamp.com/album-of-the-day/yaya-bey-do-it-afraid-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Bourbonese Qualk",
       "album": "My Government Is My Soul",
       "artistKey": "bourbonese qualk",
@@ -12969,20 +12969,74 @@
       "mentionCount": 1
     },
     {
-      "artist": "Lila Tirando a Violeta",
-      "album": "Dream of Snakes",
-      "artistKey": "lila tirando a violeta",
-      "albumKey": "dream of snakes",
+      "artist": "James Blake & Dave",
+      "album": "Trying Times",
+      "artistKey": "james blake and dave",
+      "albumKey": "trying times",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-04-30",
-          "url": "https://daily.bandcamp.com/album-of-the-day/lila-tirando-a-violeta-dream-of-snakes-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-01",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "A. Savage",
+      "album": "Thawing Dawn",
+      "artistKey": "a savage",
+      "albumKey": "thawing dawn",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-04-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Brian Jackson & Masters At Work feat. Josh Milan, J. Ivy & Moodymann",
+      "album": "Now More Than Ever",
+      "artistKey": "brian jackson and masters at work feat josh milan j ivy and moodymann",
+      "albumKey": "now more than ever",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-04-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jagwar Ma",
+      "album": "Live on KEXP",
+      "artistKey": "jagwar ma",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-04-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -12991,6 +13045,24 @@
       "album": "BRILLA BRILLA",
       "artistKey": "lucha luna",
       "albumKey": "brilla brilla",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-04-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Night Heron",
+      "album": "Live on KEXP",
+      "artistKey": "night heron",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14319,96 +14391,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Fake Fruit, FAKE?",
-      "album": "Live on KEXP",
-      "artistKey": "fake fruit fake",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Froid Dub",
-      "album": "Positive and Natural",
-      "artistKey": "froid dub",
-      "albumKey": "positive and natural",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kay Yoko",
-      "album": "Yuki’s Blue Greenhouse",
-      "artistKey": "kay yoko",
-      "albumKey": "yukis blue greenhouse",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Loraine James",
-      "album": "Detached from the Rest of You",
-      "artistKey": "loraine james",
-      "albumKey": "detached from the rest of you",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Marshall Watson",
-      "album": "Back to Larkin Sessions",
-      "artistKey": "marshall watson",
-      "albumKey": "back to larkin sessions",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Sunrom",
       "album": "I Just Try",
       "artistKey": "sunrom",
@@ -14420,24 +14402,6 @@
           "weight": 3,
           "publishedAt": "2026-04-20",
           "url": "https://www.indieshuffle.com/sunrom-i-just-try/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Underground Resistance",
-      "album": "When There Is No Sun",
-      "artistKey": "underground resistance",
-      "albumKey": "when there is no sun",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-20",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

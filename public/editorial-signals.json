@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T09:28:24.005Z",
+  "generatedAt": "2026-05-02T09:00:23.635Z",
   "items": [
     {
       "artist": "Carla dal Forno",
@@ -71,6 +71,31 @@
       "editorialWeight": 14,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "Lip Critic",
+      "album": "Theft World",
+      "artistKey": "lip critic",
+      "albumKey": "theft world",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-02",
+          "url": "https://pitchfork.com/reviews/albums/lip-critic-theft-world/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-04-28",
+          "url": "https://stereogum.com/2497108/album-of-the-week-lip-critic-theft-world/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Bill Callahan",
@@ -1197,24 +1222,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Friko",
-      "album": "Something Worth Waiting For",
-      "artistKey": "friko",
-      "albumKey": "something worth waiting for",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-23",
-          "url": "https://pitchfork.com/reviews/albums/friko-something-worth-waiting-for/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Portrayal Of Guilt",
       "album": "…Beginning of the End",
       "artistKey": "portrayal of guilt",
@@ -1280,6 +1287,24 @@
           "weight": 4,
           "publishedAt": "2026-02-06",
           "url": "https://daily.bandcamp.com/album-of-the-day/daphni-butterfly-review"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Blackwater Holylight",
+      "album": "Not Here Not Gone",
+      "artistKey": "blackwater holylight",
+      "albumKey": "not here not gone",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-01-29",
+          "url": "https://daily.bandcamp.com/album-of-the-day/blackwater-holylight-not-here-not-gone-review"
         }
       ],
       "editorialWeight": 5,
@@ -8559,6 +8584,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "OOIOO / Lightning Bolt",
+      "album": "The Horizon Spirals / The Horizon Viral",
+      "artistKey": "ooioo lightning bolt",
+      "albumKey": "the horizon spirals the horizon viral",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-01",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ooioo-lightning-bolt-the-horizon-spirals-the-horizon-viral-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Pure Wrath",
       "album": "Bleak Days Ahead",
       "artistKey": "pure wrath",
@@ -8575,6 +8618,24 @@
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "Blackwater Holylight",
+      "album": "Live on KEXP",
+      "artistKey": "blackwater holylight",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Bonner Kramer • Thurston Moore",
@@ -8696,24 +8757,6 @@
           "weight": 4,
           "publishedAt": "2026-04-28",
           "url": "https://daily.bandcamp.com/album-of-the-day/ayman-fanous-brooklyn-stories-1-5-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lip Critic",
-      "album": "Theft World",
-      "artistKey": "lip critic",
-      "albumKey": "theft world",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-04-28",
-          "url": "https://stereogum.com/2497108/album-of-the-week-lip-critic-theft-world/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -9848,24 +9891,6 @@
           "weight": 4,
           "publishedAt": "2026-01-31",
           "url": "https://daily.bandcamp.com/album-of-the-day/haruhi-kobayashi-maybe-you-should-talk-to-someone-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Blackwater Holylight",
-      "album": "Not Here Not Gone",
-      "artistKey": "blackwater holylight",
-      "albumKey": "not here not gone",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-01-29",
-          "url": "https://daily.bandcamp.com/album-of-the-day/blackwater-holylight-not-here-not-gone-review"
         }
       ],
       "editorialWeight": 4,
@@ -12951,20 +12976,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "Slung",
-      "album": "IN WAYS",
-      "artistKey": "slung",
-      "albumKey": "in ways",
+      "artist": "Denzel Curry, The Scythe, Juicy J, Key Nyata & FERG",
+      "album": "Strictly 4 The Scythe",
+      "artistKey": "denzel curry the scythe juicy j key nyata and ferg",
+      "albumKey": "strictly 4 the scythe",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-01",
-          "url": "https://daily.bandcamp.com/album-of-the-day/slung-in-ways-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-02",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Alan Braxe & Fred Falke",
+      "album": "Intro (25th Anniversary)",
+      "artistKey": "alan braxe and fred falke",
+      "albumKey": "intro 25th anniversary",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ali & Charif Megarbane",
+      "album": "Tirakat",
+      "artistKey": "ali and charif megarbane",
+      "albumKey": "tirakat",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -12973,6 +13034,96 @@
       "album": "Trying Times",
       "artistKey": "james blake and dave",
       "albumKey": "trying times",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kelsey Lu",
+      "album": "So Help Me God",
+      "artistKey": "kelsey lu",
+      "albumKey": "so help me god",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Moonchild feat. Jill Scott & Rapsody",
+      "album": "Waves",
+      "artistKey": "moonchild feat jill scott and rapsody",
+      "albumKey": "waves",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Parquet Courts",
+      "album": "Live on KEXP",
+      "artistKey": "parquet courts",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "whitney",
+      "album": "Live on KEXP",
+      "artistKey": "whitney",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wolf Parade",
+      "album": "Cry Cry Cry",
+      "artistKey": "wolf parade",
+      "albumKey": "cry cry cry",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13069,24 +13220,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-04-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ali & Charif Megarbane",
-      "album": "Tirakat",
-      "artistKey": "ali and charif megarbane",
-      "albumKey": "tirakat",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-29",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14211,46 +14344,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "LB aka LABAT feat. Skin on Skin",
-      "album": "Feel So Good Around U",
-      "artistKey": "lb aka labat feat skin on skin",
-      "albumKey": "feel so good around u",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Natalie Jane Hill",
       "album": "Hopeful Woman",
       "artistKey": "natalie jane hill",
       "albumKey": "hopeful woman",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Neon Ion",
-      "album": "Laugh Now, Cry Later",
-      "artistKey": "neon ion",
-      "albumKey": "laugh now cry later",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14311,78 +14408,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-04-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Abentis",
-      "album": "Dim Grow",
-      "artistKey": "abentis",
-      "albumKey": "dim grow",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chairs",
-      "album": "Sideline",
-      "artistKey": "chairs",
-      "albumKey": "sideline",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "FSQ, Moniquea & XL Middleton",
-      "album": "Feeling Wide",
-      "artistKey": "fsq moniquea and xl middleton",
-      "albumKey": "feeling wide",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kenneth Bager",
-      "album": "What's the Frequency, Kenneth?",
-      "artistKey": "kenneth bager",
-      "albumKey": "whats the frequency kenneth",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-21",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

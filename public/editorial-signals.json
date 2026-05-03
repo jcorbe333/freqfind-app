@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T09:00:23.635Z",
+  "generatedAt": "2026-05-03T09:18:02.310Z",
   "items": [
     {
       "artist": "Carla dal Forno",
@@ -808,6 +808,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Fanny",
+      "album": "Fanny Hill",
+      "artistKey": "fanny",
+      "albumKey": "fanny hill",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-03",
+          "url": "https://pitchfork.com/reviews/albums/fanny-fanny-hill/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Gobby",
       "album": "i guess bro",
       "artistKey": "gobby",
@@ -1215,24 +1233,6 @@
           "weight": 5,
           "publishedAt": "2026-04-24",
           "url": "https://pitchfork.com/reviews/albums/zoumer-eal-euro-arab-lovergirl/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Portrayal Of Guilt",
-      "album": "…Beginning of the End",
-      "artistKey": "portrayal of guilt",
-      "albumKey": "beginning of the end",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-23",
-          "url": "https://pitchfork.com/reviews/albums/portrayal-of-guilt-beginning-of-the-end/"
         }
       ],
       "editorialWeight": 5,
@@ -12958,20 +12958,20 @@
       "mentionCount": 1
     },
     {
-      "artist": "loscil",
-      "album": "Lake Fire",
-      "artistKey": "loscil",
-      "albumKey": "lake fire",
+      "artist": "Chariots Overdrive",
+      "album": "The End of Antiquity",
+      "artistKey": "chariots overdrive",
+      "albumKey": "the end of antiquity",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-02",
-          "url": "https://daily.bandcamp.com/album-of-the-day/loscil-lake-fire-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-03",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -12980,6 +12980,42 @@
       "album": "Strictly 4 The Scythe",
       "artistKey": "denzel curry the scythe juicy j key nyata and ferg",
       "albumKey": "strictly 4 the scythe",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "John Maus",
+      "album": "Do Your Best",
+      "artistKey": "john maus",
+      "albumKey": "do your best",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-05-02",
+          "url": "https://www.indieshuffle.com/john-maus-do-your-best/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kate NV",
+      "album": "Room for the Moon",
+      "artistKey": "kate nv",
+      "albumKey": "room for the moon",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13966,42 +14002,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Beach Fossils",
-      "album": "Somersault",
-      "artistKey": "beach fossils",
-      "albumKey": "somersault",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bibi Club",
-      "album": "Amaro",
-      "artistKey": "bibi club",
-      "albumKey": "amaro",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Bruce",
       "album": "Four More Then Four",
       "artistKey": "bruce",
@@ -14024,24 +14024,6 @@
       "album": "Live on KEXP",
       "artistKey": "chuck prophet",
       "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gabriela Richardson",
-      "album": "ISOLA",
-      "artistKey": "gabriela richardson",
-      "albumKey": "isola",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14318,96 +14300,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Karl Blau",
-      "album": "Out Her Space",
-      "artistKey": "karl blau",
-      "albumKey": "out her space",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Natalie Jane Hill",
-      "album": "Hopeful Woman",
-      "artistKey": "natalie jane hill",
-      "albumKey": "hopeful woman",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Pink Breath of Heaven",
-      "album": "Live on KEXP",
-      "artistKey": "pink breath of heaven",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Spacemoth",
-      "album": "Live on KEXP",
-      "artistKey": "spacemoth",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tinsley",
-      "album": "Temporary Insanity",
-      "artistKey": "tinsley",
-      "albumKey": "temporary insanity",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-22",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15219,24 +15111,6 @@
           "weight": 3,
           "publishedAt": "2025-11-12",
           "url": "https://www.indieshuffle.com/bloody-tourist-goodbye-79-ft-tessa-rose-jackson/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "dust",
-      "album": "Drawbacks",
-      "artistKey": "dust",
-      "albumKey": "drawbacks",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2025-11-10",
-          "url": "https://www.indieshuffle.com/dust-drawbacks/"
         }
       ],
       "editorialWeight": 3,

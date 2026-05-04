@@ -1,45 +1,6 @@
 {
-  "generatedAt": "2026-05-03T09:18:02.310Z",
+  "generatedAt": "2026-05-04T10:08:22.784Z",
   "items": [
-    {
-      "artist": "Carla dal Forno",
-      "album": "Confession",
-      "artistKey": "carla dal forno",
-      "albumKey": "confession",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-04-28",
-          "url": "https://thequietus.com/quietus-reviews/carla-dal-forno-confession-review/?utm_source=rss&utm_medium=rss&utm_campaign=carla-dal-forno-confession-review"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-04-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/carla-dal-forno-confession-review"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-23",
-          "url": "https://pitchfork.com/reviews/albums/carla-dal-forno-confession/"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-04-21",
-          "url": "https://stereogum.com/2496478/album-of-the-week-carla-dal-forno-confession/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 19,
-      "multiSourceBonus": 2,
-      "mentionCount": 4
-    },
     {
       "artist": "White Fence",
       "album": "Orange",
@@ -66,6 +27,38 @@
           "weight": 4,
           "publishedAt": "2026-04-27",
           "url": "https://daily.bandcamp.com/album-of-the-day/white-fence-orange"
+        }
+      ],
+      "editorialWeight": 14,
+      "multiSourceBonus": 2,
+      "mentionCount": 3
+    },
+    {
+      "artist": "Carla dal Forno",
+      "album": "Confession",
+      "artistKey": "carla dal forno",
+      "albumKey": "confession",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-04-28",
+          "url": "https://thequietus.com/quietus-reviews/carla-dal-forno-confession-review/?utm_source=rss&utm_medium=rss&utm_campaign=carla-dal-forno-confession-review"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-04-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/carla-dal-forno-confession-review"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-04-21",
+          "url": "https://stereogum.com/2496478/album-of-the-week-carla-dal-forno-confession/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 14,
@@ -808,6 +801,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "American Football",
+      "album": "American Football (LP4)",
+      "artistKey": "american football",
+      "albumKey": "american football lp4",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-04",
+          "url": "https://pitchfork.com/reviews/albums/american-football-american-football-lp4/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Maya Hawke",
+      "album": "MAITREYA CORSO",
+      "artistKey": "maya hawke",
+      "albumKey": "maitreya corso",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-04",
+          "url": "https://pitchfork.com/reviews/albums/maya-hawke-maitreya-corso/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Metric",
+      "album": "Romanticize the Dive",
+      "artistKey": "metric",
+      "albumKey": "romanticize the dive",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-04",
+          "url": "https://pitchfork.com/reviews/albums/metric-romanticize-the-dive/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Setting",
+      "album": "Setting",
+      "artistKey": "setting",
+      "albumKey": "setting",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-04",
+          "url": "https://pitchfork.com/reviews/albums/setting-setting/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Fanny",
       "album": "Fanny Hill",
       "artistKey": "fanny",
@@ -1186,24 +1251,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Hedvig Mollestad Weejuns",
-      "album": "Bitches Blues",
-      "artistKey": "hedvig mollestad weejuns",
-      "albumKey": "bitches blues",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-24",
-          "url": "https://pitchfork.com/reviews/albums/hedvig-mollestad-weejuns-bitches-blues/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Quiet Light",
       "album": "Blue Angel Sparkling Silver Angel 2",
       "artistKey": "quiet light",
@@ -1219,42 +1266,6 @@
       ],
       "editorialWeight": 5,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Zoumer Eal Euro Arab Lovergirl",
-      "album": "e.a.l. (euro arab lovergirl)",
-      "artistKey": "zoumer eal euro arab lovergirl",
-      "albumKey": "e a l euro arab lovergirl",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-24",
-          "url": "https://pitchfork.com/reviews/albums/zoumer-eal-euro-arab-lovergirl/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Starker",
-      "album": "LIVING TYPE DANGEROUS Vol. 1",
-      "artistKey": "starker",
-      "albumKey": "living type dangerous vol 1",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-23",
-          "url": "https://pitchfork.com/reviews/albums/starker-living-type-dangerous-vol-1/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -8620,6 +8631,24 @@
       "mentionCount": 9
     },
     {
+      "artist": "Lucy Liyou",
+      "album": "Mr Cobra",
+      "artistKey": "lucy liyou",
+      "albumKey": "mr cobra",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-05-04",
+          "url": "https://thequietus.com/quietus-reviews/lucy-liyou-mr-cobra-review/?utm_source=rss&utm_medium=rss&utm_campaign=lucy-liyou-mr-cobra-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Blackwater Holylight",
       "album": "Live on KEXP",
       "artistKey": "blackwater holylight",
@@ -8797,24 +8826,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bali Gamelan Sound",
-      "album": "Topeng Semar Pegulingan",
-      "artistKey": "bali gamelan sound",
-      "albumKey": "topeng semar pegulingan",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-04-23",
-          "url": "https://thequietus.com/quietus-reviews/bali-gamelan-sound-topeng-semar-pegulingan-review/?utm_source=rss&utm_medium=rss&utm_campaign=bali-gamelan-sound-topeng-semar-pegulingan-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -12958,10 +12969,172 @@
       "mentionCount": 1
     },
     {
+      "artist": "Black Nile",
+      "album": "Indigo Garden",
+      "artistKey": "black nile",
+      "albumKey": "indigo garden",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Chariots Overdrive",
       "album": "The End of Antiquity",
       "artistKey": "chariots overdrive",
       "albumKey": "the end of antiquity",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Draco Rosa",
+      "album": "Olas De Luz",
+      "artistKey": "draco rosa",
+      "albumKey": "olas de luz",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hollie Cook",
+      "album": "Dub Me In Your Arms",
+      "artistKey": "hollie cook",
+      "albumKey": "dub me in your arms",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Moonchild",
+      "album": "Waves",
+      "artistKey": "moonchild",
+      "albumKey": "waves",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ms Ray",
+      "album": "Melt",
+      "artistKey": "ms ray",
+      "albumKey": "melt",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Protoje",
+      "album": "The Art of Acceptance",
+      "artistKey": "protoje",
+      "albumKey": "the art of acceptance",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ratboys",
+      "album": "Singin' to an Empty Chair",
+      "artistKey": "ratboys",
+      "albumKey": "singin to an empty chair",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "SPRINTS",
+      "album": "Live on KEXP",
+      "artistKey": "sprints",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Format",
+      "album": "Boycott Heaven",
+      "artistKey": "the format",
+      "albumKey": "boycott heaven",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13876,24 +14049,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Dry Cleaning",
-      "album": "Secret Love",
-      "artistKey": "dry cleaning",
-      "albumKey": "secret love",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Ellur",
       "album": "At Home in My Mind",
       "artistKey": "ellur",
@@ -13958,348 +14113,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-04-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ullah",
-      "album": "For Then",
-      "artistKey": "ullah",
-      "albumKey": "for then",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Alex Albrecht",
-      "album": "Memory Garden: New Age For Old Worlds",
-      "artistKey": "alex albrecht",
-      "albumKey": "memory garden new age for old worlds",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bruce",
-      "album": "Four More Then Four",
-      "artistKey": "bruce",
-      "albumKey": "four more then four",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chuck Prophet",
-      "album": "Live on KEXP",
-      "artistKey": "chuck prophet",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Maara",
-      "album": "Ultra Villain",
-      "artistKey": "maara",
-      "albumKey": "ultra villain",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Max in the World & Kroba",
-      "album": "Structures of Feeling 1",
-      "artistKey": "max in the world and kroba",
-      "albumKey": "structures of feeling 1",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mu Tate",
-      "album": "Life of Mu",
-      "artistKey": "mu tate",
-      "albumKey": "life of mu",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nightmares on Wax vs Adrian Sherwood",
-      "album": "In a Space Outta Dub",
-      "artistKey": "nightmares on wax vs adrian sherwood",
-      "albumKey": "in a space outta dub",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nina Simone",
-      "album": "Baltimore (live) (Supershy remix)",
-      "artistKey": "nina simone",
-      "albumKey": "baltimore live supershy remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Number One",
-      "album": "useEffect",
-      "artistKey": "number one",
-      "albumKey": "useeffect",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Perfume Tree",
-      "album": "Another Dusk",
-      "artistKey": "perfume tree",
-      "albumKey": "another dusk",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "PPP",
-      "album": "Bborn Again",
-      "artistKey": "ppp",
-      "albumKey": "bborn again",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "RAMZi",
-      "album": "RAMZTEK",
-      "artistKey": "ramzi",
-      "albumKey": "ramztek",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Salamanda",
-      "album": "Music to Watch Seeds Grow by 008: Salamanda (Basil)",
-      "artistKey": "salamanda",
-      "albumKey": "music to watch seeds grow by 008 salamanda basil",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Asteroid No.4",
-      "album": "In Praise of Shadows",
-      "artistKey": "the asteroid no 4",
-      "albumKey": "in praise of shadows",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Darts (U.S.)",
-      "album": "Halloween Love Songs",
-      "artistKey": "the darts u s",
-      "albumKey": "halloween love songs",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tony Rainwater",
-      "album": "Dammelo",
-      "artistKey": "tony rainwater",
-      "albumKey": "dammelo",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tornado Wallace",
-      "album": "Left at Sunset",
-      "artistKey": "tornado wallace",
-      "albumKey": "left at sunset",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tristan Arp",
-      "album": "(Re)weave",
-      "artistKey": "tristan arp",
-      "albumKey": "re weave",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-23",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

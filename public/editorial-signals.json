@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T09:57:16.869Z",
+  "generatedAt": "2026-05-06T10:11:58.961Z",
   "items": [
     {
       "artist": "White Fence",
@@ -88,7 +88,7 @@
       ],
       "editorialWeight": 11,
       "multiSourceBonus": 2,
-      "mentionCount": 10
+      "mentionCount": 2
     },
     {
       "artist": "Lip Critic",
@@ -312,6 +312,56 @@
         }
       ],
       "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Hekt",
+      "album": "Forever",
+      "artistKey": "hekt",
+      "albumKey": "forever",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-06",
+          "url": "https://pitchfork.com/reviews/albums/hekt-forever/"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Middle of Nowhere",
+      "artistKey": "kacey musgraves",
+      "albumKey": "middle of nowhere",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-05",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-01",
+          "url": "https://pitchfork.com/reviews/albums/kacey-musgraves-middle-of-nowhere/"
+        }
+      ],
+      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -772,6 +822,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Isaiah Rashad",
+      "album": "IT’S BEEN AWFUL",
+      "artistKey": "isaiah rashad",
+      "albumKey": "its been awful",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-06",
+          "url": "https://pitchfork.com/reviews/albums/isaiah-rashad-its-been-awful/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Seefeel",
+      "album": "Sol.Hz",
+      "artistKey": "seefeel",
+      "albumKey": "sol hz",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-06",
+          "url": "https://pitchfork.com/reviews/albums/seefeel-sol-hz/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wifigawd Dylvinci",
+      "album": "SOULVINCI",
+      "artistKey": "wifigawd dylvinci",
+      "albumKey": "soulvinci",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-06",
+          "url": "https://pitchfork.com/reviews/albums/wifigawd-dylvinci-soulvinci/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Ana Roxanne",
       "album": "Poem 1",
       "artistKey": "ana roxanne",
@@ -945,24 +1049,6 @@
           "weight": 5,
           "publishedAt": "2026-05-01",
           "url": "https://pitchfork.com/reviews/albums/gobby-i-guess-bro/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kacey Musgraves",
-      "album": "Middle of Nowhere",
-      "artistKey": "kacey musgraves",
-      "albumKey": "middle of nowhere",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-01",
-          "url": "https://pitchfork.com/reviews/albums/kacey-musgraves-middle-of-nowhere/"
         }
       ],
       "editorialWeight": 5,
@@ -1161,78 +1247,6 @@
           "weight": 5,
           "publishedAt": "2026-04-28",
           "url": "https://pitchfork.com/reviews/albums/mikaela-davis-graceland-way/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Loukeman",
-      "album": "Sd-3",
-      "artistKey": "loukeman",
-      "albumKey": "sd 3",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-27",
-          "url": "https://pitchfork.com/reviews/albums/loukeman-sd-3/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sonic Youth",
-      "album": "Diamond Seas",
-      "artistKey": "sonic youth",
-      "albumKey": "diamond seas",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-27",
-          "url": "https://pitchfork.com/reviews/albums/sonic-youth-diamond-seas/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tezzus Diamond Uy Scuti Boyz",
-      "album": "UY SCUTI BØYZ",
-      "artistKey": "tezzus diamond uy scuti boyz",
-      "albumKey": "uy scuti b yz",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-27",
-          "url": "https://pitchfork.com/reviews/albums/tezzus-diamond-uy-scuti-boyz/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Xang",
-      "album": "GroakDontCroak vol. 1",
-      "artistKey": "xang",
-      "albumKey": "groakdontcroak vol 1",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-27",
-          "url": "https://pitchfork.com/reviews/albums/xang-groakdontcroak-vol-1/"
         }
       ],
       "editorialWeight": 5,
@@ -8584,6 +8598,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Wesenyeleh Mebreku",
+      "album": "Resonance of Time (የጊዜ ቃና)",
+      "artistKey": "wesenyeleh mebreku",
+      "albumKey": "resonance of time",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/wesenyeleh-mebreku-resonance-of-time-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
+      "artist": "Russell Haswell",
+      "album": "Let It Go",
+      "artistKey": "russell haswell",
+      "albumKey": "let it go",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-05-06",
+          "url": "https://thequietus.com/quietus-reviews/russel-haswell-let-it-go-review/?utm_source=rss&utm_medium=rss&utm_campaign=russel-haswell-let-it-go-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Aldous Harding",
+      "album": "Train On The Island",
+      "artistKey": "aldous harding",
+      "albumKey": "train on the island",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-05-05",
+          "url": "https://stereogum.com/2497851/album-of-the-week-aldous-harding-train-on-the-island/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Irked",
       "album": "The Grievance",
       "artistKey": "irked",
@@ -8800,24 +8868,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Irmin Schmidt",
-      "album": "Requiem",
-      "artistKey": "irmin schmidt",
-      "albumKey": "requiem",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-04-27",
-          "url": "https://thequietus.com/quietus-reviews/irmin-schmidt-requiem-review/?utm_source=rss&utm_medium=rss&utm_campaign=irmin-schmidt-requiem-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "SPELLLING",
       "album": "Live on KEXP",
       "artistKey": "spellling",
@@ -8833,24 +8883,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Quiet Light",
-      "album": "Blue Angel Sparkling Silver Angel 2",
-      "artistKey": "quiet light",
-      "albumKey": "blue angel sparkling silver angel 2",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-04-24",
-          "url": "https://thequietus.com/quietus-reviews/quiet-light-blue-angel-sparkling-silver-angel-2-review/?utm_source=rss&utm_medium=rss&utm_campaign=quiet-light-blue-angel-sparkling-silver-angel-2-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -12148,24 +12180,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Forth Wanderers",
-      "album": "The Longer This Goes On",
-      "artistKey": "forth wanderers",
-      "albumKey": "the longer this goes on",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-07-15",
-          "url": "https://stereogum.com/2315029/album-of-the-week-forth-wanderers-the-longer-this-goes-on/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Jensen Mcrae",
       "album": "I Don't Know How But They Found Me!",
       "artistKey": "jensen mcrae",
@@ -12976,20 +12990,20 @@
       "mentionCount": 1
     },
     {
-      "artist": "Anysia Kym & Loraine James",
-      "album": "Clandestine",
-      "artistKey": "anysia kym and loraine james",
-      "albumKey": "clandestine",
+      "artist": "Jia",
+      "album": "Technicolour",
+      "artistKey": "jia",
+      "albumKey": "technicolour",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/anysia-kim-loraine-james-clandestine-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-06",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13066,6 +13080,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Die Spitz",
+      "album": "Live on KEXP",
+      "artistKey": "die spitz",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Dust-e-1",
       "album": "Return 2 Dust EP",
       "artistKey": "dust e 1",
@@ -13084,10 +13116,28 @@
       "mentionCount": 1
     },
     {
-      "artist": "Hekt",
-      "album": "Forever",
-      "artistKey": "hekt",
-      "albumKey": "forever",
+      "artist": "Flea",
+      "album": "Honora",
+      "artistKey": "flea",
+      "albumKey": "honora",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "GENER8ION & Yung Lean",
+      "album": "STORM",
+      "artistKey": "gener8ion and yung lean",
+      "albumKey": "storm",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13106,6 +13156,60 @@
       "album": "Acid Bath EP",
       "artistKey": "jak 87",
       "albumKey": "acid bath ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lucy Park",
+      "album": "BLUE SASHIKO",
+      "artistKey": "lucy park",
+      "albumKey": "blue sashiko",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-05-05",
+          "url": "https://www.indieshuffle.com/lucy-park-blue-sashiko/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mt Fog",
+      "album": "Every Stone Is Green",
+      "artistKey": "mt fog",
+      "albumKey": "every stone is green",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nina Simone",
+      "album": "Four Women (DESIREE remix)",
+      "artistKey": "nina simone",
+      "albumKey": "four women desiree remix",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13174,10 +13278,64 @@
       "mentionCount": 1
     },
     {
+      "artist": "Softcult",
+      "album": "Live on KEXP",
+      "artistKey": "softcult",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Spivak & Prins Emanuel",
       "album": "Imogen's Lament",
       "artistKey": "spivak and prins emanuel",
       "albumKey": "imogens lament",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tempers",
+      "album": "Delusion",
+      "artistKey": "tempers",
+      "albumKey": "delusion",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wolf Alice",
+      "album": "Visions of a Life",
+      "artistKey": "wolf alice",
+      "albumKey": "visions of a life",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13930,24 +14088,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Mt Fog",
-      "album": "Every Stone Is Green",
-      "artistKey": "mt fog",
-      "albumKey": "every stone is green",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Smerz",
       "album": "Spring summer",
       "artistKey": "smerz",
@@ -14200,24 +14340,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Nina Simone",
-      "album": "Four Women (DESIREE remix)",
-      "artistKey": "nina simone",
-      "albumKey": "four women desiree remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-27",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Terror/Cactus",
       "album": "Transmisión Clandestina",
       "artistKey": "terror cactus",
@@ -14236,24 +14358,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Max F",
-      "album": "Hidden Atmospheres",
-      "artistKey": "max f",
-      "albumKey": "hidden atmospheres",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Naïka",
       "album": "ECLESIA",
       "artistKey": "naika",
@@ -14264,78 +14368,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-04-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fragrance.",
-      "album": "Salt Water",
-      "artistKey": "fragrance",
-      "albumKey": "salt water",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-25",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Linda & Norm",
-      "album": "Moments to Want You",
-      "artistKey": "linda and norm",
-      "albumKey": "moments to want you",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-25",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lyrics Born",
-      "album": "Live on KEXP from Noise Pop",
-      "artistKey": "lyrics born",
-      "albumKey": "live on kexp from noise pop",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-25",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mandrake Handshake",
-      "album": "Live on KEXP from Trans Musicales",
-      "artistKey": "mandrake handshake",
-      "albumKey": "live on kexp from trans musicales",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-25",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15129,24 +15161,6 @@
           "weight": 3,
           "publishedAt": "2025-11-13",
           "url": "https://www.indieshuffle.com/daniel-caeser-ft-bon-iver-moon/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bloody Tourist",
-      "album": "Goodbye 79 (Ft. Tessa Rose Jackson)",
-      "artistKey": "bloody tourist",
-      "albumKey": "goodbye 79 ft tessa rose jackson",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2025-11-12",
-          "url": "https://www.indieshuffle.com/bloody-tourist-goodbye-79-ft-tessa-rose-jackson/"
         }
       ],
       "editorialWeight": 3,

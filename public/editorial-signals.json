@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T10:11:58.961Z",
+  "generatedAt": "2026-05-07T10:17:44.305Z",
   "items": [
     {
       "artist": "White Fence",
@@ -34,36 +34,54 @@
       "mentionCount": 3
     },
     {
-      "artist": "Carla dal Forno",
-      "album": "Confession",
-      "artistKey": "carla dal forno",
-      "albumKey": "confession",
+      "artist": "Ana Roxanne",
+      "album": "Poem 1",
+      "artistKey": "ana roxanne",
+      "albumKey": "poem 1",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-06",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ana-roxanne-poem-1-review"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-05",
+          "url": "https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 10
+    },
+    {
+      "artist": "Octo Octa",
+      "album": "Sigils for Survival",
+      "artistKey": "octo octa",
+      "albumKey": "sigils for survival",
       "sources": [
         {
           "sourceId": "the-quietus",
           "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-04-28",
-          "url": "https://thequietus.com/quietus-reviews/carla-dal-forno-confession-review/?utm_source=rss&utm_medium=rss&utm_campaign=carla-dal-forno-confession-review"
+          "publishedAt": "2026-05-07",
+          "url": "https://thequietus.com/quietus-reviews/octo-octa-sigils-for-survival-review/?utm_source=rss&utm_medium=rss&utm_campaign=octo-octa-sigils-for-survival-review"
         },
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-04-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/carla-dal-forno-confession-review"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-04-21",
-          "url": "https://stereogum.com/2496478/album-of-the-week-carla-dal-forno-confession/reviews/album-of-the-week/"
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-05",
+          "url": "https://pitchfork.com/reviews/albums/octo-octa-sigils-for-survival/"
         }
       ],
-      "editorialWeight": 14,
+      "editorialWeight": 11,
       "multiSourceBonus": 2,
-      "mentionCount": 3
+      "mentionCount": 2
     },
     {
       "artist": "Kneecap",
@@ -316,6 +334,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Jill Scott",
+      "album": "To Whom This May Concern",
+      "artistKey": "jill scott",
+      "albumKey": "to whom this may concern",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-07",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Hekt",
       "album": "Forever",
       "artistKey": "hekt",
@@ -350,7 +393,7 @@
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-05-05",
+          "publishedAt": "2026-05-06",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -409,6 +452,31 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Carla dal Forno",
+      "album": "Confession",
+      "artistKey": "carla dal forno",
+      "albumKey": "confession",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-04-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/carla-dal-forno-confession-review"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-04-21",
+          "url": "https://stereogum.com/2496478/album-of-the-week-carla-dal-forno-confession/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 10,
@@ -822,6 +890,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Asake Money",
+      "album": "M$NEY",
+      "artistKey": "asake money",
+      "albumKey": "m ney",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-07",
+          "url": "https://pitchfork.com/reviews/albums/asake-money/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cola",
+      "album": "Cost of Living Adjustment",
+      "artistKey": "cola",
+      "albumKey": "cost of living adjustment",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-07",
+          "url": "https://pitchfork.com/reviews/albums/cola-cost-of-living-adjustment/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Black Keys",
+      "album": "Peaches!",
+      "artistKey": "the black keys",
+      "albumKey": "peaches",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-07",
+          "url": "https://pitchfork.com/reviews/albums/the-black-keys-peaches/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Zara Larsson",
+      "album": "Midnight Sun: Girls Trip",
+      "artistKey": "zara larsson",
+      "albumKey": "midnight sun girls trip",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-07",
+          "url": "https://pitchfork.com/reviews/albums/zara-larsson-midnight-sun-girls-trip/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Isaiah Rashad",
       "album": "IT’S BEEN AWFUL",
       "artistKey": "isaiah rashad",
@@ -876,24 +1016,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Ana Roxanne",
-      "album": "Poem 1",
-      "artistKey": "ana roxanne",
-      "albumKey": "poem 1",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-05",
-          "url": "https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Jailen Josey",
       "album": "Serial Romantic",
       "artistKey": "jailen josey",
@@ -923,24 +1045,6 @@
           "weight": 5,
           "publishedAt": "2026-05-05",
           "url": "https://pitchfork.com/reviews/albums/julia-cumming-julia/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Octo Octa",
-      "album": "Sigils for Survival",
-      "artistKey": "octo octa",
-      "albumKey": "sigils for survival",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-05",
-          "url": "https://pitchfork.com/reviews/albums/octo-octa-sigils-for-survival/"
         }
       ],
       "editorialWeight": 5,
@@ -1182,78 +1286,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Annea Lockwood",
-      "album": "World Rhythms",
-      "artistKey": "annea lockwood",
-      "albumKey": "world rhythms",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-28",
-          "url": "https://pitchfork.com/reviews/albums/annea-lockwood-world-rhythms/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jump Source",
-      "album": "Fold",
-      "artistKey": "jump source",
-      "albumKey": "fold",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-28",
-          "url": "https://pitchfork.com/reviews/albums/jump-source-fold/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kehlani",
-      "album": "Kehlani",
-      "artistKey": "kehlani",
-      "albumKey": "kehlani",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-28",
-          "url": "https://pitchfork.com/reviews/albums/kehlani-kehlani/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mikaela Davis",
-      "album": "Graceland Way",
-      "artistKey": "mikaela davis",
-      "albumKey": "graceland way",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-28",
-          "url": "https://pitchfork.com/reviews/albums/mikaela-davis-graceland-way/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kim Gordon",
       "album": "PLAY ME",
       "artistKey": "kim gordon",
@@ -1420,24 +1452,6 @@
       "album": "Superbloom",
       "artistKey": "jessie ware",
       "albumKey": "superbloom",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jill Scott",
-      "album": "To Whom This May Concern",
-      "artistKey": "jill scott",
-      "albumKey": "to whom this may concern",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -12972,20 +12986,38 @@
       "mentionCount": 1
     },
     {
-      "artist": "Teether & Kuya Neil",
-      "album": "YEARN IV",
-      "artistKey": "teether and kuya neil",
-      "albumKey": "yearn iv",
+      "artist": "Champagne Bubblebath",
+      "album": "Mixtape: Volume One",
+      "artistKey": "champagne bubblebath",
+      "albumKey": "mixtape volume one",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-06",
-          "url": "https://daily.bandcamp.com/album-of-the-day/teether-kuya-neil-yearn-iv-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-07",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Glixen",
+      "album": "Live on KEXP",
+      "artistKey": "glixen",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-06",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -12994,6 +13026,42 @@
       "album": "Technicolour",
       "artistKey": "jia",
       "albumKey": "technicolour",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-06",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nation of Language",
+      "album": "Inept Apollo (Tom Sharkett remix)",
+      "artistKey": "nation of language",
+      "albumKey": "inept apollo tom sharkett remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-06",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Obongjayar",
+      "album": "Not in Surrender (The Blessed Madonna remix)",
+      "artistKey": "obongjayar",
+      "albumKey": "not in surrender the blessed madonna remix",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14232,42 +14300,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Nation of Language",
-      "album": "Inept Apollo (Tom Sharkett remix)",
-      "artistKey": "nation of language",
-      "albumKey": "inept apollo tom sharkett remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Obongjayar",
-      "album": "Not in Surrender (The Blessed Madonna remix)",
-      "artistKey": "obongjayar",
-      "albumKey": "not in surrender the blessed madonna remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Pan•American",
       "album": "Fly the Ocean in a Silver Plane",
       "artistKey": "pan american",
@@ -14351,24 +14383,6 @@
           "weight": 3,
           "publishedAt": "2026-04-27",
           "url": "https://www.indieshuffle.com/terror-cactus-transmisi-n-clandestina/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Naïka",
-      "album": "ECLESIA",
-      "artistKey": "naika",
-      "albumKey": "eclesia",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-26",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

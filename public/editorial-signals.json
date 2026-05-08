@@ -1,38 +1,6 @@
 {
-  "generatedAt": "2026-05-07T10:17:44.305Z",
+  "generatedAt": "2026-05-08T09:10:33.355Z",
   "items": [
-    {
-      "artist": "White Fence",
-      "album": "Orange",
-      "artistKey": "white fence",
-      "albumKey": "orange",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-29",
-          "url": "https://pitchfork.com/reviews/albums/white-fence-orange/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-04-27",
-          "url": "https://daily.bandcamp.com/album-of-the-day/white-fence-orange"
-        }
-      ],
-      "editorialWeight": 14,
-      "multiSourceBonus": 2,
-      "mentionCount": 3
-    },
     {
       "artist": "Ana Roxanne",
       "album": "Poem 1",
@@ -57,6 +25,31 @@
       "editorialWeight": 11,
       "multiSourceBonus": 2,
       "mentionCount": 10
+    },
+    {
+      "artist": "Aldous Harding",
+      "album": "Train On The Island",
+      "artistKey": "aldous harding",
+      "albumKey": "train on the island",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-08",
+          "url": "https://pitchfork.com/reviews/albums/aldous-harding-train-on-the-island/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-05-05",
+          "url": "https://stereogum.com/2497851/album-of-the-week-aldous-harding-train-on-the-island/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Octo Octa",
@@ -409,31 +402,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Yu Su",
-      "album": "Foundry",
-      "artistKey": "yu su",
-      "albumKey": "foundry",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-30",
-          "url": "https://pitchfork.com/reviews/albums/yu-su-foundry/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "GENA",
       "album": "The Pleasure Is Yours",
       "artistKey": "gena",
@@ -582,24 +550,6 @@
       "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
-    },
-    {
-      "artist": "SPELLLING",
-      "album": "Portrait of My Heart",
-      "artistKey": "spellling",
-      "albumKey": "portrait of my heart",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
     },
     {
       "artist": "Kim Gordon",
@@ -782,24 +732,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Spellling",
-      "album": "The Turning Wheel",
-      "artistKey": "spellling",
-      "albumKey": "the turning wheel",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "HAIM",
       "album": "Women in Music Pt. III",
       "artistKey": "haim",
@@ -887,6 +819,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Media Puzzle",
+      "album": "New Racehorse",
+      "artistKey": "media puzzle",
+      "albumKey": "new racehorse",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-08",
+          "url": "https://pitchfork.com/reviews/albums/media-puzzle-new-racehorse/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Namasenda",
+      "album": "Limbo",
+      "artistKey": "namasenda",
+      "albumKey": "limbo",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-08",
+          "url": "https://pitchfork.com/reviews/albums/namasenda-limbo/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Safety Trance",
+      "album": "sacrificio",
+      "artistKey": "safety trance",
+      "albumKey": "sacrificio",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-08",
+          "url": "https://pitchfork.com/reviews/albums/safety-trance-sacrificio/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1232,53 +1218,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Angelo De Augustine",
-      "album": "Angel in Plainclothes",
-      "artistKey": "angelo de augustine",
-      "albumKey": "angel in plainclothes",
+      "artist": "Yu Su",
+      "album": "Foundry",
+      "artistKey": "yu su",
+      "albumKey": "foundry",
       "sources": [
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-04-29",
-          "url": "https://pitchfork.com/reviews/albums/angelo-de-augustine-angel-in-plainclothes/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gia Margaret",
-      "album": "Singing",
-      "artistKey": "gia margaret",
-      "albumKey": "singing",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-29",
-          "url": "https://pitchfork.com/reviews/albums/gia-margaret-singing/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Noah Kahan",
-      "album": "The Great Divide",
-      "artistKey": "noah kahan",
-      "albumKey": "the great divide",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-29",
-          "url": "https://pitchfork.com/reviews/albums/noah-kahan-the-great-divide/"
+          "publishedAt": "2026-04-30",
+          "url": "https://pitchfork.com/reviews/albums/yu-su-foundry/"
         }
       ],
       "editorialWeight": 5,
@@ -2532,6 +2482,24 @@
       "album": "Vanisher, Horizon Scraper",
       "artistKey": "quadeca",
       "albumKey": "vanisher horizon scraper",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "SPELLLING",
+      "album": "Portrait of My Heart",
+      "artistKey": "spellling",
+      "albumKey": "portrait of my heart",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -6506,6 +6474,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Spellling",
+      "album": "The Turning Wheel",
+      "artistKey": "spellling",
+      "albumKey": "the turning wheel",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "St. Vincent",
       "album": "Daddy’s Home",
       "artistKey": "st vincent",
@@ -8612,22 +8598,40 @@
       "mentionCount": 1
     },
     {
-      "artist": "Wesenyeleh Mebreku",
-      "album": "Resonance of Time (የጊዜ ቃና)",
-      "artistKey": "wesenyeleh mebreku",
-      "albumKey": "resonance of time",
+      "artist": "Stik Figa & Heather Grey",
+      "album": "Cold Comfort",
+      "artistKey": "stik figa and heather grey",
+      "albumKey": "cold comfort",
       "sources": [
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-05-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/wesenyeleh-mebreku-resonance-of-time-review"
+          "publishedAt": "2026-05-07",
+          "url": "https://daily.bandcamp.com/album-of-the-day/stik-figa-heather-grey-cold-comfort-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "Max Cooper",
+      "album": "Feeling Is Structure",
+      "artistKey": "max cooper",
+      "albumKey": "feeling is structure",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-05-08",
+          "url": "https://thequietus.com/quietus-reviews/max-cooper-feeling-is-structure/?utm_source=rss&utm_medium=rss&utm_campaign=max-cooper-feeling-is-structure"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Russell Haswell",
@@ -8648,24 +8652,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Aldous Harding",
-      "album": "Train On The Island",
-      "artistKey": "aldous harding",
-      "albumKey": "train on the island",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-05-05",
-          "url": "https://stereogum.com/2497851/album-of-the-week-aldous-harding-train-on-the-island/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Irked",
       "album": "The Grievance",
       "artistKey": "irked",
@@ -8677,6 +8663,24 @@
           "weight": 4,
           "publishedAt": "2026-05-05",
           "url": "https://thequietus.com/quietus-reviews/irked-the-grievance-review/?utm_source=rss&utm_medium=rss&utm_campaign=irked-the-grievance-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wesenyeleh Mebreku",
+      "album": "Resonance of Time (የጊዜ ቃና)",
+      "artistKey": "wesenyeleh mebreku",
+      "albumKey": "resonance of time",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/wesenyeleh-mebreku-resonance-of-time-review"
         }
       ],
       "editorialWeight": 4,
@@ -8846,24 +8850,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Quentin Tolimieri",
-      "album": "Monochromes II",
-      "artistKey": "quentin tolimieri",
-      "albumKey": "monochromes ii",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-04-29",
-          "url": "https://thequietus.com/quietus-reviews/quentin-tolimieri-monochromes-ii-review/?utm_source=rss&utm_medium=rss&utm_campaign=quentin-tolimieri-monochromes-ii-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Ayman Fanous",
       "album": "Brooklyn Stories 1-5",
       "artistKey": "ayman fanous",
@@ -8882,21 +8868,21 @@
       "mentionCount": 1
     },
     {
-      "artist": "SPELLLING",
-      "album": "Live on KEXP",
-      "artistKey": "spellling",
-      "albumKey": "live on kexp",
+      "artist": "White Fence",
+      "album": "Orange",
+      "artistKey": "white fence",
+      "albumKey": "orange",
       "sources": [
         {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
           "publishedAt": "2026-04-27",
-          "url": "https://www.kexp.org/playlist/"
+          "url": "https://daily.bandcamp.com/album-of-the-day/white-fence-orange"
         }
       ],
       "editorialWeight": 4,
-      "multiSourceBonus": 1,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -12968,28 +12954,172 @@
       "mentionCount": 1
     },
     {
-      "artist": "Jean-Michel Jarre",
-      "album": "Deserted Palace",
-      "artistKey": "jean michel jarre",
-      "albumKey": "deserted palace",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/jean-michel-jarre-deserted-palace-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Champagne Bubblebath",
       "album": "Mixtape: Volume One",
       "artistKey": "champagne bubblebath",
       "albumKey": "mixtape volume one",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Naïka",
+      "album": "ECLESIA",
+      "artistKey": "naika",
+      "albumKey": "eclesia",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Algiers",
+      "album": "The Underside of Power",
+      "artistKey": "algiers",
+      "albumKey": "the underside of power",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Antony Szmierek",
+      "album": "Chalk",
+      "artistKey": "antony szmierek",
+      "albumKey": "chalk",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kareem Ali",
+      "album": "The Essence",
+      "artistKey": "kareem ali",
+      "albumKey": "the essence",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mt Fog",
+      "album": "Every Stone Is Green",
+      "artistKey": "mt fog",
+      "albumKey": "every stone is green",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nightbus",
+      "album": "Angles Mortz (Tom Sharkett remix)",
+      "artistKey": "nightbus",
+      "albumKey": "angles mortz tom sharkett remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "OBSG",
+      "album": "Live on KEXP",
+      "artistKey": "obsg",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shabaka Hutchings",
+      "album": "Of the Earth",
+      "artistKey": "shabaka hutchings",
+      "albumKey": "of the earth",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tigers Jaw",
+      "album": "Lost on You",
+      "artistKey": "tigers jaw",
+      "albumKey": "lost on you",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13249,24 +13379,6 @@
           "weight": 3,
           "publishedAt": "2026-05-05",
           "url": "https://www.indieshuffle.com/lucy-park-blue-sashiko/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mt Fog",
-      "album": "Every Stone Is Green",
-      "artistKey": "mt fog",
-      "albumKey": "every stone is green",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -14246,24 +14358,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Marc Leclair",
-      "album": "Musique Pour 3 Femmes Enceintes",
-      "artistKey": "marc leclair",
-      "albumKey": "musique pour 3 femmes enceintes",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Men With Secrets",
       "album": "Sand Clock",
       "artistKey": "men with secrets",
@@ -14292,78 +14386,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Pan•American",
-      "album": "Fly the Ocean in a Silver Plane",
-      "artistKey": "pan american",
-      "albumKey": "fly the ocean in a silver plane",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Purelink & Rainy Miller",
-      "album": "Barrons Hotel / Yellow Bones",
-      "artistKey": "purelink and rainy miller",
-      "albumKey": "barrons hotel yellow bones",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "B. DeVeaux",
-      "album": "Live on KEXP",
-      "artistKey": "b deveaux",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-27",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Middle Kids",
-      "album": "Lost Friends",
-      "artistKey": "middle kids",
-      "albumKey": "lost friends",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-27",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

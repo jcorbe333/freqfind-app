@@ -1,37 +1,19 @@
 {
-  "generatedAt": "2026-05-08T09:10:33.355Z",
+  "generatedAt": "2026-05-09T09:13:08.155Z",
   "items": [
-    {
-      "artist": "Ana Roxanne",
-      "album": "Poem 1",
-      "artistKey": "ana roxanne",
-      "albumKey": "poem 1",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-06",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ana-roxanne-poem-1-review"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-05",
-          "url": "https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 10
-    },
     {
       "artist": "Aldous Harding",
       "album": "Train On The Island",
       "artistKey": "aldous harding",
       "albumKey": "train on the island",
       "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-08",
+          "url": "https://daily.bandcamp.com/album-of-the-day/aldous-harding-train-on-the-island-review"
+        },
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
@@ -47,9 +29,9 @@
           "url": "https://stereogum.com/2497851/album-of-the-week-aldous-harding-train-on-the-island/reviews/album-of-the-week/"
         }
       ],
-      "editorialWeight": 11,
+      "editorialWeight": 15,
       "multiSourceBonus": 2,
-      "mentionCount": 2
+      "mentionCount": 11
     },
     {
       "artist": "Octo Octa",
@@ -70,6 +52,31 @@
           "weight": 5,
           "publishedAt": "2026-05-05",
           "url": "https://pitchfork.com/reviews/albums/octo-octa-sigils-for-survival/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Ana Roxanne",
+      "album": "Poem 1",
+      "artistKey": "ana roxanne",
+      "albumKey": "poem 1",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-06",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ana-roxanne-poem-1-review"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-05",
+          "url": "https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/"
         }
       ],
       "editorialWeight": 11,
@@ -336,7 +343,7 @@
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-05-07",
+          "publishedAt": "2026-05-08",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -548,6 +555,31 @@
         }
       ],
       "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Parlor Greens",
+      "album": "Emeralds",
+      "artistKey": "parlor greens",
+      "albumKey": "emeralds",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-09",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-03-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
+        }
+      ],
+      "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -819,6 +851,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mahito Yokota Koji Kondo",
+      "album": "Super Mario Galaxy / Super Mario Galaxy 2",
+      "artistKey": "mahito yokota koji kondo",
+      "albumKey": "super mario galaxy super mario galaxy 2",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-09",
+          "url": "https://pitchfork.com/reviews/albums/mahito-yokota-koji-kondo-super-mario-galaxy-super-mario-galaxy-2/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1175,24 +1225,6 @@
           "weight": 5,
           "publishedAt": "2026-05-01",
           "url": "https://pitchfork.com/reviews/albums/youbet-youbet/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kuru",
-      "album": "Backstage hologram",
-      "artistKey": "kuru",
-      "albumKey": "backstage hologram",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-30",
-          "url": "https://pitchfork.com/reviews/albums/kuru-backstage-hologram/"
         }
       ],
       "editorialWeight": 5,
@@ -8598,24 +8630,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Stik Figa & Heather Grey",
-      "album": "Cold Comfort",
-      "artistKey": "stik figa and heather grey",
-      "albumKey": "cold comfort",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/stik-figa-heather-grey-cold-comfort-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
       "artist": "Max Cooper",
       "album": "Feeling Is Structure",
       "artistKey": "max cooper",
@@ -8627,6 +8641,24 @@
           "weight": 4,
           "publishedAt": "2026-05-08",
           "url": "https://thequietus.com/quietus-reviews/max-cooper-feeling-is-structure/?utm_source=rss&utm_medium=rss&utm_campaign=max-cooper-feeling-is-structure"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Stik Figa & Heather Grey",
+      "album": "Cold Comfort",
+      "artistKey": "stik figa and heather grey",
+      "albumKey": "cold comfort",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-07",
+          "url": "https://daily.bandcamp.com/album-of-the-day/stik-figa-heather-grey-cold-comfort-review"
         }
       ],
       "editorialWeight": 4,
@@ -8753,24 +8785,6 @@
           "weight": 4,
           "publishedAt": "2026-05-01",
           "url": "https://daily.bandcamp.com/album-of-the-day/ooioo-lightning-bolt-the-horizon-spirals-the-horizon-viral-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Aja Ireland",
-      "album": "Moult Mouth",
-      "artistKey": "aja ireland",
-      "albumKey": "moult mouth",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-04-30",
-          "url": "https://thequietus.com/quietus-reviews/aja-ireland-moult-mouth-review/?utm_source=rss&utm_medium=rss&utm_campaign=aja-ireland-moult-mouth-review"
         }
       ],
       "editorialWeight": 4,
@@ -9257,24 +9271,6 @@
           "weight": 4,
           "publishedAt": "2026-03-27",
           "url": "https://daily.bandcamp.com/album-of-the-day/the-montvales-path-of-totality-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Parlor Greens",
-      "album": "Emeralds",
-      "artistKey": "parlor greens",
-      "albumKey": "emeralds",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-03-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
         }
       ],
       "editorialWeight": 4,
@@ -12936,20 +12932,38 @@
       "mentionCount": 1
     },
     {
-      "artist": "Enji",
-      "album": "Sonor",
-      "artistKey": "enji",
-      "albumKey": "sonor",
+      "artist": "Just Mustard",
+      "album": "ENDLESS DEATHLESS (Daniel Avery remix)",
+      "artistKey": "just mustard",
+      "albumKey": "endless deathless daniel avery remix",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-08",
-          "url": "https://daily.bandcamp.com/album-of-the-day/enji-sonor-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-09",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Amen Dunes",
+      "album": "Freedom",
+      "artistKey": "amen dunes",
+      "albumKey": "freedom",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -12972,10 +12986,82 @@
       "mentionCount": 1
     },
     {
+      "artist": "Jill Scott feat. Maha Adachi Earth",
+      "album": "To Whom This May Concern",
+      "artistKey": "jill scott feat maha adachi earth",
+      "albumKey": "to whom this may concern",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Just Mustard",
+      "album": "Live on KEXP",
+      "artistKey": "just mustard",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Modern Diet",
+      "album": "Maria",
+      "artistKey": "modern diet",
+      "albumKey": "maria",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-05-08",
+          "url": "https://www.indieshuffle.com/modern-diet-maria/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Naïka",
       "album": "ECLESIA",
       "artistKey": "naika",
       "albumKey": "eclesia",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nina Simone",
+      "album": "Baltimore (live) (Supershy remix)",
+      "artistKey": "nina simone",
+      "albumKey": "baltimore live supershy remix",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14304,96 +14390,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Blind Yeo",
-      "album": "Live on KEXP",
-      "artistKey": "blind yeo",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Golomb",
-      "album": "The Beat Goes On and On and On",
-      "artistKey": "golomb",
-      "albumKey": "the beat goes on and on and on",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jungle",
-      "album": "Live on KEXP",
-      "artistKey": "jungle",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Men With Secrets",
-      "album": "Sand Clock",
-      "artistKey": "men with secrets",
-      "albumKey": "sand clock",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Millia",
-      "album": "Sprawll",
-      "artistKey": "millia",
-      "albumKey": "sprawll",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Terror/Cactus",
       "album": "Transmisión Clandestina",
       "artistKey": "terror cactus",
@@ -15179,24 +15175,6 @@
           "weight": 3,
           "publishedAt": "2025-11-21",
           "url": "https://www.indieshuffle.com/scratching-windows/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Daniel Caeser",
-      "album": "Moon (Ft. Bon Iver)",
-      "artistKey": "daniel caeser",
-      "albumKey": "moon ft bon iver",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2025-11-13",
-          "url": "https://www.indieshuffle.com/daniel-caeser-ft-bon-iver-moon/"
         }
       ],
       "editorialWeight": 3,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T09:13:08.155Z",
+  "generatedAt": "2026-05-10T09:24:42.601Z",
   "items": [
     {
       "artist": "Aldous Harding",
@@ -409,31 +409,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "GENA",
-      "album": "The Pleasure Is Yours",
-      "artistKey": "gena",
-      "albumKey": "the pleasure is yours",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-29",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Carla dal Forno",
       "album": "Confession",
       "artistKey": "carla dal forno",
@@ -588,24 +563,6 @@
       "album": "The Collective",
       "artistKey": "kim gordon",
       "albumKey": "the collective",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Vince Staples",
-      "album": "Dark Times",
-      "artistKey": "vince staples",
-      "albumKey": "dark times",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -851,6 +808,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Santana",
+      "album": "Caravanserai",
+      "artistKey": "santana",
+      "albumKey": "caravanserai",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-10",
+          "url": "https://pitchfork.com/reviews/albums/santana-caravanserai/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1250,24 +1225,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Yu Su",
-      "album": "Foundry",
-      "artistKey": "yu su",
-      "albumKey": "foundry",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-30",
-          "url": "https://pitchfork.com/reviews/albums/yu-su-foundry/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kim Gordon",
       "album": "PLAY ME",
       "artistKey": "kim gordon",
@@ -1362,6 +1319,24 @@
       "album": "Love Is Not Enough",
       "artistKey": "converge",
       "albumKey": "love is not enough",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "GENA",
+      "album": "The Pleasure Is Yours",
+      "artistKey": "gena",
+      "albumKey": "the pleasure is yours",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -3684,6 +3659,24 @@
       "album": "Only God Was Above Us",
       "artistKey": "vampire weekend",
       "albumKey": "only god was above us",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Vince Staples",
+      "album": "Dark Times",
+      "artistKey": "vince staples",
+      "albumKey": "dark times",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8756,24 +8749,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Bonner Kramer • Thurston Moore",
-      "album": "They Came Like Swallows",
-      "artistKey": "bonner kramer thurston moore",
-      "albumKey": "they came like swallows",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-05-01",
-          "url": "https://thequietus.com/quietus-reviews/bonner-kramer-thurston-moore-they-came-like-swallows-review/?utm_source=rss&utm_medium=rss&utm_campaign=bonner-kramer-thurston-moore-they-came-like-swallows-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "OOIOO / Lightning Bolt",
       "album": "The Horizon Spirals / The Horizon Viral",
       "artistKey": "ooioo lightning bolt",
@@ -8814,24 +8789,6 @@
       "album": "Shape of a Wave",
       "artistKey": "steve gunn",
       "albumKey": "shape of a wave",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Vince Staples",
-      "album": "Cry Baby",
-      "artistKey": "vince staples",
-      "albumKey": "cry baby",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -12914,20 +12871,20 @@
       "mentionCount": 1
     },
     {
-      "artist": "Nechochwen",
-      "album": "spelewithiipi",
-      "artistKey": "nechochwen",
-      "albumKey": "spelewithiipi",
+      "artist": "Lividus",
+      "album": "Scarabaeus",
+      "artistKey": "lividus",
+      "albumKey": "scarabaeus",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-09",
-          "url": "https://daily.bandcamp.com/album-of-the-day/nechochwen-spelewithiipi-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-10",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -12936,6 +12893,60 @@
       "album": "ENDLESS DEATHLESS (Daniel Avery remix)",
       "artistKey": "just mustard",
       "albumKey": "endless deathless daniel avery remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-09",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "LA NIÑA",
+      "album": "Live on KEXP from Trans Musicales",
+      "artistKey": "la nina",
+      "albumKey": "live on kexp from trans musicales",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-09",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Morgan Nagler",
+      "album": "I’ve Got Nothing to Lose, and I’m Losing It",
+      "artistKey": "morgan nagler",
+      "albumKey": "ive got nothing to lose and im losing it",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-09",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tom Morello",
+      "album": "KEXP El Sonido: Cancioneros Podcast Feature",
+      "artistKey": "tom morello",
+      "albumKey": "kexp el sonido cancioneros podcast feature",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14264,78 +14275,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Brother Ali",
-      "album": "Another Country",
-      "artistKey": "brother ali",
-      "albumKey": "another country",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chalk",
-      "album": "Crystalpunk",
-      "artistKey": "chalk",
-      "albumKey": "crystalpunk",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Flying Lotus",
-      "album": "BIG MAMA",
-      "artistKey": "flying lotus",
-      "albumKey": "big mama",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Joshua Idehen",
-      "album": "I Know You’re Hurting, Everyone Is Hurting, Everyone Is Trying, You Have Got to Try.",
-      "artistKey": "joshua idehen",
-      "albumKey": "i know youre hurting everyone is hurting everyone is trying you have got to try",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lullabies",
       "album": "Left In The Dust",
       "artistKey": "lullabies",
@@ -14347,42 +14286,6 @@
           "weight": 3,
           "publishedAt": "2026-04-29",
           "url": "https://www.indieshuffle.com/lullabies-left-in-the-dust/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Smerz",
-      "album": "Spring summer",
-      "artistKey": "smerz",
-      "albumKey": "spring summer",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The 1975",
-      "album": "Notes on a Conditional Form",
-      "artistKey": "the 1975",
-      "albumKey": "notes on a conditional form",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-29",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

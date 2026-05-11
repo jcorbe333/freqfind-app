@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T09:24:42.601Z",
+  "generatedAt": "2026-05-11T10:56:03.318Z",
   "items": [
     {
       "artist": "Aldous Harding",
@@ -77,31 +77,6 @@
           "weight": 5,
           "publishedAt": "2026-05-05",
           "url": "https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Kneecap",
-      "album": "FENIAN",
-      "artistKey": "kneecap",
-      "albumKey": "fenian",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-04",
-          "url": "https://daily.bandcamp.com/album-of-the-day/kneecap-fenian-review"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-30",
-          "url": "https://pitchfork.com/reviews/albums/kneecap-fenian/"
         }
       ],
       "editorialWeight": 11,
@@ -343,7 +318,7 @@
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-05-08",
+          "publishedAt": "2026-05-10",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -557,6 +532,24 @@
       "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
+    },
+    {
+      "artist": "Ahmed",
+      "album": "Play Monk",
+      "artistKey": "ahmed",
+      "albumKey": "play monk",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-11",
+          "url": "https://pitchfork.com/reviews/albums/ahmed-play-monk/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Kim Gordon",
@@ -808,6 +801,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jwords",
+      "album": "Sound Therapy",
+      "artistKey": "jwords",
+      "albumKey": "sound therapy",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-11",
+          "url": "https://pitchfork.com/reviews/albums/jwords-sound-therapy/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Muna",
+      "album": "Dancing on the Wall",
+      "artistKey": "muna",
+      "albumKey": "dancing on the wall",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-11",
+          "url": "https://pitchfork.com/reviews/albums/muna-dancing-on-the-wall/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Olof Dreijer",
+      "album": "Loud Bloom",
+      "artistKey": "olof dreijer",
+      "albumKey": "loud bloom",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-11",
+          "url": "https://pitchfork.com/reviews/albums/olof-dreijer-loud-bloom/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1153,24 +1200,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Gobby",
-      "album": "i guess bro",
-      "artistKey": "gobby",
-      "albumKey": "i guess bro",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-01",
-          "url": "https://pitchfork.com/reviews/albums/gobby-i-guess-bro/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Knats",
       "album": "A Great Day in Newcastle",
       "artistKey": "knats",
@@ -1182,42 +1211,6 @@
           "weight": 5,
           "publishedAt": "2026-05-01",
           "url": "https://pitchfork.com/reviews/albums/knats-a-great-day-in-newcastle/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Youbet",
-      "album": "youbet",
-      "artistKey": "youbet",
-      "albumKey": "youbet",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-01",
-          "url": "https://pitchfork.com/reviews/albums/youbet-youbet/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tori Amos",
-      "album": "In Times of Dragons",
-      "artistKey": "tori amos",
-      "albumKey": "in times of dragons",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-04-30",
-          "url": "https://pitchfork.com/reviews/albums/tori-amos-in-times-of-dragons/"
         }
       ],
       "editorialWeight": 5,
@@ -1531,6 +1524,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "أحمد [Ahmed]",
+      "album": "سماع [Sama’a] (Audition)",
+      "artistKey": "ahmed",
+      "albumKey": "samaa audition",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-11-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ahmed-samaa-audition-review"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Sudan Archives",
       "album": "THE BPM",
       "artistKey": "sudan archives",
@@ -1542,24 +1553,6 @@
           "weight": 4,
           "publishedAt": "2025-10-21",
           "url": "https://daily.bandcamp.com/album-of-the-day/sudan-archives-the-bpm-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Steve Gunn",
-      "album": "Music for Writers",
-      "artistKey": "steve gunn",
-      "albumKey": "music for writers",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-25",
-          "url": "https://daily.bandcamp.com/album-of-the-day/steve-gunn-music-for-writers-review"
         }
       ],
       "editorialWeight": 5,
@@ -8623,6 +8616,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Loraine James",
+      "album": "Detached From The Rest Of You",
+      "artistKey": "loraine james",
+      "albumKey": "detached from the rest of you",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-05-11",
+          "url": "https://thequietus.com/quietus-reviews/loraine-james-detached-from-the-rest-of-you-review/?utm_source=rss&utm_medium=rss&utm_campaign=loraine-james-detached-from-the-rest-of-you-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Max Cooper",
       "album": "Feeling Is Structure",
       "artistKey": "max cooper",
@@ -8713,6 +8724,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Kneecap",
+      "album": "FENIAN",
+      "artistKey": "kneecap",
+      "albumKey": "fenian",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-04",
+          "url": "https://daily.bandcamp.com/album-of-the-day/kneecap-fenian-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Lucy Liyou",
       "album": "Mr Cobra",
       "artistKey": "lucy liyou",
@@ -8782,24 +8811,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Steve Gunn",
-      "album": "Shape of a Wave",
-      "artistKey": "steve gunn",
-      "albumKey": "shape of a wave",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -10297,24 +10308,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "أحمد [Ahmed]",
-      "album": "سماع [Sama’a] (Audition)",
-      "artistKey": "ahmed",
-      "albumKey": "samaa audition",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-11-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ahmed-samaa-audition-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "The Bug vs Ghost Dubs",
       "album": "Implosion",
       "artistKey": "the bug vs ghost dubs",
@@ -11629,6 +11622,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Steve Gunn",
+      "album": "Music for Writers",
+      "artistKey": "steve gunn",
+      "albumKey": "music for writers",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-08-25",
+          "url": "https://daily.bandcamp.com/album-of-the-day/steve-gunn-music-for-writers-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Junior Murvin",
       "album": "Cool Down the Heat",
       "artistKey": "junior murvin",
@@ -12871,10 +12882,118 @@
       "mentionCount": 1
     },
     {
+      "artist": "Cornelius",
+      "album": "Mellow Waves",
+      "artistKey": "cornelius",
+      "albumKey": "mellow waves",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ana Tijoux",
+      "album": "97",
+      "artistKey": "ana tijoux",
+      "albumKey": "97",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cataratas en Siberia",
+      "album": "Latinameric Anfútbol",
+      "artistKey": "cataratas en siberia",
+      "albumKey": "latinameric anfutbol",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Courtney Barnett",
+      "album": "Live on KEXP",
+      "artistKey": "courtney barnett",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Holy Fuck",
+      "album": "Event Beat",
+      "artistKey": "holy fuck",
+      "albumKey": "event beat",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Lividus",
       "album": "Scarabaeus",
       "artistKey": "lividus",
       "albumKey": "scarabaeus",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Swapmeet",
+      "album": "I Know!",
+      "artistKey": "swapmeet",
+      "albumKey": "i know",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14077,24 +14196,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "James Blake & Dave",
-      "album": "Trying Times",
-      "artistKey": "james blake and dave",
-      "albumKey": "trying times",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kelsey Lu",
       "album": "So Help Me God",
       "artistKey": "kelsey lu",
@@ -14177,96 +14278,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-05-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "A. Savage",
-      "album": "Thawing Dawn",
-      "artistKey": "a savage",
-      "albumKey": "thawing dawn",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Brian Jackson & Masters At Work feat. Josh Milan, J. Ivy & Moodymann",
-      "album": "Now More Than Ever",
-      "artistKey": "brian jackson and masters at work feat josh milan j ivy and moodymann",
-      "albumKey": "now more than ever",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jagwar Ma",
-      "album": "Live on KEXP",
-      "artistKey": "jagwar ma",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lucha Luna",
-      "album": "BRILLA BRILLA",
-      "artistKey": "lucha luna",
-      "albumKey": "brilla brilla",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Night Heron",
-      "album": "Live on KEXP",
-      "artistKey": "night heron",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-04-30",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

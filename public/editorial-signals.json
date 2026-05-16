@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T10:16:01.027Z",
+  "generatedAt": "2026-05-16T09:25:33.686Z",
   "items": [
     {
       "artist": "Loraine James",
@@ -31,7 +31,7 @@
       ],
       "editorialWeight": 15,
       "multiSourceBonus": 2,
-      "mentionCount": 11
+      "mentionCount": 3
     },
     {
       "artist": "Aldous Harding",
@@ -466,6 +466,24 @@
       "mentionCount": 2
     },
     {
+      "artist": "Smerz",
+      "album": "Easy EP",
+      "artistKey": "smerz",
+      "albumKey": "easy ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-15",
+          "url": "https://pitchfork.com/reviews/albums/smerz-easy-ep/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Ahmed",
       "album": "Play Monk",
       "artistKey": "ahmed",
@@ -790,6 +808,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Jeff Parker And Eva Ivtet",
+      "album": "Happy Today",
+      "artistKey": "jeff parker and eva ivtet",
+      "albumKey": "happy today",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-16",
+          "url": "https://pitchfork.com/reviews/albums/jeff-parker-and-eva-ivtet-happy-today/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Edward Skeletrix",
       "album": "Body of Work",
       "artistKey": "edward skeletrix",
@@ -837,24 +873,6 @@
           "weight": 5,
           "publishedAt": "2026-05-15",
           "url": "https://pitchfork.com/reviews/albums/rostam-american-stories/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Smerz",
-      "album": "Easy EP",
-      "artistKey": "smerz",
-      "albumKey": "easy ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-15",
-          "url": "https://pitchfork.com/reviews/albums/smerz-easy-ep/"
         }
       ],
       "editorialWeight": 5,
@@ -1179,24 +1197,6 @@
           "weight": 5,
           "publishedAt": "2026-05-08",
           "url": "https://pitchfork.com/reviews/albums/safety-trance-sacrificio/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Asake Money",
-      "album": "M$NEY",
-      "artistKey": "asake money",
-      "albumKey": "m ney",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-07",
-          "url": "https://pitchfork.com/reviews/albums/asake-money/"
         }
       ],
       "editorialWeight": 5,
@@ -8692,6 +8692,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Smerz",
+      "album": "Easy",
+      "artistKey": "smerz",
+      "albumKey": "easy",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Speedy J",
       "album": "Walkman",
       "artistKey": "speedy j",
@@ -12958,20 +12976,74 @@
       "mentionCount": 1
     },
     {
-      "artist": "Milena Casado",
-      "album": "Reflection Of Another Self",
-      "artistKey": "milena casado",
-      "albumKey": "reflection of another self",
+      "artist": "billy woods & Kenny Segal feat. Quelle Chris",
+      "album": "Maps",
+      "artistKey": "billy woods and kenny segal feat quelle chris",
+      "albumKey": "maps",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-15",
-          "url": "https://daily.bandcamp.com/album-of-the-day/milena-casado-reflection-of-another-self-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-16",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Avalanches, Nikki Nair, Jessy Lanza & Prentiss",
+      "album": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
+      "artistKey": "the avalanches nikki nair jessy lanza and prentiss",
+      "albumKey": "together feat nikki nair jessy lanza and prentiss",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cardinals",
+      "album": "Live on KEXP",
+      "artistKey": "cardinals",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Georgie Sweet",
+      "album": "Energy (Children of Zeus remix)",
+      "artistKey": "georgie sweet",
+      "albumKey": "energy children of zeus remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -12980,6 +13052,24 @@
       "album": "Melt",
       "artistKey": "ms ray and nourished by time",
       "albumKey": "melt",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MT Jones",
+      "album": "Joy",
+      "artistKey": "mt jones",
+      "albumKey": "joy",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14236,186 +14326,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Above Me",
-      "album": "Soften the Blows",
-      "artistKey": "above me",
-      "albumKey": "soften the blows",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Auntie Flo",
-      "album": "Havana Sessions",
-      "artistKey": "auntie flo",
-      "albumKey": "havana sessions",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bergsonist",
-      "album": "Depths",
-      "artistKey": "bergsonist",
-      "albumKey": "depths",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dead Can Dance",
-      "album": "Death Cults",
-      "artistKey": "dead can dance",
-      "albumKey": "death cults",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Die Spitz",
-      "album": "Live on KEXP",
-      "artistKey": "die spitz",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dust-e-1",
-      "album": "Return 2 Dust EP",
-      "artistKey": "dust e 1",
-      "albumKey": "return 2 dust ep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Flea",
-      "album": "Honora",
-      "artistKey": "flea",
-      "albumKey": "honora",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "GENER8ION & Yung Lean",
-      "album": "STORM",
-      "artistKey": "gener8ion and yung lean",
-      "albumKey": "storm",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hekt",
-      "album": "Forever",
-      "artistKey": "hekt",
-      "albumKey": "forever",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "JÄK-87",
-      "album": "Acid Bath EP",
-      "artistKey": "jak 87",
-      "albumKey": "acid bath ep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lucy Park",
       "album": "BLUE SASHIKO",
       "artistKey": "lucy park",
@@ -14427,150 +14337,6 @@
           "weight": 3,
           "publishedAt": "2026-05-05",
           "url": "https://www.indieshuffle.com/lucy-park-blue-sashiko/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nina Simone",
-      "album": "Four Women (DESIREE remix)",
-      "artistKey": "nina simone",
-      "albumKey": "four women desiree remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nirosta Steel",
-      "album": "My Skyscraper",
-      "artistKey": "nirosta steel",
-      "albumKey": "my skyscraper",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "pdqb",
-      "album": "Direct Hits",
-      "artistKey": "pdqb",
-      "albumKey": "direct hits",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Romain FX",
-      "album": "Spacer Woman (宇宙女人)",
-      "artistKey": "romain fx",
-      "albumKey": "spacer woman",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Softcult",
-      "album": "Live on KEXP",
-      "artistKey": "softcult",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Spivak & Prins Emanuel",
-      "album": "Imogen's Lament",
-      "artistKey": "spivak and prins emanuel",
-      "albumKey": "imogens lament",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tempers",
-      "album": "Delusion",
-      "artistKey": "tempers",
-      "albumKey": "delusion",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wolf Alice",
-      "album": "Visions of a Life",
-      "artistKey": "wolf alice",
-      "albumKey": "visions of a life",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

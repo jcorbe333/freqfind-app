@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T09:25:33.686Z",
+  "generatedAt": "2026-05-17T09:42:08.902Z",
   "items": [
     {
       "artist": "Loraine James",
@@ -808,6 +808,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "10000 Maniacs",
+      "album": "MTV Unplugged",
+      "artistKey": "10000 maniacs",
+      "albumKey": "mtv unplugged",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-17",
+          "url": "https://pitchfork.com/reviews/albums/10000-maniacs-mtv-unplugged/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Jeff Parker And Eva Ivtet",
       "album": "Happy Today",
       "artistKey": "jeff parker and eva ivtet",
@@ -1204,24 +1222,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Cola",
-      "album": "Cost of Living Adjustment",
-      "artistKey": "cola",
-      "albumKey": "cost of living adjustment",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-07",
-          "url": "https://pitchfork.com/reviews/albums/cola-cost-of-living-adjustment/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "The Black Keys",
       "album": "Peaches!",
       "artistKey": "the black keys",
@@ -1287,6 +1287,24 @@
           "weight": 4,
           "publishedAt": "2026-02-06",
           "url": "https://daily.bandcamp.com/album-of-the-day/daphni-butterfly-review"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Blackwater Holylight",
+      "album": "Not Here Not Gone",
+      "artistKey": "blackwater holylight",
+      "albumKey": "not here not gone",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-01-29",
+          "url": "https://daily.bandcamp.com/album-of-the-day/blackwater-holylight-not-here-not-gone-review"
         }
       ],
       "editorialWeight": 5,
@@ -8656,6 +8674,24 @@
       "mentionCount": 9
     },
     {
+      "artist": "Blackwater Holylight",
+      "album": "Live on KEXP",
+      "artistKey": "blackwater holylight",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Genesis Owusu",
       "album": "Like A Version",
       "artistKey": "genesis owusu",
@@ -10107,24 +10143,6 @@
           "weight": 4,
           "publishedAt": "2026-01-31",
           "url": "https://daily.bandcamp.com/album-of-the-day/haruhi-kobayashi-maybe-you-should-talk-to-someone-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Blackwater Holylight",
-      "album": "Not Here Not Gone",
-      "artistKey": "blackwater holylight",
-      "albumKey": "not here not gone",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-01-29",
-          "url": "https://daily.bandcamp.com/album-of-the-day/blackwater-holylight-not-here-not-gone-review"
         }
       ],
       "editorialWeight": 4,
@@ -12958,20 +12976,74 @@
       "mentionCount": 1
     },
     {
-      "artist": "Artificial Go",
-      "album": "Musical Chairs",
-      "artistKey": "artificial go",
-      "albumKey": "musical chairs",
+      "artist": "Jasper Dean",
+      "album": "TELEMONKEY",
+      "artistKey": "jasper dean",
+      "albumKey": "telemonkey",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-16",
-          "url": "https://daily.bandcamp.com/album-of-the-day/artificial-go-musical-chairs-review"
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-05-17",
+          "url": "https://www.indieshuffle.com/jasper-dean-telemonkey/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Spirit Adrift",
+      "album": "Infinite Illumination",
+      "artistKey": "spirit adrift",
+      "albumKey": "infinite illumination",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Teen Suicide",
+      "album": "Nude descending staircase headless",
+      "artistKey": "teen suicide",
+      "albumKey": "nude descending staircase headless",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Angèle, Fcukers, Justice & Fcukers",
+      "album": "What You Want (Fcukers remix)",
+      "artistKey": "angele fcukers justice and fcukers",
+      "albumKey": "what you want fcukers remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -12980,6 +13052,24 @@
       "album": "Maps",
       "artistKey": "billy woods and kenny segal feat quelle chris",
       "albumKey": "maps",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MAQUINA.",
+      "album": "Live on KEXP from Trans Musicales",
+      "artistKey": "maquina",
+      "albumKey": "live on kexp from trans musicales",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14236,96 +14326,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Glixen",
-      "album": "Live on KEXP",
-      "artistKey": "glixen",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jia",
-      "album": "Technicolour",
-      "artistKey": "jia",
-      "albumKey": "technicolour",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kacey Musgraves",
-      "album": "Middle of Nowhere",
-      "artistKey": "kacey musgraves",
-      "albumKey": "middle of nowhere",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nation of Language",
-      "album": "Inept Apollo (Tom Sharkett remix)",
-      "artistKey": "nation of language",
-      "albumKey": "inept apollo tom sharkett remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Obongjayar",
-      "album": "Not in Surrender (The Blessed Madonna remix)",
-      "artistKey": "obongjayar",
-      "albumKey": "not in surrender the blessed madonna remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lucy Park",
       "album": "BLUE SASHIKO",
       "artistKey": "lucy park",
@@ -15147,24 +15147,6 @@
           "weight": 3,
           "publishedAt": "2025-11-24",
           "url": "https://www.indieshuffle.com/the-neighbourhood-private/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Scratching",
-      "album": "Windows",
-      "artistKey": "scratching",
-      "albumKey": "windows",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2025-11-21",
-          "url": "https://www.indieshuffle.com/scratching-windows/"
         }
       ],
       "editorialWeight": 3,

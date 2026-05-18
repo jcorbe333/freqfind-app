@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T09:42:08.902Z",
+  "generatedAt": "2026-05-18T11:40:15.188Z",
   "items": [
     {
       "artist": "Loraine James",
@@ -64,6 +64,31 @@
       "editorialWeight": 15,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "Sergeant",
+      "album": "Symbols",
+      "artistKey": "sergeant",
+      "albumKey": "symbols",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-18",
+          "url": "https://pitchfork.com/reviews/albums/sergeant-symbols/"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-05-13",
+          "url": "https://thequietus.com/quietus-reviews/sergeant-symbols-review/?utm_source=rss&utm_medium=rss&utm_campaign=sergeant-symbols-review"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Bill Callahan",
@@ -808,6 +833,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "artistKey": "drake",
+      "albumKey": "iceman",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-18",
+          "url": "https://pitchfork.com/reviews/albums/drake-iceman/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dua Saleh",
+      "album": "Of Earth & Wires",
+      "artistKey": "dua saleh",
+      "albumKey": "of earth and wires",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-18",
+          "url": "https://pitchfork.com/reviews/albums/dua-saleh-of-earth-and-wires/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Field",
+      "album": "Now You Exist EP",
+      "artistKey": "the field",
+      "albumKey": "now you exist ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-18",
+          "url": "https://pitchfork.com/reviews/albums/the-field-now-you-exist-ep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "10000 Maniacs",
       "album": "MTV Unplugged",
       "artistKey": "10000 maniacs",
@@ -1168,42 +1247,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Media Puzzle",
-      "album": "New Racehorse",
-      "artistKey": "media puzzle",
-      "albumKey": "new racehorse",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-08",
-          "url": "https://pitchfork.com/reviews/albums/media-puzzle-new-racehorse/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Namasenda",
-      "album": "Limbo",
-      "artistKey": "namasenda",
-      "albumKey": "limbo",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-08",
-          "url": "https://pitchfork.com/reviews/albums/namasenda-limbo/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Safety Trance",
       "album": "sacrificio",
       "artistKey": "safety trance",
@@ -1215,42 +1258,6 @@
           "weight": 5,
           "publishedAt": "2026-05-08",
           "url": "https://pitchfork.com/reviews/albums/safety-trance-sacrificio/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Black Keys",
-      "album": "Peaches!",
-      "artistKey": "the black keys",
-      "albumKey": "peaches",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-07",
-          "url": "https://pitchfork.com/reviews/albums/the-black-keys-peaches/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Zara Larsson",
-      "album": "Midnight Sun: Girls Trip",
-      "artistKey": "zara larsson",
-      "albumKey": "midnight sun girls trip",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-07",
-          "url": "https://pitchfork.com/reviews/albums/zara-larsson-midnight-sun-girls-trip/"
         }
       ],
       "editorialWeight": 5,
@@ -8674,6 +8681,60 @@
       "mentionCount": 9
     },
     {
+      "artist": "Laibach",
+      "album": "Musick",
+      "artistKey": "laibach",
+      "albumKey": "musick",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-05-18",
+          "url": "https://thequietus.com/quietus-reviews/laibach-musick-review/?utm_source=rss&utm_medium=rss&utm_campaign=laibach-musick-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "José González",
+      "album": "Against the Dying of the Light",
+      "artistKey": "jose gonzalez",
+      "albumKey": "against the dying of the light",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mitski",
+      "album": "Nothing’s About to Happen to Me",
+      "artistKey": "mitski",
+      "albumKey": "nothings about to happen to me",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Blackwater Holylight",
       "album": "Live on KEXP",
       "artistKey": "blackwater holylight",
@@ -8696,24 +8757,6 @@
       "album": "Like A Version",
       "artistKey": "genesis owusu",
       "albumKey": "like a version",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mitski",
-      "album": "Nothing’s About to Happen to Me",
-      "artistKey": "mitski",
-      "albumKey": "nothings about to happen to me",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -8775,24 +8818,6 @@
           "weight": 4,
           "publishedAt": "2026-05-14",
           "url": "https://thequietus.com/quietus-reviews/darkthrone-pre-historic-metal-review/?utm_source=rss&utm_medium=rss&utm_campaign=darkthrone-pre-historic-metal-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sergeant",
-      "album": "Symbols",
-      "artistKey": "sergeant",
-      "albumKey": "symbols",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-05-13",
-          "url": "https://thequietus.com/quietus-reviews/sergeant-symbols-review/?utm_source=rss&utm_medium=rss&utm_campaign=sergeant-symbols-review"
         }
       ],
       "editorialWeight": 4,
@@ -9283,6 +9308,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jose Gonzalez",
+      "album": "A Perfect Storm",
+      "artistKey": "jose gonzalez",
+      "albumKey": "a perfect storm",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-04-09",
+          "url": "https://www.indieshuffle.com/jose-gonzalez-a-perfect-storm/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -12976,6 +13019,96 @@
       "mentionCount": 1
     },
     {
+      "artist": "Marion Brown",
+      "album": "Awofofora",
+      "artistKey": "marion brown",
+      "albumKey": "awofofora",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pleasure Systems",
+      "album": "Leave It in the Sand",
+      "artistKey": "pleasure systems",
+      "albumKey": "leave it in the sand",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Quiet Light",
+      "album": "Blue Angel Sparkling Silver 2",
+      "artistKey": "quiet light",
+      "albumKey": "blue angel sparkling silver 2",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Spivak & Prins Emanuel",
+      "album": "Imogen's Lament",
+      "artistKey": "spivak and prins emanuel",
+      "albumKey": "imogens lament",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Zimmer90",
+      "album": "Summer Rain",
+      "artistKey": "zimmer90",
+      "albumKey": "summer rain",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-05-18",
+          "url": "https://www.indieshuffle.com/zimmer90--summer-rain/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Jasper Dean",
       "album": "TELEMONKEY",
       "artistKey": "jasper dean",
@@ -12987,6 +13120,24 @@
           "weight": 3,
           "publishedAt": "2026-05-17",
           "url": "https://www.indieshuffle.com/jasper-dean-telemonkey/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MT Jones",
+      "album": "Joy",
+      "artistKey": "mt jones",
+      "albumKey": "joy",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-17",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -13016,6 +13167,24 @@
       "album": "Nude descending staircase headless",
       "artistKey": "teen suicide",
       "albumKey": "nude descending staircase headless",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Whitney",
+      "album": "Live on KEXP",
+      "artistKey": "whitney",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13142,24 +13311,6 @@
       "album": "Melt",
       "artistKey": "ms ray and nourished by time",
       "albumKey": "melt",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "MT Jones",
-      "album": "Joy",
-      "artistKey": "mt jones",
-      "albumKey": "joy",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14200,132 +14351,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Algiers",
-      "album": "The Underside of Power",
-      "artistKey": "algiers",
-      "albumKey": "the underside of power",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Antony Szmierek",
-      "album": "Chalk",
-      "artistKey": "antony szmierek",
-      "albumKey": "chalk",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kareem Ali",
-      "album": "The Essence",
-      "artistKey": "kareem ali",
-      "albumKey": "the essence",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nightbus",
-      "album": "Angles Mortz (Tom Sharkett remix)",
-      "artistKey": "nightbus",
-      "albumKey": "angles mortz tom sharkett remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "OBSG",
-      "album": "Live on KEXP",
-      "artistKey": "obsg",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Shabaka Hutchings",
-      "album": "Of the Earth",
-      "artistKey": "shabaka hutchings",
-      "albumKey": "of the earth",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tigers Jaw",
-      "album": "Lost on You",
-      "artistKey": "tigers jaw",
-      "albumKey": "lost on you",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lucy Park",
       "album": "BLUE SASHIKO",
       "artistKey": "lucy park",
@@ -14463,24 +14488,6 @@
           "weight": 3,
           "publishedAt": "2026-04-13",
           "url": "https://www.indieshuffle.com/retro-kid-found-you/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jose Gonzalez",
-      "album": "A Perfect Storm",
-      "artistKey": "jose gonzalez",
-      "albumKey": "a perfect storm",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-04-09",
-          "url": "https://www.indieshuffle.com/jose-gonzalez-a-perfect-storm/"
         }
       ],
       "editorialWeight": 3,
@@ -15129,24 +15136,6 @@
           "weight": 3,
           "publishedAt": "2025-11-25",
           "url": "https://www.indieshuffle.com/hannes--stockholmsvy-ft-waterbaby/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Neighbourhood",
-      "album": "Private",
-      "artistKey": "the neighbourhood",
-      "albumKey": "private",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2025-11-24",
-          "url": "https://www.indieshuffle.com/the-neighbourhood-private/"
         }
       ],
       "editorialWeight": 3,

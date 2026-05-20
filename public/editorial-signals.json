@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T10:57:36.522Z",
+  "generatedAt": "2026-05-20T10:45:15.181Z",
   "items": [
     {
       "artist": "Loraine James",
@@ -434,31 +434,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "The Armed",
-      "album": "THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED",
-      "artistKey": "the armed",
-      "albumKey": "the future is here and everything needs to be destroyed",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/the-armed-the-future-is-here-and-everything-needs-to-be-destroyed-review"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-07-29",
-          "url": "https://stereogum.com/2316926/album-of-the-week-the-armed-the-future-is-here-and-everything-needs-to-be-destroyed/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Parlor Greens",
       "album": "Emeralds",
       "artistKey": "parlor greens",
@@ -531,24 +506,6 @@
           "weight": 5,
           "publishedAt": "2026-05-15",
           "url": "https://pitchfork.com/reviews/albums/smerz-easy-ep/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ahmed",
-      "album": "Play Monk",
-      "artistKey": "ahmed",
-      "albumKey": "play monk",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-11",
-          "url": "https://pitchfork.com/reviews/albums/ahmed-play-monk/"
         }
       ],
       "editorialWeight": 6,
@@ -859,6 +816,78 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Drake",
+      "album": "HABIBTI",
+      "artistKey": "drake",
+      "albumKey": "habibti",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-20",
+          "url": "https://pitchfork.com/reviews/albums/drake-habibti/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Koyo",
+      "album": "Barely Here",
+      "artistKey": "koyo",
+      "albumKey": "barely here",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-20",
+          "url": "https://pitchfork.com/reviews/albums/koyo-barely-here/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lykke Li",
+      "album": "The Afterparty",
+      "artistKey": "lykke li",
+      "albumKey": "the afterparty",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-20",
+          "url": "https://pitchfork.com/reviews/albums/lykke-li-the-afterparty/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Suzy Sheer",
+      "album": "Pure Pulse, Slow Decay, Soft Release",
+      "artistKey": "suzy sheer",
+      "albumKey": "pure pulse slow decay soft release",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-20",
+          "url": "https://pitchfork.com/reviews/albums/suzy-sheer-pure-pulse-slow-decay-soft-release/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1222,60 +1251,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Jwords",
-      "album": "Sound Therapy",
-      "artistKey": "jwords",
-      "albumKey": "sound therapy",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-11",
-          "url": "https://pitchfork.com/reviews/albums/jwords-sound-therapy/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Muna",
-      "album": "Dancing on the Wall",
-      "artistKey": "muna",
-      "albumKey": "dancing on the wall",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-11",
-          "url": "https://pitchfork.com/reviews/albums/muna-dancing-on-the-wall/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Olof Dreijer",
-      "album": "Loud Bloom",
-      "artistKey": "olof dreijer",
-      "albumKey": "loud bloom",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-11",
-          "url": "https://pitchfork.com/reviews/albums/olof-dreijer-loud-bloom/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kim Gordon",
       "album": "PLAY ME",
       "artistKey": "kim gordon",
@@ -1611,24 +1586,6 @@
           "weight": 4,
           "publishedAt": "2025-11-25",
           "url": "https://stereogum.com/2480437/album-of-the-week-pink-siifu-onyx/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "أحمد [Ahmed]",
-      "album": "سماع [Sama’a] (Audition)",
-      "artistKey": "ahmed",
-      "albumKey": "samaa audition",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-11-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ahmed-samaa-audition-review"
         }
       ],
       "editorialWeight": 5,
@@ -8674,6 +8631,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Marisa Anderson",
+      "album": "The Anthology of UnAmerican Folk Music",
+      "artistKey": "marisa anderson",
+      "albumKey": "the anthology of unamerican folk music",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-19",
+          "url": "https://daily.bandcamp.com/album-of-the-day/marisa-anderson-anthology-of-unamerican-folk-music-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Death Kneel",
       "album": "Remembering Well",
       "artistKey": "death kneel",
@@ -8692,6 +8667,42 @@
       "mentionCount": 9
     },
     {
+      "artist": "Han-earl Park",
+      "album": "uᴉɐƃ∀ ʍǝN sI plO sI ʇɐɥM",
+      "artistKey": "han earl park",
+      "albumKey": "u n si plo si m",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-05-20",
+          "url": "https://thequietus.com/quietus-reviews/han-earl-park-what-is-old-is-new-again-review/?utm_source=rss&utm_medium=rss&utm_campaign=han-earl-park-what-is-old-is-new-again-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mitski",
+      "album": "Nothing’s About to Happen to Me",
+      "artistKey": "mitski",
+      "albumKey": "nothings about to happen to me",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "For Breakfast",
       "album": "Longer Than Spring",
       "artistKey": "for breakfast",
@@ -8703,6 +8714,24 @@
           "weight": 4,
           "publishedAt": "2026-05-19",
           "url": "https://thequietus.com/quietus-reviews/for-breakfast-longer-than-spring-review/?utm_source=rss&utm_medium=rss&utm_campaign=for-breakfast-longer-than-spring-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lowertown",
+      "album": "Ugly Duckling Union",
+      "artistKey": "lowertown",
+      "albumKey": "ugly duckling union",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-05-19",
+          "url": "https://stereogum.com/2499260/album-of-the-week-lowertown-ugly-duckling-union/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -8750,24 +8779,6 @@
       "album": "Against the Dying of the Light",
       "artistKey": "jose gonzalez",
       "albumKey": "against the dying of the light",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mitski",
-      "album": "Nothing’s About to Happen to Me",
-      "artistKey": "mitski",
-      "albumKey": "nothings about to happen to me",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -10618,6 +10629,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "أحمد [Ahmed]",
+      "album": "سماع [Sama’a] (Audition)",
+      "artistKey": "ahmed",
+      "albumKey": "samaa audition",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-11-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ahmed-samaa-audition-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Bug vs Ghost Dubs",
       "album": "Implosion",
       "artistKey": "the bug vs ghost dubs",
@@ -12184,6 +12213,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Armed",
+      "album": "THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED",
+      "artistKey": "the armed",
+      "albumKey": "the future is here and everything needs to be destroyed",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-08-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/the-armed-the-future-is-here-and-everything-needs-to-be-destroyed-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "DEBBY FRIDAY",
       "album": "The Starrr Of The Queen Of Life",
       "artistKey": "debby friday",
@@ -13048,20 +13095,92 @@
       "mentionCount": 1
     },
     {
-      "artist": "Kawaguchi Masami 川口雅巳, Mike Vest, & Dave Sneddon",
-      "album": "To Be True, Then The Loop Will Run Forever",
-      "artistKey": "kawaguchi masami mike vest and dave sneddon",
-      "albumKey": "to be true then the loop will run forever",
+      "artist": "Adrian Quesada",
+      "album": "Trio Asesino",
+      "artistKey": "adrian quesada",
+      "albumKey": "trio asesino",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-19",
-          "url": "https://daily.bandcamp.com/album-of-the-day/kawaguchi-masami-mike-vest-dave-sneddon-to-be-true-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-20",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Angèle, Fcukers, Justice & Fcukers",
+      "album": "What You Want (Fcukers remix)",
+      "artistKey": "angele fcukers justice and fcukers",
+      "albumKey": "what you want fcukers remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Atabasca",
+      "album": "Atabasca",
+      "artistKey": "atabasca",
+      "albumKey": "atabasca",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "GENER8ION & Yung Lean",
+      "album": "STORM",
+      "artistKey": "gener8ion and yung lean",
+      "albumKey": "storm",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Neighbourhood",
+      "album": "Devil's Advocate",
+      "artistKey": "the neighbourhood",
+      "albumKey": "devils advocate",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-05-20",
+          "url": "https://www.indieshuffle.com/the-neighbourhood-devils-advocate/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13106,6 +13225,24 @@
       "album": "Library Copy Do Not Remove",
       "artistKey": "discovery zone",
       "albumKey": "library copy do not remove",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gwenifer Raymond",
+      "album": "Live on KEXP",
+      "artistKey": "gwenifer raymond",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13174,6 +13311,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Rogue Wave",
+      "album": "Live on KEXP",
+      "artistKey": "rogue wave",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Russian Blue",
+      "album": "For the Sake of It",
+      "artistKey": "russian blue",
+      "albumKey": "for the sake of it",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Necessaries",
       "album": "Completely Necessary (Anthology 1978-1982)",
       "artistKey": "the necessaries",
@@ -13196,6 +13369,24 @@
       "album": "Seismo",
       "artistKey": "upsammy and valentina magaletti",
       "albumKey": "seismo",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wyatt Waddell",
+      "album": "The Understudy",
+      "artistKey": "wyatt waddell",
+      "albumKey": "the understudy",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13454,24 +13645,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-05-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Angèle, Fcukers, Justice & Fcukers",
-      "album": "What You Want (Fcukers remix)",
-      "artistKey": "angele fcukers justice and fcukers",
-      "albumKey": "what you want fcukers remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-16",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14398,60 +14571,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "LA NIÑA",
-      "album": "Live on KEXP from Trans Musicales",
-      "artistKey": "la nina",
-      "albumKey": "live on kexp from trans musicales",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Morgan Nagler",
-      "album": "I’ve Got Nothing to Lose, and I’m Losing It",
-      "artistKey": "morgan nagler",
-      "albumKey": "ive got nothing to lose and im losing it",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tom Morello",
-      "album": "KEXP El Sonido: Cancioneros Podcast Feature",
-      "artistKey": "tom morello",
-      "albumKey": "kexp el sonido cancioneros podcast feature",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Modern Diet",
       "album": "Maria",
       "artistKey": "modern diet",
@@ -15237,24 +15356,6 @@
           "weight": 3,
           "publishedAt": "2025-11-28",
           "url": "https://www.indieshuffle.com/tame-impala-dracula/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hannes",
-      "album": "Stockholmsvy (Ft. waterbaby)",
-      "artistKey": "hannes",
-      "albumKey": "stockholmsvy ft waterbaby",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2025-11-25",
-          "url": "https://www.indieshuffle.com/hannes--stockholmsvy-ft-waterbaby/"
         }
       ],
       "editorialWeight": 3,

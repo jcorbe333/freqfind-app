@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-05-21T11:16:30.160Z",
+  "generatedAt": "2026-05-22T10:44:43.174Z",
   "items": [
     {
-      "artist": "Loraine James",
-      "album": "Detached From The Rest Of You",
-      "artistKey": "loraine james",
-      "albumKey": "detached from the rest of you",
+      "artist": "Visible Cloaks",
+      "album": "Paradessence",
+      "artistKey": "visible cloaks",
+      "albumKey": "paradessence",
       "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-13",
-          "url": "https://daily.bandcamp.com/album-of-the-day/loraine-james-detached-from-the-rest-of-you-review"
-        },
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-05-13",
-          "url": "https://pitchfork.com/reviews/albums/loraine-james-detached-from-the-rest-of-you/"
+          "publishedAt": "2026-05-22",
+          "url": "https://pitchfork.com/reviews/albums/visible-cloaks-paradessence/"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-05-22",
+          "url": "https://thequietus.com/quietus-reviews/visible-cloaks-paradessence-review/?utm_source=rss&utm_medium=rss&utm_campaign=visible-cloaks-paradessence-review"
         }
       ],
       "editorialWeight": 11,
@@ -248,31 +248,6 @@
         }
       ],
       "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Fire Toolz",
-      "album": "Lavender Networks",
-      "artistKey": "fire toolz",
-      "albumKey": "lavender networks",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-13",
-          "url": "https://pitchfork.com/reviews/albums/fire-toolz-lavender-networks/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -812,6 +787,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Magic Tuber Stringband",
+      "album": "Heavy Water",
+      "artistKey": "magic tuber stringband",
+      "albumKey": "heavy water",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-22",
+          "url": "https://pitchfork.com/reviews/albums/magic-tuber-stringband-heavy-water/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Porches",
+      "album": "MASK",
+      "artistKey": "porches",
+      "albumKey": "mask",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-22",
+          "url": "https://pitchfork.com/reviews/albums/porches-mask/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Thomas Dollbaum",
+      "album": "Birds of Paradise",
+      "artistKey": "thomas dollbaum",
+      "albumKey": "birds of paradise",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-22",
+          "url": "https://pitchfork.com/reviews/albums/thomas-dollbaum-birds-of-paradise/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Hiss Golden Messenger",
       "album": "I’m People",
       "artistKey": "hiss golden messenger",
@@ -1219,42 +1248,6 @@
           "weight": 5,
           "publishedAt": "2026-05-14",
           "url": "https://pitchfork.com/reviews/albums/sadie-better-angels/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Broken Social Scene",
-      "album": "Remember the Humans",
-      "artistKey": "broken social scene",
-      "albumKey": "remember the humans",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-13",
-          "url": "https://pitchfork.com/reviews/albums/broken-social-scene-remember-the-humans/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lucy Liyou",
-      "album": "MR COBRA",
-      "artistKey": "lucy liyou",
-      "albumKey": "mr cobra",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-13",
-          "url": "https://pitchfork.com/reviews/albums/lucy-liyou-mr-cobra/"
         }
       ],
       "editorialWeight": 5,
@@ -1723,24 +1716,6 @@
           "weight": 4,
           "publishedAt": "2025-08-01",
           "url": "https://www.npr.org/sections/world-cafe/2025/08/01/nx-s1-5471529/haim-album-i-quit"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Les Rallizes Dénudés",
-      "album": "Jittoku ’76",
-      "artistKey": "les rallizes denudes",
-      "albumKey": "jittoku 76",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/les-rallizes-denudes-jittoku-76-review"
         }
       ],
       "editorialWeight": 5,
@@ -8660,6 +8635,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Takkak Takkak",
+      "album": "Abu",
+      "artistKey": "takkak takkak",
+      "albumKey": "abu",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-21",
+          "url": "https://daily.bandcamp.com/album-of-the-day/takkak-takkak-abu-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "SUSS",
       "album": "Counting Sunsets",
       "artistKey": "suss",
@@ -8678,22 +8671,22 @@
       "mentionCount": 9
     },
     {
-      "artist": "Marisa Anderson",
-      "album": "The Anthology of UnAmerican Folk Music",
-      "artistKey": "marisa anderson",
-      "albumKey": "the anthology of unamerican folk music",
+      "artist": "Phillip Golub",
+      "album": "Partisan Ship",
+      "artistKey": "phillip golub",
+      "albumKey": "partisan ship",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-05-19",
-          "url": "https://daily.bandcamp.com/album-of-the-day/marisa-anderson-anthology-of-unamerican-folk-music-review"
+          "publishedAt": "2026-05-22",
+          "url": "https://thequietus.com/quietus-reviews/phillip-golub-partisan-ship/?utm_source=rss&utm_medium=rss&utm_campaign=phillip-golub-partisan-ship"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Han-earl Park",
@@ -8761,6 +8754,24 @@
           "weight": 4,
           "publishedAt": "2026-05-19",
           "url": "https://stereogum.com/2499260/album-of-the-week-lowertown-ugly-duckling-union/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Marisa Anderson",
+      "album": "The Anthology of UnAmerican Folk Music",
+      "artistKey": "marisa anderson",
+      "albumKey": "the anthology of unamerican folk music",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-19",
+          "url": "https://daily.bandcamp.com/album-of-the-day/marisa-anderson-anthology-of-unamerican-folk-music-review"
         }
       ],
       "editorialWeight": 4,
@@ -8912,24 +8923,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Darkthrone",
-      "album": "Pre-Historic Metal",
-      "artistKey": "darkthrone",
-      "albumKey": "pre historic metal",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-05-14",
-          "url": "https://thequietus.com/quietus-reviews/darkthrone-pre-historic-metal-review/?utm_source=rss&utm_medium=rss&utm_campaign=darkthrone-pre-historic-metal-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Soltera & Sonido Sex",
       "album": "Soltera y Su Sonido Sexual",
       "artistKey": "soltera and sonido sex",
@@ -8941,6 +8934,24 @@
           "weight": 4,
           "publishedAt": "2026-05-14",
           "url": "https://daily.bandcamp.com/album-of-the-day/soltera-sonido-sex-soltera-y-su-sonido-sexual-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Loraine James",
+      "album": "Detached From The Rest Of You",
+      "artistKey": "loraine james",
+      "albumKey": "detached from the rest of you",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-13",
+          "url": "https://daily.bandcamp.com/album-of-the-day/loraine-james-detached-from-the-rest-of-you-review"
         }
       ],
       "editorialWeight": 4,
@@ -8963,24 +8974,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Les Rallizes Dénudés",
-      "album": "Disque 4 ('76 Studio et Live)",
-      "artistKey": "les rallizes denudes",
-      "albumKey": "disque 4 76 studio et live",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -12368,6 +12361,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Les Rallizes Dénudés",
+      "album": "Jittoku ’76",
+      "artistKey": "les rallizes denudes",
+      "albumKey": "jittoku 76",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-07-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/les-rallizes-denudes-jittoku-76-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Various Artists",
       "album": "Tectonic Sound",
       "artistKey": "various artists",
@@ -13070,20 +13081,20 @@
       "mentionCount": 1
     },
     {
-      "artist": "Swimming Bell",
-      "album": "Somnia",
-      "artistKey": "swimming bell",
-      "albumKey": "somnia",
+      "artist": "Adrian Quesada",
+      "album": "Trio Asesino",
+      "artistKey": "adrian quesada",
+      "albumKey": "trio asesino",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-21",
-          "url": "https://daily.bandcamp.com/album-of-the-day/swimming-bell-somnia-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-22",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13092,6 +13103,96 @@
       "album": "Mixtape: Volume One",
       "artistKey": "champagne bubblebath",
       "albumKey": "mixtape volume one",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hotel Ugly",
+      "album": "Shut up My Moms Calling",
+      "artistKey": "hotel ugly",
+      "albumKey": "shut up my moms calling",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-05-22",
+          "url": "https://www.indieshuffle.com/hotel-ugly-shut-up-my-moms-calling/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jill Scott feat. Tierra Whack",
+      "album": "To Whom This May Concern",
+      "artistKey": "jill scott feat tierra whack",
+      "albumKey": "to whom this may concern",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ms Ray & Nourished by Time",
+      "album": "Melt",
+      "artistKey": "ms ray and nourished by time",
+      "albumKey": "melt",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The 1975",
+      "album": "Notes on a Conditional Form",
+      "artistKey": "the 1975",
+      "albumKey": "notes on a conditional form",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Angine de Poitrine",
+      "album": "Live on KEXP",
+      "artistKey": "angine de poitrine",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13135,24 +13236,6 @@
           "weight": 3,
           "publishedAt": "2026-05-21",
           "url": "https://www.indieshuffle.com/sofi-tukker-boba/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Adrian Quesada",
-      "album": "Trio Asesino",
-      "artistKey": "adrian quesada",
-      "albumKey": "trio asesino",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-20",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -13844,24 +13927,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Ms Ray & Nourished by Time",
-      "album": "Melt",
-      "artistKey": "ms ray and nourished by time",
-      "albumKey": "melt",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Boards of Canada",
       "album": "Inferno",
       "artistKey": "boards of canada",
@@ -14240,24 +14305,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Balam & Richie Hell",
-      "album": "Alien Cumbia",
-      "artistKey": "balam and richie hell",
-      "albumKey": "alien cumbia",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Black Pumas",
       "album": "Live on KEXP",
       "artistKey": "black pumas",
@@ -14294,10 +14341,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Curió Curió",
-      "album": "Bem Querer / Amor Doente",
-      "artistKey": "curio curio",
-      "albumKey": "bem querer amor doente",
+      "artist": "DOSIS",
+      "album": "Ritmo Animal",
+      "artistKey": "dosis",
+      "albumKey": "ritmo animal",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14312,10 +14359,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "DOSIS",
-      "album": "Ritmo Animal",
-      "artistKey": "dosis",
-      "albumKey": "ritmo animal",
+      "artist": "Fire-Toolz",
+      "album": "Lavender Networks",
+      "artistKey": "fire toolz",
+      "albumKey": "lavender networks",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14430,78 +14477,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-05-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Anjimile",
-      "album": "You’re Free to Go",
-      "artistKey": "anjimile",
-      "albumKey": "youre free to go",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cornelius",
-      "album": "Mellow Waves",
-      "artistKey": "cornelius",
-      "albumKey": "mellow waves",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mike D",
-      "album": "Switch Up",
-      "artistKey": "mike d",
-      "albumKey": "switch up",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Yumi Zouma",
-      "album": "Live on KEXP",
-      "artistKey": "yumi zouma",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-11",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15259,24 +15234,6 @@
           "weight": 3,
           "publishedAt": "2025-12-08",
           "url": "https://www.indieshuffle.com/ekkstacy-chemicals/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dominic Fike",
-      "album": "White Keys",
-      "artistKey": "dominic fike",
-      "albumKey": "white keys",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2025-12-01",
-          "url": "https://www.indieshuffle.com/dominic-fike-white-keys/"
         }
       ],
       "editorialWeight": 3,

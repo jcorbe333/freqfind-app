@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T09:46:05.088Z",
+  "generatedAt": "2026-05-24T09:50:02.059Z",
   "items": [
     {
       "artist": "Genesis Owusu",
@@ -805,6 +805,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Laura Nyro",
+      "album": "New York Tendaberry",
+      "artistKey": "laura nyro",
+      "albumKey": "new york tendaberry",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-24",
+          "url": "https://pitchfork.com/reviews/albums/laura-nyro-new-york-tendaberry/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Ted Lucas",
       "album": "Images of Life",
       "artistKey": "ted lucas",
@@ -1212,24 +1230,6 @@
           "weight": 5,
           "publishedAt": "2026-05-15",
           "url": "https://pitchfork.com/reviews/albums/rostam-american-stories/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Father Dionysios Tabakis",
-      "album": "Paradise Metal",
-      "artistKey": "father dionysios tabakis",
-      "albumKey": "paradise metal",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-14",
-          "url": "https://pitchfork.com/reviews/albums/father-dionysios-tabakis-paradise-metal/"
         }
       ],
       "editorialWeight": 5,
@@ -2699,6 +2699,24 @@
       "album": "DON'T TAP THE GLASS",
       "artistKey": "tyler the creator",
       "albumKey": "dont tap the glass",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "venturing",
+      "album": "Ghostholding",
+      "artistKey": "venturing",
+      "albumKey": "ghostholding",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -13081,20 +13099,20 @@
       "mentionCount": 1
     },
     {
-      "artist": "Stereolab",
-      "album": "Instant Holograms On Metal Film",
-      "artistKey": "stereolab",
-      "albumKey": "instant holograms on metal film",
+      "artist": "Chariots Overdrive",
+      "album": "The End of Antiquity",
+      "artistKey": "chariots overdrive",
+      "albumKey": "the end of antiquity",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-23",
-          "url": "https://daily.bandcamp.com/album-of-the-day/stereolab-instant-holograms-on-metal-film-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-24",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13103,6 +13121,114 @@
       "album": "Hell's Winter",
       "artistKey": "cage",
       "albumKey": "hells winter",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cypress Hill and Aleman",
+      "album": "El Sonido: Cancioneros Podcast Preview",
+      "artistKey": "cypress hill and aleman",
+      "albumKey": "el sonido cancioneros podcast preview",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ed O’Brien",
+      "album": "Blue Morpho",
+      "artistKey": "ed obrien",
+      "albumKey": "blue morpho",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Evil Island",
+      "album": "Tiger Baby",
+      "artistKey": "evil island",
+      "albumKey": "tiger baby",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jamie She",
+      "album": "Single",
+      "artistKey": "jamie she",
+      "albumKey": "single",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nine Inch Nails & Boys Noize",
+      "album": "Nine Inch Noize",
+      "artistKey": "nine inch nails and boys noize",
+      "albumKey": "nine inch noize",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Photons",
+      "album": "Live on KEXP from Trans Musicales",
+      "artistKey": "photons",
+      "albumKey": "live on kexp from trans musicales",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14053,24 +14179,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Boards of Canada",
-      "album": "Inferno",
-      "artistKey": "boards of canada",
-      "albumKey": "inferno",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Brian Jackson",
       "album": "Now More Than Ever",
       "artistKey": "brian jackson",
@@ -14143,78 +14251,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Dean Johnson",
-      "album": "Live on KEXP",
-      "artistKey": "dean johnson",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dolly Ave",
-      "album": "Bad Brain",
-      "artistKey": "dolly ave",
-      "albumKey": "bad brain",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hercules & Love Affair feat. Hips & Lips",
-      "album": "Crossed Lines",
-      "artistKey": "hercules and love affair feat hips and lips",
-      "albumKey": "crossed lines",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jex Opolis",
-      "album": "AMBIENTE",
-      "artistKey": "jex opolis",
-      "albumKey": "ambiente",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Joji",
       "album": "Last of a Dying Breed",
       "artistKey": "joji",
@@ -14226,186 +14262,6 @@
           "weight": 3,
           "publishedAt": "2026-05-13",
           "url": "https://www.indieshuffle.com/joji-last-of-a-dying-breed/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "MJ Lenderman",
-      "album": "Live on KEXP",
-      "artistKey": "mj lenderman",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "New Members",
-      "album": "Night Time",
-      "artistKey": "new members",
-      "albumKey": "night time",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nina Simone",
-      "album": "Baltimore (live) (Supershy remix)",
-      "artistKey": "nina simone",
-      "albumKey": "baltimore live supershy remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "only tears",
-      "album": "silence",
-      "artistKey": "only tears",
-      "albumKey": "silence",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sam Goku",
-      "album": "Bliss Drift",
-      "artistKey": "sam goku",
-      "albumKey": "bliss drift",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Satoshi & Makoto",
-      "album": "Mirage Cafe",
-      "artistKey": "satoshi and makoto",
-      "albumKey": "mirage cafe",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Space Ghost",
-      "album": "Dance Planet - Be Free Edition",
-      "artistKey": "space ghost",
-      "albumKey": "dance planet be free edition",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Studio",
-      "album": "Life's a Beach!",
-      "artistKey": "studio",
-      "albumKey": "lifes a beach",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Underground Resistance & Saul Williams",
-      "album": "When There Is No Sun",
-      "artistKey": "underground resistance and saul williams",
-      "albumKey": "when there is no sun",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "White Car",
-      "album": "The Sound of Love International #008",
-      "artistKey": "white car",
-      "albumKey": "the sound of love international 008",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T09:50:02.059Z",
+  "generatedAt": "2026-05-25T11:48:13.515Z",
   "items": [
     {
       "artist": "Genesis Owusu",
@@ -402,24 +402,24 @@
       "mentionCount": 2
     },
     {
-      "artist": "Parlor Greens",
-      "album": "Emeralds",
-      "artistKey": "parlor greens",
-      "albumKey": "emeralds",
+      "artist": "Kim Gordon",
+      "album": "PLAY ME",
+      "artistKey": "kim gordon",
+      "albumKey": "play me",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-05-14",
+          "publishedAt": "2026-05-24",
           "url": "https://www.kexp.org/playlist/"
         },
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
           "weight": 4,
-          "publishedAt": "2026-03-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
+          "publishedAt": "2026-03-10",
+          "url": "https://stereogum.com/2491669/album-of-the-week-kim-gordon-play-me/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 9,
@@ -456,6 +456,24 @@
           "weight": 5,
           "publishedAt": "2026-05-15",
           "url": "https://pitchfork.com/reviews/albums/smerz-easy-ep/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Thundercat",
+      "album": "Distracted",
+      "artistKey": "thundercat",
+      "albumKey": "distracted",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 6,
@@ -1273,24 +1291,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Kim Gordon",
-      "album": "PLAY ME",
-      "artistKey": "kim gordon",
-      "albumKey": "play me",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-03-10",
-          "url": "https://stereogum.com/2491669/album-of-the-week-kim-gordon-play-me/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Daphni",
       "album": "Butterfly",
       "artistKey": "daphni",
@@ -1579,24 +1579,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Thundercat",
-      "album": "Distracted",
-      "artistKey": "thundercat",
-      "albumKey": "distracted",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "underscores",
       "album": "U",
       "artistKey": "underscores",
@@ -1734,6 +1716,24 @@
           "weight": 4,
           "publishedAt": "2025-08-01",
           "url": "https://www.npr.org/sections/world-cafe/2025/08/01/nx-s1-5471529/haim-album-i-quit"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wet Leg",
+      "album": "moisturizer",
+      "artistKey": "wet leg",
+      "albumKey": "moisturizer",
+      "sources": [
+        {
+          "sourceId": "npr-music",
+          "sourceLabel": "NPR Music",
+          "weight": 4,
+          "publishedAt": "2025-07-11",
+          "url": "https://www.npr.org/sections/world-cafe/2025/07/11/nx-s1-5447515/wet-leg-album-moisturizer"
         }
       ],
       "editorialWeight": 5,
@@ -8689,6 +8689,78 @@
       "mentionCount": 9
     },
     {
+      "artist": "Ava Mendoza",
+      "album": "Alive Alone, Alive Together",
+      "artistKey": "ava mendoza",
+      "albumKey": "alive alone alive together",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-05-25",
+          "url": "https://thequietus.com/quietus-reviews/ava-mendoza-alive-alone-alive-together-review/?utm_source=rss&utm_medium=rss&utm_campaign=ava-mendoza-alive-alone-alive-together-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Thundercat",
+      "album": "It Is What It Is",
+      "artistKey": "thundercat",
+      "albumKey": "it is what it is",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "José González",
+      "album": "Against the Dying of the Light",
+      "artistKey": "jose gonzalez",
+      "albumKey": "against the dying of the light",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wet Leg",
+      "album": "mangetout (The Dare remix)",
+      "artistKey": "wet leg",
+      "albumKey": "mangetout the dare remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Model/Actriz",
       "album": "Live on KEXP",
       "artistKey": "model actriz",
@@ -8887,24 +8959,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "José González",
-      "album": "Against the Dying of the Light",
-      "artistKey": "jose gonzalez",
-      "albumKey": "against the dying of the light",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Blackwater Holylight",
       "album": "Live on KEXP",
       "artistKey": "blackwater holylight",
@@ -8915,24 +8969,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-05-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Genesis Owusu",
-      "album": "Like A Version",
-      "artistKey": "genesis owusu",
-      "albumKey": "like a version",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-15",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -9618,6 +9654,24 @@
           "weight": 4,
           "publishedAt": "2026-03-27",
           "url": "https://daily.bandcamp.com/album-of-the-day/the-montvales-path-of-totality-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Parlor Greens",
+      "album": "Emeralds",
+      "artistKey": "parlor greens",
+      "albumKey": "emeralds",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-03-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
         }
       ],
       "editorialWeight": 4,
@@ -12613,24 +12667,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Wet Leg",
-      "album": "moisturizer",
-      "artistKey": "wet leg",
-      "albumKey": "moisturizer",
-      "sources": [
-        {
-          "sourceId": "npr-music",
-          "sourceLabel": "NPR Music",
-          "weight": 4,
-          "publishedAt": "2025-07-11",
-          "url": "https://www.npr.org/sections/world-cafe/2025/07/11/nx-s1-5447515/wet-leg-album-moisturizer"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Slikback",
       "album": "Attrition",
       "artistKey": "slikback",
@@ -13099,10 +13135,82 @@
       "mentionCount": 1
     },
     {
+      "artist": "ABOP",
+      "album": "Masters of Afters",
+      "artistKey": "abop",
+      "albumKey": "masters of afters",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Chariots Overdrive",
       "album": "The End of Antiquity",
       "artistKey": "chariots overdrive",
       "albumKey": "the end of antiquity",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ken Pomeroy",
+      "album": "Look at Miss Ohio",
+      "artistKey": "ken pomeroy",
+      "albumKey": "look at miss ohio",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Natural Child",
+      "album": "Smokin' In the Kitchen",
+      "artistKey": "natural child",
+      "albumKey": "smokin in the kitchen",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "shame",
+      "album": "Live on KEXP",
+      "artistKey": "shame",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14179,78 +14287,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Brian Jackson",
-      "album": "Now More Than Ever",
-      "artistKey": "brian jackson",
-      "albumKey": "now more than ever",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mt Fog",
-      "album": "Every Stone Is Green",
-      "artistKey": "mt fog",
-      "albumKey": "every stone is green",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sera Cahoone",
-      "album": "Say Something",
-      "artistKey": "sera cahoone",
-      "albumKey": "say something",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Bures Band",
-      "album": "Live on KEXP",
-      "artistKey": "the bures band",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Joji",
       "album": "Last of a Dying Breed",
       "artistKey": "joji",
@@ -14982,24 +15018,6 @@
           "weight": 3,
           "publishedAt": "2025-12-18",
           "url": "https://www.indieshuffle.com/maffa-rico-left-of-soso/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Toro y Moi",
-      "album": "Our House",
-      "artistKey": "toro y moi",
-      "albumKey": "our house",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2025-12-12",
-          "url": "https://www.indieshuffle.com/toro-y-moi-our-house/"
         }
       ],
       "editorialWeight": 3,

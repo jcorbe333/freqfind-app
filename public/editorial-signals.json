@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T11:32:28.773Z",
+  "generatedAt": "2026-05-28T11:32:42.548Z",
   "items": [
     {
       "artist": "Genesis Owusu",
@@ -359,6 +359,56 @@
       "mentionCount": 2
     },
     {
+      "artist": "Dumama",
+      "album": "Towards An Expanse",
+      "artistKey": "dumama",
+      "albumKey": "towards an expanse",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-05-28",
+          "url": "https://thequietus.com/quietus-reviews/dumama-towards-an-expanse-review/?utm_source=rss&utm_medium=rss&utm_campaign=dumama-towards-an-expanse-review"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-11",
+          "url": "https://daily.bandcamp.com/album-of-the-day/dumama-towards-an-expanse-review"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Ed Obrien",
+      "album": "Blue Morpho",
+      "artistKey": "ed obrien",
+      "albumKey": "blue morpho",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-28",
+          "url": "https://pitchfork.com/reviews/albums/ed-obrien-blue-morpho/"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Aldous Harding",
       "album": "Train On The Island",
       "artistKey": "aldous harding",
@@ -509,17 +559,17 @@
       "mentionCount": 2
     },
     {
-      "artist": "The Field",
-      "album": "Now You Exist EP",
-      "artistKey": "the field",
-      "albumKey": "now you exist ep",
+      "artist": "Bladee",
+      "album": "Sulfur Surfer",
+      "artistKey": "bladee",
+      "albumKey": "sulfur surfer",
       "sources": [
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-05-18",
-          "url": "https://pitchfork.com/reviews/albums/the-field-now-you-exist-ep/"
+          "publishedAt": "2026-05-28",
+          "url": "https://pitchfork.com/reviews/albums/bladee-sulfur-surfer/"
         }
       ],
       "editorialWeight": 6,
@@ -556,6 +606,24 @@
           "weight": 5,
           "publishedAt": "2025-01-02",
           "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Bladee",
+      "album": "COLD VISIONS",
+      "artistKey": "bladee",
+      "albumKey": "cold visions",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
         }
       ],
       "editorialWeight": 6,
@@ -884,6 +952,42 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Car Seat Headrest",
+      "album": "Teen of Denial: Joe’s Story",
+      "artistKey": "car seat headrest",
+      "albumKey": "teen of denial joes story",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-28",
+          "url": "https://pitchfork.com/reviews/albums/car-seat-headrest-teen-of-denial-joes-story/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Eli",
+      "album": "Stage Girl (Not A Dream Anymore)",
+      "artistKey": "eli",
+      "albumKey": "stage girl not a dream anymore",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-28",
+          "url": "https://pitchfork.com/reviews/albums/eli-stage-girl-not-a-dream-anymore/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1258,60 +1362,6 @@
           "weight": 5,
           "publishedAt": "2026-05-19",
           "url": "https://pitchfork.com/reviews/albums/kwes-darko-god-of-the-youth/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "artistKey": "drake",
-      "albumKey": "iceman",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-18",
-          "url": "https://pitchfork.com/reviews/albums/drake-iceman/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dua Saleh",
-      "album": "Of Earth & Wires",
-      "artistKey": "dua saleh",
-      "albumKey": "of earth and wires",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-18",
-          "url": "https://pitchfork.com/reviews/albums/dua-saleh-of-earth-and-wires/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sergeant",
-      "album": "Symbols",
-      "artistKey": "sergeant",
-      "albumKey": "symbols",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-18",
-          "url": "https://pitchfork.com/reviews/albums/sergeant-symbols/"
         }
       ],
       "editorialWeight": 5,
@@ -2799,24 +2849,6 @@
       "album": "Cowboy Carter",
       "artistKey": "beyonce",
       "albumKey": "cowboy carter",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bladee",
-      "album": "COLD VISIONS",
-      "artistKey": "bladee",
-      "albumKey": "cold visions",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8627,35 +8659,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Ital Tek",
-      "album": "Mind Abandon",
-      "artistKey": "ital tek",
-      "albumKey": "mind abandon",
+      "artist": "feeble little horse",
+      "album": "bitknot",
+      "artistKey": "feeble little horse",
+      "albumKey": "bitknot",
       "sources": [
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-05-22",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ital-tek-mind-abandon-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
-      "artist": "Takkak Takkak",
-      "album": "Abu",
-      "artistKey": "takkak takkak",
-      "albumKey": "abu",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-21",
-          "url": "https://daily.bandcamp.com/album-of-the-day/takkak-takkak-abu-review"
+          "publishedAt": "2026-05-27",
+          "url": "https://daily.bandcamp.com/album-of-the-day/feeble-little-horse-bitknot-review"
         }
       ],
       "editorialWeight": 4,
@@ -8771,6 +8785,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Ital Tek",
+      "album": "Mind Abandon",
+      "artistKey": "ital tek",
+      "albumKey": "mind abandon",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-22",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ital-tek-mind-abandon-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Model/Actriz",
       "album": "Live on KEXP",
       "artistKey": "model actriz",
@@ -8825,17 +8857,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Han-earl Park",
-      "album": "uᴉɐƃ∀ ʍǝN sI plO sI ʇɐɥM",
-      "artistKey": "han earl park",
-      "albumKey": "u n si plo si m",
+      "artist": "Takkak Takkak",
+      "album": "Abu",
+      "artistKey": "takkak takkak",
+      "albumKey": "abu",
       "sources": [
         {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-05-20",
-          "url": "https://thequietus.com/quietus-reviews/han-earl-park-what-is-old-is-new-again-review/?utm_source=rss&utm_medium=rss&utm_campaign=han-earl-park-what-is-old-is-new-again-review"
+          "publishedAt": "2026-05-21",
+          "url": "https://daily.bandcamp.com/album-of-the-day/takkak-takkak-abu-review"
         }
       ],
       "editorialWeight": 4,
@@ -8879,24 +8911,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "For Breakfast",
-      "album": "Longer Than Spring",
-      "artistKey": "for breakfast",
-      "albumKey": "longer than spring",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-05-19",
-          "url": "https://thequietus.com/quietus-reviews/for-breakfast-longer-than-spring-review/?utm_source=rss&utm_medium=rss&utm_campaign=for-breakfast-longer-than-spring-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lowertown",
       "album": "Ugly Duckling Union",
       "artistKey": "lowertown",
@@ -8915,24 +8929,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Field",
-      "album": "Now You Exist",
-      "artistKey": "the field",
-      "albumKey": "now you exist",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Death Kneel",
       "album": "Remembering Well",
       "artistKey": "death kneel",
@@ -8944,24 +8940,6 @@
           "weight": 4,
           "publishedAt": "2026-05-18",
           "url": "https://daily.bandcamp.com/album-of-the-day/death-kneel-remembering-well-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Laibach",
-      "album": "Musick",
-      "artistKey": "laibach",
-      "albumKey": "musick",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-05-18",
-          "url": "https://thequietus.com/quietus-reviews/laibach-musick-review/?utm_source=rss&utm_medium=rss&utm_campaign=laibach-musick-review"
         }
       ],
       "editorialWeight": 4,
@@ -9034,24 +9012,6 @@
           "weight": 4,
           "publishedAt": "2026-05-12",
           "url": "https://stereogum.com/2498695/album-of-the-week-touch-girl-apple-blossom-graceful/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dumama",
-      "album": "Towards An Expanse",
-      "artistKey": "dumama",
-      "albumKey": "towards an expanse",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-11",
-          "url": "https://daily.bandcamp.com/album-of-the-day/dumama-towards-an-expanse-review"
         }
       ],
       "editorialWeight": 4,
@@ -13073,20 +13033,74 @@
       "mentionCount": 1
     },
     {
-      "artist": "Moskito",
-      "album": "Idolar",
-      "artistKey": "moskito",
-      "albumKey": "idolar",
+      "artist": "Delvon Lamarr Organ Trio",
+      "album": "Chicken Leg",
+      "artistKey": "delvon lamarr organ trio",
+      "albumKey": "chicken leg",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-27",
-          "url": "https://daily.bandcamp.com/album-of-the-day/moskito-idolar-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-28",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Harry Styles",
+      "album": "Kiss All the Time. Disco, Occasionally.",
+      "artistKey": "harry styles",
+      "albumKey": "kiss all the time disco occasionally",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Irreversible Entanglements",
+      "album": "Future Present Past",
+      "artistKey": "irreversible entanglements",
+      "albumKey": "future present past",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Justine Skye",
+      "album": "CANDY",
+      "artistKey": "justine skye",
+      "albumKey": "candy",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13095,6 +13109,24 @@
       "album": "What You Want (Fcukers remix)",
       "artistKey": "angele fcukers justice and fcukers",
       "albumKey": "what you want fcukers remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Inferno",
+      "artistKey": "boards of canada",
+      "albumKey": "inferno",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13138,6 +13170,24 @@
           "weight": 3,
           "publishedAt": "2026-05-27",
           "url": "https://www.indieshuffle.com/flyingfish-spider-song/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Futurebirds",
+      "album": "Fly On",
+      "artistKey": "futurebirds",
+      "albumKey": "fly on",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-27",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -13246,6 +13296,42 @@
           "weight": 3,
           "publishedAt": "2026-05-27",
           "url": "https://www.indieshuffle.com/temper-city-self-aware/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Barr Brothers",
+      "album": "Live on KEXP",
+      "artistKey": "the barr brothers",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The War on Drugs",
+      "album": "Live on KEXP",
+      "artistKey": "the war on drugs",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-27",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -13671,24 +13757,6 @@
       "album": "El Sonido: Cancioneros Podcast Preview",
       "artistKey": "cypress hill and aleman",
       "albumKey": "el sonido cancioneros podcast preview",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ed O’Brien",
-      "album": "Blue Morpho",
-      "artistKey": "ed obrien",
-      "albumKey": "blue morpho",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14279,6 +14347,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Field",
+      "album": "Now You Exist",
+      "artistKey": "the field",
+      "albumKey": "now you exist",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Necessaries",
       "album": "Completely Necessary (Anthology 1978-1982)",
       "artistKey": "the necessaries",
@@ -14506,78 +14592,6 @@
           "weight": 3,
           "publishedAt": "2026-05-17",
           "url": "https://www.indieshuffle.com/jasper-dean-telemonkey/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "MT Jones",
-      "album": "Joy",
-      "artistKey": "mt jones",
-      "albumKey": "joy",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Spirit Adrift",
-      "album": "Infinite Illumination",
-      "artistKey": "spirit adrift",
-      "albumKey": "infinite illumination",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Teen Suicide",
-      "album": "Nude descending staircase headless",
-      "artistKey": "teen suicide",
-      "albumKey": "nude descending staircase headless",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Whitney",
-      "album": "Live on KEXP",
-      "artistKey": "whitney",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-17",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

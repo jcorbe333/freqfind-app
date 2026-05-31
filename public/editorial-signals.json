@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T09:53:19.641Z",
+  "generatedAt": "2026-05-31T10:10:07.222Z",
   "items": [
     {
       "artist": "Boards Of Canada",
@@ -750,24 +750,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Mitski",
-      "album": "The Land Is Inhospitable and So Are We",
-      "artistKey": "mitski",
-      "albumKey": "the land is inhospitable and so are we",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Model/Actriz",
       "album": "Dogsbody",
       "artistKey": "model actriz",
@@ -1017,6 +999,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Filles de Kilimanjaro",
+      "artistKey": "miles davis",
+      "albumKey": "filles de kilimanjaro",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-05-31",
+          "url": "https://pitchfork.com/reviews/albums/miles-davis-filles-de-kilimanjaro/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1391,24 +1391,6 @@
           "weight": 5,
           "publishedAt": "2026-05-20",
           "url": "https://pitchfork.com/reviews/albums/drake-habibti/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Koyo",
-      "album": "Barely Here",
-      "artistKey": "koyo",
-      "albumKey": "barely here",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-20",
-          "url": "https://pitchfork.com/reviews/albums/koyo-barely-here/"
         }
       ],
       "editorialWeight": 5,
@@ -4426,6 +4408,24 @@
       "album": "Burning Desire",
       "artistKey": "mike",
       "albumKey": "burning desire",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mitski",
+      "album": "The Land Is Inhospitable and So Are We",
+      "artistKey": "mitski",
+      "albumKey": "the land is inhospitable and so are we",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8940,24 +8940,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Mitski",
-      "album": "Nothing’s About to Happen to Me",
-      "artistKey": "mitski",
-      "albumKey": "nothings about to happen to me",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "SUSS",
       "album": "Counting Sunsets",
       "artistKey": "suss",
@@ -13062,20 +13044,74 @@
       "mentionCount": 1
     },
     {
-      "artist": "Ty Segall",
-      "album": "Possession",
-      "artistKey": "ty segall",
-      "albumKey": "possession",
+      "artist": "Special Explosion",
+      "album": "Live on KEXP",
+      "artistKey": "special explosion",
+      "albumKey": "live on kexp",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-05-30",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ty-segall-possession-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-31",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Valiant Sentinel",
+      "album": "Neverealm",
+      "artistKey": "valiant sentinel",
+      "albumKey": "neverealm",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-31",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Angine de Poitrine",
+      "album": "Vol II.",
+      "artistKey": "angine de poitrine",
+      "albumKey": "vol ii",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "eat-girls sextet",
+      "album": "Live on KEXP from Trans Musicales",
+      "artistKey": "eat girls sextet",
+      "albumKey": "live on kexp from trans musicales",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13084,6 +13120,24 @@
       "album": "STORM",
       "artistKey": "gener8ion and yung lean",
       "albumKey": "storm",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ladytron",
+      "album": "Paradises",
+      "artistKey": "ladytron",
+      "albumKey": "paradises",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14387,24 +14441,6 @@
           "weight": 3,
           "publishedAt": "2026-05-21",
           "url": "https://www.indieshuffle.com/sofi-tukker-boba/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "plash",
-      "album": "Live on KEXP",
-      "artistKey": "plash",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-20",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

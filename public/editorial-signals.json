@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T10:10:07.222Z",
+  "generatedAt": "2026-06-01T13:31:20.319Z",
   "items": [
     {
       "artist": "Boards Of Canada",
@@ -55,6 +55,31 @@
         }
       ],
       "editorialWeight": 12,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "feeble little horse",
+      "album": "bitknot",
+      "artistKey": "feeble little horse",
+      "albumKey": "bitknot",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-01",
+          "url": "https://pitchfork.com/reviews/albums/feeble-little-horse-bitknot/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-27",
+          "url": "https://daily.bandcamp.com/album-of-the-day/feeble-little-horse-bitknot-review"
+        }
+      ],
+      "editorialWeight": 11,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -1002,6 +1027,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Ecca Vandal",
+      "album": "LOOKING FOR PEOPLE TO UNFOLLOW",
+      "artistKey": "ecca vandal",
+      "albumKey": "looking for people to unfollow",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-01",
+          "url": "https://pitchfork.com/reviews/albums/ecca-vandal-looking-for-people-to-unfollow/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shye Ben Tzur Jonny Greenwood The Rajasthan Express",
+      "album": "Ranjha",
+      "artistKey": "shye ben tzur jonny greenwood the rajasthan express",
+      "albumKey": "ranjha",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-01",
+          "url": "https://pitchfork.com/reviews/albums/shye-ben-tzur-jonny-greenwood-the-rajasthan-express-ranjha/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yesterdayneverhappened",
+      "album": "search bar",
+      "artistKey": "yesterdayneverhappened",
+      "albumKey": "search bar",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-01",
+          "url": "https://pitchfork.com/reviews/albums/yesterdayneverhappened-search-bar/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Miles Davis",
       "album": "Filles de Kilimanjaro",
       "artistKey": "miles davis",
@@ -1308,24 +1387,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Hiss Golden Messenger",
-      "album": "I’m People",
-      "artistKey": "hiss golden messenger",
-      "albumKey": "im people",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-21",
-          "url": "https://pitchfork.com/reviews/albums/hiss-golden-messenger-im-people/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kenny Mason",
       "album": "BULLDAWG",
       "artistKey": "kenny mason",
@@ -1355,60 +1416,6 @@
           "weight": 5,
           "publishedAt": "2026-05-21",
           "url": "https://pitchfork.com/reviews/albums/salem-red-dragon/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Spencer Krug",
-      "album": "Same Fangs",
-      "artistKey": "spencer krug",
-      "albumKey": "same fangs",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-21",
-          "url": "https://pitchfork.com/reviews/albums/spencer-krug-same-fangs/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Drake",
-      "album": "HABIBTI",
-      "artistKey": "drake",
-      "albumKey": "habibti",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-20",
-          "url": "https://pitchfork.com/reviews/albums/drake-habibti/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lykke Li",
-      "album": "The Afterparty",
-      "artistKey": "lykke li",
-      "albumKey": "the afterparty",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-20",
-          "url": "https://pitchfork.com/reviews/albums/lykke-li-the-afterparty/"
         }
       ],
       "editorialWeight": 5,
@@ -8706,6 +8713,24 @@
       "mentionCount": 9
     },
     {
+      "artist": "Kikù Hibino and Merzbow",
+      "album": "Rococo ∞ Echomatter",
+      "artistKey": "kiku hibino and merzbow",
+      "albumKey": "rococo echomatter",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-06-01",
+          "url": "https://thequietus.com/quietus-reviews/kiku-hibino-and-merzbow-rococo-echomatter-review/?utm_source=rss&utm_medium=rss&utm_campaign=kiku-hibino-and-merzbow-rococo-echomatter-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Future Islands",
       "album": "Live on KEXP",
       "artistKey": "future islands",
@@ -8753,24 +8778,6 @@
           "weight": 4,
           "publishedAt": "2026-05-27",
           "url": "https://thequietus.com/quietus-reviews/build-buildings-x-molly-gochman-continuum-review/?utm_source=rss&utm_medium=rss&utm_campaign=build-buildings-x-molly-gochman-continuum-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "feeble little horse",
-      "album": "bitknot",
-      "artistKey": "feeble little horse",
-      "albumKey": "bitknot",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-27",
-          "url": "https://daily.bandcamp.com/album-of-the-day/feeble-little-horse-bitknot-review"
         }
       ],
       "editorialWeight": 4,
@@ -8901,24 +8908,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Phillip Golub",
-      "album": "Partisan Ship",
-      "artistKey": "phillip golub",
-      "albumKey": "partisan ship",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-05-22",
-          "url": "https://thequietus.com/quietus-reviews/phillip-golub-partisan-ship/?utm_source=rss&utm_medium=rss&utm_campaign=phillip-golub-partisan-ship"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -13044,10 +13033,208 @@
       "mentionCount": 1
     },
     {
+      "artist": "Anthony Calonico",
+      "album": "Spacious Heart",
+      "artistKey": "anthony calonico",
+      "albumKey": "spacious heart",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Frog",
+      "album": "Frog for Sale",
+      "artistKey": "frog",
+      "albumKey": "frog for sale",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Joji",
+      "album": "Hotel California",
+      "artistKey": "joji",
+      "albumKey": "hotel california",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-06-01",
+          "url": "https://www.indieshuffle.com/joji-hotel-california/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nicholas Krgovich",
+      "album": "Boss Tape",
+      "artistKey": "nicholas krgovich",
+      "albumKey": "boss tape",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rickey Kelly",
+      "album": "My Kind of Music",
+      "artistKey": "rickey kelly",
+      "albumKey": "my kind of music",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The MerkaBa Brotherhood",
+      "album": "The MerKaBa Brotherhood",
+      "artistKey": "the merkaba brotherhood",
+      "albumKey": "the merkaba brotherhood",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Necessaries",
+      "album": "Completely Necessary (Anthology 1978-1982)",
+      "artistKey": "the necessaries",
+      "albumKey": "completely necessary anthology 1978 1982",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "All Them Witches",
+      "album": "House Of Mirrors",
+      "artistKey": "all them witches",
+      "albumKey": "house of mirrors",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-31",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ladytron",
+      "album": "Paradises",
+      "artistKey": "ladytron",
+      "albumKey": "paradises",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-31",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "plash",
+      "album": "Live on KEXP",
+      "artistKey": "plash",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-31",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Special Explosion",
       "album": "Live on KEXP",
       "artistKey": "special explosion",
       "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-05-31",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tramhaus",
+      "album": "Blister",
+      "artistKey": "tramhaus",
+      "albumKey": "blister",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13134,24 +13321,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Ladytron",
-      "album": "Paradises",
-      "artistKey": "ladytron",
-      "albumKey": "paradises",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Nine Inch Nails & Boys Noize",
       "album": "Nine Inch Noize",
       "artistKey": "nine inch nails and boys noize",
@@ -13192,24 +13361,6 @@
       "album": "Trio Asesino",
       "artistKey": "adrian quesada",
       "albumKey": "trio asesino",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "All Them Witches",
-      "album": "House of Mirrors",
-      "artistKey": "all them witches",
-      "albumKey": "house of mirrors",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14196,24 +14347,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Champagne Bubblebath",
-      "album": "Mixtape: Volume One",
-      "artistKey": "champagne bubblebath",
-      "albumKey": "mixtape volume one",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Hotel Ugly",
       "album": "Shut up My Moms Calling",
       "artistKey": "hotel ugly",
@@ -14225,24 +14358,6 @@
           "weight": 3,
           "publishedAt": "2026-05-22",
           "url": "https://www.indieshuffle.com/hotel-ugly-shut-up-my-moms-calling/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jill Scott feat. Tierra Whack",
-      "album": "To Whom This May Concern",
-      "artistKey": "jill scott feat tierra whack",
-      "albumKey": "to whom this may concern",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-22",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -14279,24 +14394,6 @@
           "weight": 3,
           "publishedAt": "2026-05-22",
           "url": "https://www.indieshuffle.com/lullabies-quarter-till/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ms Ray & Nourished by Time",
-      "album": "Melt",
-      "artistKey": "ms ray and nourished by time",
-      "albumKey": "melt",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-22",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -14386,42 +14483,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-05-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Angine de Poitrine",
-      "album": "Live on KEXP",
-      "artistKey": "angine de poitrine",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lucha Luna",
-      "album": "BRILLA BRILLA",
-      "artistKey": "lucha luna",
-      "albumKey": "brilla brilla",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-21",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15143,24 +15204,6 @@
           "weight": 3,
           "publishedAt": "2026-01-07",
           "url": "https://www.indieshuffle.com/mou--sheba/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The American Dawn",
-      "album": "Her",
-      "artistKey": "the american dawn",
-      "albumKey": "her",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-01-02",
-          "url": "https://www.indieshuffle.com/the-american-dawn-her/"
         }
       ],
       "editorialWeight": 3,

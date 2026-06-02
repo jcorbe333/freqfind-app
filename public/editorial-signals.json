@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T13:31:20.319Z",
+  "generatedAt": "2026-06-02T11:59:57.984Z",
   "items": [
     {
       "artist": "Boards Of Canada",
@@ -102,31 +102,6 @@
           "weight": 5,
           "publishedAt": "2026-05-26",
           "url": "https://pitchfork.com/reviews/albums/aja-monet-the-color-of-rain/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Genesis Owusu",
-      "album": "Redstar Wu & the Worldwide Scourge",
-      "artistKey": "genesis owusu",
-      "albumKey": "redstar wu and the worldwide scourge",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-05-26",
-          "url": "https://thequietus.com/quietus-reviews/genesis-owusu-redstar-wu-the-worldwide-scourge-review/?utm_source=rss&utm_medium=rss&utm_campaign=genesis-owusu-redstar-wu-the-worldwide-scourge-review"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 11,
@@ -613,24 +588,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Model/Actriz",
-      "album": "Pirouette",
-      "artistKey": "model actriz",
-      "albumKey": "pirouette",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Bladee",
       "album": "COLD VISIONS",
       "artistKey": "bladee",
@@ -721,24 +678,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Genesis Owusu",
-      "album": "Struggler",
-      "artistKey": "genesis owusu",
-      "albumKey": "struggler",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "King Gizzard & The Lizard Wizard",
       "album": "PetroDragonic Apocalypse",
       "artistKey": "king gizzard and the lizard wizard",
@@ -761,24 +700,6 @@
       "album": "Beloved! Paradise! Jazz!?",
       "artistKey": "mckinley dixon",
       "albumKey": "beloved paradise jazz",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Model/Actriz",
-      "album": "Dogsbody",
-      "artistKey": "model actriz",
-      "albumKey": "dogsbody",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -840,24 +761,6 @@
           "weight": 5,
           "publishedAt": "2022-01-01",
           "url": "https://theneedledrop.com/loved-list/2022/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Genesis Owusu",
-      "album": "Smiling with No Teeth",
-      "artistKey": "genesis owusu",
-      "albumKey": "smiling with no teeth",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
         }
       ],
       "editorialWeight": 6,
@@ -1024,6 +927,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hyd",
+      "album": "Hold Onto Me Infinity",
+      "artistKey": "hyd",
+      "albumKey": "hold onto me infinity",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-02",
+          "url": "https://pitchfork.com/reviews/albums/hyd-hold-onto-me-infinity/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kim Petras",
+      "album": "Detour",
+      "artistKey": "kim petras",
+      "albumKey": "detour",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-02",
+          "url": "https://pitchfork.com/reviews/albums/kim-petras-detour/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mabe Fratti Bill Orcutt",
+      "album": "Almost Waking",
+      "artistKey": "mabe fratti bill orcutt",
+      "albumKey": "almost waking",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-02",
+          "url": "https://pitchfork.com/reviews/albums/mabe-fratti-bill-orcutt-almost-waking/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1315,24 +1272,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Magic Tuber Stringband",
-      "album": "Heavy Water",
-      "artistKey": "magic tuber stringband",
-      "albumKey": "heavy water",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-22",
-          "url": "https://pitchfork.com/reviews/albums/magic-tuber-stringband-heavy-water/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Porches",
       "album": "MASK",
       "artistKey": "porches",
@@ -1351,24 +1290,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Thomas Dollbaum",
-      "album": "Birds of Paradise",
-      "artistKey": "thomas dollbaum",
-      "albumKey": "birds of paradise",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-22",
-          "url": "https://pitchfork.com/reviews/albums/thomas-dollbaum-birds-of-paradise/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Visible Cloaks",
       "album": "Paradessence",
       "artistKey": "visible cloaks",
@@ -1380,42 +1301,6 @@
           "weight": 5,
           "publishedAt": "2026-05-22",
           "url": "https://pitchfork.com/reviews/albums/visible-cloaks-paradessence/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kenny Mason",
-      "album": "BULLDAWG",
-      "artistKey": "kenny mason",
-      "albumKey": "bulldawg",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-21",
-          "url": "https://pitchfork.com/reviews/albums/kenny-mason-bulldawg/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Salem",
-      "album": "Red Dragon",
-      "artistKey": "salem",
-      "albumKey": "red dragon",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-21",
-          "url": "https://pitchfork.com/reviews/albums/salem-red-dragon/"
         }
       ],
       "editorialWeight": 5,
@@ -1499,6 +1384,24 @@
       "album": "The Pleasure Is Yours",
       "artistKey": "gena",
       "albumKey": "the pleasure is yours",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Genesis Owusu",
+      "album": "Redstar Wu & the Worldwide Scourge",
+      "artistKey": "genesis owusu",
+      "albumKey": "redstar wu and the worldwide scourge",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -2489,6 +2392,24 @@
       "album": "Something Beautiful",
       "artistKey": "miley cyrus",
       "albumKey": "something beautiful",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Model/Actriz",
+      "album": "Pirouette",
+      "artistKey": "model actriz",
+      "albumKey": "pirouette",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -4105,6 +4026,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Genesis Owusu",
+      "album": "Struggler",
+      "artistKey": "genesis owusu",
+      "albumKey": "struggler",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "George Clanton",
       "album": "Ooh Rap I Ya",
       "artistKey": "george clanton",
@@ -4433,6 +4372,24 @@
       "album": "The Land Is Inhospitable and So Are We",
       "artistKey": "mitski",
       "albumKey": "the land is inhospitable and so are we",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Model/Actriz",
+      "album": "Dogsbody",
+      "artistKey": "model actriz",
+      "albumKey": "dogsbody",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -6179,6 +6136,24 @@
       "album": "Promises",
       "artistKey": "floating points pharoah sanders and the london symphony orchestra",
       "albumKey": "promises",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Genesis Owusu",
+      "album": "Smiling with No Teeth",
+      "artistKey": "genesis owusu",
+      "albumKey": "smiling with no teeth",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8677,6 +8652,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Nathan Evans Fox",
+      "album": "Heirloom",
+      "artistKey": "nathan evans fox",
+      "albumKey": "heirloom",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-01",
+          "url": "https://daily.bandcamp.com/album-of-the-day/nathan-evans-fox-heirloom-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "White Heaven",
       "album": "Next to Nothing",
       "artistKey": "white heaven",
@@ -8695,22 +8688,22 @@
       "mentionCount": 9
     },
     {
-      "artist": "Monolord",
-      "album": "Neverending",
-      "artistKey": "monolord",
-      "albumKey": "neverending",
+      "artist": "Neptune",
+      "album": "Play Some Music",
+      "artistKey": "neptune",
+      "albumKey": "play some music",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-05-28",
-          "url": "https://daily.bandcamp.com/album-of-the-day/monolord-neverending-review"
+          "publishedAt": "2026-06-02",
+          "url": "https://thequietus.com/quietus-reviews/neptune-play-some-music-review/?utm_source=rss&utm_medium=rss&utm_campaign=neptune-play-some-music-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Kikù Hibino and Merzbow",
@@ -8767,17 +8760,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Build Buildings x Molly Gochman",
-      "album": "Continuum",
-      "artistKey": "build buildings x molly gochman",
-      "albumKey": "continuum",
+      "artist": "Monolord",
+      "album": "Neverending",
+      "artistKey": "monolord",
+      "albumKey": "neverending",
       "sources": [
         {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-05-27",
-          "url": "https://thequietus.com/quietus-reviews/build-buildings-x-molly-gochman-continuum-review/?utm_source=rss&utm_medium=rss&utm_campaign=build-buildings-x-molly-gochman-continuum-review"
+          "publishedAt": "2026-05-28",
+          "url": "https://daily.bandcamp.com/album-of-the-day/monolord-neverending-review"
         }
       ],
       "editorialWeight": 4,
@@ -8796,24 +8789,6 @@
           "weight": 4,
           "publishedAt": "2026-05-26",
           "url": "https://stereogum.com/2500138/album-of-the-week-ear-rumspringa/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ava Mendoza",
-      "album": "Alive Alone, Alive Together",
-      "artistKey": "ava mendoza",
-      "albumKey": "alive alone alive together",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-05-25",
-          "url": "https://thequietus.com/quietus-reviews/ava-mendoza-alive-alone-alive-together-review/?utm_source=rss&utm_medium=rss&utm_campaign=ava-mendoza-alive-alone-alive-together-review"
         }
       ],
       "editorialWeight": 4,
@@ -8890,24 +8865,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Model/Actriz",
-      "album": "Live on KEXP",
-      "artistKey": "model actriz",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13033,6 +12990,168 @@
       "mentionCount": 1
     },
     {
+      "artist": "Austra & Patrick Holland",
+      "album": "Chin Up Buttercup",
+      "artistKey": "austra and patrick holland",
+      "albumKey": "chin up buttercup",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Balam",
+      "album": "Mambo Negro",
+      "artistKey": "balam",
+      "albumKey": "mambo negro",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Buscabulla",
+      "album": "Se Bailaba Así",
+      "artistKey": "buscabulla",
+      "albumKey": "se bailaba asi",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Courtney Bailey",
+      "album": "Jiwa Jiwa EP",
+      "artistKey": "courtney bailey",
+      "albumKey": "jiwa jiwa ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Danalogue",
+      "album": "Teleportations",
+      "artistKey": "danalogue",
+      "albumKey": "teleportations",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Emily A. Sprague",
+      "album": "Double Moon",
+      "artistKey": "emily a sprague",
+      "albumKey": "double moon",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hannah Peel & Beibei Wang",
+      "album": "The Endless Dance",
+      "artistKey": "hannah peel and beibei wang",
+      "albumKey": "the endless dance",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Peach",
+      "album": "Soak Vol. 1",
+      "artistKey": "peach",
+      "albumKey": "soak vol 1",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rare DM",
+      "album": "Attention",
+      "artistKey": "rare dm",
+      "albumKey": "attention",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Anthony Calonico",
       "album": "Spacious Heart",
       "artistKey": "anthony calonico",
@@ -13087,6 +13206,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Ladytron",
+      "album": "Live on KEXP",
+      "artistKey": "ladytron",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Midpak",
+      "album": "Torpedo",
+      "artistKey": "midpak",
+      "albumKey": "torpedo",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Nicholas Krgovich",
       "album": "Boss Tape",
       "artistKey": "nicholas krgovich",
@@ -13105,10 +13260,46 @@
       "mentionCount": 1
     },
     {
+      "artist": "plash",
+      "album": "Live on KEXP",
+      "artistKey": "plash",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Rickey Kelly",
       "album": "My Kind of Music",
       "artistKey": "rickey kelly",
       "albumKey": "my kind of music",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "SALIMATA",
+      "album": "The Happening",
+      "artistKey": "salimata",
+      "albumKey": "the happening",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13181,24 +13372,6 @@
       "album": "Paradises",
       "artistKey": "ladytron",
       "albumKey": "paradises",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-31",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "plash",
-      "album": "Live on KEXP",
-      "artistKey": "plash",
-      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14257,24 +14430,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Cage",
-      "album": "Hell's Winter",
-      "artistKey": "cage",
-      "albumKey": "hells winter",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Cypress Hill and Aleman",
       "album": "El Sonido: Cancioneros Podcast Preview",
       "artistKey": "cypress hill and aleman",
@@ -14365,24 +14520,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Just Mustard",
-      "album": "ENDLESS DEATHLESS (Daniel Avery remix)",
-      "artistKey": "just mustard",
-      "albumKey": "endless deathless daniel avery remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lullabies",
       "album": "Quarter Till",
       "artistKey": "lullabies",
@@ -14394,96 +14531,6 @@
           "weight": 3,
           "publishedAt": "2026-05-22",
           "url": "https://www.indieshuffle.com/lullabies-quarter-till/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Soft Vein",
-      "album": "Chekhov",
-      "artistKey": "soft vein",
-      "albumKey": "chekhov",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sweeping Promises",
-      "album": "You Say I Romanticize",
-      "artistKey": "sweeping promises",
-      "albumKey": "you say i romanticize",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The 1975",
-      "album": "Notes on a Conditional Form",
-      "artistKey": "the 1975",
-      "albumKey": "notes on a conditional form",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Horrors",
-      "album": "Live on KEXP",
-      "artistKey": "the horrors",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Zola Jesus",
-      "album": "Live on KEXP",
-      "artistKey": "zola jesus",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-22",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

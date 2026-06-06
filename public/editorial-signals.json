@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T11:21:26.809Z",
+  "generatedAt": "2026-06-06T09:58:11.824Z",
   "items": [
     {
       "artist": "feeble little horse",
@@ -642,6 +642,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Vince Staples",
+      "album": "Dark Times",
+      "artistKey": "vince staples",
+      "albumKey": "dark times",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Xiu Xiu",
       "album": "13\" Frank Beltrame Italian Stiletto with Bison Horn Grips",
       "artistKey": "xiu xiu",
@@ -945,6 +963,42 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Vince Staples",
+      "album": "Cry Baby",
+      "artistKey": "vince staples",
+      "albumKey": "cry baby",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 9
+    },
+    {
+      "artist": "Death Cab For Cutie",
+      "album": "I Built You a Tower",
+      "artistKey": "death cab for cutie",
+      "albumKey": "i built you a tower",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-06",
+          "url": "https://pitchfork.com/reviews/albums/death-cab-for-cutie-i-built-you-a-tower/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1301,24 +1355,6 @@
           "weight": 5,
           "publishedAt": "2026-05-29",
           "url": "https://pitchfork.com/reviews/albums/greg-mendez-beauty-land/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Car Seat Headrest",
-      "album": "Teen of Denial: Joe’s Story",
-      "artistKey": "car seat headrest",
-      "albumKey": "teen of denial joes story",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-05-28",
-          "url": "https://pitchfork.com/reviews/albums/car-seat-headrest-teen-of-denial-joes-story/"
         }
       ],
       "editorialWeight": 5,
@@ -3814,24 +3850,6 @@
       "album": "Only God Was Above Us",
       "artistKey": "vampire weekend",
       "albumKey": "only god was above us",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Vince Staples",
-      "album": "Dark Times",
-      "artistKey": "vince staples",
-      "albumKey": "dark times",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8706,24 +8724,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Visitors",
-      "album": "Motherland (Remastered 2026)",
-      "artistKey": "the visitors",
-      "albumKey": "motherland remastered 2026",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-04",
-          "url": "https://daily.bandcamp.com/album-of-the-day/the-visitors-motherland-remastered-2026-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
       "artist": "Khun Narin Electric Phin Band",
       "album": "III",
       "artistKey": "khun narin electric phin band",
@@ -8811,6 +8811,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Visitors",
+      "album": "Motherland (Remastered 2026)",
+      "artistKey": "the visitors",
+      "albumKey": "motherland remastered 2026",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-04",
+          "url": "https://daily.bandcamp.com/album-of-the-day/the-visitors-motherland-remastered-2026-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -13044,24 +13062,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Purelink",
-      "album": "Faith",
-      "artistKey": "purelink",
-      "albumKey": "faith",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/purelink-faith-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Adrian Younge",
       "album": "Younge",
       "artistKey": "adrian younge",
@@ -13116,10 +13116,46 @@
       "mentionCount": 1
     },
     {
+      "artist": "Ireke feat. Nayel Hóxò",
+      "album": "Abanije",
+      "artistKey": "ireke feat nayel hoxo",
+      "albumKey": "abanije",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Leven Kali",
       "album": "LK99",
       "artistKey": "leven kali",
       "albumKey": "lk99",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Claypool Lennon Delirium",
+      "album": "WAP",
+      "artistKey": "the claypool lennon delirium",
+      "albumKey": "wap",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14376,24 +14412,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Cassandra Lewis",
-      "album": "American Sickness",
-      "artistKey": "cassandra lewis",
-      "albumKey": "american sickness",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-27",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "flyingfish",
       "album": "Spider Song",
       "artistKey": "flyingfish",
@@ -14430,24 +14448,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Holy Fuck",
-      "album": "Event Beat",
-      "artistKey": "holy fuck",
-      "albumKey": "event beat",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-27",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lala Lala",
       "album": "Live on KEXP",
       "artistKey": "lala lala",
@@ -14470,42 +14470,6 @@
       "album": "Baltimore (live) (Supershy remix)",
       "artistKey": "nina simone",
       "albumKey": "baltimore live supershy remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-27",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Queen Rodeo",
-      "album": "Broadcast",
-      "artistKey": "queen rodeo",
-      "albumKey": "broadcast",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-27",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Suki Waterhouse",
-      "album": "Tiny Raisin",
-      "artistKey": "suki waterhouse",
-      "albumKey": "tiny raisin",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14566,132 +14530,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-05-27",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "BCUC",
-      "album": "The road is never easy",
-      "artistKey": "bcuc",
-      "albumKey": "the road is never easy",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Grrrl Gang",
-      "album": "Live on KEXP",
-      "artistKey": "grrrl gang",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lauren Lakis",
-      "album": "Deadlights",
-      "artistKey": "lauren lakis",
-      "albumKey": "deadlights",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Moses Boyd ft. Obongjayar",
-      "album": "Dark Matter",
-      "artistKey": "moses boyd ft obongjayar",
-      "albumKey": "dark matter",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Officer John",
-      "album": "Stay (Morgan Buckley remix)",
-      "artistKey": "officer john",
-      "albumKey": "stay morgan buckley remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Belair Lip Bombs",
-      "album": "Live on KEXP",
-      "artistKey": "the belair lip bombs",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "TOMORA",
-      "album": "COME CLOSER",
-      "artistKey": "tomora",
-      "albumKey": "come closer",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-26",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

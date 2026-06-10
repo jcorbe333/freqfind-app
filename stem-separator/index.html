@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>FreqFind Stems</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Silkscreen&family=VT323&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box}
+body{font-family:'VT323',monospace;font-size:20px;max-width:780px;margin:0 auto;padding:24px 20px 60px;background:#002859;color:#e8eefc;line-height:1.3}
+h1{font-family:'Silkscreen',monospace;font-size:28px;color:#ffd100;margin:0 0 4px;letter-spacing:1px}
+.subtitle{color:#68aed4;margin:0 0 20px;font-size:18px}
+.panel{background:#0a1e3d;border:2px solid #1a3559;border-radius:6px;padding:14px;margin:10px 0}
+.upload{border:2px dashed #68aed4;padding:18px;text-align:center;border-radius:6px;cursor:pointer;transition:all .15s}
+.upload:hover{background:#0a1e3d}
+.upload.has-file{border-color:#ffd100;border-style:solid;background:#0a1e3d;cursor:default}
+.search{display:flex;gap:8px;margin-top:10px}
+.search input{flex:1;background:#002859;border:2px solid #1a3559;color:#e8eefc;padding:8px 10px;font-family:inherit;font-size:18px;border-radius:4px}
+.search input:focus{outline:none;border-color:#68aed4}
+.results{margin-top:8px;max-height:240px;overflow-y:auto}
+.result{display:flex;align-items:center;gap:10px;padding:6px 8px;cursor:pointer;border-radius:4px}
+.result:hover{background:#1a3559}
+.result img{width:36px;height:36px;border-radius:3px;flex-shrink:0}
+.result-text{flex:1;min-width:0}
+.result-title{color:#fff;font-size:18px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.result-artist{color:#68aed4;font-size:16px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.result-len{color:#94216a;font-size:14px;font-family:'Silkscreen',monospace}
+button{font-family:'Silkscreen',monospace;font-size:12px;letter-spacing:1px;padding:10px 16px;cursor:pointer;border:2px solid #ffd100;background:#ffd100;color:#002859;border-radius:4px;text-transform:uppercase}
+button:hover:not(:disabled){background:#ffe44d;border-color:#ffe44d}
+button:disabled{opacity:.35;cursor:not-allowed}
+button.ghost{background:transparent;color:#e8eefc;border-color:#1a3559}
+button.ghost:hover:not(:disabled){border-color:#68aed4;background:#0a1e3d}
+.status{padding:8px 12px;margin:10px 0;border-radius:4px;font-size:17px;border-left:4px solid #68aed4;background:#0a1e3d}
+.status.running{border-left-color:#ffd100}
+.status.done{border-left-color:#3ad29f}
+.status.error{border-left-color:#ff4d6d}
+.info{font-size:15px;color:#68aed4;margin:6px 0}
+.mixer{display:none;margin-top:16px}
+.transport{display:flex;align-items:center;gap:8px;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #1a3559}
+.transport button{width:42px;height:42px;padding:0;font-size:14px;display:flex;align-items:center;justify-content:center}
+#seekBar{flex:1;height:6px;-webkit-appearance:none;appearance:none;background:#1a3559;border-radius:3px;cursor:pointer}
+#seekBar::-webkit-slider-thumb{-webkit-appearance:none;width:14px;height:14px;border-radius:50%;background:#ffd100;cursor:pointer}
+#timeDisplay{font-family:'Silkscreen',monospace;font-size:13px;min-width:100px;text-align:right;color:#68aed4}
+.tracks{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.track{display:flex;flex-direction:column;align-items:center;gap:8px;padding:12px 10px;border-radius:6px;background:#0a1e3d;border:2px solid #1a3559;width:108px}
+.track-color{width:100%;height:3px;border-radius:2px}
+.track-name{font-family:'Silkscreen',monospace;font-size:11px;letter-spacing:1px}
+.volume-wrap{display:flex;flex-direction:column;align-items:center;height:120px;justify-content:center}
+.volume-slider{-webkit-appearance:none;appearance:none;width:100px;height:4px;background:#1a3559;border-radius:2px;cursor:pointer;transform:rotate(-90deg)}
+.volume-slider::-webkit-slider-thumb{-webkit-appearance:none;width:14px;height:14px;border-radius:50%;background:#fff;cursor:pointer}
+.volume-label{font-family:'Silkscreen',monospace;font-size:10px;color:#68aed4;margin-top:4px}
+.track-btns{display:flex;gap:4px;width:100%}
+.track-btn{flex:1;height:24px;font-family:'Silkscreen',monospace;font-size:9px;padding:0;border-radius:3px;border:1px solid #1a3559;background:#002859;color:#68aed4;cursor:pointer;letter-spacing:1px}
+.track-btn:hover{background:#1a3559;color:#fff}
+.track-btn.solo-active{background:#ffd100;color:#002859;border-color:#ffd100}
+.track-btn.mute-active{background:#ff4d6d;color:#fff;border-color:#ff4d6d}
+.track-download{font-family:'Silkscreen',monospace;font-size:10px;padding:5px 0;width:100%;text-align:center;background:#94216a;border:1px solid #94216a;color:#fff;border-radius:3px;cursor:pointer;text-decoration:none;letter-spacing:1px}
+.track-download:hover{background:#b3287f;border-color:#b3287f}
+.log{background:#000;color:#3ad29f;padding:8px;overflow-y:auto;max-height:200px;font-family:'Silkscreen',monospace;font-size:10px;white-space:pre-wrap;border-radius:4px}
+details{margin-top:14px;color:#68aed4}
+summary{cursor:pointer;font-family:'Silkscreen',monospace;font-size:12px;letter-spacing:1px}
+a{color:#ffd100}
+</style>
+</head>
+<body>
+<h1>FREQFIND // STEMS</h1>
+<p class="subtitle">vocals · drums · bass · other — separated in your browser</p>
+
+<div class="panel">
+  <div class="upload" id="uploadArea" onclick="document.getElementById('fileInput').click()">
+    <p id="uploadText" style="margin:0">Drop an audio file or click to select</p>
+    <input type="file" id="fileInput" accept="audio/*" style="display:none">
+  </div>
+  <div class="search">
+    <input id="searchInput" placeholder="…or search for a song (30s preview)" autocomplete="off">
+    <button class="ghost" onclick="document.getElementById('searchInput').value='';document.getElementById('results').innerHTML=''">Clear</button>
+  </div>
+  <div id="results" class="results"></div>
+</div>
+
+<div style="margin:14px 0">
+  <button id="btnRun" onclick="runSeparation()" disabled>Separate Stems</button>
+  <span class="info" id="threadingInfo" style="margin-left:10px"></span>
+</div>
+
+<div id="status" class="status" style="display:none"></div>
+
+<div class="mixer panel" id="mixer">
+  <div class="transport">
+    <button id="btnPlay" onclick="togglePlay()" title="Play/Pause">&#9654;</button>
+    <button onclick="stopPlayback()" title="Stop">&#9632;</button>
+    <input type="range" id="seekBar" min="0" max="1000" value="0" oninput="seek(this.value/1000)">
+    <span id="timeDisplay">0:00 / 0:00</span>
+  </div>
+  <div class="tracks" id="tracks"></div>
+</div>
+
+<details>
+  <summary>Log</summary>
+  <div class="log" id="log"></div>
+</details>
+
+<details>
+  <summary>How to run</summary>
+  <p style="font-size:15px">Open a terminal in this folder and run <code style="color:#ffd100">./start.sh</code> (macOS/Linux) or <code style="color:#ffd100">start.bat</code> (Windows). A local server is required so the engine can use multi-threading; opening the HTML directly won't work.</p>
+</details>
+
+<script src="coi-serviceworker.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.21.0/dist/ort.all.min.js" crossorigin="anonymous"></script>
+<script>
+const MODEL_URL='https://huggingface.co/elicwhite/scnet-browser-onnx/resolve/main/scnet_base.onnx';
+const STEMS=[
+  {id:'drums',label:'DRUMS',color:'#ff6b35'},
+  {id:'bass',label:'BASS',color:'#68aed4'},
+  {id:'other',label:'OTHER',color:'#3ad29f'},
+  {id:'vocals',label:'VOCALS',color:'#94216a'},
+];
+const SR=44100,N_FFT=4096,HOP_SIZE=1024,CHUNK_SIZE=485100,TARGET_PADDED=(476-1)*HOP_SIZE+N_FFT;
+
+let rawAudioData=null,onnxSession=null,audioCtx=null;
+const tracks={};
+let isPlaying=false,playStartTime=0,playOffset=0,totalDuration=0,animFrame=null;
+
+ort.env.wasm.wasmPaths='https://cdn.jsdelivr.net/npm/onnxruntime-web@1.21.0/dist/';
+const hasSAB=typeof SharedArrayBuffer!=='undefined';
+document.getElementById('threadingInfo').textContent=hasSAB
+  ?`Multi-threaded WASM (${navigator.hardwareConcurrency||4} threads)`
+  :'Single-threaded — reload after service worker registers for speed';
+
+// ---- Upload ----
+const fileInput=document.getElementById('fileInput'),uploadArea=document.getElementById('uploadArea'),uploadText=document.getElementById('uploadText');
+fileInput.addEventListener('change',e=>loadFile(e.target.files[0]));
+uploadArea.addEventListener('dragover',e=>{e.preventDefault();uploadArea.style.borderColor='#ffd100'});
+uploadArea.addEventListener('dragleave',()=>{uploadArea.style.borderColor=rawAudioData?'#ffd100':'#68aed4'});
+uploadArea.addEventListener('drop',e=>{e.preventDefault();loadFile(e.dataTransfer.files[0])});
+
+async function loadFile(file){
+  if(!file)return;
+  uploadText.textContent=`Loading ${file.name}…`;
+  try{
+    const arrayBuf=await file.arrayBuffer();
+    const ctx=new OfflineAudioContext(2,1,SR);
+    const audioBuf=await ctx.decodeAudioData(arrayBuf);
+    const left=audioBuf.getChannelData(0);
+    const right=audioBuf.numberOfChannels>1?audioBuf.getChannelData(1):new Float32Array(left);
+    rawAudioData={left,right};
+    totalDuration=left.length/SR;
+    uploadText.textContent=`${file.name} — ${totalDuration.toFixed(1)}s, ${audioBuf.numberOfChannels}ch`;
+    uploadArea.classList.add('has-file');
+    document.getElementById('btnRun').disabled=false;
+    log(`Loaded: ${file.name} — ${totalDuration.toFixed(1)}s, ${audioBuf.numberOfChannels}ch`);
+  }catch(err){
+    uploadText.textContent=`Failed to decode: ${err.message}`;
+    log(`Decode error: ${err.message}`);
+  }
+}
+
+async function loadFromUrl(url,name){
+  uploadText.textContent=`Fetching ${name}…`;
+  try{
+    const r=await fetch(url);
+    if(!r.ok)throw new Error('HTTP '+r.status);
+    const blob=await r.blob();
+    await loadFile(new File([blob],name,{type:blob.type||'audio/mp4'}));
+  }catch(err){
+    uploadText.textContent=`Fetch failed: ${err.message}`;
+    log(`Fetch error: ${err.message}`);
+  }
+}
+
+// ---- iTunes search (CORS-friendly, no key, 30s previews) ----
+const searchInput=document.getElementById('searchInput'),resultsEl=document.getElementById('results');
+let searchTimer=null;
+searchInput.addEventListener('input',()=>{
+  clearTimeout(searchTimer);
+  const q=searchInput.value.trim();
+  if(q.length<2){resultsEl.innerHTML='';return}
+  searchTimer=setTimeout(()=>doSearch(q),250);
+});
+
+async function doSearch(term){
+  try{
+    const r=await fetch(`https://itunes.apple.com/search?term=${encodeURIComponent(term)}&entity=musicTrack&limit=8`);
+    const d=await r.json();
+    resultsEl.innerHTML='';
+    (d.results||[]).filter(t=>t.previewUrl).forEach(t=>{
+      const div=document.createElement('div');
+      div.className='result';
+      div.innerHTML=`<img src="${t.artworkUrl60||''}" alt=""><div class="result-text"><div class="result-title">${escapeHtml(t.trackName)}</div><div class="result-artist">${escapeHtml(t.artistName)}</div></div><span class="result-len">30s</span>`;
+      div.onclick=()=>{loadFromUrl(t.previewUrl,`${t.artistName} - ${t.trackName}.m4a`);resultsEl.innerHTML='';searchInput.value=`${t.artistName} — ${t.trackName}`};
+      resultsEl.appendChild(div);
+    });
+    if(!resultsEl.children.length)resultsEl.innerHTML='<div class="info" style="padding:6px 8px">No results</div>';
+  }catch(err){
+    resultsEl.innerHTML=`<div class="info" style="padding:6px 8px">Search failed: ${escapeHtml(err.message)}</div>`;
+  }
+}
+function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+
+// ---- Logging & status ----
+function log(m){const el=document.getElementById('log');el.textContent+=m+'\n';el.scrollTop=el.scrollHeight}
+function setStatus(m,t){const el=document.getElementById('status');el.style.display='block';el.className='status '+t;el.textContent=m}
+
+// ---- FFT / STFT (from sevagh/free-music-demixer + elicwhite/scnet-web-wasm, MIT) ----
+function fft(re,im,N){let j=0;for(let i=0;i<N-1;i++){if(i<j){let t=re[i];re[i]=re[j];re[j]=t;t=im[i];im[i]=im[j];im[j]=t}let m=N>>1;while(m>=1&&j>=m){j-=m;m>>=1}j+=m}
+  for(let s=2;s<=N;s*=2){const h=s/2,st=-2*Math.PI/s;for(let i=0;i<N;i+=s)for(let k=0;k<h;k++){const a=st*k,wr=Math.cos(a),wi=Math.sin(a),i1=i+k,i2=i+k+h,tr=wr*re[i2]-wi*im[i2],ti=wr*im[i2]+wi*re[i2];re[i2]=re[i1]-tr;im[i2]=im[i1]-ti;re[i1]+=tr;im[i1]+=ti}}}
+function ifft(re,im,N){for(let i=0;i<N;i++)im[i]=-im[i];fft(re,im,N);for(let i=0;i<N;i++){re[i]/=N;im[i]=-im[i]/N}}
+function stft(sig,nF,h){const nFr=nF/2+1,nFm=Math.floor((sig.length-nF)/h)+1,rP=new Float32Array(nFr*nFm),iP=new Float32Array(nFr*nFm),sc=1/Math.sqrt(nF),re=new Float32Array(nF),im=new Float32Array(nF);
+  for(let t=0;t<nFm;t++){const o=t*h;re.fill(0);im.fill(0);for(let n=0;n<nF;n++)re[n]=sig[o+n];fft(re,im,nF);for(let k=0;k<nFr;k++){rP[k*nFm+t]=re[k]*sc;iP[k*nFm+t]=im[k]*sc}}
+  return{real:rP,imag:iP,nFreqs:nFr,nFrames:nFm}}
+function istft(re_,im_,nFr,nFm,nF,h){const oL=(nFm-1)*h+nF,out=new Float32Array(oL),wS=new Float32Array(oL),sc=1/Math.sqrt(nF),re=new Float32Array(nF),im=new Float32Array(nF);
+  for(let t=0;t<nFm;t++){const o=t*h;re.fill(0);im.fill(0);for(let k=0;k<nFr;k++){re[k]=re_[k*nFm+t];im[k]=im_[k*nFm+t]}for(let k=1;k<nFr-1;k++){re[nF-k]=re[k];im[nF-k]=-im[k]}ifft(re,im,nF);for(let n=0;n<nF;n++){out[o+n]+=re[n]*sc*nF;wS[o+n]+=1}}
+  for(let i=0;i<oL;i++)if(wS[i]>0)out[i]/=wS[i];return out}
+
+function prepareChunk(left,right,start,sz){const pad=TARGET_PADDED,padding=pad-sz,lP=new Float32Array(pad),rP=new Float32Array(pad),cL=Math.min(sz,left.length-start);lP.set(left.subarray(start,start+cL));rP.set(right.subarray(start,start+cL));return{leftPad:lP,rightPad:rP,padding}}
+function audioToModelInput(lS,rS){const Fr=lS.nFreqs,T=lS.nFrames,inp=new Float32Array(4*Fr*T);inp.set(lS.real,0);inp.set(lS.imag,Fr*T);inp.set(rS.real,2*Fr*T);inp.set(rS.imag,3*Fr*T);return{data:inp,dims:[1,4,Fr,T]}}
+function extractStem(o,si,Fr,T,padding){const b=si*4*Fr*T,l=istft(o.subarray(b,b+Fr*T),o.subarray(b+Fr*T,b+2*Fr*T),Fr,T,N_FFT,HOP_SIZE),r=istft(o.subarray(b+2*Fr*T,b+3*Fr*T),o.subarray(b+3*Fr*T,b+4*Fr*T),Fr,T,N_FFT,HOP_SIZE),tL=l.length-padding;return{left:l.subarray(0,tL),right:r.subarray(0,tL)}}
+
+function createWav(L,R,sr){const n=L.length,ch=2,bps=4,d=n*ch*bps,buf=new ArrayBuffer(44+d),v=new DataView(buf),w=(o,s)=>{for(let i=0;i<s.length;i++)v.setUint8(o+i,s.charCodeAt(i))};
+  w(0,'RIFF');v.setUint32(4,36+d,true);w(8,'WAVE');w(12,'fmt ');v.setUint32(16,16,true);v.setUint16(20,3,true);v.setUint16(22,ch,true);v.setUint32(24,sr,true);v.setUint32(28,sr*ch*bps,true);v.setUint16(32,ch*bps,true);v.setUint16(34,bps*8,true);w(36,'data');v.setUint32(40,d,true);
+  const s=new Float32Array(buf,44);for(let i=0;i<n;i++){s[i*2]=L[i];s[i*2+1]=R[i]}return new Blob([buf],{type:'audio/wav'})}
+
+async function getSession(){
+  if(onnxSession)return onnxSession;
+  const opts={executionProviders:['wasm'],graphOptimizationLevel:'all',enableCpuMemArena:true,enableMemPattern:true};
+  ort.env.wasm.numThreads=navigator.hardwareConcurrency||4;
+  ort.env.wasm.simd=true;
+  log(`Loading model (WASM, ${ort.env.wasm.numThreads} threads, SAB=${hasSAB})…`);
+  const t0=performance.now();
+  onnxSession=await ort.InferenceSession.create(MODEL_URL,opts);
+  log(`  Loaded in ${((performance.now()-t0)/1000).toFixed(1)}s`);
+  return onnxSession;
+}
+
+async function runSeparation(){
+  if(!rawAudioData)return;
+  document.getElementById('btnRun').disabled=true;
+  try{
+    stopPlayback();
+    setStatus('Starting…','running');
+    log('\n=== Separation ===');
+    const sess=await getSession();
+    const{left,right}=rawAudioData,total=left.length,starts=[];
+    for(let s=0;s<total;s+=CHUNK_SIZE)starts.push(s);
+    log(`Processing ${starts.length} chunk(s) (${totalDuration.toFixed(1)}s)…`);
+    const acc={};STEMS.forEach(s=>{acc[s.id]={left:new Float32Array(total),right:new Float32Array(total)}});
+    const CF=2048;let modelT=0;const tS=performance.now();
+    for(let ci=0;ci<starts.length;ci++){
+      const start=starts[ci],sz=Math.min(CHUNK_SIZE,total-start),{leftPad,rightPad,padding}=prepareChunk(left,right,start,CHUNK_SIZE);
+      const lS=stft(leftPad,N_FFT,HOP_SIZE),rS=stft(rightPad,N_FFT,HOP_SIZE);
+      const mIn=audioToModelInput(lS,rS),inT=new ort.Tensor('float32',mIn.data,mIn.dims);
+      const tM=performance.now();
+      const res=await sess.run({spectrogram:inT});
+      modelT+=(performance.now()-tM)/1000;
+      const out=res.separated.data;
+      STEMS.forEach((stem,idx)=>{
+        const a=extractStem(out,idx,lS.nFreqs,lS.nFrames,padding),cL=Math.min(sz,a.left.length),aL=acc[stem.id].left,aR=acc[stem.id].right;
+        if(ci===0){for(let i=0;i<cL;i++){aL[start+i]=a.left[i];aR[start+i]=a.right[i]}}
+        else{const fL=Math.min(CF,cL);for(let i=0;i<fL;i++){const w=i/fL;aL[start+i]=aL[start+i]*(1-w)+a.left[i]*w;aR[start+i]=aR[start+i]*(1-w)+a.right[i]*w}for(let i=fL;i<cL;i++){aL[start+i]=a.left[i];aR[start+i]=a.right[i]}}
+      });
+      inT.dispose();
+      setStatus(`Chunk ${ci+1}/${starts.length}`,'running');
+      log(`  Chunk ${ci+1}/${starts.length} — model=${((performance.now()-tM)/1000).toFixed(1)}s`);
+    }
+    const total_t=(performance.now()-tS)/1000;
+    log(`\nTotal: ${total_t.toFixed(1)}s (${(totalDuration/total_t).toFixed(2)}x realtime)`);
+    buildMixer(acc);
+    setStatus(`Done — ${total_t.toFixed(1)}s (${(totalDuration/total_t).toFixed(2)}x realtime)`,'done');
+  }catch(err){
+    log(`\nERROR: ${err.message}\n${err.stack}`);
+    setStatus(`Error: ${err.message}`,'error');
+  }finally{
+    document.getElementById('btnRun').disabled=!rawAudioData;
+  }
+}
+
+// ---- Mixer ----
+function floatsToAudioBuffer(L,R){const b=audioCtx.createBuffer(2,L.length,SR);b.getChannelData(0).set(L);b.getChannelData(1).set(R);return b}
+function buildMixer(data){
+  if(!audioCtx)audioCtx=new AudioContext({sampleRate:SR});
+  for(const t of Object.values(tracks))if(t.gain)t.gain.disconnect();
+  for(const k of Object.keys(tracks))delete tracks[k];
+  STEMS.forEach(s=>{
+    const g=audioCtx.createGain();g.connect(audioCtx.destination);
+    tracks[s.id]={buffer:floatsToAudioBuffer(data[s.id].left,data[s.id].right),gain:g,source:null,volume:1,muted:false,soloed:false,wavBlob:createWav(data[s.id].left,data[s.id].right,SR)};
+  });
+  const og=audioCtx.createGain();og.connect(audioCtx.destination);
+  tracks.original={buffer:floatsToAudioBuffer(rawAudioData.left,rawAudioData.right),gain:og,source:null,volume:1,muted:true,soloed:false,wavBlob:null};
+  playOffset=0;isPlaying=false;renderTracks();document.getElementById('mixer').style.display='block';updateTimeDisplay();
+}
+function renderTracks(){
+  const c=document.getElementById('tracks');c.innerHTML='';
+  const all=[...STEMS,{id:'original',label:'ORIG',color:'#68aed4'}];
+  all.forEach(it=>{const t=tracks[it.id];const d=document.createElement('div');d.className='track';
+    d.innerHTML=`<div class="track-color" style="background:${it.color}"></div><span class="track-name" style="color:${it.color}">${it.label}</span>
+      <div class="volume-wrap"><input type="range" class="volume-slider" min="0" max="100" value="${Math.round(t.volume*100)}" oninput="setVolume('${it.id}',this.value/100)" style="accent-color:${it.color}"><span class="volume-label" id="vol-${it.id}">${Math.round(t.volume*100)}%</span></div>
+      <div class="track-btns"><button class="track-btn ${t.soloed?'solo-active':''}" onclick="toggleSolo('${it.id}')">solo</button><button class="track-btn ${t.muted?'mute-active':''}" onclick="toggleMute('${it.id}')">mute</button></div>
+      ${it.id!=='original'?`<a class="track-download" href="${URL.createObjectURL(t.wavBlob)}" download="${it.id}.wav">WAV</a>`:''}`;
+    c.appendChild(d);
+  });updateGains();
+}
+function togglePlay(){isPlaying?pausePlayback():startPlayback()}
+function startPlayback(){if(isPlaying||!audioCtx)return;if(audioCtx.state==='suspended')audioCtx.resume();
+  for(const t of Object.values(tracks)){const s=audioCtx.createBufferSource();s.buffer=t.buffer;s.connect(t.gain);s.start(0,playOffset);t.source=s}
+  const f=Object.values(tracks)[0];if(f?.source)f.source.onended=()=>{if(isPlaying&&getCurrentTime()>=totalDuration-0.05)stopPlayback()};
+  playStartTime=audioCtx.currentTime;isPlaying=true;document.getElementById('btnPlay').innerHTML='&#9646;&#9646;';updateLoop()}
+function pausePlayback(){if(!isPlaying)return;playOffset=getCurrentTime();for(const t of Object.values(tracks))if(t.source){t.source.onended=null;t.source.stop();t.source=null}isPlaying=false;document.getElementById('btnPlay').innerHTML='&#9654;';if(animFrame){cancelAnimationFrame(animFrame);animFrame=null}updateTimeDisplay()}
+function stopPlayback(){pausePlayback();playOffset=0;updateTimeDisplay()}
+function seek(f){const w=isPlaying;if(w)pausePlayback();playOffset=Math.max(0,Math.min(f*totalDuration,totalDuration));if(w)startPlayback();else updateTimeDisplay()}
+function getCurrentTime(){return isPlaying?Math.min(playOffset+(audioCtx.currentTime-playStartTime),totalDuration):playOffset}
+function updateLoop(){if(!isPlaying)return;updateTimeDisplay();animFrame=requestAnimationFrame(updateLoop)}
+function updateTimeDisplay(){const c=getCurrentTime(),fmt=s=>{const m=Math.floor(s/60);return`${m}:${String(Math.floor(s%60)).padStart(2,'0')}`};document.getElementById('timeDisplay').textContent=`${fmt(c)} / ${fmt(totalDuration)}`;document.getElementById('seekBar').value=totalDuration>0?(c/totalDuration*1000):0}
+function setVolume(id,v){tracks[id].volume=v;document.getElementById('vol-'+id).textContent=Math.round(v*100)+'%';updateGains()}
+function toggleMute(id){tracks[id].muted=!tracks[id].muted;renderTracks()}
+function toggleSolo(id){tracks[id].soloed=!tracks[id].soloed;renderTracks()}
+function updateGains(){const any=Object.values(tracks).some(t=>t.soloed);for(const t of Object.values(tracks))t.gain.gain.value=(t.muted||(any&&!t.soloed))?0:t.volume}
+</script>
+</body>
+</html>

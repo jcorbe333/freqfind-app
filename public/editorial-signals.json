@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T11:34:30.673Z",
+  "generatedAt": "2026-06-11T12:05:51.122Z",
   "items": [
     {
       "artist": "Vince Staples",
@@ -245,31 +245,6 @@
           "weight": 4,
           "publishedAt": "2025-06-11",
           "url": "https://daily.bandcamp.com/album-of-the-day/annahstasia-tether-review"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "McKinley Dixon",
-      "album": "Magic, Alive!",
-      "artistKey": "mckinley dixon",
-      "albumKey": "magic alive",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-10",
-          "url": "https://daily.bandcamp.com/album-of-the-day/mckinley-dixon-magic-alive-review"
         },
         {
           "sourceId": "needle-drop-loved-list",
@@ -617,24 +592,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "McKinley Dixon",
-      "album": "Beloved! Paradise! Jazz!?",
-      "artistKey": "mckinley dixon",
-      "albumKey": "beloved paradise jazz",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Navy Blue",
       "album": "Ways of Knowing",
       "artistKey": "navy blue",
@@ -657,6 +614,24 @@
       "album": "Super Sn​õ​õ​per",
       "artistKey": "snooper",
       "albumKey": "super sn o o per",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tinashe",
+      "album": "BB/ANG3L",
+      "artistKey": "tinashe",
+      "albumKey": "bb ang3l",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -902,6 +877,78 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kane Parsons Edo Van Breemen",
+      "album": "Backrooms (Original Soundtrack)",
+      "artistKey": "kane parsons edo van breemen",
+      "albumKey": "backrooms original soundtrack",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-11",
+          "url": "https://pitchfork.com/reviews/albums/kane-parsons-edo-van-breemen-backrooms-original-soundtrack/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Katzpascale",
+      "album": "ELEGY EP",
+      "artistKey": "katzpascale",
+      "albumKey": "elegy ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-11",
+          "url": "https://pitchfork.com/reviews/albums/katzpascale-elegy-ep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Six Sex",
+      "album": "ULTRA",
+      "artistKey": "six sex",
+      "albumKey": "ultra",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-11",
+          "url": "https://pitchfork.com/reviews/albums/six-sex-ultra/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yhwh Nailgun",
+      "album": "Magazine",
+      "artistKey": "yhwh nailgun",
+      "albumKey": "magazine",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-11",
+          "url": "https://pitchfork.com/reviews/albums/yhwh-nailgun-magazine/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1301,60 +1348,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Hyd",
-      "album": "Hold Onto Me Infinity",
-      "artistKey": "hyd",
-      "albumKey": "hold onto me infinity",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-02",
-          "url": "https://pitchfork.com/reviews/albums/hyd-hold-onto-me-infinity/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kim Petras",
-      "album": "Detour",
-      "artistKey": "kim petras",
-      "albumKey": "detour",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-02",
-          "url": "https://pitchfork.com/reviews/albums/kim-petras-detour/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mabe Fratti Bill Orcutt",
-      "album": "Almost Waking",
-      "artistKey": "mabe fratti bill orcutt",
-      "albumKey": "almost waking",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-02",
-          "url": "https://pitchfork.com/reviews/albums/mabe-fratti-bill-orcutt-almost-waking/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kim Gordon",
       "album": "PLAY ME",
       "artistKey": "kim gordon",
@@ -1708,6 +1701,24 @@
           "weight": 4,
           "publishedAt": "2025-10-21",
           "url": "https://daily.bandcamp.com/album-of-the-day/sudan-archives-the-bpm-review"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Aphex Twin",
+      "album": "Surfing On Sine Waves (Expanded Edition)",
+      "artistKey": "aphex twin",
+      "albumKey": "surfing on sine waves expanded edition",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-09-25",
+          "url": "https://daily.bandcamp.com/album-of-the-day/aphex-twin-surfing-on-sine-waves-expanded-edition-review"
         }
       ],
       "editorialWeight": 5,
@@ -2403,6 +2414,24 @@
       "album": "Pain to Power",
       "artistKey": "maruja",
       "albumKey": "pain to power",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "McKinley Dixon",
+      "album": "Magic, Alive!",
+      "artistKey": "mckinley dixon",
+      "albumKey": "magic alive",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -4415,6 +4444,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "McKinley Dixon",
+      "album": "Beloved! Paradise! Jazz!?",
+      "artistKey": "mckinley dixon",
+      "albumKey": "beloved paradise jazz",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "MIKE",
       "album": "Burning Desire",
       "artistKey": "mike",
@@ -4761,24 +4808,6 @@
       "album": "Everything Harmony",
       "artistKey": "the lemon twigs",
       "albumKey": "everything harmony",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tinashe",
-      "album": "BB/ANG3L",
-      "artistKey": "tinashe",
-      "albumKey": "bb ang3l",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8663,6 +8692,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Various Artists",
+      "album": "Mzansi Bass curated by Shannen SP",
+      "artistKey": "various artists",
+      "albumKey": "mzansi bass curated by shannen sp",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-10",
+          "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-mzansi-bass-curated-by-shannen-sp-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Diles Que No Me Maten",
       "album": "Escrito en Agua",
       "artistKey": "diles que no me maten",
@@ -8681,22 +8728,58 @@
       "mentionCount": 9
     },
     {
-      "artist": "Neptune",
-      "album": "Play Some Music",
-      "artistKey": "neptune",
-      "albumKey": "play some music",
+      "artist": "Bill Orcutt & Mabe Fratti",
+      "album": "Almost Waking",
+      "artistKey": "bill orcutt and mabe fratti",
+      "albumKey": "almost waking",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-06-08",
-          "url": "https://daily.bandcamp.com/album-of-the-day/neptune-play-some-music-review"
+          "publishedAt": "2026-06-11",
+          "url": "https://thequietus.com/quietus-reviews/bill-orcutt-mabe-fratti-almost-waking-review/?utm_source=rss&utm_medium=rss&utm_campaign=bill-orcutt-mabe-fratti-almost-waking-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tinashe",
+      "album": "Too Easy",
+      "artistKey": "tinashe",
+      "albumKey": "too easy",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Aphex Twin",
+      "album": "Dj-Kicks",
+      "artistKey": "aphex twin",
+      "albumKey": "dj kicks",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Gelli Haha",
@@ -8771,53 +8854,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Khun Narin Electric Phin Band",
-      "album": "III",
-      "artistKey": "khun narin electric phin band",
-      "albumKey": "iii",
+      "artist": "Neptune",
+      "album": "Play Some Music",
+      "artistKey": "neptune",
+      "albumKey": "play some music",
       "sources": [
         {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-06-05",
-          "url": "https://thequietus.com/quietus-reviews/khun-narin-electric-phin-band-iii-review/?utm_source=rss&utm_medium=rss&utm_campaign=khun-narin-electric-phin-band-iii-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lee “Scratch” Perry & Mouse on Mars",
-      "album": "Spatial, No Problem.",
-      "artistKey": "lee scratch perry and mouse on mars",
-      "albumKey": "spatial no problem",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-05",
-          "url": "https://thequietus.com/quietus-reviews/lee-scratch-perry-mouse-on-mars-spatial-no-problem-review/?utm_source=rss&utm_medium=rss&utm_campaign=lee-scratch-perry-mouse-on-mars-spatial-no-problem-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fire-Toolz",
-      "album": "Lavender Networks",
-      "artistKey": "fire toolz",
-      "albumKey": "lavender networks",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-04",
-          "url": "https://thequietus.com/quietus-reviews/fire-toolz-lavender-networks/?utm_source=rss&utm_medium=rss&utm_campaign=fire-toolz-lavender-networks"
+          "publishedAt": "2026-06-08",
+          "url": "https://daily.bandcamp.com/album-of-the-day/neptune-play-some-music-review"
         }
       ],
       "editorialWeight": 4,
@@ -11669,24 +11716,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Aphex Twin",
-      "album": "Surfing On Sine Waves (Expanded Edition)",
-      "artistKey": "aphex twin",
-      "albumKey": "surfing on sine waves expanded edition",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-25",
-          "url": "https://daily.bandcamp.com/album-of-the-day/aphex-twin-surfing-on-sine-waves-expanded-edition-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "múm",
       "album": "History of Silence",
       "artistKey": "mum",
@@ -13037,6 +13066,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Champagne Bubblebath",
+      "album": "Mixtape: Volume One",
+      "artistKey": "champagne bubblebath",
+      "albumKey": "mixtape volume one",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "COMBAT//MOMMY",
+      "album": "It's All Love, I'm Not Sorry",
+      "artistKey": "combat mommy",
+      "albumKey": "its all love im not sorry",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Courtney Barnett",
+      "album": "Creature of Habit",
+      "artistKey": "courtney barnett",
+      "albumKey": "creature of habit",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "CocoRosie",
+      "album": "Live on KEXP",
+      "artistKey": "cocorosie",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Dina Ögon",
       "album": "Människobarn",
       "artistKey": "dina ogon",
@@ -13076,6 +13177,24 @@
       "artist": "Lyrics Born",
       "album": "Live on KEXP",
       "artistKey": "lyrics born",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Maya Hawke",
+      "album": "Live on KEXP",
+      "artistKey": "maya hawke",
       "albumKey": "live on kexp",
       "sources": [
         {
@@ -13426,24 +13545,6 @@
           "weight": 3,
           "publishedAt": "2026-06-09",
           "url": "https://www.indieshuffle.com/tyler-ballgame-for-the-first-time-again/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Courtney Barnett",
-      "album": "Creature of Habit",
-      "artistKey": "courtney barnett",
-      "albumKey": "creature of habit",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-08",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -13905,42 +14006,6 @@
       "album": "Atabasca",
       "artistKey": "atabasca",
       "albumKey": "atabasca",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Champagne Bubblebath",
-      "album": "Mixtape: Volume One",
-      "artistKey": "champagne bubblebath",
-      "albumKey": "mixtape volume one",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "COMBAT//MOMMY",
-      "album": "It's All Love, I'm Not Sorry",
-      "artistKey": "combat mommy",
-      "albumKey": "its all love im not sorry",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14685,78 +14750,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "All Them Witches",
-      "album": "House Of Mirrors",
-      "artistKey": "all them witches",
-      "albumKey": "house of mirrors",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-31",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ladytron",
-      "album": "Paradises",
-      "artistKey": "ladytron",
-      "albumKey": "paradises",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-31",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tramhaus",
-      "album": "Blister",
-      "artistKey": "tramhaus",
-      "albumKey": "blister",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-31",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Valiant Sentinel",
-      "album": "Neverealm",
-      "artistKey": "valiant sentinel",
-      "albumKey": "neverealm",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-05-31",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

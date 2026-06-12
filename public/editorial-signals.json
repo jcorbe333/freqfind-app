@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T12:05:51.122Z",
+  "generatedAt": "2026-06-12T11:39:47.516Z",
   "items": [
     {
       "artist": "Vince Staples",
@@ -34,49 +34,24 @@
       "mentionCount": 3
     },
     {
-      "artist": "Iceage",
-      "album": "For Love of Grace & the Hereafter",
-      "artistKey": "iceage",
-      "albumKey": "for love of grace and the hereafter",
+      "artist": "Yhwh Nailgun",
+      "album": "Magazine",
+      "artistKey": "yhwh nailgun",
+      "albumKey": "magazine",
       "sources": [
         {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-03",
-          "url": "https://pitchfork.com/reviews/albums/iceage-for-love-of-grace-and-the-hereafter/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 12,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "ear",
-      "album": "Rumspringa",
-      "artistKey": "ear",
-      "albumKey": "rumspringa",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-03",
-          "url": "https://pitchfork.com/reviews/albums/ear-rumspringa/"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-05-26",
-          "url": "https://stereogum.com/2500138/album-of-the-week-ear-rumspringa/reviews/album-of-the-week/"
+          "publishedAt": "2026-06-12",
+          "url": "https://thequietus.com/quietus-reviews/yhwh-nailgun-magazine-review/?utm_source=rss&utm_medium=rss&utm_campaign=yhwh-nailgun-magazine-review"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-11",
+          "url": "https://pitchfork.com/reviews/albums/yhwh-nailgun-magazine/"
         }
       ],
       "editorialWeight": 11,
@@ -234,27 +209,27 @@
       "mentionCount": 2
     },
     {
-      "artist": "Annahstasia",
-      "album": "Tether",
-      "artistKey": "annahstasia",
-      "albumKey": "tether",
+      "artist": "Baauer",
+      "album": "U",
+      "artistKey": "baauer",
+      "albumKey": "u",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-11",
-          "url": "https://daily.bandcamp.com/album-of-the-day/annahstasia-tether-review"
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-12",
+          "url": "https://pitchfork.com/reviews/albums/baauer-u/"
         },
         {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-02",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 11,
+      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -484,6 +459,24 @@
       "mentionCount": 2
     },
     {
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "artistKey": "olivia rodrigo",
+      "albumKey": "you seem pretty sad for a girl so in love",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-12",
+          "url": "https://pitchfork.com/reviews/albums/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Navy Blue",
       "album": "Sir Render",
       "artistKey": "navy blue",
@@ -596,6 +589,24 @@
       "album": "Ways of Knowing",
       "artistKey": "navy blue",
       "albumKey": "ways of knowing",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "album": "GUTS",
+      "artistKey": "olivia rodrigo",
+      "albumKey": "guts",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -880,6 +891,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Ali Sethi Gregory Rogove",
+      "album": "Room Jhoom",
+      "artistKey": "ali sethi gregory rogove",
+      "albumKey": "room jhoom",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-12",
+          "url": "https://pitchfork.com/reviews/albums/ali-sethi-gregory-rogove-room-jhoom/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Skrillex",
+      "album": "SOMA",
+      "artistKey": "skrillex",
+      "albumKey": "soma",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-12",
+          "url": "https://pitchfork.com/reviews/albums/skrillex-soma/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Kane Parsons Edo Van Breemen",
       "album": "Backrooms (Original Soundtrack)",
       "artistKey": "kane parsons edo van breemen",
@@ -927,24 +974,6 @@
           "weight": 5,
           "publishedAt": "2026-06-11",
           "url": "https://pitchfork.com/reviews/albums/six-sex-ultra/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Yhwh Nailgun",
-      "album": "Magazine",
-      "artistKey": "yhwh nailgun",
-      "albumKey": "magazine",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-11",
-          "url": "https://pitchfork.com/reviews/albums/yhwh-nailgun-magazine/"
         }
       ],
       "editorialWeight": 5,
@@ -1312,42 +1341,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Lelo",
-      "album": "Mastiff : Pink Tiles",
-      "artistKey": "lelo",
-      "albumKey": "mastiff pink tiles",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-03",
-          "url": "https://pitchfork.com/reviews/albums/lelo-mastiff-pink-tiles/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Paul Mccartney",
-      "album": "The Boys of Dungeon Lane",
-      "artistKey": "paul mccartney",
-      "albumKey": "the boys of dungeon lane",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-03",
-          "url": "https://pitchfork.com/reviews/albums/paul-mccartney-the-boys-of-dungeon-lane/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kim Gordon",
       "album": "PLAY ME",
       "artistKey": "kim gordon",
@@ -1478,6 +1471,24 @@
       "album": "The Mountain",
       "artistKey": "gorillaz",
       "albumKey": "the mountain",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Iceage",
+      "album": "For Love of Grace & the Hereafter",
+      "artistKey": "iceage",
+      "albumKey": "for love of grace and the hereafter",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -1838,6 +1849,24 @@
       "album": "The Spiritual Sound",
       "artistKey": "agriculture",
       "albumKey": "the spiritual sound",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Annahstasia",
+      "album": "Tether",
+      "artistKey": "annahstasia",
+      "albumKey": "tether",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -4520,24 +4549,6 @@
       "album": "Autopoiética",
       "artistKey": "mon laferte",
       "albumKey": "autopoietica",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Olivia Rodrigo",
-      "album": "GUTS",
-      "artistKey": "olivia rodrigo",
-      "albumKey": "guts",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8692,6 +8703,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Ruth Garbus",
+      "album": "Profound",
+      "artistKey": "ruth garbus",
+      "albumKey": "profound",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-11",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ruth-garbus-profound-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Various Artists",
       "album": "Mzansi Bass curated by Shannen SP",
       "artistKey": "various artists",
@@ -8703,24 +8732,6 @@
           "weight": 4,
           "publishedAt": "2026-06-10",
           "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-mzansi-bass-curated-by-shannen-sp-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
-      "artist": "Diles Que No Me Maten",
-      "album": "Escrito en Agua",
-      "artistKey": "diles que no me maten",
-      "albumKey": "escrito en agua",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-09",
-          "url": "https://daily.bandcamp.com/album-of-the-day/diles-que-no-me-maten-escrito-en-agua-review"
         }
       ],
       "editorialWeight": 4,
@@ -8800,6 +8811,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Diles Que No Me Maten",
+      "album": "Escrito en Agua",
+      "artistKey": "diles que no me maten",
+      "albumKey": "escrito en agua",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-09",
+          "url": "https://daily.bandcamp.com/album-of-the-day/diles-que-no-me-maten-escrito-en-agua-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "IDLES",
       "album": "Live on KEXP",
       "artistKey": "idles",
@@ -8829,24 +8858,6 @@
           "weight": 4,
           "publishedAt": "2026-06-09",
           "url": "https://thequietus.com/quietus-reviews/karyyn-physics-universal-love-language-pull-review/?utm_source=rss&utm_medium=rss&utm_campaign=karyyn-physics-universal-love-language-pull-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "KOGG",
-      "album": "Mechanista",
-      "artistKey": "kogg",
-      "albumKey": "mechanista",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-08",
-          "url": "https://thequietus.com/quietus-reviews/kogg-mechanista/?utm_source=rss&utm_medium=rss&utm_campaign=kogg-mechanista"
         }
       ],
       "editorialWeight": 4,
@@ -9063,6 +9074,24 @@
           "weight": 4,
           "publishedAt": "2026-05-26",
           "url": "https://daily.bandcamp.com/album-of-the-day/aja-monet-the-color-of-rain-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "ear",
+      "album": "Rumspringa",
+      "artistKey": "ear",
+      "albumKey": "rumspringa",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-05-26",
+          "url": "https://stereogum.com/2500138/album-of-the-week-ear-rumspringa/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -13066,6 +13095,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Adrian Younge",
+      "album": "Younge",
+      "artistKey": "adrian younge",
+      "albumKey": "younge",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Bellaire",
+      "album": "Born Funky",
+      "artistKey": "bellaire",
+      "albumKey": "born funky",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Champagne Bubblebath",
       "album": "Mixtape: Volume One",
       "artistKey": "champagne bubblebath",
@@ -13106,6 +13171,78 @@
       "album": "Creature of Habit",
       "artistKey": "courtney barnett",
       "albumKey": "creature of habit",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ecca Vandal",
+      "album": "EYES SHUT",
+      "artistKey": "ecca vandal",
+      "albumKey": "eyes shut",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-06-11",
+          "url": "https://www.indieshuffle.com/ecca-vandal-eyes-shut/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ghostkeeper",
+      "album": "Mohkinstsis",
+      "artistKey": "ghostkeeper",
+      "albumKey": "mohkinstsis",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hatchie",
+      "album": "Live on KEXP",
+      "artistKey": "hatchie",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tigers Jaw",
+      "album": "Live on KEXP",
+      "artistKey": "tigers jaw",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13220,24 +13357,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Adrian Younge",
-      "album": "Younge",
-      "artistKey": "adrian younge",
-      "albumKey": "younge",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -13628,24 +13747,6 @@
       "album": "Broken Record",
       "artistKey": "audrey powne",
       "albumKey": "broken record",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bellaire",
-      "album": "Born Funky",
-      "artistKey": "bellaire",
-      "albumKey": "born funky",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14290,78 +14391,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Austra & Patrick Holland",
-      "album": "Chin Up Buttercup",
-      "artistKey": "austra and patrick holland",
-      "albumKey": "chin up buttercup",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Baauer",
-      "album": "U",
-      "artistKey": "baauer",
-      "albumKey": "u",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Balam",
-      "album": "Mambo Negro",
-      "artistKey": "balam",
-      "albumKey": "mambo negro",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Buscabulla",
-      "album": "Se Bailaba Así",
-      "artistKey": "buscabulla",
-      "albumKey": "se bailaba asi",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Chris Lorenzo & Kah-Lo",
       "album": "In This Bih'",
       "artistKey": "chris lorenzo and kah lo",
@@ -14384,42 +14413,6 @@
       "album": "Live on KEXP",
       "artistKey": "corto alto",
       "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Courtney Bailey",
-      "album": "Jiwa Jiwa EP",
-      "artistKey": "courtney bailey",
-      "albumKey": "jiwa jiwa ep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Danalogue",
-      "album": "Teleportations",
-      "artistKey": "danalogue",
-      "albumKey": "teleportations",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14578,42 +14571,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Rare DM",
-      "album": "Attention",
-      "artistKey": "rare dm",
-      "albumKey": "attention",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Anthony Calonico",
-      "album": "Spacious Heart",
-      "artistKey": "anthony calonico",
-      "albumKey": "spacious heart",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Joji",
       "album": "Hotel California",
       "artistKey": "joji",
@@ -14625,132 +14582,6 @@
           "weight": 3,
           "publishedAt": "2026-06-01",
           "url": "https://www.indieshuffle.com/joji-hotel-california/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ladytron",
-      "album": "Live on KEXP",
-      "artistKey": "ladytron",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nicholas Krgovich",
-      "album": "Boss Tape",
-      "artistKey": "nicholas krgovich",
-      "albumKey": "boss tape",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "plash",
-      "album": "Live on KEXP",
-      "artistKey": "plash",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rickey Kelly",
-      "album": "My Kind of Music",
-      "artistKey": "rickey kelly",
-      "albumKey": "my kind of music",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "SALIMATA",
-      "album": "The Happening",
-      "artistKey": "salimata",
-      "albumKey": "the happening",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The MerkaBa Brotherhood",
-      "album": "The MerKaBa Brotherhood",
-      "artistKey": "the merkaba brotherhood",
-      "albumKey": "the merkaba brotherhood",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Necessaries",
-      "album": "Completely Necessary (Anthology 1978-1982)",
-      "artistKey": "the necessaries",
-      "albumKey": "completely necessary anthology 1978 1982",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-01",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -15489,60 +15320,6 @@
           "weight": 3,
           "publishedAt": "2026-01-27",
           "url": "https://www.indieshuffle.com/martin-martyn-nova/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Naomi Greene",
-      "album": "Wounded Hero (Blanche Remix)",
-      "artistKey": "naomi greene",
-      "albumKey": "wounded hero blanche remix",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-01-22",
-          "url": "https://www.indieshuffle.com/naomi-greene-wounded-hero-blanche-remix/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Blackaby",
-      "album": "That Thing You Said",
-      "artistKey": "blackaby",
-      "albumKey": "that thing you said",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-01-19",
-          "url": "https://www.indieshuffle.com/blackaby-that-thing-you-said/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "James Deacon",
-      "album": "Almost Famous (Ft. an00k)",
-      "artistKey": "james deacon",
-      "albumKey": "almost famous ft an00k",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-01-15",
-          "url": "https://www.indieshuffle.com/james-deacon-almost-famous-ft-an00k/"
         }
       ],
       "editorialWeight": 3,

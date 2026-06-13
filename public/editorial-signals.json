@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T11:39:47.516Z",
+  "generatedAt": "2026-06-13T10:23:34.938Z",
   "items": [
     {
       "artist": "Vince Staples",
@@ -205,31 +205,6 @@
         }
       ],
       "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Baauer",
-      "album": "U",
-      "artistKey": "baauer",
-      "albumKey": "u",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-12",
-          "url": "https://pitchfork.com/reviews/albums/baauer-u/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -783,6 +758,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Horse Lords",
+      "album": "The Common Task",
+      "artistKey": "horse lords",
+      "albumKey": "the common task",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Idles",
       "album": "Ultra Mono",
       "artistKey": "idles",
@@ -891,6 +884,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Horse Lords",
+      "album": "Demand to Be Taken to Heaven Alive!",
+      "artistKey": "horse lords",
+      "albumKey": "demand to be taken to heaven alive",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-12",
+          "url": "https://daily.bandcamp.com/album-of-the-day/horse-lords-demand-to-be-taken-to-heaven-alive"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 9
+    },
+    {
+      "artist": "Saint Pepsi",
+      "album": "Hit Vibes",
+      "artistKey": "saint pepsi",
+      "albumKey": "hit vibes",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-13",
+          "url": "https://pitchfork.com/reviews/albums/saint-pepsi-hit-vibes/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Ali Sethi Gregory Rogove",
       "album": "Room Jhoom",
       "artistKey": "ali sethi gregory rogove",
@@ -902,6 +931,24 @@
           "weight": 5,
           "publishedAt": "2026-06-12",
           "url": "https://pitchfork.com/reviews/albums/ali-sethi-gregory-rogove-room-jhoom/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Baauer",
+      "album": "U",
+      "artistKey": "baauer",
+      "albumKey": "u",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-12",
+          "url": "https://pitchfork.com/reviews/albums/baauer-u/"
         }
       ],
       "editorialWeight": 5,
@@ -1316,24 +1363,6 @@
           "weight": 5,
           "publishedAt": "2026-06-04",
           "url": "https://pitchfork.com/reviews/albums/lil-pete-real-is-back/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Martyn",
-      "album": "Music for Existing",
-      "artistKey": "martyn",
-      "albumKey": "music for existing",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-04",
-          "url": "https://pitchfork.com/reviews/albums/martyn-music-for-existing/"
         }
       ],
       "editorialWeight": 5,
@@ -7317,24 +7346,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Horse Lords",
-      "album": "The Common Task",
-      "artistKey": "horse lords",
-      "albumKey": "the common task",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Ichiko Aoba",
       "album": "Windswept Adan",
       "artistKey": "ichiko aoba",
@@ -13077,24 +13088,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Lagoss & Abagwagwa",
-      "album": "Island Slang",
-      "artistKey": "lagoss and abagwagwa",
-      "albumKey": "island slang",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-12",
-          "url": "https://daily.bandcamp.com/album-of-the-day/lagoss-abagwagwa-island-slang-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Adrian Younge",
       "album": "Younge",
       "artistKey": "adrian younge",
@@ -13117,6 +13110,42 @@
       "album": "Born Funky",
       "artistKey": "bellaire",
       "albumKey": "born funky",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dream Wife",
+      "album": "Fire EP",
+      "artistKey": "dream wife",
+      "albumKey": "fire ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "TOMORA",
+      "album": "COME CLOSER",
+      "artistKey": "tomora",
+      "albumKey": "come closer",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14193,24 +14222,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Avalon Emerson",
-      "album": "Written into Changes",
-      "artistKey": "avalon emerson",
-      "albumKey": "written into changes",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Chastity Belt",
       "album": "I Used to Spend So Much Time Alone",
       "artistKey": "chastity belt",
@@ -14384,186 +14395,6 @@
           "weight": 3,
           "publishedAt": "2026-06-03",
           "url": "https://www.indieshuffle.com/tom-misch-echo-from-the-flames/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chris Lorenzo & Kah-Lo",
-      "album": "In This Bih'",
-      "artistKey": "chris lorenzo and kah lo",
-      "albumKey": "in this bih",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "corto.alto",
-      "album": "Live on KEXP",
-      "artistKey": "corto alto",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Emily A. Sprague",
-      "album": "Double Moon",
-      "artistKey": "emily a sprague",
-      "albumKey": "double moon",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "ezcodylee",
-      "album": "STUNT 4 LIFE",
-      "artistKey": "ezcodylee",
-      "albumKey": "stunt 4 life",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fruit Bats",
-      "album": "Live on KEXP",
-      "artistKey": "fruit bats",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "GiGi Girls feat. Jaakko Eino Kalevi",
-      "album": "Greatest Hits",
-      "artistKey": "gigi girls feat jaakko eino kalevi",
-      "albumKey": "greatest hits",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hannah Peel & Beibei Wang",
-      "album": "The Endless Dance",
-      "artistKey": "hannah peel and beibei wang",
-      "albumKey": "the endless dance",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lewis OfMan feat. Marie Davidson",
-      "album": "50KWTTS",
-      "artistKey": "lewis ofman feat marie davidson",
-      "albumKey": "50kwtts",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "MOREA",
-      "album": "Revival EP",
-      "artistKey": "morea",
-      "albumKey": "revival ep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Peach",
-      "album": "Soak Vol. 1",
-      "artistKey": "peach",
-      "albumKey": "soak vol 1",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-02",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

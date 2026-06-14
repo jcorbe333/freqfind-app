@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T10:23:34.938Z",
+  "generatedAt": "2026-06-14T10:45:40.242Z",
   "items": [
     {
       "artist": "Vince Staples",
@@ -488,6 +488,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Chat Pile",
+      "album": "Cool World",
+      "artistKey": "chat pile",
+      "albumKey": "cool world",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Kim Gordon",
       "album": "The Collective",
       "artistKey": "kim gordon",
@@ -535,24 +553,6 @@
           "weight": 5,
           "publishedAt": "2024-01-01",
           "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "PetroDragonic Apocalypse",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "petrodragonic apocalypse",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
         }
       ],
       "editorialWeight": 6,
@@ -632,10 +632,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "Laminated Denim",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "laminated denim",
+      "artist": "Chat Pile",
+      "album": "God’s Country",
+      "artistKey": "chat pile",
+      "albumKey": "gods country",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -690,24 +690,6 @@
       "album": "GUMBO’!",
       "artistKey": "pink siifu",
       "albumKey": "gumbo",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Weezer",
-      "album": "OK Human",
-      "artistKey": "weezer",
-      "albumKey": "ok human",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -830,24 +812,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "Infest the Rats’ Nest",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "infest the rats nest",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Prince",
       "album": "Originals",
       "artistKey": "prince",
@@ -900,6 +864,24 @@
       "editorialWeight": 5,
       "multiSourceBonus": 1,
       "mentionCount": 9
+    },
+    {
+      "artist": "Hole",
+      "album": "Celebrity Skin",
+      "artistKey": "hole",
+      "albumKey": "celebrity skin",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-14",
+          "url": "https://pitchfork.com/reviews/albums/hole-celebrity-skin/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Saint Pepsi",
@@ -1345,24 +1327,6 @@
           "weight": 5,
           "publishedAt": "2026-06-04",
           "url": "https://pitchfork.com/reviews/albums/latto-big-mama/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lil Pete",
-      "album": "REAL IS BACK",
-      "artistKey": "lil pete",
-      "albumKey": "real is back",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-04",
-          "url": "https://pitchfork.com/reviews/albums/lil-pete-real-is-back/"
         }
       ],
       "editorialWeight": 5,
@@ -1831,24 +1795,6 @@
           "weight": 4,
           "publishedAt": "2025-06-27",
           "url": "https://daily.bandcamp.com/album-of-the-day/gelli-haha-switcheroo-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "King Gizzard & the Lizard Wizard",
-      "album": "Phantom Island",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "phantom island",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-13",
-          "url": "https://daily.bandcamp.com/album-of-the-day/king-gizzard-and-the-lizard-wizard-phantom-island-review"
         }
       ],
       "editorialWeight": 5,
@@ -3066,24 +3012,6 @@
       "album": "BRAT",
       "artistKey": "charli xcx",
       "albumKey": "brat",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chat Pile",
-      "album": "Cool World",
-      "artistKey": "chat pile",
-      "albumKey": "cool world",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -4412,6 +4340,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "PetroDragonic Apocalypse",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "petrodragonic apocalypse",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "King Krule",
       "album": "Space Heavy",
       "artistKey": "king krule",
@@ -5312,24 +5258,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Chat Pile",
-      "album": "God’s Country",
-      "artistKey": "chat pile",
-      "albumKey": "gods country",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Cheekface",
       "album": "Too Much to Ask",
       "artistKey": "cheekface",
@@ -5604,6 +5532,24 @@
       "album": "American Gurl",
       "artistKey": "kilo kish",
       "albumKey": "american gurl",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "Laminated Denim",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "laminated denim",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -6792,6 +6738,24 @@
       "album": "Welfare Jazz",
       "artistKey": "viagra boys",
       "albumKey": "welfare jazz",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Weezer",
+      "album": "OK Human",
+      "artistKey": "weezer",
+      "albumKey": "ok human",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8246,6 +8210,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "Infest the Rats’ Nest",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "infest the rats nest",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Kirin J. Callinan",
       "album": "Return to Center",
       "artistKey": "kirin j callinan",
@@ -8750,6 +8732,24 @@
       "mentionCount": 9
     },
     {
+      "artist": "Chat Pile",
+      "album": "Who Loves the Sun",
+      "artistKey": "chat pile",
+      "albumKey": "who loves the sun",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Bill Orcutt & Mabe Fratti",
       "album": "Almost Waking",
       "artistKey": "bill orcutt and mabe fratti",
@@ -8945,24 +8945,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Weezer",
-      "album": "Weezer (Gold Album)",
-      "artistKey": "weezer",
-      "albumKey": "weezer gold album",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13088,6 +13070,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Automatic",
+      "album": "Don’t Wanna Dance (Mario C mix)",
+      "artistKey": "automatic",
+      "albumKey": "dont wanna dance mario c mix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Etuk Ubong",
+      "album": "Live on KEXP from Trans Musicales",
+      "artistKey": "etuk ubong",
+      "albumKey": "live on kexp from trans musicales",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Just Mustard",
+      "album": "ENDLESS DEATHLESS (Daniel Avery remix)",
+      "artistKey": "just mustard",
+      "albumKey": "endless deathless daniel avery remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Adrian Younge",
       "album": "Younge",
       "artistKey": "adrian younge",
@@ -14132,24 +14168,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Atabasca",
-      "album": "Atabasca",
-      "artistKey": "atabasca",
-      "albumKey": "atabasca",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Megatronic & Natasha Diggs",
       "album": "Lean",
       "artistKey": "megatronic and natasha diggs",
@@ -14196,186 +14214,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Angèle, Fcukers, Justice & Fcukers",
-      "album": "What You Want (Fcukers remix)",
-      "artistKey": "angele fcukers justice and fcukers",
-      "albumKey": "what you want fcukers remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chastity Belt",
-      "album": "I Used to Spend So Much Time Alone",
-      "artistKey": "chastity belt",
-      "albumKey": "i used to spend so much time alone",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Courtney Barnett",
-      "album": "Live on KEXP",
-      "artistKey": "courtney barnett",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Deeper",
-      "album": "Live on KEXP",
-      "artistKey": "deeper",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Frog",
-      "album": "Frog for Sale",
-      "artistKey": "frog",
-      "albumKey": "frog for sale",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Midpak",
-      "album": "Torpedo",
-      "artistKey": "midpak",
-      "albumKey": "torpedo",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nation of Language",
-      "album": "Tougher Than the Rest",
-      "artistKey": "nation of language",
-      "albumKey": "tougher than the rest",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Porridge Radio",
-      "album": "Live on KEXP",
-      "artistKey": "porridge radio",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Robyn, Ca7riel & Paco Amoroso",
-      "album": "Blow My Mind (CA7RIEL & Paco Amoroso version)",
-      "artistKey": "robyn ca7riel and paco amoroso",
-      "albumKey": "blow my mind ca7riel and paco amoroso version",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "This Is the Kit",
-      "album": "Live on KEXP",
-      "artistKey": "this is the kit",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

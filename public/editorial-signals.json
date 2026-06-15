@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T10:45:40.242Z",
+  "generatedAt": "2026-06-15T13:49:56.475Z",
   "items": [
     {
       "artist": "Vince Staples",
@@ -234,31 +234,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Jill Scott",
-      "album": "To Whom This May Concern",
-      "artistKey": "jill scott",
-      "albumKey": "to whom this may concern",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-04",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Aldous Harding",
       "album": "Train On The Island",
       "artistKey": "aldous harding",
@@ -384,49 +359,24 @@
       "mentionCount": 2
     },
     {
-      "artist": "Parlor Greens",
-      "album": "Emeralds",
-      "artistKey": "parlor greens",
-      "albumKey": "emeralds",
+      "artist": "Ana Roxanne",
+      "album": "Poem 1",
+      "artistKey": "ana roxanne",
+      "albumKey": "poem 1",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-06-04",
+          "publishedAt": "2026-06-15",
           "url": "https://www.kexp.org/playlist/"
         },
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-03-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Shabaka",
-      "album": "Of The Earth",
-      "artistKey": "shabaka",
-      "albumKey": "of the earth",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-04",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-03-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/shabaka-of-the-earth-review"
+          "publishedAt": "2026-05-06",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ana-roxanne-poem-1-review"
         }
       ],
       "editorialWeight": 9,
@@ -812,24 +762,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Prince",
-      "album": "Originals",
-      "artistKey": "prince",
-      "albumKey": "originals",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Xiu Xiu",
       "album": "Girl with Basket of Fruit",
       "artistKey": "xiu xiu",
@@ -864,6 +796,78 @@
       "editorialWeight": 5,
       "multiSourceBonus": 1,
       "mentionCount": 9
+    },
+    {
+      "artist": "Karyyn",
+      "album": "Physics Universal Love Language (PULL)",
+      "artistKey": "karyyn",
+      "albumKey": "physics universal love language pull",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-15",
+          "url": "https://pitchfork.com/reviews/albums/karyyn-physics-universal-love-language-pull/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kelsey Lu",
+      "album": "So Help Me God",
+      "artistKey": "kelsey lu",
+      "albumKey": "so help me god",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-15",
+          "url": "https://pitchfork.com/reviews/albums/kelsey-lu-so-help-me-god/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Soli City",
+      "album": "Poetics of a New Estate",
+      "artistKey": "soli city",
+      "albumKey": "poetics of a new estate",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-15",
+          "url": "https://pitchfork.com/reviews/albums/soli-city-poetics-of-a-new-estate/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sublime",
+      "album": "Until the Sun Explodes",
+      "artistKey": "sublime",
+      "albumKey": "until the sun explodes",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-15",
+          "url": "https://pitchfork.com/reviews/albums/sublime-until-the-sun-explodes/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Hole",
@@ -1244,42 +1248,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Horsegiirl",
-      "album": "NATURE IS HEALING",
-      "artistKey": "horsegiirl",
-      "albumKey": "nature is healing",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-05",
-          "url": "https://pitchfork.com/reviews/albums/horsegiirl-nature-is-healing/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Little Barrie",
-      "album": "Gravity Freeze",
-      "artistKey": "little barrie",
-      "albumKey": "gravity freeze",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-05",
-          "url": "https://pitchfork.com/reviews/albums/little-barrie-gravity-freeze/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Modest Mouse",
       "album": "An Eraser and a Maze",
       "artistKey": "modest mouse",
@@ -1291,42 +1259,6 @@
           "weight": 5,
           "publishedAt": "2026-06-05",
           "url": "https://pitchfork.com/reviews/albums/modest-mouse-an-eraser-and-a-maze/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kurt Vile",
-      "album": "Philadelphia’s been good to me",
-      "artistKey": "kurt vile",
-      "albumKey": "philadelphias been good to me",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-04",
-          "url": "https://pitchfork.com/reviews/albums/kurt-vile-philadelphias-been-good-to-me/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Latto",
-      "album": "Big Mama",
-      "artistKey": "latto",
-      "albumKey": "big mama",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-04",
-          "url": "https://pitchfork.com/reviews/albums/latto-big-mama/"
         }
       ],
       "editorialWeight": 5,
@@ -1536,6 +1468,24 @@
       "album": "Superbloom",
       "artistKey": "jessie ware",
       "albumKey": "superbloom",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jill Scott",
+      "album": "To Whom This May Concern",
+      "artistKey": "jill scott",
+      "albumKey": "to whom this may concern",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8444,6 +8394,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Prince",
+      "album": "Originals",
+      "artistKey": "prince",
+      "albumKey": "originals",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "PUP",
       "album": "Morbid Stuff",
       "artistKey": "pup",
@@ -8696,6 +8664,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Genghis Tron",
+      "album": "Signal Fire",
+      "artistKey": "genghis tron",
+      "albumKey": "signal fire",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-15",
+          "url": "https://daily.bandcamp.com/album-of-the-day/genghis-tron-signal-fire-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Ruth Garbus",
       "album": "Profound",
       "artistKey": "ruth garbus",
@@ -8714,22 +8700,40 @@
       "mentionCount": 9
     },
     {
-      "artist": "Various Artists",
-      "album": "Mzansi Bass curated by Shannen SP",
-      "artistKey": "various artists",
-      "albumKey": "mzansi bass curated by shannen sp",
+      "artist": "Debit",
+      "album": "Potpourri",
+      "artistKey": "debit",
+      "albumKey": "potpourri",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-06-10",
-          "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-mzansi-bass-curated-by-shannen-sp-review"
+          "publishedAt": "2026-06-15",
+          "url": "https://thequietus.com/quietus-reviews/debit-potpourri-review/?utm_source=rss&utm_medium=rss&utm_campaign=debit-potpourri-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
+    },
+    {
+      "artist": "Arlo Parks",
+      "album": "Ambiguous Desire",
+      "artistKey": "arlo parks",
+      "albumKey": "ambiguous desire",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Chat Pile",
@@ -8822,6 +8826,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Various Artists",
+      "album": "Mzansi Bass curated by Shannen SP",
+      "artistKey": "various artists",
+      "albumKey": "mzansi bass curated by shannen sp",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-10",
+          "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-mzansi-bass-curated-by-shannen-sp-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Diles Que No Me Maten",
       "album": "Escrito en Agua",
       "artistKey": "diles que no me maten",
@@ -8858,24 +8880,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Káryyn",
-      "album": "Physics Universal Love Language (PULL)",
-      "artistKey": "karyyn",
-      "albumKey": "physics universal love language pull",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-09",
-          "url": "https://thequietus.com/quietus-reviews/karyyn-physics-universal-love-language-pull-review/?utm_source=rss&utm_medium=rss&utm_campaign=karyyn-physics-universal-love-language-pull-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Neptune",
       "album": "Play Some Music",
       "artistKey": "neptune",
@@ -8891,24 +8895,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Prince",
-      "album": "Timeless",
-      "artistKey": "prince",
-      "albumKey": "timeless",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9301,24 +9287,6 @@
           "weight": 4,
           "publishedAt": "2026-05-07",
           "url": "https://daily.bandcamp.com/album-of-the-day/stik-figa-heather-grey-cold-comfort-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ana Roxanne",
-      "album": "Poem 1",
-      "artistKey": "ana roxanne",
-      "albumKey": "poem 1",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-06",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ana-roxanne-poem-1-review"
         }
       ],
       "editorialWeight": 4,
@@ -9830,6 +9798,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Parlor Greens",
+      "album": "Emeralds",
+      "artistKey": "parlor greens",
+      "albumKey": "emeralds",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-03-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "dälek",
       "album": "Brilliance of a Falling Moon",
       "artistKey": "dalek",
@@ -10064,6 +10050,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Shabaka",
+      "album": "Of The Earth",
+      "artistKey": "shabaka",
+      "albumKey": "of the earth",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-03-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/shabaka-of-the-earth-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "NIMF",
       "album": "Sirenoscape",
       "artistKey": "nimf",
@@ -10223,6 +10227,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Arlo Parks",
+      "album": "Heaven",
+      "artistKey": "arlo parks",
+      "albumKey": "heaven",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-02-21",
+          "url": "https://www.indieshuffle.com/arlo-parks-heaven/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13070,6 +13092,276 @@
       "mentionCount": 1
     },
     {
+      "artist": "Caterina Barbieri & Bendik Giske",
+      "album": "At Source",
+      "artistKey": "caterina barbieri and bendik giske",
+      "albumKey": "at source",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Emanuele Cisi",
+      "album": "Pharoah's Message",
+      "artistKey": "emanuele cisi",
+      "albumKey": "pharoahs message",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kalia Vandever",
+      "album": "Mana",
+      "artistKey": "kalia vandever",
+      "albumKey": "mana",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ladytron",
+      "album": "Paradises",
+      "artistKey": "ladytron",
+      "albumKey": "paradises",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "NOSRETEP",
+      "album": "Misery Whip",
+      "artistKey": "nosretep",
+      "albumKey": "misery whip",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sharada Shashidhar",
+      "album": "A Foot on the Ground",
+      "artistKey": "sharada shashidhar",
+      "albumKey": "a foot on the ground",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "(A.A.L) Against All Logic",
+      "album": "2012–2017",
+      "artistKey": "a a l against all logic",
+      "albumKey": "2012 2017",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Babehoven",
+      "album": "Blue Around You",
+      "artistKey": "babehoven",
+      "albumKey": "blue around you",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Bel Cobain",
+      "album": "Kizzy",
+      "artistKey": "bel cobain",
+      "albumKey": "kizzy",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Carsie Blanton & The Burning Hell",
+      "album": "Everything is Great!",
+      "artistKey": "carsie blanton and the burning hell",
+      "albumKey": "everything is great",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Los Cenzontles, Taj Mahal, David Hidalgo, Gary Haleamau & Sonny Lim",
+      "album": "Adios Ke Aloha Waves of the Same Sea",
+      "artistKey": "los cenzontles taj mahal david hidalgo gary haleamau and sonny lim",
+      "albumKey": "adios ke aloha waves of the same sea",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Madame Gandhi",
+      "album": "Love Letters from Brooklyn",
+      "artistKey": "madame gandhi",
+      "albumKey": "love letters from brooklyn",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MORN",
+      "album": "The Standard Model / I Watched You as Your Mind Slipped Far (Away from Me)",
+      "artistKey": "morn",
+      "albumKey": "the standard model i watched you as your mind slipped far away from me",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ratboys",
+      "album": "Live on KEXP",
+      "artistKey": "ratboys",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Thundercat feat. Lil Yachty",
+      "album": "Distracted",
+      "artistKey": "thundercat feat lil yachty",
+      "albumKey": "distracted",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Automatic",
       "album": "Don’t Wanna Dance (Mario C mix)",
       "artistKey": "automatic",
@@ -13520,24 +13812,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Emanuele Cisi",
-      "album": "Pharoah's Message",
-      "artistKey": "emanuele cisi",
-      "albumKey": "pharoahs message",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Foam and Sand",
       "album": "Quieter",
       "artistKey": "foam and sand",
@@ -13632,24 +13906,6 @@
       "album": "Heavenly Hills",
       "artistKey": "saphileaum",
       "albumKey": "heavenly hills",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sharada Shashidhar",
-      "album": "A Foot on the Ground",
-      "artistKey": "sharada shashidhar",
-      "albumKey": "a foot on the ground",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14160,60 +14416,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Megatronic & Natasha Diggs",
-      "album": "Lean",
-      "artistKey": "megatronic and natasha diggs",
-      "albumKey": "lean",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Church",
-      "album": "Live on KEXP",
-      "artistKey": "the church",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "WILLOW",
-      "album": "Talk On The Hill",
-      "artistKey": "willow",
-      "albumKey": "talk on the hill",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-04",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14809,24 +15011,6 @@
           "weight": 3,
           "publishedAt": "2026-02-23",
           "url": "https://www.indieshuffle.com/rio-kosta-unicorn/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Arlo Parks",
-      "album": "Heaven",
-      "artistKey": "arlo parks",
-      "albumKey": "heaven",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-02-21",
-          "url": "https://www.indieshuffle.com/arlo-parks-heaven/"
         }
       ],
       "editorialWeight": 3,

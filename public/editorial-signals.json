@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T13:49:56.475Z",
+  "generatedAt": "2026-06-16T12:48:21.736Z",
   "items": [
     {
       "artist": "Vince Staples",
@@ -32,6 +32,56 @@
       "editorialWeight": 15,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "Horse Lords",
+      "album": "Demand to Be Taken to Heaven Alive!",
+      "artistKey": "horse lords",
+      "albumKey": "demand to be taken to heaven alive",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-16",
+          "url": "https://pitchfork.com/reviews/albums/horse-lords-demand-to-be-taken-to-heaven-alive/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-12",
+          "url": "https://daily.bandcamp.com/album-of-the-day/horse-lords-demand-to-be-taken-to-heaven-alive"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 10
+    },
+    {
+      "artist": "Ruth Garbus",
+      "album": "Profound",
+      "artistKey": "ruth garbus",
+      "albumKey": "profound",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-16",
+          "url": "https://pitchfork.com/reviews/albums/ruth-garbus-profound/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-11",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ruth-garbus-profound-review"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Yhwh Nailgun",
@@ -209,31 +259,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Tara Clerkin Trio",
-      "album": "Somewhere Good",
-      "artistKey": "tara clerkin trio",
-      "albumKey": "somewhere good",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-05",
-          "url": "https://pitchfork.com/reviews/albums/tara-clerkin-trio-somewhere-good/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Aldous Harding",
       "album": "Train On The Island",
       "artistKey": "aldous harding",
@@ -355,6 +380,31 @@
         }
       ],
       "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Tara Clerkin Trio",
+      "album": "Somewhere Good",
+      "artistKey": "tara clerkin trio",
+      "albumKey": "somewhere good",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-06-16",
+          "url": "https://thequietus.com/quietus-reviews/tara-clerkin-trio-somewhere-good-review/?utm_source=rss&utm_medium=rss&utm_campaign=tara-clerkin-trio-somewhere-good-review"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-09",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -780,22 +830,40 @@
       "mentionCount": 1
     },
     {
-      "artist": "Horse Lords",
-      "album": "Demand to Be Taken to Heaven Alive!",
-      "artistKey": "horse lords",
-      "albumKey": "demand to be taken to heaven alive",
+      "artist": "Booker Stardrum Evan Shornstein",
+      "album": "OOPS!",
+      "artistKey": "booker stardrum evan shornstein",
+      "albumKey": "oops",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-12",
-          "url": "https://daily.bandcamp.com/album-of-the-day/horse-lords-demand-to-be-taken-to-heaven-alive"
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-16",
+          "url": "https://pitchfork.com/reviews/albums/booker-stardrum-evan-shornstein-oops/"
         }
       ],
       "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 9
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ibrahim Alfa Jnr",
+      "album": "Infinite Black Inside",
+      "artistKey": "ibrahim alfa jnr",
+      "albumKey": "infinite black inside",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-16",
+          "url": "https://pitchfork.com/reviews/albums/ibrahim-alfa-jnr-infinite-black-inside/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Karyyn",
@@ -1205,60 +1273,6 @@
           "weight": 5,
           "publishedAt": "2026-06-08",
           "url": "https://pitchfork.com/reviews/albums/the-bug-club-every-single-muscle/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Theo Parrish",
-      "album": "First Floor",
-      "artistKey": "theo parrish",
-      "albumKey": "first floor",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-07",
-          "url": "https://pitchfork.com/reviews/albums/theo-parrish-first-floor/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Death Cab For Cutie",
-      "album": "I Built You a Tower",
-      "artistKey": "death cab for cutie",
-      "albumKey": "i built you a tower",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-06",
-          "url": "https://pitchfork.com/reviews/albums/death-cab-for-cutie-i-built-you-a-tower/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Modest Mouse",
-      "album": "An Eraser and a Maze",
-      "artistKey": "modest mouse",
-      "albumKey": "an eraser and a maze",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-05",
-          "url": "https://pitchfork.com/reviews/albums/modest-mouse-an-eraser-and-a-maze/"
         }
       ],
       "editorialWeight": 5,
@@ -8682,24 +8696,6 @@
       "mentionCount": 9
     },
     {
-      "artist": "Ruth Garbus",
-      "album": "Profound",
-      "artistKey": "ruth garbus",
-      "albumKey": "profound",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-11",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ruth-garbus-profound-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
       "artist": "Debit",
       "album": "Potpourri",
       "artistKey": "debit",
@@ -13092,6 +13088,204 @@
       "mentionCount": 1
     },
     {
+      "artist": "A Lily",
+      "album": "Wake:Sleep",
+      "artistKey": "a lily",
+      "albumKey": "wake sleep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Aluminé Guerrero & El Búho",
+      "album": "Patagonia Patagonia",
+      "artistKey": "alumine guerrero and el buho",
+      "albumKey": "patagonia patagonia",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Blue Ringed Baby & Kamī",
+      "album": "Fortunes",
+      "artistKey": "blue ringed baby and kami",
+      "albumKey": "fortunes",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Chanca Via Circuito and Sofia Viola",
+      "album": "Oro En Tí",
+      "artistKey": "chanca via circuito and sofia viola",
+      "albumKey": "oro en ti",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jess Sah Bi",
+      "album": "Jesus-Christ Ne Deçoit Pas",
+      "artistKey": "jess sah bi",
+      "albumKey": "jesus christ ne decoit pas",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mermaid",
+      "album": "Dub Forever",
+      "artistKey": "mermaid",
+      "albumKey": "dub forever",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mia",
+      "album": "In the Moonlight",
+      "artistKey": "mia",
+      "albumKey": "in the moonlight",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Now Always Fades",
+      "album": "Coalesce",
+      "artistKey": "now always fades",
+      "albumKey": "coalesce",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pedro Mizutani",
+      "album": "NOVA BOSSA: aquele abraço aos ratos vivos",
+      "artistKey": "pedro mizutani",
+      "albumKey": "nova bossa aquele abraco aos ratos vivos",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tech Support",
+      "album": "Asa Tate Edits",
+      "artistKey": "tech support",
+      "albumKey": "asa tate edits",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Xelta",
+      "album": "B.D.S.M.",
+      "artistKey": "xelta",
+      "albumKey": "b d s m",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Caterina Barbieri & Bendik Giske",
       "album": "At Source",
       "artistKey": "caterina barbieri and bendik giske",
@@ -13110,10 +13304,82 @@
       "mentionCount": 1
     },
     {
+      "artist": "Choker",
+      "album": "Heaven Ain't Sold",
+      "artistKey": "choker",
+      "albumKey": "heaven aint sold",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Delvon Lamarr Organ Trio",
+      "album": "Live on KEXP",
+      "artistKey": "delvon lamarr organ trio",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Emanuele Cisi",
       "album": "Pharoah's Message",
       "artistKey": "emanuele cisi",
       "albumKey": "pharoahs message",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fly Anakin",
+      "album": "(The) Forever Dream: Night Shift",
+      "artistKey": "fly anakin",
+      "albumKey": "the forever dream night shift",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gurriers",
+      "album": "Live on KEXP",
+      "artistKey": "gurriers",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13168,6 +13434,24 @@
       "album": "Misery Whip",
       "artistKey": "nosretep",
       "albumKey": "misery whip",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Quasi",
+      "album": "Live on KEXP",
+      "artistKey": "quasi",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14363,60 +14647,6 @@
           "weight": 3,
           "publishedAt": "2026-06-05",
           "url": "https://www.indieshuffle.com/asal-tolerance/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ireke feat. Nayel Hóxò",
-      "album": "Abanije",
-      "artistKey": "ireke feat nayel hoxo",
-      "albumKey": "abanije",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Leven Kali",
-      "album": "LK99",
-      "artistKey": "leven kali",
-      "albumKey": "lk99",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Claypool Lennon Delirium",
-      "album": "WAP",
-      "artistKey": "the claypool lennon delirium",
-      "albumKey": "wap",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-05",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

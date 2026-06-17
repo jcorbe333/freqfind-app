@@ -1,38 +1,6 @@
 {
-  "generatedAt": "2026-06-16T12:48:21.736Z",
+  "generatedAt": "2026-06-17T12:12:30.322Z",
   "items": [
-    {
-      "artist": "Vince Staples",
-      "album": "Cry Baby",
-      "artistKey": "vince staples",
-      "albumKey": "cry baby",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-10",
-          "url": "https://thequietus.com/quietus-reviews/vince-staples-cry-baby-review/?utm_source=rss&utm_medium=rss&utm_campaign=vince-staples-cry-baby-review"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-08",
-          "url": "https://pitchfork.com/reviews/albums/vince-staples-cry-baby/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
-        }
-      ],
-      "editorialWeight": 15,
-      "multiSourceBonus": 2,
-      "mentionCount": 3
-    },
     {
       "artist": "Horse Lords",
       "album": "Demand to Be Taken to Heaven Alive!",
@@ -57,6 +25,31 @@
       "editorialWeight": 11,
       "multiSourceBonus": 2,
       "mentionCount": 10
+    },
+    {
+      "artist": "Wiki",
+      "album": "Ancient History",
+      "artistKey": "wiki",
+      "albumKey": "ancient history",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-17",
+          "url": "https://pitchfork.com/reviews/albums/wiki-ancient-history/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-06-09",
+          "url": "https://stereogum.com/2501203/album-of-the-week-wiki-ancient-history/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Ruth Garbus",
@@ -255,6 +248,31 @@
         }
       ],
       "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Vince Staples",
+      "album": "Cry Baby",
+      "artistKey": "vince staples",
+      "albumKey": "cry baby",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-06-10",
+          "url": "https://thequietus.com/quietus-reviews/vince-staples-cry-baby-review/?utm_source=rss&utm_medium=rss&utm_campaign=vince-staples-cry-baby-review"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
+        }
+      ],
+      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -650,6 +668,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Otoboke Beaver",
+      "album": "SUPER CHAMPON",
+      "artistKey": "otoboke beaver",
+      "albumKey": "super champon",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Sudan Archives",
       "album": "Natural Brown Prom Queen",
       "artistKey": "sudan archives",
@@ -812,6 +848,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Otoboke Beaver",
+      "album": "Itekoma Hits",
+      "artistKey": "otoboke beaver",
+      "albumKey": "itekoma hits",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Xiu Xiu",
       "album": "Girl with Basket of Fruit",
       "artistKey": "xiu xiu",
@@ -827,6 +881,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Anysia Kym Tony Seltzer",
+      "album": "Purity (Flips)",
+      "artistKey": "anysia kym tony seltzer",
+      "albumKey": "purity flips",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-17",
+          "url": "https://pitchfork.com/reviews/albums/anysia-kym-tony-seltzer-purity-flips/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rainao",
+      "album": "Macría",
+      "artistKey": "rainao",
+      "albumKey": "macria",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-17",
+          "url": "https://pitchfork.com/reviews/albums/rainao-macria/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Vybz Kartel",
+      "album": "God and Time",
+      "artistKey": "vybz kartel",
+      "albumKey": "god and time",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-17",
+          "url": "https://pitchfork.com/reviews/albums/vybz-kartel-god-and-time/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1190,24 +1298,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Wiki",
-      "album": "Ancient History",
-      "artistKey": "wiki",
-      "albumKey": "ancient history",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-06-09",
-          "url": "https://stereogum.com/2501203/album-of-the-week-wiki-ancient-history/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Zoh Amba",
       "album": "Eyes Full",
       "artistKey": "zoh amba",
@@ -1219,60 +1309,6 @@
           "weight": 5,
           "publishedAt": "2026-06-09",
           "url": "https://pitchfork.com/reviews/albums/zoh-amba-eyes-full/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jake Muir",
-      "album": "Pareidolia",
-      "artistKey": "jake muir",
-      "albumKey": "pareidolia",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-08",
-          "url": "https://pitchfork.com/reviews/albums/jake-muir-pareidolia/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "K Wata",
-      "album": "Give U Space",
-      "artistKey": "k wata",
-      "albumKey": "give u space",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-08",
-          "url": "https://pitchfork.com/reviews/albums/k-wata-give-u-space/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Bug Club",
-      "album": "Every Single Muscle",
-      "artistKey": "the bug club",
-      "albumKey": "every single muscle",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-08",
-          "url": "https://pitchfork.com/reviews/albums/the-bug-club-every-single-muscle/"
         }
       ],
       "editorialWeight": 5,
@@ -5672,24 +5708,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Otoboke Beaver",
-      "album": "SUPER CHAMPON",
-      "artistKey": "otoboke beaver",
-      "albumKey": "super champon",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Petrol Girls",
       "album": "Baby",
       "artistKey": "petrol girls",
@@ -8390,24 +8408,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Otoboke Beaver",
-      "album": "Itekoma Hits",
-      "artistKey": "otoboke beaver",
-      "albumKey": "itekoma hits",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Prince",
       "album": "Originals",
       "artistKey": "prince",
@@ -8678,6 +8678,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Mukqs",
+      "album": "Juckport",
+      "artistKey": "mukqs",
+      "albumKey": "juckport",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-16",
+          "url": "https://daily.bandcamp.com/album-of-the-day/mukqs-juckport-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Genghis Tron",
       "album": "Signal Fire",
       "artistKey": "genghis tron",
@@ -8694,6 +8712,60 @@
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "Berndt / Schmidt",
+      "album": "Cloud Machines",
+      "artistKey": "berndt schmidt",
+      "albumKey": "cloud machines",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-06-17",
+          "url": "https://thequietus.com/quietus-reviews/berndt-schmidt-cloud-machines-review/?utm_source=rss&utm_medium=rss&utm_campaign=berndt-schmidt-cloud-machines-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Otoboke Beaver",
+      "album": "Live on KEXP",
+      "artistKey": "otoboke beaver",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Styrofoam Winos",
+      "album": "Any River",
+      "artistKey": "styrofoam winos",
+      "albumKey": "any river",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-06-16",
+          "url": "https://stereogum.com/2502000/album-of-the-week-styrofoam-winos-any-river/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Debit",
@@ -12206,24 +12278,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "End It",
-      "album": "Wrong Side Of Heaven",
-      "artistKey": "end it",
-      "albumKey": "wrong side of heaven",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-08-26",
-          "url": "https://stereogum.com/2319853/album-of-the-week-end-it-wrong-side-of-heaven/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Steve Gunn",
       "album": "Music for Writers",
       "artistKey": "steve gunn",
@@ -13070,20 +13124,110 @@
       "mentionCount": 1
     },
     {
-      "artist": "Maiya Blaney",
-      "album": "A Room With A Door That Closes",
-      "artistKey": "maiya blaney",
-      "albumKey": "a room with a door that closes",
+      "artist": "April + VISTA ft. Tony Kill",
+      "album": "Traditional Noise",
+      "artistKey": "april vista ft tony kill",
+      "albumKey": "traditional noise",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-16",
-          "url": "https://daily.bandcamp.com/album-of-the-day/maiya-blaney-a-room-with-a-door-that-closes-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-17",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Earthtones feat. Oliwa, Numu & Semblanzas del río Guapi",
+      "album": "Limones (Captain Planet remix)",
+      "artistKey": "earthtones feat oliwa numu and semblanzas del rio guapi",
+      "albumKey": "limones captain planet remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gurriers",
+      "album": "Live on KEXP",
+      "artistKey": "gurriers",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Joya Mooi feat. Ric Wilson",
+      "album": "All the Things",
+      "artistKey": "joya mooi feat ric wilson",
+      "albumKey": "all the things",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nightbus",
+      "album": "Angles Mortz (Tom Sharkett remix)",
+      "artistKey": "nightbus",
+      "albumKey": "angles mortz tom sharkett remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nina Simone",
+      "album": "Baltimore (live) (Supershy remix)",
+      "artistKey": "nina simone",
+      "albumKey": "baltimore live supershy remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13146,6 +13290,60 @@
       "album": "Oro En Tí",
       "artistKey": "chanca via circuito and sofia viola",
       "albumKey": "oro en ti",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Eels",
+      "album": "Cookie Happened",
+      "artistKey": "eels",
+      "albumKey": "cookie happened",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "English Teacher",
+      "album": "Live on KEXP",
+      "artistKey": "english teacher",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "IZCO feat. Reek0 & S.I.",
+      "album": "POWERSCROFT",
+      "artistKey": "izco feat reek0 and s i",
+      "albumKey": "powerscroft",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13243,6 +13441,24 @@
           "weight": 3,
           "publishedAt": "2026-06-16",
           "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Seb Wildblood",
+      "album": "Folded (Ft. Jouska)",
+      "artistKey": "seb wildblood",
+      "albumKey": "folded ft jouska",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.indieshuffle.com/seb-wildblood-folded-ft-jouska/"
         }
       ],
       "editorialWeight": 3,
@@ -13362,24 +13578,6 @@
       "album": "(The) Forever Dream: Night Shift",
       "artistKey": "fly anakin",
       "albumKey": "the forever dream night shift",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gurriers",
-      "album": "Live on KEXP",
-      "artistKey": "gurriers",
-      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14510,24 +14708,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Nina Simone",
-      "album": "Baltimore (live) (Supershy remix)",
-      "artistKey": "nina simone",
-      "albumKey": "baltimore live supershy remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Protoje feat Shenseea",
       "album": "The Art Of Acceptance",
       "artistKey": "protoje feat shenseea",
@@ -14556,78 +14736,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jamie She",
-      "album": "I Never Thought I'd Feel This Way",
-      "artistKey": "jamie she",
-      "albumKey": "i never thought id feel this way",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nation of Language",
-      "album": "Live on KEXP",
-      "artistKey": "nation of language",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nine Inch Nails & Boys Noize",
-      "album": "Nine Inch Noize",
-      "artistKey": "nine inch nails and boys noize",
-      "albumKey": "nine inch noize",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Barr Brothers",
-      "album": "Live on KEXP",
-      "artistKey": "the barr brothers",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-06",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15367,24 +15475,6 @@
           "weight": 3,
           "publishedAt": "2026-02-04",
           "url": "https://www.indieshuffle.com/la-voar-storma/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "LEISURE",
-      "album": "Let It All Out",
-      "artistKey": "leisure",
-      "albumKey": "let it all out",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-01-27",
-          "url": "https://www.indieshuffle.com/leisure-let-it-all-out/"
         }
       ],
       "editorialWeight": 3,

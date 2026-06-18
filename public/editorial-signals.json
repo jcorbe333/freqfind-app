@@ -1,31 +1,6 @@
 {
-  "generatedAt": "2026-06-17T12:12:30.322Z",
+  "generatedAt": "2026-06-18T11:47:01.981Z",
   "items": [
-    {
-      "artist": "Horse Lords",
-      "album": "Demand to Be Taken to Heaven Alive!",
-      "artistKey": "horse lords",
-      "albumKey": "demand to be taken to heaven alive",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-16",
-          "url": "https://pitchfork.com/reviews/albums/horse-lords-demand-to-be-taken-to-heaven-alive/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-12",
-          "url": "https://daily.bandcamp.com/album-of-the-day/horse-lords-demand-to-be-taken-to-heaven-alive"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 10
-    },
     {
       "artist": "Wiki",
       "album": "Ancient History",
@@ -45,6 +20,31 @@
           "weight": 4,
           "publishedAt": "2026-06-09",
           "url": "https://stereogum.com/2501203/album-of-the-week-wiki-ancient-history/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Horse Lords",
+      "album": "Demand to Be Taken to Heaven Alive!",
+      "artistKey": "horse lords",
+      "albumKey": "demand to be taken to heaven alive",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-16",
+          "url": "https://pitchfork.com/reviews/albums/horse-lords-demand-to-be-taken-to-heaven-alive/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-12",
+          "url": "https://daily.bandcamp.com/album-of-the-day/horse-lords-demand-to-be-taken-to-heaven-alive"
         }
       ],
       "editorialWeight": 11,
@@ -252,31 +252,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Vince Staples",
-      "album": "Cry Baby",
-      "artistKey": "vince staples",
-      "albumKey": "cry baby",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-10",
-          "url": "https://thequietus.com/quietus-reviews/vince-staples-cry-baby-review/?utm_source=rss&utm_medium=rss&utm_campaign=vince-staples-cry-baby-review"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Aldous Harding",
       "album": "Train On The Island",
       "artistKey": "aldous harding",
@@ -402,6 +377,56 @@
       "mentionCount": 2
     },
     {
+      "artist": "Parlor Greens",
+      "album": "Emeralds",
+      "artistKey": "parlor greens",
+      "albumKey": "emeralds",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-18",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-03-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Kneecap",
+      "album": "FENIAN",
+      "artistKey": "kneecap",
+      "albumKey": "fenian",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-17",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-04",
+          "url": "https://daily.bandcamp.com/album-of-the-day/kneecap-fenian-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Tara Clerkin Trio",
       "album": "Somewhere Good",
       "artistKey": "tara clerkin trio",
@@ -450,6 +475,24 @@
       "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
+    },
+    {
+      "artist": "Osees",
+      "album": "OFF COURSE",
+      "artistKey": "osees",
+      "albumKey": "off course",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-18",
+          "url": "https://pitchfork.com/reviews/albums/osees-off-course/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Olivia Rodrigo",
@@ -884,6 +927,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Shabason Krgovich",
+      "album": "Four Days in June",
+      "artistKey": "shabason krgovich",
+      "albumKey": "four days in june",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-18",
+          "url": "https://pitchfork.com/reviews/albums/shabason-krgovich-four-days-in-june/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sparklmami",
+      "album": "in this body",
+      "artistKey": "sparklmami",
+      "albumKey": "in this body",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-18",
+          "url": "https://pitchfork.com/reviews/albums/sparklmami-in-this-body/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tygapaw",
+      "album": "Together You Gather All Power Applied Worldwide",
+      "artistKey": "tygapaw",
+      "albumKey": "together you gather all power applied worldwide",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-18",
+          "url": "https://pitchfork.com/reviews/albums/tygapaw-together-you-gather-all-power-applied-worldwide/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Anysia Kym Tony Seltzer",
       "album": "Purity (Flips)",
       "artistKey": "anysia kym tony seltzer",
@@ -902,10 +999,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Rainao",
-      "album": "Macría",
-      "artistKey": "rainao",
-      "albumKey": "macria",
+      "artist": "Rainao Macria",
+      "album": "Marcriá",
+      "artistKey": "rainao macria",
+      "albumKey": "marcria",
       "sources": [
         {
           "sourceId": "pitchfork-bnm",
@@ -1244,75 +1341,21 @@
       "mentionCount": 1
     },
     {
-      "artist": "B0yg1rl Novagang",
-      "album": "EXIT 2B",
-      "artistKey": "b0yg1rl novagang",
-      "albumKey": "exit 2b",
+      "artist": "Vince Staples",
+      "album": "Cry Baby",
+      "artistKey": "vince staples",
+      "albumKey": "cry baby",
       "sources": [
         {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-09",
-          "url": "https://pitchfork.com/reviews/albums/b0yg1rl-novagang-exit-2b/"
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
         }
       ],
       "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Of Montreal",
-      "album": "Aethermead",
-      "artistKey": "of montreal",
-      "albumKey": "aethermead",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-09",
-          "url": "https://pitchfork.com/reviews/albums/of-montreal-aethermead/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Vanessa Rossetto",
-      "album": "The Professional",
-      "artistKey": "vanessa rossetto",
-      "albumKey": "the professional",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-09",
-          "url": "https://pitchfork.com/reviews/albums/vanessa-rossetto-the-professional/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Zoh Amba",
-      "album": "Eyes Full",
-      "artistKey": "zoh amba",
-      "albumKey": "eyes full",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-09",
-          "url": "https://pitchfork.com/reviews/albums/zoh-amba-eyes-full/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -1759,6 +1802,24 @@
           "weight": 4,
           "publishedAt": "2025-08-12",
           "url": "https://daily.bandcamp.com/album-of-the-day/anamanaguchi-anyway"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "OSEES",
+      "album": "ABOMINATION REVEALED AT LAST",
+      "artistKey": "osees",
+      "albumKey": "abomination revealed at last",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-08-11",
+          "url": "https://daily.bandcamp.com/album-of-the-day/osees-abomination-revealed-at-last"
         }
       ],
       "editorialWeight": 5,
@@ -8678,6 +8739,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Micah Thomas",
+      "album": "Lucid",
+      "artistKey": "micah thomas",
+      "albumKey": "lucid",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-17",
+          "url": "https://daily.bandcamp.com/album-of-the-day/micah-thomas-lucid-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Mukqs",
       "album": "Juckport",
       "artistKey": "mukqs",
@@ -8696,22 +8775,22 @@
       "mentionCount": 9
     },
     {
-      "artist": "Genghis Tron",
-      "album": "Signal Fire",
-      "artistKey": "genghis tron",
-      "albumKey": "signal fire",
+      "artist": "Bolka",
+      "album": "Schwarzkopf",
+      "artistKey": "bolka",
+      "albumKey": "schwarzkopf",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-06-15",
-          "url": "https://daily.bandcamp.com/album-of-the-day/genghis-tron-signal-fire-review"
+          "publishedAt": "2026-06-18",
+          "url": "https://thequietus.com/quietus-reviews/bolka-schwarzkopf-review/?utm_source=rss&utm_medium=rss&utm_campaign=bolka-schwarzkopf-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Berndt / Schmidt",
@@ -8779,6 +8858,24 @@
           "weight": 4,
           "publishedAt": "2026-06-15",
           "url": "https://thequietus.com/quietus-reviews/debit-potpourri-review/?utm_source=rss&utm_medium=rss&utm_campaign=debit-potpourri-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Genghis Tron",
+      "album": "Signal Fire",
+      "artistKey": "genghis tron",
+      "albumKey": "signal fire",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-15",
+          "url": "https://daily.bandcamp.com/album-of-the-day/genghis-tron-signal-fire-review"
         }
       ],
       "editorialWeight": 4,
@@ -9380,24 +9477,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Kneecap",
-      "album": "FENIAN",
-      "artistKey": "kneecap",
-      "albumKey": "fenian",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-04",
-          "url": "https://daily.bandcamp.com/album-of-the-day/kneecap-fenian-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "OOIOO / Lightning Bolt",
       "album": "The Horizon Spirals / The Horizon Viral",
       "artistKey": "ooioo lightning bolt",
@@ -9859,24 +9938,6 @@
           "weight": 4,
           "publishedAt": "2026-03-27",
           "url": "https://daily.bandcamp.com/album-of-the-day/the-montvales-path-of-totality-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Parlor Greens",
-      "album": "Emeralds",
-      "artistKey": "parlor greens",
-      "albumKey": "emeralds",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-03-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
         }
       ],
       "editorialWeight": 4,
@@ -12440,24 +12501,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "OSEES",
-      "album": "ABOMINATION REVEALED AT LAST",
-      "artistKey": "osees",
-      "albumKey": "abomination revealed at last",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-11",
-          "url": "https://daily.bandcamp.com/album-of-the-day/osees-abomination-revealed-at-last"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Tommy WÁ",
       "album": "Somewhere Only We Go",
       "artistKey": "tommy wa",
@@ -13106,20 +13149,92 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sigh",
-      "album": "I Saw The World End (Hangman’s Hymn MMXXV)",
-      "artistKey": "sigh",
-      "albumKey": "i saw the world end hangmans hymn mmxxv",
+      "artist": "Jay Som",
+      "album": "Live on KEXP",
+      "artistKey": "jay som",
+      "albumKey": "live on kexp",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-17",
-          "url": "https://daily.bandcamp.com/album-of-the-day/sigh-i-saw-the-world-end-hangmans-hymn-mmxxv-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-18",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jay Som feat. Jim Adkins",
+      "album": "Live on KEXP",
+      "artistKey": "jay som feat jim adkins",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nubiyan Twist & Patrice Rushen",
+      "album": "Chasing Shadows",
+      "artistKey": "nubiyan twist and patrice rushen",
+      "albumKey": "chasing shadows",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rell Be Free featuring Shakiah, Gabriel Teodros, TheOneJakobi, Gyasi & Khingz",
+      "album": "Everything Is Everything",
+      "artistKey": "rell be free featuring shakiah gabriel teodros theonejakobi gyasi and khingz",
+      "albumKey": "everything is everything",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Terrace Martin",
+      "album": "PASSION",
+      "artistKey": "terrace martin",
+      "albumKey": "passion",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13218,6 +13333,24 @@
       "album": "Baltimore (live) (Supershy remix)",
       "artistKey": "nina simone",
       "albumKey": "baltimore live supershy remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yeah NO",
+      "album": "Live on KEXP",
+      "artistKey": "yeah no",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14520,222 +14653,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Another Taste",
-      "album": "Another Taste II",
-      "artistKey": "another taste",
-      "albumKey": "another taste ii",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Audrey Powne",
-      "album": "Broken Record",
-      "artistKey": "audrey powne",
-      "albumKey": "broken record",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cámara Chilena de la Destrucción",
-      "album": "El hambre y las ganas de comer",
-      "artistKey": "camara chilena de la destruccion",
-      "albumKey": "el hambre y las ganas de comer",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "DakhaBrakha",
-      "album": "Live on KEXP",
-      "artistKey": "dakhabrakha",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Draco Rosa",
-      "album": "Olas De Luz",
-      "artistKey": "draco rosa",
-      "albumKey": "olas de luz",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ego Ella May",
-      "album": "Good Intentions",
-      "artistKey": "ego ella may",
-      "albumKey": "good intentions",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hot 8 Brass Band",
-      "album": "Big Tuba (Kraak & Smaak remix)",
-      "artistKey": "hot 8 brass band",
-      "albumKey": "big tuba kraak and smaak remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kareem Ali",
-      "album": "The Essence",
-      "artistKey": "kareem ali",
-      "albumKey": "the essence",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Marmalade Eyes",
-      "album": "Uneasy Mind",
-      "artistKey": "marmalade eyes",
-      "albumKey": "uneasy mind",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nedgravd",
-      "album": "Ascension",
-      "artistKey": "nedgravd",
-      "albumKey": "ascension",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Protoje feat Shenseea",
-      "album": "The Art Of Acceptance",
-      "artistKey": "protoje feat shenseea",
-      "albumKey": "the art of acceptance",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "SAE THE ARTIST, Autoph",
-      "album": "The Resilience Mixtape",
-      "artistKey": "sae the artist autoph",
-      "albumKey": "the resilience mixtape",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-07",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

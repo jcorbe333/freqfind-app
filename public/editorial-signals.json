@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-06-18T11:47:01.981Z",
+  "generatedAt": "2026-06-19T12:01:11.169Z",
   "items": [
+    {
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "artistKey": "olivia rodrigo",
+      "albumKey": "you seem pretty sad for a girl so in love",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-12",
+          "url": "https://pitchfork.com/reviews/albums/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 12,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Slippers",
+      "album": "Slippers 08",
+      "artistKey": "slippers",
+      "albumKey": "slippers 08",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-19",
+          "url": "https://pitchfork.com/reviews/albums/slippers-slippers-08/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-06-02",
+          "url": "https://stereogum.com/2500983/album-of-the-week-slippers-slippers-08/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
     {
       "artist": "Wiki",
       "album": "Ancient History",
@@ -252,6 +302,56 @@
       "mentionCount": 2
     },
     {
+      "artist": "Thundercat",
+      "album": "Distracted",
+      "artistKey": "thundercat",
+      "albumKey": "distracted",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-19",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Jill Scott",
+      "album": "To Whom This May Concern",
+      "artistKey": "jill scott",
+      "albumKey": "to whom this may concern",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-18",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Aldous Harding",
       "album": "Train On The Island",
       "artistKey": "aldous harding",
@@ -495,60 +595,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Olivia Rodrigo",
-      "album": "you seem pretty sad for a girl so in love",
-      "artistKey": "olivia rodrigo",
-      "albumKey": "you seem pretty sad for a girl so in love",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-12",
-          "url": "https://pitchfork.com/reviews/albums/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Navy Blue",
-      "album": "Sir Render",
-      "artistKey": "navy blue",
-      "albumKey": "sir render",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-10",
-          "url": "https://pitchfork.com/reviews/albums/navy-blue-sir-render/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Navy Blue",
-      "album": "The Sword & the Soaring",
-      "artistKey": "navy blue",
-      "albumKey": "the sword and the soaring",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Chat Pile",
       "album": "Cool World",
       "artistKey": "chat pile",
@@ -614,24 +660,6 @@
           "weight": 5,
           "publishedAt": "2024-01-01",
           "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Navy Blue",
-      "album": "Ways of Knowing",
-      "artistKey": "navy blue",
-      "albumKey": "ways of knowing",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
         }
       ],
       "editorialWeight": 6,
@@ -924,6 +952,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Deer Tick",
+      "album": "Coin-O-Matic",
+      "artistKey": "deer tick",
+      "albumKey": "coin o matic",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-19",
+          "url": "https://pitchfork.com/reviews/albums/deer-tick-coin-o-matic/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Miles ’56: The Prestige Recordings",
+      "artistKey": "miles davis",
+      "albumKey": "miles 56 the prestige recordings",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-19",
+          "url": "https://pitchfork.com/reviews/albums/miles-davis-miles-56-the-prestige-recordings/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pond",
+      "album": "Terrestrials",
+      "artistKey": "pond",
+      "albumKey": "terrestrials",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-19",
+          "url": "https://pitchfork.com/reviews/albums/pond-terrestrials/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1287,60 +1369,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Beatrice M",
-      "album": "Sinking",
-      "artistKey": "beatrice m",
-      "albumKey": "sinking",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-10",
-          "url": "https://pitchfork.com/reviews/albums/beatrice-m-sinking/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Realyungphil",
-      "album": "until something changes",
-      "artistKey": "realyungphil",
-      "albumKey": "until something changes",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-10",
-          "url": "https://pitchfork.com/reviews/albums/realyungphil-until-something-changes/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Widowspeak",
-      "album": "Roses",
-      "artistKey": "widowspeak",
-      "albumKey": "roses",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-10",
-          "url": "https://pitchfork.com/reviews/albums/widowspeak-roses/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Vince Staples",
       "album": "Cry Baby",
       "artistKey": "vince staples",
@@ -1575,24 +1603,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Jill Scott",
-      "album": "To Whom This May Concern",
-      "artistKey": "jill scott",
-      "albumKey": "to whom this may concern",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kaátaìra",
       "album": "Caminhos de Água",
       "artistKey": "kaataira",
@@ -1669,24 +1679,6 @@
       "album": "Look for Your Mind!",
       "artistKey": "the lemon twigs",
       "albumKey": "look for your mind",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Thundercat",
-      "album": "Distracted",
-      "artistKey": "thundercat",
-      "albumKey": "distracted",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -1856,6 +1848,24 @@
           "weight": 4,
           "publishedAt": "2025-06-27",
           "url": "https://daily.bandcamp.com/album-of-the-day/gelli-haha-switcheroo-review"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yaya Bey",
+      "album": "do it afraid",
+      "artistKey": "yaya bey",
+      "albumKey": "do it afraid",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-06-20",
+          "url": "https://daily.bandcamp.com/album-of-the-day/yaya-bey-do-it-afraid-review"
         }
       ],
       "editorialWeight": 5,
@@ -2587,6 +2597,24 @@
       "album": "Cancionera",
       "artistKey": "natalia lafourcade",
       "albumKey": "cancionera",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Navy Blue",
+      "album": "The Sword & the Soaring",
+      "artistKey": "navy blue",
+      "albumKey": "the sword and the soaring",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -4585,6 +4613,24 @@
       "album": "Autopoiética",
       "artistKey": "mon laferte",
       "albumKey": "autopoietica",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Navy Blue",
+      "album": "Ways of Knowing",
+      "artistKey": "navy blue",
+      "albumKey": "ways of knowing",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8739,6 +8785,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Celestial Power",
+      "album": "Celestial Power",
+      "artistKey": "celestial power",
+      "albumKey": "celestial power",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-18",
+          "url": "https://daily.bandcamp.com/album-of-the-day/celestial-power-self-titled-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Micah Thomas",
       "album": "Lucid",
       "artistKey": "micah thomas",
@@ -8757,22 +8821,40 @@
       "mentionCount": 9
     },
     {
-      "artist": "Mukqs",
-      "album": "Juckport",
-      "artistKey": "mukqs",
-      "albumKey": "juckport",
+      "artist": "Placebo",
+      "album": "Placebo RE:CREATED",
+      "artistKey": "placebo",
+      "albumKey": "placebo re created",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-06-16",
-          "url": "https://daily.bandcamp.com/album-of-the-day/mukqs-juckport-review"
+          "publishedAt": "2026-06-19",
+          "url": "https://thequietus.com/quietus-reviews/placebo-placebo-recreated/?utm_source=rss&utm_medium=rss&utm_campaign=placebo-placebo-recreated"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yaya Bey",
+      "album": "FIdelity",
+      "artistKey": "yaya bey",
+      "albumKey": "fidelity",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Bolka",
@@ -8804,6 +8886,24 @@
           "weight": 4,
           "publishedAt": "2026-06-17",
           "url": "https://thequietus.com/quietus-reviews/berndt-schmidt-cloud-machines-review/?utm_source=rss&utm_medium=rss&utm_campaign=berndt-schmidt-cloud-machines-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mukqs",
+      "album": "Juckport",
+      "artistKey": "mukqs",
+      "albumKey": "juckport",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-16",
+          "url": "https://daily.bandcamp.com/album-of-the-day/mukqs-juckport-review"
         }
       ],
       "editorialWeight": 4,
@@ -9092,24 +9192,6 @@
           "weight": 4,
           "publishedAt": "2026-06-03",
           "url": "https://daily.bandcamp.com/album-of-the-day/swallow-blown-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Slippers",
-      "album": "Slippers 08",
-      "artistKey": "slippers",
-      "albumKey": "slippers 08",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-06-02",
-          "url": "https://stereogum.com/2500983/album-of-the-week-slippers-slippers-08/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -13113,38 +13195,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "Yaya Bey",
-      "album": "do it afraid",
-      "artistKey": "yaya bey",
-      "albumKey": "do it afraid",
+      "artist": "Deadbeat Beat",
+      "album": "From Here to Ohio",
+      "artistKey": "deadbeat beat",
+      "albumKey": "from here to ohio",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-20",
-          "url": "https://daily.bandcamp.com/album-of-the-day/yaya-bey-do-it-afraid-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-19",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
-      "artist": "Bourbonese Qualk",
-      "album": "My Government Is My Soul",
-      "artistKey": "bourbonese qualk",
-      "albumKey": "my government is my soul",
+      "artist": "KNEECAP feat. Fawzi",
+      "album": "FENIAN",
+      "artistKey": "kneecap feat fawzi",
+      "albumKey": "fenian",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-18",
-          "url": "https://daily.bandcamp.com/album-of-the-day/bourbonese-qualk-my-government-is-my-soul-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-19",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Champagne Bubblebath",
+      "album": "Mixtape: Volume One",
+      "artistKey": "champagne bubblebath",
+      "albumKey": "mixtape volume one",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13221,10 +13321,82 @@
       "mentionCount": 1
     },
     {
+      "artist": "Squirrel Flower",
+      "album": "Live on KEXP",
+      "artistKey": "squirrel flower",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Squirrel Nut Zippers",
+      "album": "Live on KEXP",
+      "artistKey": "squirrel nut zippers",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Terrace Martin",
       "album": "PASSION",
       "artistKey": "terrace martin",
       "albumKey": "passion",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Derelicts",
+      "album": "Live on KEXP",
+      "artistKey": "the derelicts",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Thundercat feat. Mac Miller",
+      "album": "Distracted",
+      "artistKey": "thundercat feat mac miller",
+      "albumKey": "distracted",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14103,24 +14275,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Champagne Bubblebath",
-      "album": "Mixtape: Volume One",
-      "artistKey": "champagne bubblebath",
-      "albumKey": "mixtape volume one",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "COMBAT//MOMMY",
       "album": "It's All Love, I'm Not Sorry",
       "artistKey": "combat mommy",
@@ -14611,24 +14765,6 @@
       "album": "The Darkening Green",
       "artistKey": "eliza",
       "albumKey": "the darkening green",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Joviale",
-      "album": "Mount Crystal",
-      "artistKey": "joviale",
-      "albumKey": "mount crystal",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",

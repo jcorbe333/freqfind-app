@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T12:01:11.169Z",
+  "generatedAt": "2026-06-20T10:28:19.402Z",
   "items": [
     {
       "artist": "Olivia Rodrigo",
@@ -527,31 +527,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Tara Clerkin Trio",
-      "album": "Somewhere Good",
-      "artistKey": "tara clerkin trio",
-      "albumKey": "somewhere good",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-16",
-          "url": "https://thequietus.com/quietus-reviews/tara-clerkin-trio-somewhere-good-review/?utm_source=rss&utm_medium=rss&utm_campaign=tara-clerkin-trio-somewhere-good-review"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Ana Roxanne",
       "album": "Poem 1",
       "artistKey": "ana roxanne",
@@ -851,24 +826,6 @@
       "album": "The Common Task",
       "artistKey": "horse lords",
       "albumKey": "the common task",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Idles",
-      "album": "Ultra Mono",
-      "artistKey": "idles",
-      "albumKey": "ultra mono",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -7417,6 +7374,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Idles",
+      "album": "Ultra Mono",
+      "artistKey": "idles",
+      "albumKey": "ultra mono",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Imperial Triumphant",
       "album": "Alphaville",
       "artistKey": "imperial triumphant",
@@ -8947,6 +8922,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Tara Clerkin Trio",
+      "album": "Somewhere Good",
+      "artistKey": "tara clerkin trio",
+      "albumKey": "somewhere good",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-06-16",
+          "url": "https://thequietus.com/quietus-reviews/tara-clerkin-trio-somewhere-good-review/?utm_source=rss&utm_medium=rss&utm_campaign=tara-clerkin-trio-somewhere-good-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Debit",
       "album": "Potpourri",
       "artistKey": "debit",
@@ -9124,24 +9117,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "IDLES",
-      "album": "Live on KEXP",
-      "artistKey": "idles",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13213,6 +13188,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Kareem Ali",
+      "album": "The Essence",
+      "artistKey": "kareem ali",
+      "albumKey": "the essence",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "KNEECAP feat. Fawzi",
       "album": "FENIAN",
       "artistKey": "kneecap feat fawzi",
@@ -14491,258 +14484,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Auscultation",
-      "album": "IV",
-      "artistKey": "auscultation",
-      "albumKey": "iv",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Demuja",
-      "album": "Title.Txt",
-      "artistKey": "demuja",
-      "albumKey": "title txt",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dharma",
-      "album": "Home Trip EP",
-      "artistKey": "dharma",
-      "albumKey": "home trip ep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ed O’Brien",
-      "album": "Blue Morpho",
-      "artistKey": "ed obrien",
-      "albumKey": "blue morpho",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Eddy Current Suppression Ring",
-      "album": "In Light of Recent Events",
-      "artistKey": "eddy current suppression ring",
-      "albumKey": "in light of recent events",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Foam and Sand",
-      "album": "Quieter",
-      "artistKey": "foam and sand",
-      "albumKey": "quieter",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hammock",
-      "album": "The Second Coming Was a Moonrise",
-      "artistKey": "hammock",
-      "albumKey": "the second coming was a moonrise",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Joaquin Joe Claussell",
-      "album": "Storm",
-      "artistKey": "joaquin joe claussell",
-      "albumKey": "storm",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Matük",
-      "album": "Sendero",
-      "artistKey": "matuk",
-      "albumKey": "sendero",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Okkervil River",
-      "album": "In the Rainbow Rain",
-      "artistKey": "okkervil river",
-      "albumKey": "in the rainbow rain",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Saphileaum",
-      "album": "Heavenly Hills",
-      "artistKey": "saphileaum",
-      "albumKey": "heavenly hills",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Step Ball Chain",
-      "album": "Magic 8Ballers",
-      "artistKey": "step ball chain",
-      "albumKey": "magic 8ballers",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Embassy / The Tough Alliance",
-      "album": "SERVE042",
-      "artistKey": "the embassy the tough alliance",
-      "albumKey": "serve042",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Murlocs",
-      "album": "Live on KEXP",
-      "artistKey": "the murlocs",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Tyler Ballgame",
       "album": "For The First Time, Again",
       "artistKey": "tyler ballgame",
@@ -14754,42 +14495,6 @@
           "weight": 3,
           "publishedAt": "2026-06-09",
           "url": "https://www.indieshuffle.com/tyler-ballgame-for-the-first-time-again/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "ELIZA",
-      "album": "The Darkening Green",
-      "artistKey": "eliza",
-      "albumKey": "the darkening green",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "zzzahara",
-      "album": "Distant Lands",
-      "artistKey": "zzzahara",
-      "albumKey": "distant lands",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-08",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

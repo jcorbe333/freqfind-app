@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T10:28:19.402Z",
+  "generatedAt": "2026-06-21T11:11:58.779Z",
   "items": [
     {
       "artist": "Olivia Rodrigo",
@@ -1704,24 +1704,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Aphex Twin",
-      "album": "Surfing On Sine Waves (Expanded Edition)",
-      "artistKey": "aphex twin",
-      "albumKey": "surfing on sine waves expanded edition",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-25",
-          "url": "https://daily.bandcamp.com/album-of-the-day/aphex-twin-surfing-on-sine-waves-expanded-edition-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Panopticon",
       "album": "Laurentian Blue” and “Songs of Hiraeth",
       "artistKey": "panopticon",
@@ -1787,42 +1769,6 @@
           "weight": 4,
           "publishedAt": "2025-08-01",
           "url": "https://www.npr.org/sections/world-cafe/2025/08/01/nx-s1-5471529/haim-album-i-quit"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gelli Haha",
-      "album": "Switcheroo",
-      "artistKey": "gelli haha",
-      "albumKey": "switcheroo",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-27",
-          "url": "https://daily.bandcamp.com/album-of-the-day/gelli-haha-switcheroo-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Yaya Bey",
-      "album": "do it afraid",
-      "artistKey": "yaya bey",
-      "albumKey": "do it afraid",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-20",
-          "url": "https://daily.bandcamp.com/album-of-the-day/yaya-bey-do-it-afraid-review"
         }
       ],
       "editorialWeight": 5,
@@ -8814,24 +8760,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Yaya Bey",
-      "album": "FIdelity",
-      "artistKey": "yaya bey",
-      "albumKey": "fidelity",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Bolka",
       "album": "Schwarzkopf",
       "artistKey": "bolka",
@@ -9040,42 +8968,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Aphex Twin",
-      "album": "Dj-Kicks",
-      "artistKey": "aphex twin",
-      "albumKey": "dj kicks",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gelli Haha",
-      "album": "Live on KEXP",
-      "artistKey": "gelli haha",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-10",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -11946,6 +11838,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Aphex Twin",
+      "album": "Surfing On Sine Waves (Expanded Edition)",
+      "artistKey": "aphex twin",
+      "albumKey": "surfing on sine waves expanded edition",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-09-25",
+          "url": "https://daily.bandcamp.com/album-of-the-day/aphex-twin-surfing-on-sine-waves-expanded-edition-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "múm",
       "album": "History of Silence",
       "artistKey": "mum",
@@ -13098,6 +13008,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Gelli Haha",
+      "album": "Switcheroo",
+      "artistKey": "gelli haha",
+      "albumKey": "switcheroo",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-06-27",
+          "url": "https://daily.bandcamp.com/album-of-the-day/gelli-haha-switcheroo-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Brìghde Chaimbeul",
       "album": "Sunwise",
       "artistKey": "brighde chaimbeul",
@@ -13170,6 +13098,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Rainbow Jackson",
+      "album": "The Mirror",
+      "artistKey": "rainbow jackson",
+      "albumKey": "the mirror",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Veneficus Sarcina",
+      "album": "A Flight Through Obscurity",
+      "artistKey": "veneficus sarcina",
+      "albumKey": "a flight through obscurity",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Versing",
+      "album": "Nirvana",
+      "artistKey": "versing",
+      "albumKey": "nirvana",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Deadbeat Beat",
       "album": "From Here to Ohio",
       "artistKey": "deadbeat beat",
@@ -13210,6 +13192,24 @@
       "album": "FENIAN",
       "artistKey": "kneecap feat fawzi",
       "albumKey": "fenian",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yaya Bey",
+      "album": "FIdelity",
+      "artistKey": "yaya bey",
+      "albumKey": "fidelity",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14368,114 +14368,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "CocoRosie",
-      "album": "Live on KEXP",
-      "artistKey": "cocorosie",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dina Ögon",
-      "album": "Människobarn",
-      "artistKey": "dina ogon",
-      "albumKey": "manniskobarn",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kokoroko feat. Demae",
-      "album": "Time & Time (IG Culture remix)",
-      "artistKey": "kokoroko feat demae",
-      "albumKey": "time and time ig culture remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lyrics Born",
-      "album": "Live on KEXP",
-      "artistKey": "lyrics born",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Maya Hawke",
-      "album": "Live on KEXP",
-      "artistKey": "maya hawke",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Zookraught",
-      "album": "PRESSURE",
-      "artistKey": "zookraught",
-      "albumKey": "pressure",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-10",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

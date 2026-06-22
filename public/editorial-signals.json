@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T11:11:58.779Z",
+  "generatedAt": "2026-06-22T13:29:47.016Z",
   "items": [
     {
       "artist": "Olivia Rodrigo",
@@ -7,6 +7,13 @@
       "artistKey": "olivia rodrigo",
       "albumKey": "you seem pretty sad for a girl so in love",
       "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-06-22",
+          "url": "https://thequietus.com/quietus-reviews/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-review/?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-review"
+        },
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
@@ -22,9 +29,9 @@
           "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
-      "editorialWeight": 12,
+      "editorialWeight": 16,
       "multiSourceBonus": 2,
-      "mentionCount": 2
+      "mentionCount": 3
     },
     {
       "artist": "Slippers",
@@ -120,31 +127,6 @@
           "weight": 4,
           "publishedAt": "2026-06-11",
           "url": "https://daily.bandcamp.com/album-of-the-day/ruth-garbus-profound-review"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Yhwh Nailgun",
-      "album": "Magazine",
-      "artistKey": "yhwh nailgun",
-      "albumKey": "magazine",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-12",
-          "url": "https://thequietus.com/quietus-reviews/yhwh-nailgun-magazine-review/?utm_source=rss&utm_medium=rss&utm_campaign=yhwh-nailgun-magazine-review"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-11",
-          "url": "https://pitchfork.com/reviews/albums/yhwh-nailgun-magazine/"
         }
       ],
       "editorialWeight": 11,
@@ -678,24 +660,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Tinashe",
-      "album": "BB/ANG3L",
-      "artistKey": "tinashe",
-      "albumKey": "bb ang3l",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Chat Pile",
       "album": "God’s Country",
       "artistKey": "chat pile",
@@ -909,6 +873,78 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Basic",
+      "album": "BASIC",
+      "artistKey": "basic",
+      "albumKey": "basic",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-22",
+          "url": "https://pitchfork.com/reviews/albums/basic-basic/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cold Court Hands Up",
+      "album": "\\ (_) / EP",
+      "artistKey": "cold court hands up",
+      "albumKey": "ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-22",
+          "url": "https://pitchfork.com/reviews/albums/cold-court-hands-up-ep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "John Prine Live At Old Town School Of Folk Music",
+      "album": "Live at Old Town School of Folk",
+      "artistKey": "john prine live at old town school of folk music",
+      "albumKey": "live at old town school of folk",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-22",
+          "url": "https://pitchfork.com/reviews/albums/john-prine-live-at-old-town-school-of-folk-music/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tucker Zimmerman",
+      "album": "Dream Me a Dream",
+      "artistKey": "tucker zimmerman",
+      "albumKey": "dream me a dream",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-22",
+          "url": "https://pitchfork.com/reviews/albums/tucker-zimmerman-dream-me-a-dream/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1265,60 +1301,6 @@
           "weight": 5,
           "publishedAt": "2026-06-12",
           "url": "https://pitchfork.com/reviews/albums/skrillex-soma/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kane Parsons Edo Van Breemen",
-      "album": "Backrooms (Original Soundtrack)",
-      "artistKey": "kane parsons edo van breemen",
-      "albumKey": "backrooms original soundtrack",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-11",
-          "url": "https://pitchfork.com/reviews/albums/kane-parsons-edo-van-breemen-backrooms-original-soundtrack/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Katzpascale",
-      "album": "ELEGY EP",
-      "artistKey": "katzpascale",
-      "albumKey": "elegy ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-11",
-          "url": "https://pitchfork.com/reviews/albums/katzpascale-elegy-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Six Sex",
-      "album": "ULTRA",
-      "artistKey": "six sex",
-      "albumKey": "ultra",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-11",
-          "url": "https://pitchfork.com/reviews/albums/six-sex-ultra/"
         }
       ],
       "editorialWeight": 5,
@@ -4804,6 +4786,24 @@
       "album": "Everything Harmony",
       "artistKey": "the lemon twigs",
       "albumKey": "everything harmony",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tinashe",
+      "album": "BB/ANG3L",
+      "artistKey": "tinashe",
+      "albumKey": "bb ang3l",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8706,6 +8706,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Various Artists",
+      "album": "Music in Exile Presents ‘Jutna’",
+      "artistKey": "various artists",
+      "albumKey": "music in exile presents jutna",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-22",
+          "url": "https://daily.bandcamp.com/album-of-the-day/music-in-exile-jutna-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Celestial Power",
       "album": "Celestial Power",
       "artistKey": "celestial power",
@@ -8724,22 +8742,22 @@
       "mentionCount": 9
     },
     {
-      "artist": "Micah Thomas",
-      "album": "Lucid",
-      "artistKey": "micah thomas",
-      "albumKey": "lucid",
+      "artist": "Sian Arli",
+      "album": "We’ll Get There",
+      "artistKey": "sian arli",
+      "albumKey": "well get there",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-06-17",
-          "url": "https://daily.bandcamp.com/album-of-the-day/micah-thomas-lucid-review"
+          "publishedAt": "2026-06-22",
+          "url": "https://thequietus.com/quietus-reviews/sian-arli-well-get-there-review/?utm_source=rss&utm_medium=rss&utm_campaign=sian-arli-well-get-there-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Placebo",
@@ -8789,6 +8807,24 @@
           "weight": 4,
           "publishedAt": "2026-06-17",
           "url": "https://thequietus.com/quietus-reviews/berndt-schmidt-cloud-machines-review/?utm_source=rss&utm_medium=rss&utm_campaign=berndt-schmidt-cloud-machines-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Micah Thomas",
+      "album": "Lucid",
+      "artistKey": "micah thomas",
+      "albumKey": "lucid",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-17",
+          "url": "https://daily.bandcamp.com/album-of-the-day/micah-thomas-lucid-review"
         }
       ],
       "editorialWeight": 4,
@@ -8940,39 +8976,21 @@
       "mentionCount": 1
     },
     {
-      "artist": "Bill Orcutt & Mabe Fratti",
-      "album": "Almost Waking",
-      "artistKey": "bill orcutt and mabe fratti",
-      "albumKey": "almost waking",
+      "artist": "YHWH Nailgun",
+      "album": "Magazine",
+      "artistKey": "yhwh nailgun",
+      "albumKey": "magazine",
       "sources": [
         {
           "sourceId": "the-quietus",
           "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-06-11",
-          "url": "https://thequietus.com/quietus-reviews/bill-orcutt-mabe-fratti-almost-waking-review/?utm_source=rss&utm_medium=rss&utm_campaign=bill-orcutt-mabe-fratti-almost-waking-review"
+          "publishedAt": "2026-06-12",
+          "url": "https://thequietus.com/quietus-reviews/yhwh-nailgun-magazine-review/?utm_source=rss&utm_medium=rss&utm_campaign=yhwh-nailgun-magazine-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tinashe",
-      "album": "Too Easy",
-      "artistKey": "tinashe",
-      "albumKey": "too easy",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13098,6 +13116,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "mclusky",
+      "album": "Live on KEXP",
+      "artistKey": "mclusky",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mexican Institute of Sound & Meridian Brothers feat. Beck",
+      "album": "Ruido Tovar",
+      "artistKey": "mexican institute of sound and meridian brothers feat beck",
+      "albumKey": "ruido tovar",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Rainbow Jackson",
       "album": "The Mirror",
       "artistKey": "rainbow jackson",
@@ -14268,42 +14322,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "COMBAT//MOMMY",
-      "album": "It's All Love, I'm Not Sorry",
-      "artistKey": "combat mommy",
-      "albumKey": "its all love im not sorry",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Courtney Barnett",
-      "album": "Creature of Habit",
-      "artistKey": "courtney barnett",
-      "albumKey": "creature of habit",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Ecca Vandal",
       "album": "EYES SHUT",
       "artistKey": "ecca vandal",
@@ -14315,60 +14333,6 @@
           "weight": 3,
           "publishedAt": "2026-06-11",
           "url": "https://www.indieshuffle.com/ecca-vandal-eyes-shut/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ghostkeeper",
-      "album": "Mohkinstsis",
-      "artistKey": "ghostkeeper",
-      "albumKey": "mohkinstsis",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hatchie",
-      "album": "Live on KEXP",
-      "artistKey": "hatchie",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tigers Jaw",
-      "album": "Live on KEXP",
-      "artistKey": "tigers jaw",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-11",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

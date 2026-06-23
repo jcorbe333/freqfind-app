@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-06-22T13:29:47.016Z",
+  "generatedAt": "2026-06-23T10:57:24.602Z",
   "items": [
+    {
+      "artist": "Ruth Garbus",
+      "album": "Profound",
+      "artistKey": "ruth garbus",
+      "albumKey": "profound",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-16",
+          "url": "https://pitchfork.com/reviews/albums/ruth-garbus-profound/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-11",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ruth-garbus-profound-review"
+        }
+      ],
+      "editorialWeight": 14,
+      "multiSourceBonus": 2,
+      "mentionCount": 3
+    },
     {
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
@@ -15,13 +47,6 @@
           "url": "https://thequietus.com/quietus-reviews/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-review/?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-review"
         },
         {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-12",
-          "url": "https://pitchfork.com/reviews/albums/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love/"
-        },
-        {
           "sourceId": "needle-drop-loved-list",
           "sourceLabel": "The Needle Drop Loved List",
           "weight": 5,
@@ -29,9 +54,9 @@
           "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
-      "editorialWeight": 16,
+      "editorialWeight": 11,
       "multiSourceBonus": 2,
-      "mentionCount": 3
+      "mentionCount": 2
     },
     {
       "artist": "Slippers",
@@ -102,31 +127,6 @@
           "weight": 4,
           "publishedAt": "2026-06-12",
           "url": "https://daily.bandcamp.com/album-of-the-day/horse-lords-demand-to-be-taken-to-heaven-alive"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Ruth Garbus",
-      "album": "Profound",
-      "artistKey": "ruth garbus",
-      "albumKey": "profound",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-16",
-          "url": "https://pitchfork.com/reviews/albums/ruth-garbus-profound/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-11",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ruth-garbus-profound-review"
         }
       ],
       "editorialWeight": 11,
@@ -876,6 +876,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Cannelle",
+      "album": "CINNA",
+      "artistKey": "cannelle",
+      "albumKey": "cinna",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-23",
+          "url": "https://pitchfork.com/reviews/albums/cannelle-cinna/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cfcf Luv",
+      "album": "L.U.V.",
+      "artistKey": "cfcf luv",
+      "albumKey": "l u v",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-23",
+          "url": "https://pitchfork.com/reviews/albums/cfcf-luv/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jake Kaufman",
+      "album": "Mina the Hollower (Original Soundtrack)",
+      "artistKey": "jake kaufman",
+      "albumKey": "mina the hollower original soundtrack",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-23",
+          "url": "https://pitchfork.com/reviews/albums/jake-kaufman-mina-the-hollower-original-soundtrack/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Zzzahara",
+      "album": "Distant Lands",
+      "artistKey": "zzzahara",
+      "albumKey": "distant lands",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-23",
+          "url": "https://pitchfork.com/reviews/albums/zzzahara-distant-lands/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Basic",
       "album": "BASIC",
       "artistKey": "basic",
@@ -1247,60 +1319,6 @@
           "weight": 5,
           "publishedAt": "2026-06-13",
           "url": "https://pitchfork.com/reviews/albums/saint-pepsi-hit-vibes/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ali Sethi Gregory Rogove",
-      "album": "Room Jhoom",
-      "artistKey": "ali sethi gregory rogove",
-      "albumKey": "room jhoom",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-12",
-          "url": "https://pitchfork.com/reviews/albums/ali-sethi-gregory-rogove-room-jhoom/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Baauer",
-      "album": "U",
-      "artistKey": "baauer",
-      "albumKey": "u",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-12",
-          "url": "https://pitchfork.com/reviews/albums/baauer-u/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Skrillex",
-      "album": "SOMA",
-      "artistKey": "skrillex",
-      "albumKey": "soma",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-12",
-          "url": "https://pitchfork.com/reviews/albums/skrillex-soma/"
         }
       ],
       "editorialWeight": 5,
@@ -8742,6 +8760,24 @@
       "mentionCount": 9
     },
     {
+      "artist": "Alison Cotton",
+      "album": "The Gods Laugh",
+      "artistKey": "alison cotton",
+      "albumKey": "the gods laugh",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-06-23",
+          "url": "https://thequietus.com/quietus-reviews/alison-cotton-the-gods-laugh-review/?utm_source=rss&utm_medium=rss&utm_campaign=alison-cotton-the-gods-laugh-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Sian Arli",
       "album": "We’ll Get There",
       "artistKey": "sian arli",
@@ -8973,24 +9009,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "YHWH Nailgun",
-      "album": "Magazine",
-      "artistKey": "yhwh nailgun",
-      "albumKey": "magazine",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-12",
-          "url": "https://thequietus.com/quietus-reviews/yhwh-nailgun-magazine-review/?utm_source=rss&utm_medium=rss&utm_campaign=yhwh-nailgun-magazine-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -13116,6 +13134,258 @@
       "mentionCount": 1
     },
     {
+      "artist": "CC:DISCO! & Manuel Darquart",
+      "album": "Ten Years of On Loop Vol. 1",
+      "artistKey": "cc disco and manuel darquart",
+      "albumKey": "ten years of on loop vol 1",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Faze Action",
+      "album": "Distant Dreams",
+      "artistKey": "faze action",
+      "albumKey": "distant dreams",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gilbert",
+      "album": "Origins",
+      "artistKey": "gilbert",
+      "albumKey": "origins",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "H. Takahashi",
+      "album": "Body Trip (Remixed & Remastered)",
+      "artistKey": "h takahashi",
+      "albumKey": "body trip remixed and remastered",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Janeret",
+      "album": "A Certain Era",
+      "artistKey": "janeret",
+      "albumKey": "a certain era",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kuzco",
+      "album": "Bound to Be",
+      "artistKey": "kuzco",
+      "albumKey": "bound to be",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Northern Vector",
+      "album": "Portals & Pathways",
+      "artistKey": "northern vector",
+      "albumKey": "portals and pathways",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Not Even Noticed",
+      "album": "Space Beyond Noise",
+      "artistKey": "not even noticed",
+      "albumKey": "space beyond noise",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pye Corner Audio",
+      "album": "More Songs About the Sun",
+      "artistKey": "pye corner audio",
+      "albumKey": "more songs about the sun",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sam Goku",
+      "album": "Wisdom Over Knowledge",
+      "artistKey": "sam goku",
+      "albumKey": "wisdom over knowledge",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tigerbalm",
+      "album": "Bubblegum Discos",
+      "artistKey": "tigerbalm",
+      "albumKey": "bubblegum discos",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "All Them Witches",
+      "album": "Live on KEXP",
+      "artistKey": "all them witches",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Automatic",
+      "album": "Don’t Wanna Dance (Mario C mix)",
+      "artistKey": "automatic",
+      "albumKey": "dont wanna dance mario c mix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "TWEN",
+      "album": "Live on KEXP",
+      "artistKey": "twen",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "mclusky",
       "album": "Live on KEXP",
       "artistKey": "mclusky",
@@ -14196,24 +14466,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Automatic",
-      "album": "Don’t Wanna Dance (Mario C mix)",
-      "artistKey": "automatic",
-      "albumKey": "dont wanna dance mario c mix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Etuk Ubong",
       "album": "Live on KEXP from Trans Musicales",
       "artistKey": "etuk ubong",
@@ -14242,78 +14494,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Adrian Younge",
-      "album": "Younge",
-      "artistKey": "adrian younge",
-      "albumKey": "younge",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bellaire",
-      "album": "Born Funky",
-      "artistKey": "bellaire",
-      "albumKey": "born funky",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dream Wife",
-      "album": "Fire EP",
-      "artistKey": "dream wife",
-      "albumKey": "fire ep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "TOMORA",
-      "album": "COME CLOSER",
-      "artistKey": "tomora",
-      "albumKey": "come closer",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-12",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T10:57:24.602Z",
+  "generatedAt": "2026-06-24T10:43:31.006Z",
   "items": [
     {
       "artist": "Ruth Garbus",
@@ -459,6 +459,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Kneecap",
+      "album": "FENIAN",
+      "artistKey": "kneecap",
+      "albumKey": "fenian",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-24",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-04",
+          "url": "https://daily.bandcamp.com/album-of-the-day/kneecap-fenian-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Parlor Greens",
       "album": "Emeralds",
       "artistKey": "parlor greens",
@@ -477,31 +502,6 @@
           "weight": 4,
           "publishedAt": "2026-03-26",
           "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Kneecap",
-      "album": "FENIAN",
-      "artistKey": "kneecap",
-      "albumKey": "fenian",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-17",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-04",
-          "url": "https://daily.bandcamp.com/album-of-the-day/kneecap-fenian-review"
         }
       ],
       "editorialWeight": 9,
@@ -534,6 +534,24 @@
       "mentionCount": 2
     },
     {
+      "artist": "Converge",
+      "album": "Hum of Hurt",
+      "artistKey": "converge",
+      "albumKey": "hum of hurt",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-24",
+          "url": "https://pitchfork.com/reviews/albums/converge-hum-of-hurt/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Osees",
       "album": "OFF COURSE",
       "artistKey": "osees",
@@ -545,6 +563,24 @@
           "weight": 5,
           "publishedAt": "2026-06-18",
           "url": "https://pitchfork.com/reviews/albums/osees-off-course/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Converge",
+      "album": "Love Is Not Enough",
+      "artistKey": "converge",
+      "albumKey": "love is not enough",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 6,
@@ -873,6 +909,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dj Plead",
+      "album": "Please",
+      "artistKey": "dj plead",
+      "albumKey": "please",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-24",
+          "url": "https://pitchfork.com/reviews/albums/dj-plead-please/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Linlin",
+      "album": "DISCO INFERNO",
+      "artistKey": "linlin",
+      "albumKey": "disco inferno",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-24",
+          "url": "https://pitchfork.com/reviews/albums/linlin-disco-inferno/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tierra Whack",
+      "album": "WHACK’S MUSEUM",
+      "artistKey": "tierra whack",
+      "albumKey": "whacks museum",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-24",
+          "url": "https://pitchfork.com/reviews/albums/tierra-whack-whacks-museum/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1218,24 +1308,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Karyyn",
-      "album": "Physics Universal Love Language (PULL)",
-      "artistKey": "karyyn",
-      "albumKey": "physics universal love language pull",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-15",
-          "url": "https://pitchfork.com/reviews/albums/karyyn-physics-universal-love-language-pull/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kelsey Lu",
       "album": "So Help Me God",
       "artistKey": "kelsey lu",
@@ -1254,24 +1326,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Soli City",
-      "album": "Poetics of a New Estate",
-      "artistKey": "soli city",
-      "albumKey": "poetics of a new estate",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-15",
-          "url": "https://pitchfork.com/reviews/albums/soli-city-poetics-of-a-new-estate/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Sublime",
       "album": "Until the Sun Explodes",
       "artistKey": "sublime",
@@ -1283,42 +1337,6 @@
           "weight": 5,
           "publishedAt": "2026-06-15",
           "url": "https://pitchfork.com/reviews/albums/sublime-until-the-sun-explodes/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hole",
-      "album": "Celebrity Skin",
-      "artistKey": "hole",
-      "albumKey": "celebrity skin",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-14",
-          "url": "https://pitchfork.com/reviews/albums/hole-celebrity-skin/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Saint Pepsi",
-      "album": "Hit Vibes",
-      "artistKey": "saint pepsi",
-      "albumKey": "hit vibes",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-13",
-          "url": "https://pitchfork.com/reviews/albums/saint-pepsi-hit-vibes/"
         }
       ],
       "editorialWeight": 5,
@@ -1402,24 +1420,6 @@
       "album": "My Ghosts Go Ghost",
       "artistKey": "by storm",
       "albumKey": "my ghosts go ghost",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Converge",
-      "album": "Love Is Not Enough",
-      "artistKey": "converge",
-      "albumKey": "love is not enough",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -1665,6 +1665,24 @@
       ],
       "editorialWeight": 5,
       "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "This Is Lorelei",
+      "album": "Holo Boy",
+      "artistKey": "this is lorelei",
+      "albumKey": "holo boy",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2025-12-09",
+          "url": "https://stereogum.com/2482361/album-of-the-week-this-is-lorelei-holo-boy/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -8724,6 +8742,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Born At Midnite",
+      "album": "Eternal BAM Nation",
+      "artistKey": "born at midnite",
+      "albumKey": "eternal bam nation",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-23",
+          "url": "https://daily.bandcamp.com/album-of-the-day/born-at-midnite-eternal-bam-nation-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Various Artists",
       "album": "Music in Exile Presents ‘Jutna’",
       "artistKey": "various artists",
@@ -8742,22 +8778,22 @@
       "mentionCount": 9
     },
     {
-      "artist": "Celestial Power",
-      "album": "Celestial Power",
-      "artistKey": "celestial power",
-      "albumKey": "celestial power",
+      "artist": "Mark Jenkin",
+      "album": "Rose of Nevada",
+      "artistKey": "mark jenkin",
+      "albumKey": "rose of nevada",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-06-18",
-          "url": "https://daily.bandcamp.com/album-of-the-day/celestial-power-self-titled-review"
+          "publishedAt": "2026-06-24",
+          "url": "https://thequietus.com/quietus-reviews/mark-jenkin-rose-of-nevada-ost-review/?utm_source=rss&utm_medium=rss&utm_campaign=mark-jenkin-rose-of-nevada-ost-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Alison Cotton",
@@ -8775,6 +8811,42 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tasha",
+      "album": "You Are Spring!",
+      "artistKey": "tasha",
+      "albumKey": "you are spring",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-06-23",
+          "url": "https://stereogum.com/2502949/album-of-the-week-tasha-you-are-spring/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "This Is Lorelei",
+      "album": "The Singer In My Band",
+      "artistKey": "this is lorelei",
+      "albumKey": "the singer in my band",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -8825,6 +8897,24 @@
           "weight": 4,
           "publishedAt": "2026-06-18",
           "url": "https://thequietus.com/quietus-reviews/bolka-schwarzkopf-review/?utm_source=rss&utm_medium=rss&utm_campaign=bolka-schwarzkopf-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Celestial Power",
+      "album": "Celestial Power",
+      "artistKey": "celestial power",
+      "albumKey": "celestial power",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-18",
+          "url": "https://daily.bandcamp.com/album-of-the-day/celestial-power-self-titled-review"
         }
       ],
       "editorialWeight": 4,
@@ -8915,42 +9005,6 @@
           "weight": 4,
           "publishedAt": "2026-06-16",
           "url": "https://stereogum.com/2502000/album-of-the-week-styrofoam-winos-any-river/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tara Clerkin Trio",
-      "album": "Somewhere Good",
-      "artistKey": "tara clerkin trio",
-      "albumKey": "somewhere good",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-16",
-          "url": "https://thequietus.com/quietus-reviews/tara-clerkin-trio-somewhere-good-review/?utm_source=rss&utm_medium=rss&utm_campaign=tara-clerkin-trio-somewhere-good-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Debit",
-      "album": "Potpourri",
-      "artistKey": "debit",
-      "albumKey": "potpourri",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-15",
-          "url": "https://thequietus.com/quietus-reviews/debit-potpourri-review/?utm_source=rss&utm_medium=rss&utm_campaign=debit-potpourri-review"
         }
       ],
       "editorialWeight": 4,
@@ -10866,24 +10920,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "This Is Lorelei",
-      "album": "Holo Boy",
-      "artistKey": "this is lorelei",
-      "albumKey": "holo boy",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-12-09",
-          "url": "https://stereogum.com/2482361/album-of-the-week-this-is-lorelei-holo-boy/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Blut Aus Nord",
       "album": "Ethereal Horizons",
       "artistKey": "blut aus nord",
@@ -12252,24 +12288,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Shallowater",
-      "album": "God’s Gonna Give You A Million Dollars",
-      "artistKey": "shallowater",
-      "albumKey": "gods gonna give you a million dollars",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-09-02",
-          "url": "https://stereogum.com/2321384/album-of-the-week-shallowater-gods-gonna-give-you-a-million-dollars/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Miguel Zenón Quartet",
       "album": "Vanguardia Subterránea: Live at The Village Vanguard",
       "artistKey": "miguel zenon quartet",
@@ -13116,20 +13134,164 @@
       "mentionCount": 1
     },
     {
-      "artist": "BAMBII",
-      "album": "INFINITY CLUB II",
-      "artistKey": "bambii",
-      "albumKey": "infinity club ii",
+      "artist": "Aisha Vaughan",
+      "album": "Water World",
+      "artistKey": "aisha vaughan",
+      "albumKey": "water world",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-23",
-          "url": "https://daily.bandcamp.com/album-of-the-day/bambii-infinity-club-ii-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-24",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "BCMC",
+      "album": "Stash",
+      "artistKey": "bcmc",
+      "albumKey": "stash",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Courtney Bailey",
+      "album": "Jiwa Jiwa EP",
+      "artistKey": "courtney bailey",
+      "albumKey": "jiwa jiwa ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Janeret",
+      "album": "A Certain Era",
+      "artistKey": "janeret",
+      "albumKey": "a certain era",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lime Garden",
+      "album": "Maybe Not Tonight",
+      "artistKey": "lime garden",
+      "albumKey": "maybe not tonight",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rainbow Chan",
+      "album": "The Bridal Lament",
+      "artistKey": "rainbow chan",
+      "albumKey": "the bridal lament",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Durutti Column",
+      "album": "Renascent",
+      "artistKey": "the durutti column",
+      "albumKey": "renascent",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Turn on the Sunlight / Sam Gendel",
+      "album": "Warm Waves",
+      "artistKey": "turn on the sunlight sam gendel",
+      "albumKey": "warm waves",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Algiers",
+      "album": "The Underside of Power",
+      "artistKey": "algiers",
+      "albumKey": "the underside of power",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13188,10 +13350,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "H. Takahashi",
-      "album": "Body Trip (Remixed & Remastered)",
-      "artistKey": "h takahashi",
-      "albumKey": "body trip remixed and remastered",
+      "artist": "Gurriers",
+      "album": "Live on KEXP",
+      "artistKey": "gurriers",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13206,10 +13368,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Janeret",
-      "album": "A Certain Era",
-      "artistKey": "janeret",
-      "albumKey": "a certain era",
+      "artist": "H. Takahashi",
+      "album": "Body Trip (Remixed & Remastered)",
+      "artistKey": "h takahashi",
+      "albumKey": "body trip remixed and remastered",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13300,6 +13462,24 @@
       "album": "Wisdom Over Knowledge",
       "artistKey": "sam goku",
       "albumKey": "wisdom over knowledge",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "SPRINTS",
+      "album": "Live on KEXP",
+      "artistKey": "sprints",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13750,24 +13930,6 @@
       "album": "Limones (Captain Planet remix)",
       "artistKey": "earthtones feat oliwa numu and semblanzas del rio guapi",
       "albumKey": "limones captain planet remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gurriers",
-      "album": "Live on KEXP",
-      "artistKey": "gurriers",
-      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14458,42 +14620,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Etuk Ubong",
-      "album": "Live on KEXP from Trans Musicales",
-      "artistKey": "etuk ubong",
-      "albumKey": "live on kexp from trans musicales",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Just Mustard",
-      "album": "ENDLESS DEATHLESS (Daniel Avery remix)",
-      "artistKey": "just mustard",
-      "albumKey": "endless deathless daniel avery remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-13",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15269,24 +15395,6 @@
           "weight": 3,
           "publishedAt": "2026-02-04",
           "url": "https://www.indieshuffle.com/la-voar-storma/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Martin Martyn",
-      "album": "Nova",
-      "artistKey": "martin martyn",
-      "albumKey": "nova",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-01-27",
-          "url": "https://www.indieshuffle.com/martin-martyn-nova/"
         }
       ],
       "editorialWeight": 3,

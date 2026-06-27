@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T10:45:55.538Z",
+  "generatedAt": "2026-06-27T09:59:05.460Z",
   "items": [
     {
       "artist": "Tierra Whack",
@@ -671,24 +671,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Otoboke Beaver",
-      "album": "SUPER CHAMPON",
-      "artistKey": "otoboke beaver",
-      "albumKey": "super champon",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Sudan Archives",
       "album": "Natural Brown Prom Queen",
       "artistKey": "sudan archives",
@@ -833,24 +815,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Otoboke Beaver",
-      "album": "Itekoma Hits",
-      "artistKey": "otoboke beaver",
-      "albumKey": "itekoma hits",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Xiu Xiu",
       "album": "Girl with Basket of Fruit",
       "artistKey": "xiu xiu",
@@ -866,6 +830,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Charanjit Singh",
+      "album": "Synthesizing: Ten Ragas to a Disco Beat",
+      "artistKey": "charanjit singh",
+      "albumKey": "synthesizing ten ragas to a disco beat",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-27",
+          "url": "https://pitchfork.com/reviews/albums/charanjit-singh-synthesizing-ten-ragas-to-a-disco-beat/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1301,24 +1283,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Rainao Macria",
-      "album": "Marcriá",
-      "artistKey": "rainao macria",
-      "albumKey": "marcria",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-17",
-          "url": "https://pitchfork.com/reviews/albums/rainao-macria/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Horse Lords",
       "album": "Demand to Be Taken to Heaven Alive!",
       "artistKey": "horse lords",
@@ -1348,6 +1312,24 @@
           "weight": 4,
           "publishedAt": "2026-06-05",
           "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hannah Lew",
+      "album": "Hannah Lew",
+      "artistKey": "hannah lew",
+      "albumKey": "hannah lew",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-04-15",
+          "url": "https://daily.bandcamp.com/album-of-the-day/hannah-lew-self-titled-review"
         }
       ],
       "editorialWeight": 5,
@@ -5801,6 +5783,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Otoboke Beaver",
+      "album": "SUPER CHAMPON",
+      "artistKey": "otoboke beaver",
+      "albumKey": "super champon",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Petrol Girls",
       "album": "Baby",
       "artistKey": "petrol girls",
@@ -8519,6 +8519,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Otoboke Beaver",
+      "album": "Itekoma Hits",
+      "artistKey": "otoboke beaver",
+      "albumKey": "itekoma hits",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Prince",
       "album": "Originals",
       "artistKey": "prince",
@@ -8789,6 +8807,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Beth Orton",
+      "album": "The Ground Above",
+      "artistKey": "beth orton",
+      "albumKey": "the ground above",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/beth-orton-the-ground-above-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Various Artists",
       "album": "10 Years of Love Injection: A Declaration of Universal Love, Compiled by Barbie Bertisch & Paul Raffaele",
       "artistKey": "various artists",
@@ -8807,22 +8843,22 @@
       "mentionCount": 9
     },
     {
-      "artist": "Shark School",
-      "album": "Selachimorpha",
-      "artistKey": "shark school",
-      "albumKey": "selachimorpha",
+      "artist": "Hannah Lew",
+      "album": "Live on KEXP",
+      "artistKey": "hannah lew",
+      "albumKey": "live on kexp",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/shark-school-selachimorpha-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-26",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "M. Geddes Gengras",
@@ -8890,6 +8926,24 @@
           "weight": 4,
           "publishedAt": "2026-06-24",
           "url": "https://thequietus.com/quietus-reviews/mark-jenkin-rose-of-nevada-ost-review/?utm_source=rss&utm_medium=rss&utm_campaign=mark-jenkin-rose-of-nevada-ost-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shark School",
+      "album": "Selachimorpha",
+      "artistKey": "shark school",
+      "albumKey": "selachimorpha",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/shark-school-selachimorpha-review"
         }
       ],
       "editorialWeight": 4,
@@ -9005,42 +9059,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Placebo",
-      "album": "Placebo RE:CREATED",
-      "artistKey": "placebo",
-      "albumKey": "placebo re created",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-19",
-          "url": "https://thequietus.com/quietus-reviews/placebo-placebo-recreated/?utm_source=rss&utm_medium=rss&utm_campaign=placebo-placebo-recreated"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bolka",
-      "album": "Schwarzkopf",
-      "artistKey": "bolka",
-      "albumKey": "schwarzkopf",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-18",
-          "url": "https://thequietus.com/quietus-reviews/bolka-schwarzkopf-review/?utm_source=rss&utm_medium=rss&utm_campaign=bolka-schwarzkopf-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Celestial Power",
       "album": "Celestial Power",
       "artistKey": "celestial power",
@@ -9092,24 +9110,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Otoboke Beaver",
-      "album": "Live on KEXP",
-      "artistKey": "otoboke beaver",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9808,24 +9808,6 @@
           "weight": 4,
           "publishedAt": "2026-04-16",
           "url": "https://daily.bandcamp.com/album-of-the-day/rocketship-a-certain-smile-a-certain-sadness-30th-anniversary-edition-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hannah Lew",
-      "album": "Hannah Lew",
-      "artistKey": "hannah lew",
-      "albumKey": "hannah lew",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-04-15",
-          "url": "https://daily.bandcamp.com/album-of-the-day/hannah-lew-self-titled-review"
         }
       ],
       "editorialWeight": 4,
@@ -13145,20 +13127,92 @@
       "mentionCount": 1
     },
     {
-      "artist": "Brìghde Chaimbeul",
-      "album": "Sunwise",
-      "artistKey": "brighde chaimbeul",
-      "albumKey": "sunwise",
+      "artist": "Alice Bag",
+      "album": "Sister Dynamite",
+      "artistKey": "alice bag",
+      "albumKey": "sister dynamite",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/brighde-chaimbeul-sunwise-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-26",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fundido feat. Emma Dufaux",
+      "album": "Get A Grip",
+      "artistKey": "fundido feat emma dufaux",
+      "albumKey": "get a grip",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Jayhawks",
+      "album": "Sanctuary Park",
+      "artistKey": "the jayhawks",
+      "albumKey": "sanctuary park",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ullah",
+      "album": "For Then",
+      "artistKey": "ullah",
+      "albumKey": "for then",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yeah Baby",
+      "album": "Don't Forget",
+      "artistKey": "yeah baby",
+      "albumKey": "dont forget",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -14423,186 +14477,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "A Lily",
-      "album": "Wake:Sleep",
-      "artistKey": "a lily",
-      "albumKey": "wake sleep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Aluminé Guerrero & El Búho",
-      "album": "Patagonia Patagonia",
-      "artistKey": "alumine guerrero and el buho",
-      "albumKey": "patagonia patagonia",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Blue Ringed Baby & Kamī",
-      "album": "Fortunes",
-      "artistKey": "blue ringed baby and kami",
-      "albumKey": "fortunes",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Eels",
-      "album": "Cookie Happened",
-      "artistKey": "eels",
-      "albumKey": "cookie happened",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "English Teacher",
-      "album": "Live on KEXP",
-      "artistKey": "english teacher",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "IZCO feat. Reek0 & S.I.",
-      "album": "POWERSCROFT",
-      "artistKey": "izco feat reek0 and s i",
-      "albumKey": "powerscroft",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jess Sah Bi",
-      "album": "Jesus-Christ Ne Deçoit Pas",
-      "artistKey": "jess sah bi",
-      "albumKey": "jesus christ ne decoit pas",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mermaid",
-      "album": "Dub Forever",
-      "artistKey": "mermaid",
-      "albumKey": "dub forever",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mia",
-      "album": "In the Moonlight",
-      "artistKey": "mia",
-      "albumKey": "in the moonlight",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Now Always Fades",
-      "album": "Coalesce",
-      "artistKey": "now always fades",
-      "albumKey": "coalesce",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Seb Wildblood",
       "album": "Folded (Ft. Jouska)",
       "artistKey": "seb wildblood",
@@ -14614,42 +14488,6 @@
           "weight": 3,
           "publishedAt": "2026-06-16",
           "url": "https://www.indieshuffle.com/seb-wildblood-folded-ft-jouska/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tech Support",
-      "album": "Asa Tate Edits",
-      "artistKey": "tech support",
-      "albumKey": "asa tate edits",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Xelta",
-      "album": "B.D.S.M.",
-      "artistKey": "xelta",
-      "albumKey": "b d s m",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

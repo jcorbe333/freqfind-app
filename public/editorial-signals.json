@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T09:59:05.460Z",
+  "generatedAt": "2026-06-28T10:23:00.767Z",
   "items": [
     {
       "artist": "Tierra Whack",
@@ -70,31 +70,6 @@
           "weight": 4,
           "publishedAt": "2026-06-02",
           "url": "https://stereogum.com/2500983/album-of-the-week-slippers-slippers-08/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Wiki",
-      "album": "Ancient History",
-      "artistKey": "wiki",
-      "albumKey": "ancient history",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-17",
-          "url": "https://pitchfork.com/reviews/albums/wiki-ancient-history/"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-06-09",
-          "url": "https://stereogum.com/2501203/album-of-the-week-wiki-ancient-history/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 11,
@@ -833,6 +808,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Bryan Ferry",
+      "album": "Boys and Girls",
+      "artistKey": "bryan ferry",
+      "albumKey": "boys and girls",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-28",
+          "url": "https://pitchfork.com/reviews/albums/bryan-ferry-boys-and-girls/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Charanjit Singh",
       "album": "Synthesizing: Ten Ragas to a Disco Beat",
       "artistKey": "charanjit singh",
@@ -1301,6 +1294,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Wiki",
+      "album": "Ancient History",
+      "artistKey": "wiki",
+      "albumKey": "ancient history",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-06-09",
+          "url": "https://stereogum.com/2501203/album-of-the-week-wiki-ancient-history/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Vince Staples",
       "album": "Cry Baby",
       "artistKey": "vince staples",
@@ -1366,6 +1377,24 @@
           "weight": 4,
           "publishedAt": "2026-02-06",
           "url": "https://daily.bandcamp.com/album-of-the-day/daphni-butterfly-review"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Blackwater Holylight",
+      "album": "Not Here Not Gone",
+      "artistKey": "blackwater holylight",
+      "albumKey": "not here not gone",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-01-29",
+          "url": "https://daily.bandcamp.com/album-of-the-day/blackwater-holylight-not-here-not-gone-review"
         }
       ],
       "editorialWeight": 5,
@@ -8843,6 +8872,24 @@
       "mentionCount": 9
     },
     {
+      "artist": "Blackwater Holylight",
+      "album": "Live on KEXP",
+      "artistKey": "blackwater holylight",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Hannah Lew",
       "album": "Live on KEXP",
       "artistKey": "hannah lew",
@@ -10726,24 +10773,6 @@
           "weight": 4,
           "publishedAt": "2026-01-31",
           "url": "https://daily.bandcamp.com/album-of-the-day/haruhi-kobayashi-maybe-you-should-talk-to-someone-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Blackwater Holylight",
-      "album": "Not Here Not Gone",
-      "artistKey": "blackwater holylight",
-      "albumKey": "not here not gone",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-01-29",
-          "url": "https://daily.bandcamp.com/album-of-the-day/blackwater-holylight-not-here-not-gone-review"
         }
       ],
       "editorialWeight": 4,
@@ -13109,24 +13138,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Gelli Haha",
-      "album": "Switcheroo",
-      "artistKey": "gelli haha",
-      "albumKey": "switcheroo",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-27",
-          "url": "https://daily.bandcamp.com/album-of-the-day/gelli-haha-switcheroo-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Alice Bag",
       "album": "Sister Dynamite",
       "artistKey": "alice bag",
@@ -14361,114 +14372,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "April + VISTA ft. Tony Kill",
-      "album": "Traditional Noise",
-      "artistKey": "april vista ft tony kill",
-      "albumKey": "traditional noise",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Earthtones feat. Oliwa, Numu & Semblanzas del río Guapi",
-      "album": "Limones (Captain Planet remix)",
-      "artistKey": "earthtones feat oliwa numu and semblanzas del rio guapi",
-      "albumKey": "limones captain planet remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Joya Mooi feat. Ric Wilson",
-      "album": "All the Things",
-      "artistKey": "joya mooi feat ric wilson",
-      "albumKey": "all the things",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nightbus",
-      "album": "Angles Mortz (Tom Sharkett remix)",
-      "artistKey": "nightbus",
-      "albumKey": "angles mortz tom sharkett remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nina Simone",
-      "album": "Baltimore (live) (Supershy remix)",
-      "artistKey": "nina simone",
-      "albumKey": "baltimore live supershy remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Yeah NO",
-      "album": "Live on KEXP",
-      "artistKey": "yeah no",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-17",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

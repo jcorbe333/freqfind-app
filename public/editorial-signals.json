@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T10:23:00.767Z",
+  "generatedAt": "2026-06-29T12:26:05.766Z",
   "items": [
     {
       "artist": "Tierra Whack",
@@ -252,31 +252,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Jill Scott",
-      "album": "To Whom This May Concern",
-      "artistKey": "jill scott",
-      "albumKey": "to whom this may concern",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-18",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Aldous Harding",
       "album": "Train On The Island",
       "artistKey": "aldous harding",
@@ -477,31 +452,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Parlor Greens",
-      "album": "Emeralds",
-      "artistKey": "parlor greens",
-      "albumKey": "emeralds",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-18",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-03-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Converge",
       "album": "Hum of Hurt",
       "artistKey": "converge",
@@ -513,24 +463,6 @@
           "weight": 5,
           "publishedAt": "2026-06-24",
           "url": "https://pitchfork.com/reviews/albums/converge-hum-of-hurt/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Osees",
-      "album": "OFF COURSE",
-      "artistKey": "osees",
-      "albumKey": "off course",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-18",
-          "url": "https://pitchfork.com/reviews/albums/osees-off-course/"
         }
       ],
       "editorialWeight": 6,
@@ -805,6 +737,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Harmony Tividad",
+      "album": "Lifetime",
+      "artistKey": "harmony tividad",
+      "albumKey": "lifetime",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-29",
+          "url": "https://pitchfork.com/reviews/albums/harmony-tividad-lifetime/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lifted",
+      "album": "Movie",
+      "artistKey": "lifted",
+      "albumKey": "movie",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-29",
+          "url": "https://pitchfork.com/reviews/albums/lifted-movie/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Teller Banks Mathematics",
+      "album": "3x6x𐕣 =666, 3x1x𐕣=111 3x7x𐕣 =777,3x5x𐕣=555 3x9x𐕣 =999,3x3x𐕣=333",
+      "artistKey": "teller banks mathematics",
+      "albumKey": "3x6x 666 3x1x 111 3x7x 777 3x5x 555 3x9x 999 3x3x 333",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-06-29",
+          "url": "https://pitchfork.com/reviews/albums/teller-banks-mathematics/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1240,42 +1226,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sparklmami",
-      "album": "in this body",
-      "artistKey": "sparklmami",
-      "albumKey": "in this body",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-18",
-          "url": "https://pitchfork.com/reviews/albums/sparklmami-in-this-body/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tygapaw",
-      "album": "Together You Gather All Power Applied Worldwide",
-      "artistKey": "tygapaw",
-      "albumKey": "together you gather all power applied worldwide",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-18",
-          "url": "https://pitchfork.com/reviews/albums/tygapaw-together-you-gather-all-power-applied-worldwide/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Horse Lords",
       "album": "Demand to Be Taken to Heaven Alive!",
       "artistKey": "horse lords",
@@ -1564,6 +1514,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Jill Scott",
+      "album": "To Whom This May Concern",
+      "artistKey": "jill scott",
+      "albumKey": "to whom this may concern",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Kaátaìra",
       "album": "Caminhos de Água",
       "artistKey": "kaataira",
@@ -1773,24 +1741,6 @@
           "weight": 4,
           "publishedAt": "2025-08-12",
           "url": "https://daily.bandcamp.com/album-of-the-day/anamanaguchi-anyway"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "OSEES",
-      "album": "ABOMINATION REVEALED AT LAST",
-      "artistKey": "osees",
-      "albumKey": "abomination revealed at last",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-11",
-          "url": "https://daily.bandcamp.com/album-of-the-day/osees-abomination-revealed-at-last"
         }
       ],
       "editorialWeight": 5,
@@ -8872,6 +8822,42 @@
       "mentionCount": 9
     },
     {
+      "artist": "Helen Svoboda",
+      "album": "Headwater",
+      "artistKey": "helen svoboda",
+      "albumKey": "headwater",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-06-29",
+          "url": "https://thequietus.com/quietus-reviews/helen-svoboda-headwater-review/?utm_source=rss&utm_medium=rss&utm_campaign=helen-svoboda-headwater-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Arlo Parks",
+      "album": "Ambiguous Desire",
+      "artistKey": "arlo parks",
+      "albumKey": "ambiguous desire",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Blackwater Holylight",
       "album": "Live on KEXP",
       "artistKey": "blackwater holylight",
@@ -10114,6 +10100,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Parlor Greens",
+      "album": "Emeralds",
+      "artistKey": "parlor greens",
+      "albumKey": "emeralds",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-03-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "dälek",
       "album": "Brilliance of a Falling Moon",
       "artistKey": "dalek",
@@ -10507,6 +10511,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Arlo Parks",
+      "album": "Heaven",
+      "artistKey": "arlo parks",
+      "albumKey": "heaven",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-02-21",
+          "url": "https://www.indieshuffle.com/arlo-parks-heaven/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -12598,6 +12620,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "OSEES",
+      "album": "ABOMINATION REVEALED AT LAST",
+      "artistKey": "osees",
+      "albumKey": "abomination revealed at last",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-08-11",
+          "url": "https://daily.bandcamp.com/album-of-the-day/osees-abomination-revealed-at-last"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Tommy WÁ",
       "album": "Somewhere Only We Go",
       "artistKey": "tommy wa",
@@ -13134,6 +13174,42 @@
         }
       ],
       "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lala Lala",
+      "album": "Live on KEXP",
+      "artistKey": "lala lala",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "sueter7",
+      "album": "Todo Salió Bien en la Sencilla Villa Quién",
+      "artistKey": "sueter7",
+      "albumKey": "todo salio bien en la sencilla villa quien",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -14146,24 +14222,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Deadbeat Beat",
-      "album": "From Here to Ohio",
-      "artistKey": "deadbeat beat",
-      "albumKey": "from here to ohio",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kareem Ali",
       "album": "The Essence",
       "artistKey": "kareem ali",
@@ -14210,168 +14268,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jay Som",
-      "album": "Live on KEXP",
-      "artistKey": "jay som",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jay Som feat. Jim Adkins",
-      "album": "Live on KEXP",
-      "artistKey": "jay som feat jim adkins",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nubiyan Twist & Patrice Rushen",
-      "album": "Chasing Shadows",
-      "artistKey": "nubiyan twist and patrice rushen",
-      "albumKey": "chasing shadows",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rell Be Free featuring Shakiah, Gabriel Teodros, TheOneJakobi, Gyasi & Khingz",
-      "album": "Everything Is Everything",
-      "artistKey": "rell be free featuring shakiah gabriel teodros theonejakobi gyasi and khingz",
-      "albumKey": "everything is everything",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Squirrel Flower",
-      "album": "Live on KEXP",
-      "artistKey": "squirrel flower",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Squirrel Nut Zippers",
-      "album": "Live on KEXP",
-      "artistKey": "squirrel nut zippers",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Terrace Martin",
-      "album": "PASSION",
-      "artistKey": "terrace martin",
-      "albumKey": "passion",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Derelicts",
-      "album": "Live on KEXP",
-      "artistKey": "the derelicts",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Thundercat feat. Mac Miller",
-      "album": "Distracted",
-      "artistKey": "thundercat feat mac miller",
-      "albumKey": "distracted",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-18",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15039,24 +14935,6 @@
           "weight": 3,
           "publishedAt": "2026-02-23",
           "url": "https://www.indieshuffle.com/rio-kosta-unicorn/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Arlo Parks",
-      "album": "Heaven",
-      "artistKey": "arlo parks",
-      "albumKey": "heaven",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-02-21",
-          "url": "https://www.indieshuffle.com/arlo-parks-heaven/"
         }
       ],
       "editorialWeight": 3,

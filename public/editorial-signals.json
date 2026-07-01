@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T10:51:34.777Z",
+  "generatedAt": "2026-07-01T11:18:52.819Z",
   "items": [
     {
       "artist": "Makthaverskan",
@@ -55,6 +55,31 @@
         }
       ],
       "editorialWeight": 12,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Muse",
+      "album": "The Wow! Signal",
+      "artistKey": "muse",
+      "albumKey": "the wow signal",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-01",
+          "url": "https://pitchfork.com/reviews/albums/muse-the-wow-signal/"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-06-26",
+          "url": "https://thequietus.com/quietus-reviews/muse-the-wow-signal/?utm_source=rss&utm_medium=rss&utm_campaign=muse-the-wow-signal"
+        }
+      ],
+      "editorialWeight": 11,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -492,6 +517,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "PetroDragonic Apocalypse",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "petrodragonic apocalypse",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Snooper",
       "album": "Super Sn​õ​õ​per",
       "artistKey": "snooper",
@@ -503,6 +546,24 @@
           "weight": 5,
           "publishedAt": "2023-01-01",
           "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "Laminated Denim",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "laminated denim",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
         }
       ],
       "editorialWeight": 6,
@@ -654,6 +715,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "Infest the Rats’ Nest",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "infest the rats nest",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Xiu Xiu",
       "album": "Girl with Basket of Fruit",
       "artistKey": "xiu xiu",
@@ -669,6 +748,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Brutalismus 3000",
+      "album": "Harmony",
+      "artistKey": "brutalismus 3000",
+      "albumKey": "harmony",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-01",
+          "url": "https://pitchfork.com/reviews/albums/brutalismus-3000-harmony/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Debit",
+      "album": "Potpourri",
+      "artistKey": "debit",
+      "albumKey": "potpourri",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-01",
+          "url": "https://pitchfork.com/reviews/albums/debit-potpourri/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Squib",
+      "album": "Erring",
+      "artistKey": "squib",
+      "albumKey": "erring",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-01",
+          "url": "https://pitchfork.com/reviews/albums/squib-erring/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1068,60 +1201,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Basic",
-      "album": "BASIC",
-      "artistKey": "basic",
-      "albumKey": "basic",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-22",
-          "url": "https://pitchfork.com/reviews/albums/basic-basic/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cold Court Hands Up",
-      "album": "\\ (_) / EP",
-      "artistKey": "cold court hands up",
-      "albumKey": "ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-22",
-          "url": "https://pitchfork.com/reviews/albums/cold-court-hands-up-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "John Prine Live At Old Town School Of Folk Music",
-      "album": "Live at Old Town School of Folk",
-      "artistKey": "john prine live at old town school of folk music",
-      "albumKey": "live at old town school of folk",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-22",
-          "url": "https://pitchfork.com/reviews/albums/john-prine-live-at-old-town-school-of-folk-music/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Tucker Zimmerman",
       "album": "Dream Me a Dream",
       "artistKey": "tucker zimmerman",
@@ -1133,24 +1212,6 @@
           "weight": 5,
           "publishedAt": "2026-06-22",
           "url": "https://pitchfork.com/reviews/albums/tucker-zimmerman-dream-me-a-dream/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Miles Davis",
-      "album": "Miles ’56: The Prestige Recordings",
-      "artistKey": "miles davis",
-      "albumKey": "miles 56 the prestige recordings",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-19",
-          "url": "https://pitchfork.com/reviews/albums/miles-davis-miles-56-the-prestige-recordings/"
         }
       ],
       "editorialWeight": 5,
@@ -4326,24 +4387,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "PetroDragonic Apocalypse",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "petrodragonic apocalypse",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "King Krule",
       "album": "Space Heavy",
       "artistKey": "king krule",
@@ -5590,24 +5633,6 @@
       "album": "American Gurl",
       "artistKey": "kilo kish",
       "albumKey": "american gurl",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "Laminated Denim",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "laminated denim",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8286,24 +8311,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "Infest the Rats’ Nest",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "infest the rats nest",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kirin J. Callinan",
       "album": "Return to Center",
       "artistKey": "kirin j callinan",
@@ -8790,6 +8797,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Spacemoth",
+      "album": "Inward Eye",
+      "artistKey": "spacemoth",
+      "albumKey": "inward eye",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-30",
+          "url": "https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "F/i",
       "album": "Invisible Men",
       "artistKey": "f i",
@@ -8808,22 +8833,58 @@
       "mentionCount": 9
     },
     {
-      "artist": "Beth Orton",
-      "album": "The Ground Above",
-      "artistKey": "beth orton",
-      "albumKey": "the ground above",
+      "artist": "Truck Violence",
+      "album": "The Weathervane Is My Body",
+      "artistKey": "truck violence",
+      "albumKey": "the weathervane is my body",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-06-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/beth-orton-the-ground-above-review"
+          "publishedAt": "2026-07-01",
+          "url": "https://thequietus.com/quietus-reviews/truck-violence-the-weathervane-is-my-body-review/?utm_source=rss&utm_medium=rss&utm_campaign=truck-violence-the-weathervane-is-my-body-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
+    },
+    {
+      "artist": "King Gizzard & the Lizard Wizard",
+      "album": "Live on KEXP",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nixon Boyd",
+      "album": "Every Time We Turn A Corner",
+      "artistKey": "nixon boyd",
+      "albumKey": "every time we turn a corner",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-06-30",
+          "url": "https://stereogum.com/2503205/album-of-the-week-nixon-boyd-every-time-we-turn-a-corner/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Pomelo",
@@ -8898,6 +8959,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Beth Orton",
+      "album": "The Ground Above",
+      "artistKey": "beth orton",
+      "albumKey": "the ground above",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/beth-orton-the-ground-above-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Hannah Lew",
       "album": "Live on KEXP",
       "artistKey": "hannah lew",
@@ -8927,24 +9006,6 @@
           "weight": 4,
           "publishedAt": "2026-06-26",
           "url": "https://thequietus.com/quietus-reviews/m-geddes-gengras-guest-list-review/?utm_source=rss&utm_medium=rss&utm_campaign=m-geddes-gengras-guest-list-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Muse",
-      "album": "The Wow! Signal",
-      "artistKey": "muse",
-      "albumKey": "the wow signal",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-26",
-          "url": "https://thequietus.com/quietus-reviews/muse-the-wow-signal/?utm_source=rss&utm_medium=rss&utm_campaign=muse-the-wow-signal"
         }
       ],
       "editorialWeight": 4,
@@ -9017,24 +9078,6 @@
           "weight": 4,
           "publishedAt": "2026-06-24",
           "url": "https://daily.bandcamp.com/album-of-the-day/shark-school-selachimorpha-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Alison Cotton",
-      "album": "The Gods Laugh",
-      "artistKey": "alison cotton",
-      "albumKey": "the gods laugh",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-23",
-          "url": "https://thequietus.com/quietus-reviews/alison-cotton-the-gods-laugh-review/?utm_source=rss&utm_medium=rss&utm_campaign=alison-cotton-the-gods-laugh-review"
         }
       ],
       "editorialWeight": 4,
@@ -12282,24 +12325,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Liquid Mike",
-      "album": "Hell Is An Airport",
-      "artistKey": "liquid mike",
-      "albumKey": "hell is an airport",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-09-09",
-          "url": "https://stereogum.com/2322260/album-of-the-week-liquid-mike-hell-is-an-airport/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Throwing Shapes",
       "album": "Throwing Shapes",
       "artistKey": "throwing shapes",
@@ -13182,20 +13207,38 @@
       "mentionCount": 1
     },
     {
-      "artist": "Willi Carlisle",
-      "album": "Winged Victory",
-      "artistKey": "willi carlisle",
-      "albumKey": "winged victory",
+      "artist": "Litronix",
+      "album": "Live on KEXP",
+      "artistKey": "litronix",
+      "albumKey": "live on kexp",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-06-30",
-          "url": "https://daily.bandcamp.com/album-of-the-day/willi-carlisle-winged-victory"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-01",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "YHWH Nailgun",
+      "album": "Magazine",
+      "artistKey": "yhwh nailgun",
+      "albumKey": "magazine",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13204,6 +13247,24 @@
       "album": "The Joy of Sextet",
       "artistKey": "a certain ratio",
       "albumKey": "the joy of sextet",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Angine de Poitrine",
+      "album": "Live on KEXP",
+      "artistKey": "angine de poitrine",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13236,6 +13297,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Dinosaur Jr.",
+      "album": "There Near",
+      "artistKey": "dinosaur jr",
+      "albumKey": "there near",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Ken Ishii feat. Metropolitan Harmonic Formulas",
       "album": "Universal Love - 10 Years of Love Injection",
       "artistKey": "ken ishii feat metropolitan harmonic formulas",
@@ -13254,10 +13333,82 @@
       "mentionCount": 1
     },
     {
+      "artist": "New Constellations",
+      "album": "It Comes in Waves",
+      "artistKey": "new constellations",
+      "albumKey": "it comes in waves",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nu Genea",
+      "album": "People of the Moon",
+      "artistKey": "nu genea",
+      "albumKey": "people of the moon",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Piezo",
       "album": "Sky Burial",
       "artistKey": "piezo",
       "albumKey": "sky burial",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Steve Lacy, SZA",
+      "album": "Oh yeah?",
+      "artistKey": "steve lacy sza",
+      "albumKey": "oh yeah",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-06-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "STRFKR",
+      "album": "Jupiter",
+      "artistKey": "strfkr",
+      "albumKey": "jupiter",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14446,24 +14597,6 @@
       "album": "A Flight Through Obscurity",
       "artistKey": "veneficus sarcina",
       "albumKey": "a flight through obscurity",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Versing",
-      "album": "Nirvana",
-      "artistKey": "versing",
-      "albumKey": "nirvana",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",

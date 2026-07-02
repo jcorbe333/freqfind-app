@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T11:18:52.819Z",
+  "generatedAt": "2026-07-02T10:31:52.938Z",
   "items": [
     {
       "artist": "Makthaverskan",
@@ -55,6 +55,31 @@
         }
       ],
       "editorialWeight": 12,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Beth Orton",
+      "album": "The Ground Above",
+      "artistKey": "beth orton",
+      "albumKey": "the ground above",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-02",
+          "url": "https://pitchfork.com/reviews/albums/beth-orton-the-ground-above/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/beth-orton-the-ground-above-review"
+        }
+      ],
+      "editorialWeight": 11,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -343,7 +368,7 @@
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-06-25",
+          "publishedAt": "2026-07-02",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -456,6 +481,24 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Blu & Exile",
+      "album": "Love (the) Ominous World",
+      "artistKey": "blu and exile",
+      "albumKey": "love the ominous world",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
         }
       ],
       "editorialWeight": 6,
@@ -643,6 +686,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Blu & Exile",
+      "album": "Miles",
+      "artistKey": "blu and exile",
+      "albumKey": "miles",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "HAIM",
       "album": "Women in Music Pt. III",
       "artistKey": "haim",
@@ -748,6 +809,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fief",
+      "album": "VII",
+      "artistKey": "fief",
+      "albumKey": "vii",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-02",
+          "url": "https://pitchfork.com/reviews/albums/fief-vii/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hammok",
+      "album": "When Does This Place Become Our Scene",
+      "artistKey": "hammok",
+      "albumKey": "when does this place become our scene",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-02",
+          "url": "https://pitchfork.com/reviews/albums/hammok-when-does-this-place-become-our-scene/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mildred",
+      "album": "Fenceline",
+      "artistKey": "mildred",
+      "albumKey": "fenceline",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-02",
+          "url": "https://pitchfork.com/reviews/albums/mildred-fenceline/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1129,24 +1244,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Cannelle",
-      "album": "CINNA",
-      "artistKey": "cannelle",
-      "albumKey": "cinna",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-23",
-          "url": "https://pitchfork.com/reviews/albums/cannelle-cinna/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Cfcf Luv",
       "album": "L.U.V.",
       "artistKey": "cfcf luv",
@@ -1158,60 +1255,6 @@
           "weight": 5,
           "publishedAt": "2026-06-23",
           "url": "https://pitchfork.com/reviews/albums/cfcf-luv/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jake Kaufman",
-      "album": "Mina the Hollower (Original Soundtrack)",
-      "artistKey": "jake kaufman",
-      "albumKey": "mina the hollower original soundtrack",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-23",
-          "url": "https://pitchfork.com/reviews/albums/jake-kaufman-mina-the-hollower-original-soundtrack/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Zzzahara",
-      "album": "Distant Lands",
-      "artistKey": "zzzahara",
-      "albumKey": "distant lands",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-23",
-          "url": "https://pitchfork.com/reviews/albums/zzzahara-distant-lands/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tucker Zimmerman",
-      "album": "Dream Me a Dream",
-      "artistKey": "tucker zimmerman",
-      "albumKey": "dream me a dream",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-22",
-          "url": "https://pitchfork.com/reviews/albums/tucker-zimmerman-dream-me-a-dream/"
         }
       ],
       "editorialWeight": 5,
@@ -2969,24 +3012,6 @@
       "album": "Absolute Elsewhere",
       "artistKey": "blood incantation",
       "albumKey": "absolute elsewhere",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Blu & Exile",
-      "album": "Love (the) Ominous World",
-      "artistKey": "blu and exile",
-      "albumKey": "love the ominous world",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -6979,24 +7004,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Blu & Exile",
-      "album": "Miles",
-      "artistKey": "blu and exile",
-      "albumKey": "miles",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Boldy James & Sterling Toles",
       "album": "Manger on McNichols",
       "artistKey": "boldy james and sterling toles",
@@ -8797,17 +8804,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Spacemoth",
-      "album": "Inward Eye",
-      "artistKey": "spacemoth",
-      "albumKey": "inward eye",
+      "artist": "Kazuya Nagaya",
+      "album": "Lumina",
+      "artistKey": "kazuya nagaya",
+      "albumKey": "lumina",
       "sources": [
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-06-30",
-          "url": "https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review"
+          "publishedAt": "2026-07-01",
+          "url": "https://daily.bandcamp.com/album-of-the-day/kazuya-nagaya-lumina-review"
         }
       ],
       "editorialWeight": 4,
@@ -8815,22 +8822,40 @@
       "mentionCount": 9
     },
     {
-      "artist": "F/i",
-      "album": "Invisible Men",
-      "artistKey": "f i",
-      "albumKey": "invisible men",
+      "artist": "Debt Rag",
+      "album": "It Is Clear What’s Going On",
+      "artistKey": "debt rag",
+      "albumKey": "it is clear whats going on",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-06-29",
-          "url": "https://daily.bandcamp.com/album-of-the-day/f-i-invisible-men-review"
+          "publishedAt": "2026-07-02",
+          "url": "https://thequietus.com/quietus-reviews/debt-rag-it-is-clear-whats-going-on-review/?utm_source=rss&utm_medium=rss&utm_campaign=debt-rag-it-is-clear-whats-going-on-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
+    },
+    {
+      "artist": "Blu & Exile",
+      "album": "Time Heals Everything",
+      "artistKey": "blu and exile",
+      "albumKey": "time heals everything",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Truck Violence",
@@ -8905,6 +8930,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Spacemoth",
+      "album": "Inward Eye",
+      "artistKey": "spacemoth",
+      "albumKey": "inward eye",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-30",
+          "url": "https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "F/i",
+      "album": "Invisible Men",
+      "artistKey": "f i",
+      "albumKey": "invisible men",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-29",
+          "url": "https://daily.bandcamp.com/album-of-the-day/f-i-invisible-men-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Helen Svoboda",
       "album": "Headwater",
       "artistKey": "helen svoboda",
@@ -8956,24 +9017,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Beth Orton",
-      "album": "The Ground Above",
-      "artistKey": "beth orton",
-      "albumKey": "the ground above",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/beth-orton-the-ground-above-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -9042,24 +9085,6 @@
           "weight": 4,
           "publishedAt": "2026-06-25",
           "url": "https://daily.bandcamp.com/album-of-the-day/10-years-of-love-injection-compilation-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mark Jenkin",
-      "album": "Rose of Nevada",
-      "artistKey": "mark jenkin",
-      "albumKey": "rose of nevada",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-24",
-          "url": "https://thequietus.com/quietus-reviews/mark-jenkin-rose-of-nevada-ost-review/?utm_source=rss&utm_medium=rss&utm_campaign=mark-jenkin-rose-of-nevada-ost-review"
         }
       ],
       "editorialWeight": 4,
@@ -13207,9 +13232,117 @@
       "mentionCount": 1
     },
     {
+      "artist": "Champagne Bubblebath",
+      "album": "Mixtape: Volume One",
+      "artistKey": "champagne bubblebath",
+      "albumKey": "mixtape volume one",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cousin Chris",
+      "album": "Entrypoint 01",
+      "artistKey": "cousin chris",
+      "albumKey": "entrypoint 01",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Justine Skye",
+      "album": "CANDY",
+      "artistKey": "justine skye",
+      "albumKey": "candy",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jagwar Ma",
+      "album": "Live on KEXP",
+      "artistKey": "jagwar ma",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kelley Stoltz",
+      "album": "If You Don't Know Me, Buy Now!",
+      "artistKey": "kelley stoltz",
+      "albumKey": "if you dont know me buy now",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Litronix",
       "album": "Live on KEXP",
       "artistKey": "litronix",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nation of Language",
+      "album": "Live on KEXP",
+      "artistKey": "nation of language",
       "albumKey": "live on kexp",
       "sources": [
         {
@@ -13751,24 +13884,6 @@
       "album": "Live on KEXP",
       "artistKey": "cabaret voltaire",
       "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-25",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Champagne Bubblebath",
-      "album": "Mixtape: Volume One",
-      "artistKey": "champagne bubblebath",
-      "albumKey": "mixtape volume one",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14531,78 +14646,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "mclusky",
-      "album": "Live on KEXP",
-      "artistKey": "mclusky",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mexican Institute of Sound & Meridian Brothers feat. Beck",
-      "album": "Ruido Tovar",
-      "artistKey": "mexican institute of sound and meridian brothers feat beck",
-      "albumKey": "ruido tovar",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rainbow Jackson",
-      "album": "The Mirror",
-      "artistKey": "rainbow jackson",
-      "albumKey": "the mirror",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Veneficus Sarcina",
-      "album": "A Flight Through Obscurity",
-      "artistKey": "veneficus sarcina",
-      "albumKey": "a flight through obscurity",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-21",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15378,24 +15421,6 @@
           "weight": 3,
           "publishedAt": "2026-02-09",
           "url": "https://www.indieshuffle.com/vilde-austral/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "La' Voar",
-      "album": "Storma",
-      "artistKey": "la voar",
-      "albumKey": "storma",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-02-04",
-          "url": "https://www.indieshuffle.com/la-voar-storma/"
         }
       ],
       "editorialWeight": 3,

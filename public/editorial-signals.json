@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T10:29:25.899Z",
+  "generatedAt": "2026-07-04T10:02:48.991Z",
   "items": [
     {
       "artist": "Makthaverskan",
@@ -477,31 +477,6 @@
           "weight": 4,
           "publishedAt": "2026-05-04",
           "url": "https://daily.bandcamp.com/album-of-the-day/kneecap-fenian-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Ruth Garbus",
-      "album": "Profound",
-      "artistKey": "ruth garbus",
-      "albumKey": "profound",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-11",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ruth-garbus-profound-review"
         }
       ],
       "editorialWeight": 9,
@@ -1766,24 +1741,6 @@
       ],
       "editorialWeight": 5,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "This Is Lorelei",
-      "album": "Holo Boy",
-      "artistKey": "this is lorelei",
-      "albumKey": "holo boy",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-12-09",
-          "url": "https://stereogum.com/2482361/album-of-the-week-this-is-lorelei-holo-boy/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -8897,6 +8854,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "KNEECAP",
+      "album": "Cold at the Top (Shanti Celeste remix)",
+      "artistKey": "kneecap",
+      "albumKey": "cold at the top shanti celeste remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Blackwater Holylight",
       "album": "Live on KEXP",
       "artistKey": "blackwater holylight",
@@ -9131,24 +9106,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Gamut Inc",
-      "album": "Radiating",
-      "artistKey": "gamut inc",
-      "albumKey": "radiating",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-06-25",
-          "url": "https://thequietus.com/quietus-reviews/gamut-inc-radiating-review/?utm_source=rss&utm_medium=rss&utm_campaign=gamut-inc-radiating-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Various Artists",
       "album": "10 Years of Love Injection: A Declaration of Universal Love, Compiled by Barbie Bertisch & Paul Raffaele",
       "artistKey": "various artists",
@@ -9218,24 +9175,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "This Is Lorelei",
-      "album": "The Singer In My Band",
-      "artistKey": "this is lorelei",
-      "albumKey": "the singer in my band",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9340,6 +9279,24 @@
           "weight": 4,
           "publishedAt": "2026-06-15",
           "url": "https://daily.bandcamp.com/album-of-the-day/genghis-tron-signal-fire-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ruth Garbus",
+      "album": "Profound",
+      "artistKey": "ruth garbus",
+      "albumKey": "profound",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-11",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ruth-garbus-profound-review"
         }
       ],
       "editorialWeight": 4,
@@ -11176,6 +11133,24 @@
           "weight": 4,
           "publishedAt": "2025-12-16",
           "url": "https://stereogum.com/2483008/album-of-the-week-theo-bleak-embargaining-em/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "This Is Lorelei",
+      "album": "Holo Boy",
+      "artistKey": "this is lorelei",
+      "albumKey": "holo boy",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2025-12-09",
+          "url": "https://stereogum.com/2482361/album-of-the-week-this-is-lorelei-holo-boy/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -13253,20 +13228,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Worm",
-      "album": "Pantilde",
-      "artistKey": "the worm",
-      "albumKey": "pantilde",
+      "artist": "Alela Diane",
+      "album": "Who's Keeping Time?",
+      "artistKey": "alela diane",
+      "albumKey": "whos keeping time",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-03",
-          "url": "https://daily.bandcamp.com/album-of-the-day/the-worm-pantilde-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-03",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Automatic",
+      "album": "Don’t Wanna Dance (Mario C mix)",
+      "artistKey": "automatic",
+      "albumKey": "dont wanna dance mario c mix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Brooklyn Funk Essentials",
+      "album": "Black Butterfly",
+      "artistKey": "brooklyn funk essentials",
+      "albumKey": "black butterfly",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13991,24 +14002,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Automatic",
-      "album": "Don’t Wanna Dance (Mario C mix)",
-      "artistKey": "automatic",
-      "albumKey": "dont wanna dance mario c mix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-25",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Blondshell",
       "album": "Violins",
       "artistKey": "blondshell",
@@ -14189,24 +14182,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "BCMC",
-      "album": "Stash",
-      "artistKey": "bcmc",
-      "albumKey": "stash",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Bruses",
       "album": "Live on KEXP",
       "artistKey": "bruses",
@@ -14337,24 +14312,6 @@
       "album": "El hambre y las ganas de comer",
       "artistKey": "la estrategia del caracol",
       "albumKey": "el hambre y las ganas de comer",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lime Garden",
-      "album": "Maybe Not Tonight",
-      "artistKey": "lime garden",
-      "albumKey": "maybe not tonight",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14523,222 +14480,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-06-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Algiers",
-      "album": "The Underside of Power",
-      "artistKey": "algiers",
-      "albumKey": "the underside of power",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "CC:DISCO! & Manuel Darquart",
-      "album": "Ten Years of On Loop Vol. 1",
-      "artistKey": "cc disco and manuel darquart",
-      "albumKey": "ten years of on loop vol 1",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gilbert",
-      "album": "Origins",
-      "artistKey": "gilbert",
-      "albumKey": "origins",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gurriers",
-      "album": "Live on KEXP",
-      "artistKey": "gurriers",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "H. Takahashi",
-      "album": "Body Trip (Remixed & Remastered)",
-      "artistKey": "h takahashi",
-      "albumKey": "body trip remixed and remastered",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kuzco",
-      "album": "Bound to Be",
-      "artistKey": "kuzco",
-      "albumKey": "bound to be",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Northern Vector",
-      "album": "Portals & Pathways",
-      "artistKey": "northern vector",
-      "albumKey": "portals and pathways",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Not Even Noticed",
-      "album": "Space Beyond Noise",
-      "artistKey": "not even noticed",
-      "albumKey": "space beyond noise",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Pye Corner Audio",
-      "album": "More Songs About the Sun",
-      "artistKey": "pye corner audio",
-      "albumKey": "more songs about the sun",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sam Goku",
-      "album": "Wisdom Over Knowledge",
-      "artistKey": "sam goku",
-      "albumKey": "wisdom over knowledge",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "SPRINTS",
-      "album": "Live on KEXP",
-      "artistKey": "sprints",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tigerbalm",
-      "album": "Bubblegum Discos",
-      "artistKey": "tigerbalm",
-      "albumKey": "bubblegum discos",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-23",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15496,24 +15237,6 @@
           "weight": 3,
           "publishedAt": "2026-02-12",
           "url": "https://www.indieshuffle.com/vial-never-been-better/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Vilde",
-      "album": "Austral",
-      "artistKey": "vilde",
-      "albumKey": "austral",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-02-09",
-          "url": "https://www.indieshuffle.com/vilde-austral/"
         }
       ],
       "editorialWeight": 3,

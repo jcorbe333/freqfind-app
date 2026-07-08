@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-07-07T10:50:03.092Z",
+  "generatedAt": "2026-07-08T10:10:50.332Z",
   "items": [
+    {
+      "artist": "Madonna",
+      "album": "CONFESSIONS II",
+      "artistKey": "madonna",
+      "albumKey": "confessions ii",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-07-08",
+          "url": "https://thequietus.com/quietus-reviews/madonna-confessions-ii-review/?utm_source=rss&utm_medium=rss&utm_campaign=madonna-confessions-ii-review"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-06",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-03",
+          "url": "https://pitchfork.com/reviews/albums/madonna-confessions-ii/"
+        }
+      ],
+      "editorialWeight": 14,
+      "multiSourceBonus": 2,
+      "mentionCount": 3
+    },
     {
       "artist": "Makthaverskan",
       "album": "Glass and Bones",
@@ -55,6 +87,56 @@
         }
       ],
       "editorialWeight": 12,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Styrofoam Winos",
+      "album": "Any River",
+      "artistKey": "styrofoam winos",
+      "albumKey": "any river",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-08",
+          "url": "https://pitchfork.com/reviews/albums/styrofoam-winos-any-river/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-06-16",
+          "url": "https://stereogum.com/2502000/album-of-the-week-styrofoam-winos-any-river/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Truck Violence",
+      "album": "The weathervane is my body",
+      "artistKey": "truck violence",
+      "albumKey": "the weathervane is my body",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-08",
+          "url": "https://pitchfork.com/reviews/albums/truck-violence-the-weathervane-is-my-body/"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-07-01",
+          "url": "https://thequietus.com/quietus-reviews/truck-violence-the-weathervane-is-my-body-review/?utm_source=rss&utm_medium=rss&utm_campaign=truck-violence-the-weathervane-is-my-body-review"
+        }
+      ],
+      "editorialWeight": 11,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -234,31 +316,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Madonna",
-      "album": "CONFESSIONS II",
-      "artistKey": "madonna",
-      "albumKey": "confessions ii",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-06",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-03",
-          "url": "https://pitchfork.com/reviews/albums/madonna-confessions-ii/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Jill Scott",
       "album": "To Whom This May Concern",
       "artistKey": "jill scott",
@@ -434,6 +491,24 @@
       "mentionCount": 2
     },
     {
+      "artist": "Beyoncé",
+      "album": "Cowboy Carter",
+      "artistKey": "beyonce",
+      "albumKey": "cowboy carter",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Blu & Exile",
       "album": "Love (the) Ominous World",
       "artistKey": "blu and exile",
@@ -535,6 +610,24 @@
           "weight": 5,
           "publishedAt": "2023-01-01",
           "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Renaissance",
+      "artistKey": "beyonce",
+      "albumKey": "renaissance",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
         }
       ],
       "editorialWeight": 6,
@@ -704,6 +797,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Beyoncé",
+      "album": "HOMECOMING: The Live Album",
+      "artistKey": "beyonce",
+      "albumKey": "homecoming the live album",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Daphni",
       "album": "Sizzling",
       "artistKey": "daphni",
@@ -755,6 +866,42 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ambrose Akinmusire Mary Halvorson",
+      "album": "Slo-Mo Neon Luminate Hoverings",
+      "artistKey": "ambrose akinmusire mary halvorson",
+      "albumKey": "slo mo neon luminate hoverings",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-08",
+          "url": "https://pitchfork.com/reviews/albums/ambrose-akinmusire-mary-halvorson-slo-mo-neon-luminate-hoverings/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Smirk",
+      "album": "Speculative Fiction",
+      "artistKey": "smirk",
+      "albumKey": "speculative fiction",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-08",
+          "url": "https://pitchfork.com/reviews/albums/smirk-speculative-fiction/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1111,78 +1258,6 @@
           "weight": 5,
           "publishedAt": "2026-06-29",
           "url": "https://pitchfork.com/reviews/albums/lifted-movie/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Teller Banks Mathematics",
-      "album": "3x6x𐕣 =666, 3x1x𐕣=111 3x7x𐕣 =777,3x5x𐕣=555 3x9x𐕣 =999,3x3x𐕣=333",
-      "artistKey": "teller banks mathematics",
-      "albumKey": "3x6x 666 3x1x 111 3x7x 777 3x5x 555 3x9x 999 3x3x 333",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-29",
-          "url": "https://pitchfork.com/reviews/albums/teller-banks-mathematics/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bryan Ferry",
-      "album": "Boys and Girls",
-      "artistKey": "bryan ferry",
-      "albumKey": "boys and girls",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-28",
-          "url": "https://pitchfork.com/reviews/albums/bryan-ferry-boys-and-girls/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Charanjit Singh",
-      "album": "Synthesizing: Ten Ragas to a Disco Beat",
-      "artistKey": "charanjit singh",
-      "albumKey": "synthesizing ten ragas to a disco beat",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-27",
-          "url": "https://pitchfork.com/reviews/albums/charanjit-singh-synthesizing-ten-ragas-to-a-disco-beat/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chanel Beads Your Day Will Come 2026",
-      "album": "Your Day Will Come",
-      "artistKey": "chanel beads your day will come 2026",
-      "albumKey": "your day will come",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-26",
-          "url": "https://pitchfork.com/reviews/albums/chanel-beads-your-day-will-come-2026/"
         }
       ],
       "editorialWeight": 5,
@@ -2886,24 +2961,6 @@
       "album": "Lives Outgrown",
       "artistKey": "beth gibbons",
       "albumKey": "lives outgrown",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Beyoncé",
-      "album": "Cowboy Carter",
-      "artistKey": "beyonce",
-      "albumKey": "cowboy carter",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -5100,24 +5157,6 @@
       "album": "Tana Talk 4",
       "artistKey": "benny the butcher",
       "albumKey": "tana talk 4",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Beyoncé",
-      "album": "Renaissance",
-      "artistKey": "beyonce",
-      "albumKey": "renaissance",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -7976,24 +8015,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Beyoncé",
-      "album": "HOMECOMING: The Live Album",
-      "artistKey": "beyonce",
-      "albumKey": "homecoming the live album",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Billie Eilish",
       "album": "When We All Fall Asleep, Where Do We Go?",
       "artistKey": "billie eilish",
@@ -8732,17 +8753,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Camilla Pisani",
-      "album": "Konstellationen",
-      "artistKey": "camilla pisani",
-      "albumKey": "konstellationen",
+      "artist": "2K88, Lauren Duffus, Rainy Miller & Bianca Scout",
+      "album": "Everything Always Changes, For We’re Truly Here",
+      "artistKey": "2k88 lauren duffus rainy miller and bianca scout",
+      "albumKey": "everything always changes for were truly here",
       "sources": [
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-07-06",
-          "url": "https://daily.bandcamp.com/album-of-the-day/camilla-pisani-konstellationen-review"
+          "publishedAt": "2026-07-07",
+          "url": "https://daily.bandcamp.com/album-of-the-day/2k88-lauren-duffus-rainy-miller-bianca-scout-everything-always-changes-for-were-truly-here-review"
         }
       ],
       "editorialWeight": 4,
@@ -8750,22 +8771,40 @@
       "mentionCount": 9
     },
     {
-      "artist": "mary in the junkyard",
-      "album": "Role Model Hermit",
-      "artistKey": "mary in the junkyard",
-      "albumKey": "role model hermit",
+      "artist": "Beyoncé",
+      "album": "MORNING DEW (DONK)",
+      "artistKey": "beyonce",
+      "albumKey": "morning dew donk",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kelela",
+      "album": "new avatar",
+      "artistKey": "kelela",
+      "albumKey": "new avatar",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
           "weight": 4,
-          "publishedAt": "2026-07-02",
-          "url": "https://daily.bandcamp.com/album-of-the-day/mary-in-the-junkyard-role-model-hermit-review"
+          "publishedAt": "2026-07-07",
+          "url": "https://stereogum.com/2504380/album-of-the-week-kelela-new-avatar/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Luke Haines",
@@ -8779,6 +8818,24 @@
           "weight": 4,
           "publishedAt": "2026-07-07",
           "url": "https://thequietus.com/quietus-reviews/luke-haines-izzy-wizzy-lets-get-bizzy-review/?utm_source=rss&utm_medium=rss&utm_campaign=luke-haines-izzy-wizzy-lets-get-bizzy-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Camilla Pisani",
+      "album": "Konstellationen",
+      "artistKey": "camilla pisani",
+      "albumKey": "konstellationen",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-06",
+          "url": "https://daily.bandcamp.com/album-of-the-day/camilla-pisani-konstellationen-review"
         }
       ],
       "editorialWeight": 4,
@@ -8876,6 +8933,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "mary in the junkyard",
+      "album": "Role Model Hermit",
+      "artistKey": "mary in the junkyard",
+      "albumKey": "role model hermit",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-02",
+          "url": "https://daily.bandcamp.com/album-of-the-day/mary-in-the-junkyard-role-model-hermit-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Blu & Exile",
       "album": "Time Heals Everything",
       "artistKey": "blu and exile",
@@ -8905,24 +8980,6 @@
           "weight": 4,
           "publishedAt": "2026-07-01",
           "url": "https://daily.bandcamp.com/album-of-the-day/kazuya-nagaya-lumina-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Truck Violence",
-      "album": "The Weathervane Is My Body",
-      "artistKey": "truck violence",
-      "albumKey": "the weathervane is my body",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-01",
-          "url": "https://thequietus.com/quietus-reviews/truck-violence-the-weathervane-is-my-body-review/?utm_source=rss&utm_medium=rss&utm_campaign=truck-violence-the-weathervane-is-my-body-review"
         }
       ],
       "editorialWeight": 4,
@@ -9193,24 +9250,6 @@
           "weight": 4,
           "publishedAt": "2026-06-16",
           "url": "https://daily.bandcamp.com/album-of-the-day/mukqs-juckport-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Styrofoam Winos",
-      "album": "Any River",
-      "artistKey": "styrofoam winos",
-      "albumKey": "any river",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-06-16",
-          "url": "https://stereogum.com/2502000/album-of-the-week-styrofoam-winos-any-river/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -12242,24 +12281,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Total Wife",
-      "album": "come back down",
-      "artistKey": "total wife",
-      "albumKey": "come back down",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-09-16",
-          "url": "https://stereogum.com/2322664/album-of-the-week-total-wife-come-back-down/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Venera",
       "album": "Exinfinite",
       "artistKey": "venera",
@@ -13178,20 +13199,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sababa 5",
-      "album": "Nadir",
-      "artistKey": "sababa 5",
-      "albumKey": "nadir",
+      "artist": "Isaiah Rashad feat. SZA",
+      "album": "IT’S BEEN AWFUL",
+      "artistKey": "isaiah rashad feat sza",
+      "albumKey": "its been awful",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/sababa-5-nadir-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pamela.",
+      "album": "It's Nice to See You Here",
+      "artistKey": "pamela",
+      "albumKey": "its nice to see you here",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "twisted teens",
+      "album": "Florida Water Blues",
+      "artistKey": "twisted teens",
+      "albumKey": "florida water blues",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13214,10 +13271,64 @@
       "mentionCount": 1
     },
     {
+      "artist": "Broken Social Scene",
+      "album": "Hug of Thunder",
+      "artistKey": "broken social scene",
+      "albumKey": "hug of thunder",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Gerd",
       "album": "Clone Royal Oak: Selected Works Part 1",
       "artistKey": "gerd",
       "albumKey": "clone royal oak selected works part 1",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gurriers",
+      "album": "Live on KEXP",
+      "artistKey": "gurriers",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Heavy Bloom",
+      "album": "Live on KEXP",
+      "artistKey": "heavy bloom",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13268,6 +13379,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Kelela & PinkPantheress",
+      "album": "new avatar",
+      "artistKey": "kelela and pinkpantheress",
+      "albumKey": "new avatar",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "KNEECAP feat. Killer Mike",
+      "album": "FENIAN",
+      "artistKey": "kneecap feat killer mike",
+      "albumKey": "fenian",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Loopcinico",
       "album": "The London-Maranhão Connection",
       "artistKey": "loopcinico",
@@ -13304,10 +13451,64 @@
       "mentionCount": 1
     },
     {
+      "artist": "Oddisee & Heno. feat. Mad Keys",
+      "album": "From Takoma With Love",
+      "artistKey": "oddisee and heno feat mad keys",
+      "albumKey": "from takoma with love",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Oranssi Pazuzu",
+      "album": "Live on KEXP",
+      "artistKey": "oranssi pazuzu",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Parris",
       "album": "Drippin' EP",
       "artistKey": "parris",
       "albumKey": "drippin ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Party Dozen",
+      "album": "Special Unit",
+      "artistKey": "party dozen",
+      "albumKey": "special unit",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",

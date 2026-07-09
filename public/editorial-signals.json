@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T10:10:50.332Z",
+  "generatedAt": "2026-07-09T10:48:29.446Z",
   "items": [
     {
       "artist": "Madonna",
@@ -89,6 +89,31 @@
       "editorialWeight": 12,
       "multiSourceBonus": 2,
       "mentionCount": 2
+    },
+    {
+      "artist": "Smirk",
+      "album": "Speculative Fiction",
+      "artistKey": "smirk",
+      "albumKey": "speculative fiction",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-08",
+          "url": "https://daily.bandcamp.com/album-of-the-day/smirk-speculative-fiction-review"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-08",
+          "url": "https://pitchfork.com/reviews/albums/smirk-speculative-fiction/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 10
     },
     {
       "artist": "Styrofoam Winos",
@@ -312,6 +337,31 @@
         }
       ],
       "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Nirosta Steel",
+      "album": "My Skyscraper",
+      "artistKey": "nirosta steel",
+      "albumKey": "my skyscraper",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-09",
+          "url": "https://pitchfork.com/reviews/albums/nirosta-steel-my-skyscraper/"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -869,6 +919,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "artistKey": "ken carson",
+      "albumKey": "xperiment",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-09",
+          "url": "https://pitchfork.com/reviews/albums/ken-carson-xperiment/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ultra Lights",
+      "album": "Pleasure’s All Yours",
+      "artistKey": "ultra lights",
+      "albumKey": "pleasures all yours",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-09",
+          "url": "https://pitchfork.com/reviews/albums/ultra-lights-pleasures-all-yours/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Ambrose Akinmusire Mary Halvorson",
       "album": "Slo-Mo Neon Luminate Hoverings",
       "artistKey": "ambrose akinmusire mary halvorson",
@@ -880,24 +966,6 @@
           "weight": 5,
           "publishedAt": "2026-07-08",
           "url": "https://pitchfork.com/reviews/albums/ambrose-akinmusire-mary-halvorson-slo-mo-neon-luminate-hoverings/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Smirk",
-      "album": "Speculative Fiction",
-      "artistKey": "smirk",
-      "albumKey": "speculative fiction",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-08",
-          "url": "https://pitchfork.com/reviews/albums/smirk-speculative-fiction/"
         }
       ],
       "editorialWeight": 5,
@@ -1175,24 +1243,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Jordan Patterson",
-      "album": "Songs From a Valley Girl EP",
-      "artistKey": "jordan patterson",
-      "albumKey": "songs from a valley girl ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-30",
-          "url": "https://pitchfork.com/reviews/albums/jordan-patterson-songs-from-a-valley-girl-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Madeon",
       "album": "Victory",
       "artistKey": "madeon",
@@ -1204,60 +1254,6 @@
           "weight": 5,
           "publishedAt": "2026-06-30",
           "url": "https://pitchfork.com/reviews/albums/madeon-victory/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Prophetic Justice Ministry",
-      "album": "Key to World Peace",
-      "artistKey": "prophetic justice ministry",
-      "albumKey": "key to world peace",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-30",
-          "url": "https://pitchfork.com/reviews/albums/prophetic-justice-ministry-key-to-world-peace/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Harmony Tividad",
-      "album": "Lifetime",
-      "artistKey": "harmony tividad",
-      "albumKey": "lifetime",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-29",
-          "url": "https://pitchfork.com/reviews/albums/harmony-tividad-lifetime/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lifted",
-      "album": "Movie",
-      "artistKey": "lifted",
-      "albumKey": "movie",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-06-29",
-          "url": "https://pitchfork.com/reviews/albums/lifted-movie/"
         }
       ],
       "editorialWeight": 5,
@@ -8753,22 +8749,22 @@
       "mentionCount": 1
     },
     {
-      "artist": "2K88, Lauren Duffus, Rainy Miller & Bianca Scout",
-      "album": "Everything Always Changes, For We’re Truly Here",
-      "artistKey": "2k88 lauren duffus rainy miller and bianca scout",
-      "albumKey": "everything always changes for were truly here",
+      "artist": "Sha Ray & DJ Haram",
+      "album": "Critical Thot",
+      "artistKey": "sha ray and dj haram",
+      "albumKey": "critical thot",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-07-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/2k88-lauren-duffus-rainy-miller-bianca-scout-everything-always-changes-for-were-truly-here-review"
+          "publishedAt": "2026-07-09",
+          "url": "https://thequietus.com/quietus-reviews/sha-ray-dj-haram-critical-thot-review/?utm_source=rss&utm_medium=rss&utm_campaign=sha-ray-dj-haram-critical-thot-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Beyoncé",
@@ -8786,6 +8782,42 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "King Gizzard & the Lizard Wizard",
+      "album": "Level 5",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "level 5",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "2K88, Lauren Duffus, Rainy Miller & Bianca Scout",
+      "album": "Everything Always Changes, For We’re Truly Here",
+      "artistKey": "2k88 lauren duffus rainy miller and bianca scout",
+      "albumKey": "everything always changes for were truly here",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-07",
+          "url": "https://daily.bandcamp.com/album-of-the-day/2k88-lauren-duffus-rainy-miller-bianca-scout-everything-always-changes-for-were-truly-here-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -9092,24 +9124,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Arlo Parks",
-      "album": "Ambiguous Desire",
-      "artistKey": "arlo parks",
-      "albumKey": "ambiguous desire",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -10640,24 +10654,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Arlo Parks",
-      "album": "Heaven",
-      "artistKey": "arlo parks",
-      "albumKey": "heaven",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-02-21",
-          "url": "https://www.indieshuffle.com/arlo-parks-heaven/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13181,20 +13177,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "Various Artists",
-      "album": "A Selection Of Music From Libyan Tapes",
-      "artistKey": "various artists",
-      "albumKey": "a selection of music from libyan tapes",
+      "artist": "Irreversible Entanglements feat. Helado Negro",
+      "album": "Future Present Past",
+      "artistKey": "irreversible entanglements feat helado negro",
+      "albumKey": "future present past",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-08",
-          "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-a-selection-of-music-from-libyan-tapes-habibi-funk-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-09",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Khun Narin",
+      "album": "III",
+      "artistKey": "khun narin",
+      "albumKey": "iii",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-09",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Frog",
+      "album": "Live on KEXP",
+      "artistKey": "frog",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13203,6 +13235,114 @@
       "album": "IT’S BEEN AWFUL",
       "artistKey": "isaiah rashad feat sza",
       "albumKey": "its been awful",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "JJerome87",
+      "album": "Track and Field",
+      "artistKey": "jjerome87",
+      "albumKey": "track and field",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.indieshuffle.com/jjerome87-track-and-field/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jungle",
+      "album": "Someday, Somewhere",
+      "artistKey": "jungle",
+      "albumKey": "someday somewhere",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "LEMONSUCKR",
+      "album": "Stain",
+      "artistKey": "lemonsuckr",
+      "albumKey": "stain",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Les Louanges",
+      "album": "Alouette!",
+      "artistKey": "les louanges",
+      "albumKey": "alouette",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Merchandise",
+      "album": "Live on KEXP",
+      "artistKey": "merchandise",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nina Simone",
+      "album": "Baltimore (live) (Supershy remix)",
+      "artistKey": "nina simone",
+      "albumKey": "baltimore live supershy remix",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13235,10 +13375,46 @@
       "mentionCount": 1
     },
     {
+      "artist": "Talaya.",
+      "album": "almost",
+      "artistKey": "talaya",
+      "albumKey": "almost",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "twisted teens",
       "album": "Florida Water Blues",
       "artistKey": "twisted teens",
       "albumKey": "florida water blues",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wimps",
+      "album": "Garbage People",
+      "artistKey": "wimps",
+      "albumKey": "garbage people",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13419,24 +13595,6 @@
       "album": "The London-Maranhão Connection",
       "artistKey": "loopcinico",
       "albumKey": "the london maranhao connection",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nirosta Steel",
-      "album": "My Skyscraper",
-      "artistKey": "nirosta steel",
-      "albumKey": "my skyscraper",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14513,42 +14671,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Lala Lala",
-      "album": "Live on KEXP",
-      "artistKey": "lala lala",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "sueter7",
-      "album": "Todo Salió Bien en la Sencilla Villa Quién",
-      "artistKey": "sueter7",
-      "albumKey": "todo salio bien en la sencilla villa quien",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Seb Wildblood",
       "album": "Folded (Ft. Jouska)",
       "artistKey": "seb wildblood",
@@ -15208,6 +15330,24 @@
           "weight": 3,
           "publishedAt": "2026-02-23",
           "url": "https://www.indieshuffle.com/rio-kosta-unicorn/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Arlo Parks",
+      "album": "Heaven",
+      "artistKey": "arlo parks",
+      "albumKey": "heaven",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-02-21",
+          "url": "https://www.indieshuffle.com/arlo-parks-heaven/"
         }
       ],
       "editorialWeight": 3,

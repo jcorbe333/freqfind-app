@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T10:47:21.549Z",
+  "generatedAt": "2026-07-11T09:21:25.473Z",
   "items": [
     {
       "artist": "Madonna",
@@ -8,18 +8,18 @@
       "albumKey": "confessions ii",
       "sources": [
         {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-10",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
           "sourceId": "the-quietus",
           "sourceLabel": "The Quietus",
           "weight": 4,
           "publishedAt": "2026-07-08",
           "url": "https://thequietus.com/quietus-reviews/madonna-confessions-ii-review/?utm_source=rss&utm_medium=rss&utm_campaign=madonna-confessions-ii-review"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-06",
-          "url": "https://www.kexp.org/playlist/"
         },
         {
           "sourceId": "pitchfork-bnm",
@@ -88,7 +88,7 @@
       ],
       "editorialWeight": 11,
       "multiSourceBonus": 2,
-      "mentionCount": 10
+      "mentionCount": 2
     },
     {
       "artist": "Styrofoam Winos",
@@ -948,6 +948,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Pixies",
+      "album": "Complete B Sides: 1988-97 (Remaster)",
+      "artistKey": "pixies",
+      "albumKey": "complete b sides 1988 97 remaster",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-11",
+          "url": "https://pitchfork.com/reviews/albums/pixies-complete-b-sides-1988-97-remaster/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Bruno Berle",
       "album": "Sem Fronteiras",
       "artistKey": "bruno berle",
@@ -1247,24 +1265,6 @@
           "weight": 5,
           "publishedAt": "2026-07-02",
           "url": "https://pitchfork.com/reviews/albums/mildred-fenceline/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Brutalismus 3000",
-      "album": "Harmony",
-      "artistKey": "brutalismus 3000",
-      "albumKey": "harmony",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-01",
-          "url": "https://pitchfork.com/reviews/albums/brutalismus-3000-harmony/"
         }
       ],
       "editorialWeight": 5,
@@ -8778,17 +8778,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "MAQUINA.",
-      "album": "BODY TRANSMISSION",
-      "artistKey": "maquina",
-      "albumKey": "body transmission",
+      "artist": "Another Planet (Phiik & Lungs) & steel tipped dove",
+      "album": "People Are Not Your Friends",
+      "artistKey": "another planet phiik and lungs and steel tipped dove",
+      "albumKey": "people are not your friends",
       "sources": [
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-07-09",
-          "url": "https://daily.bandcamp.com/album-of-the-day/maquina-body-transmission-review"
+          "publishedAt": "2026-07-10",
+          "url": "https://daily.bandcamp.com/album-of-the-day/phiik-lungs-steel-tipped-dove-people-are-not-your-friends-review"
         }
       ],
       "editorialWeight": 4,
@@ -8829,6 +8829,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MAQUINA.",
+      "album": "BODY TRANSMISSION",
+      "artistKey": "maquina",
+      "albumKey": "body transmission",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-09",
+          "url": "https://daily.bandcamp.com/album-of-the-day/maquina-body-transmission-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -9099,24 +9117,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "King Gizzard & the Lizard Wizard",
-      "album": "Live on KEXP",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13152,38 +13152,200 @@
       "mentionCount": 1
     },
     {
-      "artist": "Wet Leg",
-      "album": "moisturizer",
-      "artistKey": "wet leg",
-      "albumKey": "moisturizer",
+      "artist": "Automatic",
+      "album": "Don’t Wanna Dance (Mario C mix)",
+      "artistKey": "automatic",
+      "albumKey": "dont wanna dance mario c mix",
       "sources": [
         {
-          "sourceId": "npr-music",
-          "sourceLabel": "NPR Music",
-          "weight": 4,
-          "publishedAt": "2025-07-11",
-          "url": "https://www.npr.org/sections/world-cafe/2025/07/11/nx-s1-5447515/wet-leg-album-moisturizer"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-11",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
-      "artist": "Slikback",
-      "album": "Attrition",
-      "artistKey": "slikback",
-      "albumKey": "attrition",
+      "artist": "Tony Joe White, Flying Mojito Bros",
+      "album": "Polk Salad Annie",
+      "artistKey": "tony joe white flying mojito bros",
+      "albumKey": "polk salad annie",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-10",
-          "url": "https://daily.bandcamp.com/album-of-the-day/slikback-attrition-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-11",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Baby Dayliner feat. Alex Sanchez",
+      "album": "You Push I'll Go",
+      "artistKey": "baby dayliner feat alex sanchez",
+      "albumKey": "you push ill go",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Brother Wallace",
+      "album": "Electric Love",
+      "artistKey": "brother wallace",
+      "albumKey": "electric love",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fruit Bats",
+      "album": "Live on KEXP",
+      "artistKey": "fruit bats",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lykke Li",
+      "album": "Lucky Again (The Magician remix)",
+      "artistKey": "lykke li",
+      "albumKey": "lucky again the magician remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Midday Veil",
+      "album": "Live on KEXP",
+      "artistKey": "midday veil",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "New Constellations & STRFKR",
+      "album": "Hot Blooded (Rose City rework)",
+      "artistKey": "new constellations and strfkr",
+      "albumKey": "hot blooded rose city rework",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "SUEP",
+      "album": "Forever",
+      "artistKey": "suep",
+      "albumKey": "forever",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Thee Marloes",
+      "album": "Di Hotel Malibu",
+      "artistKey": "thee marloes",
+      "albumKey": "di hotel malibu",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wolf Alice",
+      "album": "Visions of a Life",
+      "artistKey": "wolf alice",
+      "albumKey": "visions of a life",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -14124,24 +14286,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Automatic",
-      "album": "Don’t Wanna Dance (Mario C mix)",
-      "artistKey": "automatic",
-      "albumKey": "dont wanna dance mario c mix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Brooklyn Funk Essentials",
       "album": "Black Butterfly",
       "artistKey": "brooklyn funk essentials",
@@ -14340,24 +14484,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Litronix",
-      "album": "Live on KEXP",
-      "artistKey": "litronix",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Nation of Language",
       "album": "Live on KEXP",
       "artistKey": "nation of language",
@@ -14368,114 +14494,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "YHWH Nailgun",
-      "album": "Magazine",
-      "artistKey": "yhwh nailgun",
-      "albumKey": "magazine",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Angine de Poitrine",
-      "album": "Live on KEXP",
-      "artistKey": "angine de poitrine",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dinosaur Jr.",
-      "album": "There Near",
-      "artistKey": "dinosaur jr",
-      "albumKey": "there near",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nu Genea",
-      "album": "People of the Moon",
-      "artistKey": "nu genea",
-      "albumKey": "people of the moon",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Steve Lacy, SZA",
-      "album": "Oh yeah?",
-      "artistKey": "steve lacy sza",
-      "albumKey": "oh yeah",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "STRFKR",
-      "album": "Jupiter",
-      "artistKey": "strfkr",
-      "albumKey": "jupiter",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-06-30",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

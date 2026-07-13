@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T09:45:38.496Z",
+  "generatedAt": "2026-07-13T10:53:58.747Z",
   "items": [
     {
       "artist": "Madonna",
@@ -64,6 +64,31 @@
       "editorialWeight": 13,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "Akusmi",
+      "album": "Terra Incognita",
+      "artistKey": "akusmi",
+      "albumKey": "terra incognita",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-13",
+          "url": "https://pitchfork.com/reviews/albums/akusmi-terra-incognita/"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-07-03",
+          "url": "https://thequietus.com/quietus-reviews/akusmi-terra-incognita-review/?utm_source=rss&utm_medium=rss&utm_campaign=akusmi-terra-incognita-review"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Smirk",
@@ -134,31 +159,6 @@
           "weight": 4,
           "publishedAt": "2026-07-01",
           "url": "https://thequietus.com/quietus-reviews/truck-violence-the-weathervane-is-my-body-review/?utm_source=rss&utm_medium=rss&utm_campaign=truck-violence-the-weathervane-is-my-body-review"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Beth Orton",
-      "album": "The Ground Above",
-      "artistKey": "beth orton",
-      "albumKey": "the ground above",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-02",
-          "url": "https://pitchfork.com/reviews/albums/beth-orton-the-ground-above/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/beth-orton-the-ground-above-review"
         }
       ],
       "editorialWeight": 11,
@@ -316,6 +316,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Twisted Teens",
+      "album": "Florida Water Blues",
+      "artistKey": "twisted teens",
+      "albumKey": "florida water blues",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-13",
+          "url": "https://pitchfork.com/reviews/albums/twisted-teens-florida-water-blues/"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Nirosta Steel",
       "album": "My Skyscraper",
       "artistKey": "nirosta steel",
@@ -464,6 +489,24 @@
       "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
+    },
+    {
+      "artist": "Jasper Dean",
+      "album": "TOY COLLAGES",
+      "artistKey": "jasper dean",
+      "albumKey": "toy collages",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-13",
+          "url": "https://pitchfork.com/reviews/albums/jasper-dean-toy-collages/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Jack White",
@@ -862,6 +905,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Rolling Stones",
+      "album": "Foreign Tongues",
+      "artistKey": "the rolling stones",
+      "albumKey": "foreign tongues",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-13",
+          "url": "https://pitchfork.com/reviews/albums/the-rolling-stones-foreign-tongues/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Rush",
       "album": "Power Windows",
       "artistKey": "rush",
@@ -1150,60 +1211,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Fief",
-      "album": "VII",
-      "artistKey": "fief",
-      "albumKey": "vii",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-02",
-          "url": "https://pitchfork.com/reviews/albums/fief-vii/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hammok",
-      "album": "When Does This Place Become Our Scene",
-      "artistKey": "hammok",
-      "albumKey": "when does this place become our scene",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-02",
-          "url": "https://pitchfork.com/reviews/albums/hammok-when-does-this-place-become-our-scene/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mildred",
-      "album": "Fenceline",
-      "artistKey": "mildred",
-      "albumKey": "fenceline",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-02",
-          "url": "https://pitchfork.com/reviews/albums/mildred-fenceline/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Horse Lords",
       "album": "Demand to Be Taken to Heaven Alive!",
       "artistKey": "horse lords",
@@ -1258,24 +1265,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Kneecap",
-      "album": "FENIAN",
-      "artistKey": "kneecap",
-      "albumKey": "fenian",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-04",
-          "url": "https://daily.bandcamp.com/album-of-the-day/kneecap-fenian-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kim Gordon",
       "album": "PLAY ME",
       "artistKey": "kim gordon",
@@ -1305,24 +1294,6 @@
           "weight": 4,
           "publishedAt": "2026-02-06",
           "url": "https://daily.bandcamp.com/album-of-the-day/daphni-butterfly-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Blackwater Holylight",
-      "album": "Not Here Not Gone",
-      "artistKey": "blackwater holylight",
-      "albumKey": "not here not gone",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-01-29",
-          "url": "https://daily.bandcamp.com/album-of-the-day/blackwater-holylight-not-here-not-gone-review"
         }
       ],
       "editorialWeight": 5,
@@ -8764,6 +8735,42 @@
       "mentionCount": 9
     },
     {
+      "artist": "DJ Shadow",
+      "album": "The Mo’ Wax Singles 1993-1997",
+      "artistKey": "dj shadow",
+      "albumKey": "the mo wax singles 1993 1997",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-07-13",
+          "url": "https://thequietus.com/quietus-reviews/dj-shadow-mo-wax-singles/?utm_source=rss&utm_medium=rss&utm_campaign=dj-shadow-mo-wax-singles"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Michael Cloud Duguay",
+      "album": "Kingdom Come, Kingdom Go",
+      "artistKey": "michael cloud duguay",
+      "albumKey": "kingdom come kingdom go",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-07-13",
+          "url": "https://thequietus.com/quietus-reviews/michael-cloud-duguay-kingdom-come-kingdom-go/?utm_source=rss&utm_medium=rss&utm_campaign=michael-cloud-duguay-kingdom-come-kingdom-go"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Gnod R&D",
       "album": "Nobody Knows This Is Anywhere",
       "artistKey": "gnod r and d",
@@ -8962,60 +8969,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Akusmi",
-      "album": "Terra Incognita",
-      "artistKey": "akusmi",
-      "albumKey": "terra incognita",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-03",
-          "url": "https://thequietus.com/quietus-reviews/akusmi-terra-incognita-review/?utm_source=rss&utm_medium=rss&utm_campaign=akusmi-terra-incognita-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "KNEECAP",
-      "album": "Cold at the Top (Shanti Celeste remix)",
-      "artistKey": "kneecap",
-      "albumKey": "cold at the top shanti celeste remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Blackwater Holylight",
-      "album": "Live on KEXP",
-      "artistKey": "blackwater holylight",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Debt Rag",
       "album": "It Is Clear What’s Going On",
       "artistKey": "debt rag",
@@ -9117,6 +9070,24 @@
           "weight": 4,
           "publishedAt": "2026-06-29",
           "url": "https://daily.bandcamp.com/album-of-the-day/f-i-invisible-men-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Beth Orton",
+      "album": "The Ground Above",
+      "artistKey": "beth orton",
+      "albumKey": "the ground above",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/beth-orton-the-ground-above-review"
         }
       ],
       "editorialWeight": 4,
@@ -9646,6 +9617,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Jasper Dean",
+      "album": "TELEMONKEY",
+      "artistKey": "jasper dean",
+      "albumKey": "telemonkey",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-05-17",
+          "url": "https://www.indieshuffle.com/jasper-dean-telemonkey/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Soltera & Sonido Sex",
       "album": "Soltera y Su Sonido Sexual",
       "artistKey": "soltera and sonido sex",
@@ -9783,6 +9772,24 @@
           "weight": 4,
           "publishedAt": "2026-05-05",
           "url": "https://daily.bandcamp.com/album-of-the-day/wesenyeleh-mebreku-resonance-of-time-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kneecap",
+      "album": "FENIAN",
+      "artistKey": "kneecap",
+      "albumKey": "fenian",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-04",
+          "url": "https://daily.bandcamp.com/album-of-the-day/kneecap-fenian-review"
         }
       ],
       "editorialWeight": 4,
@@ -10935,6 +10942,24 @@
           "weight": 4,
           "publishedAt": "2026-01-31",
           "url": "https://daily.bandcamp.com/album-of-the-day/haruhi-kobayashi-maybe-you-should-talk-to-someone-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Blackwater Holylight",
+      "album": "Not Here Not Gone",
+      "artistKey": "blackwater holylight",
+      "albumKey": "not here not gone",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-01-29",
+          "url": "https://daily.bandcamp.com/album-of-the-day/blackwater-holylight-not-here-not-gone-review"
         }
       ],
       "editorialWeight": 4,
@@ -13102,6 +13127,114 @@
       "mentionCount": 1
     },
     {
+      "artist": "Cola Ren",
+      "album": "NU-S3RVO Vol. 2",
+      "artistKey": "cola ren",
+      "albumKey": "nu s3rvo vol 2",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Galcher Lustwerk",
+      "album": "Vestibule Remixes",
+      "artistKey": "galcher lustwerk",
+      "albumKey": "vestibule remixes",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Acid Arab & Dalia",
+      "album": "Resonance",
+      "artistKey": "acid arab and dalia",
+      "albumKey": "resonance",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Band of Horses",
+      "album": "Live on KEXP",
+      "artistKey": "band of horses",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cat Clyde",
+      "album": "Mud Blood Bone",
+      "artistKey": "cat clyde",
+      "albumKey": "mud blood bone",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Girl Group",
+      "album": "Little Sticky Pictures",
+      "artistKey": "girl group",
+      "albumKey": "little sticky pictures",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Homeboy Sandman",
       "album": "Still Champion",
       "artistKey": "homeboy sandman",
@@ -13138,10 +13271,46 @@
       "mentionCount": 1
     },
     {
+      "artist": "Parisalexa",
+      "album": "WRONG GENERATION",
+      "artistKey": "parisalexa",
+      "albumKey": "wrong generation",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Phantom",
       "album": "Not Midnight Yet",
       "artistKey": "phantom",
       "albumKey": "not midnight yet",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sniffany & The Nits",
+      "album": "Hyperspace",
+      "artistKey": "sniffany and the nits",
+      "albumKey": "hyperspace",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13646,24 +13815,6 @@
       "album": "almost",
       "artistKey": "talaya",
       "albumKey": "almost",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "twisted teens",
-      "album": "Florida Water Blues",
-      "artistKey": "twisted teens",
-      "albumKey": "florida water blues",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14308,114 +14459,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Alela Diane",
-      "album": "Who's Keeping Time?",
-      "artistKey": "alela diane",
-      "albumKey": "whos keeping time",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Brooklyn Funk Essentials",
-      "album": "Black Butterfly",
-      "artistKey": "brooklyn funk essentials",
-      "albumKey": "black butterfly",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Thundercat feat. Tame Impala",
-      "album": "Distracted",
-      "artistKey": "thundercat feat tame impala",
-      "albumKey": "distracted",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chastity Belt",
-      "album": "I Used to Spend So Much Time Alone",
-      "artistKey": "chastity belt",
-      "albumKey": "i used to spend so much time alone",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Pigeon",
-      "album": "OUTTANATIONAL",
-      "artistKey": "pigeon",
-      "albumKey": "outtanational",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Slomosa",
-      "album": "Live on KEXP",
-      "artistKey": "slomosa",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Josh Conway",
       "album": "forget him",
       "artistKey": "josh conway",
@@ -14679,24 +14722,6 @@
           "weight": 3,
           "publishedAt": "2026-05-18",
           "url": "https://www.indieshuffle.com/zimmer90--summer-rain/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jasper Dean",
-      "album": "TELEMONKEY",
-      "artistKey": "jasper dean",
-      "albumKey": "telemonkey",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-17",
-          "url": "https://www.indieshuffle.com/jasper-dean-telemonkey/"
         }
       ],
       "editorialWeight": 3,

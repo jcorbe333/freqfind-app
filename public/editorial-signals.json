@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T09:51:08.940Z",
+  "generatedAt": "2026-07-15T09:55:17.211Z",
   "items": [
     {
       "artist": "Makthaverskan",
@@ -898,6 +898,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Fiddlehead",
+      "album": "Baby I’ll Change EP",
+      "artistKey": "fiddlehead",
+      "albumKey": "baby ill change ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-15",
+          "url": "https://pitchfork.com/reviews/albums/fiddlehead-baby-ill-change-ep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Future",
+      "album": "The Real Me",
+      "artistKey": "future",
+      "albumKey": "the real me",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-15",
+          "url": "https://pitchfork.com/reviews/albums/future-the-real-me/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "M Geddes Gengras",
+      "album": "Guest List",
+      "artistKey": "m geddes gengras",
+      "albumKey": "guest list",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-15",
+          "url": "https://pitchfork.com/reviews/albums/m-geddes-gengras-guest-list/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Show Me The Body",
+      "album": "Alone Together",
+      "artistKey": "show me the body",
+      "albumKey": "alone together",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-15",
+          "url": "https://pitchfork.com/reviews/albums/show-me-the-body-alone-together/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Baby Rose",
       "album": "YEARNALISM",
       "artistKey": "baby rose",
@@ -1179,78 +1251,6 @@
           "weight": 5,
           "publishedAt": "2026-07-07",
           "url": "https://pitchfork.com/reviews/albums/gas-november-89/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Batu Donato Dozzy",
-      "album": "Exhale",
-      "artistKey": "batu donato dozzy",
-      "albumKey": "exhale",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-06",
-          "url": "https://pitchfork.com/reviews/albums/batu-donato-dozzy-exhale/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Matt Proxy",
-      "album": "trojan horse",
-      "artistKey": "matt proxy",
-      "albumKey": "trojan horse",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-06",
-          "url": "https://pitchfork.com/reviews/albums/matt-proxy-trojan-horse/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Maxo Kream Oyn",
-      "album": "O.Y.N",
-      "artistKey": "maxo kream oyn",
-      "albumKey": "o y n",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-06",
-          "url": "https://pitchfork.com/reviews/albums/maxo-kream-oyn/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Topdown Dialectic",
-      "album": "False LP A",
-      "artistKey": "topdown dialectic",
-      "albumKey": "false lp a",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-06",
-          "url": "https://pitchfork.com/reviews/albums/topdown-dialectic-false-lp-a/"
         }
       ],
       "editorialWeight": 5,
@@ -8764,6 +8764,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Violet Cowboy",
+      "album": "Ramraid at the Wiggly Worm",
+      "artistKey": "violet cowboy",
+      "albumKey": "ramraid at the wiggly worm",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-14",
+          "url": "https://daily.bandcamp.com/album-of-the-day/violet-cowboy-ramraid-at-the-wiggly-worm-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Ferries",
       "album": "Eye Wander",
       "artistKey": "ferries",
@@ -8798,6 +8816,42 @@
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "RenzNiro",
+      "album": "No Weapon Shall Prosper",
+      "artistKey": "renzniro",
+      "albumKey": "no weapon shall prosper",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-07-15",
+          "url": "https://thequietus.com/quietus-reviews/renzniro-no-weapon-shall-prosper-review/?utm_source=rss&utm_medium=rss&utm_campaign=renzniro-no-weapon-shall-prosper-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Quicksand",
+      "album": "Bring On The Psychics",
+      "artistKey": "quicksand",
+      "albumKey": "bring on the psychics",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-07-14",
+          "url": "https://stereogum.com/2504902/album-of-the-week-quicksand-bring-on-the-psychics/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "DJ Shadow",
@@ -9009,24 +9063,6 @@
           "weight": 4,
           "publishedAt": "2026-07-06",
           "url": "https://thequietus.com/quietus-reviews/primitive-percussion-youth-orchestra-gabble-ratchets-review/?utm_source=rss&utm_medium=rss&utm_campaign=primitive-percussion-youth-orchestra-gabble-ratchets-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Debt Rag",
-      "album": "It Is Clear What’s Going On",
-      "artistKey": "debt rag",
-      "albumKey": "it is clear whats going on",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-02",
-          "url": "https://thequietus.com/quietus-reviews/debt-rag-it-is-clear-whats-going-on-review/?utm_source=rss&utm_medium=rss&utm_campaign=debt-rag-it-is-clear-whats-going-on-review"
         }
       ],
       "editorialWeight": 4,
@@ -12256,24 +12292,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Cate Le Bon",
-      "album": "Michelangelo Dying",
-      "artistKey": "cate le bon",
-      "albumKey": "michelangelo dying",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-09-23",
-          "url": "https://stereogum.com/2323892/album-of-the-week-cate-le-bon-michelangelo-dying/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "pôt-pot",
       "album": "Warsaw 480km",
       "artistKey": "pot pot",
@@ -13120,24 +13138,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Jensen Mcrae",
-      "album": "I Don't Know How But They Found Me!",
-      "artistKey": "jensen mcrae",
-      "albumKey": "i dont know how but they found me",
-      "sources": [
-        {
-          "sourceId": "npr-music",
-          "sourceLabel": "NPR Music",
-          "weight": 4,
-          "publishedAt": "2025-07-15",
-          "url": "https://www.npr.org/sections/world-cafe/2025/07/15/nx-s1-5454861/jensen-mcrae-album-i-dont-know-how-but-they-found-me"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Open Mike Eagle",
       "album": "Neighborhood Gods Unlimited",
       "artistKey": "open mike eagle",
@@ -13156,20 +13156,74 @@
       "mentionCount": 1
     },
     {
-      "artist": "Poor Creature",
-      "album": "All Smiles Tonight",
-      "artistKey": "poor creature",
-      "albumKey": "all smiles tonight",
+      "artist": "Boards of Canada",
+      "album": "Inferno",
+      "artistKey": "boards of canada",
+      "albumKey": "inferno",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-14",
-          "url": "https://daily.bandcamp.com/album-of-the-day/poor-creature-all-smiles-tonight-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Heavy Bloom feat. Jesse Desean & Nodalus",
+      "album": "Back To Us",
+      "artistKey": "heavy bloom feat jesse desean and nodalus",
+      "albumKey": "back to us",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kelley Stoltz",
+      "album": "If You Don't Know Me, Buy Now!",
+      "artistKey": "kelley stoltz",
+      "albumKey": "if you dont know me buy now",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tank and the Bangas",
+      "album": "The Last Balloon",
+      "artistKey": "tank and the bangas",
+      "albumKey": "the last balloon",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13268,6 +13322,42 @@
       "album": "Documents of Different Reality",
       "artistKey": "mind control",
       "albumKey": "documents of different reality",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Phoenix",
+      "album": "Live on KEXP",
+      "artistKey": "phoenix",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Real Estate",
+      "album": "Live on KEXP",
+      "artistKey": "real estate",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14524,24 +14614,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Kelley Stoltz",
-      "album": "If You Don't Know Me, Buy Now!",
-      "artistKey": "kelley stoltz",
-      "albumKey": "if you dont know me buy now",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "KOKOKO!",
       "album": "Live on KEXP",
       "artistKey": "kokoko",
@@ -14696,78 +14768,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Shrudd",
-      "album": "No Man Is Good Three Times",
-      "artistKey": "shrudd",
-      "albumKey": "no man is good three times",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Grizzled Mighty",
-      "album": "Confetti Teeth",
-      "artistKey": "the grizzled mighty",
-      "albumKey": "confetti teeth",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "abracadabra",
-      "album": "peel away EP",
-      "artistKey": "abracadabra",
-      "albumKey": "peel away ep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Greg Kramer",
-      "album": "Heat Check",
-      "artistKey": "greg kramer",
-      "albumKey": "heat check",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-04",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15489,24 +15489,6 @@
           "weight": 3,
           "publishedAt": "2026-02-17",
           "url": "https://www.indieshuffle.com/neighbor-home/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Untold Williams",
-      "album": "Big on Empathy but Not Very Cool/Funny",
-      "artistKey": "untold williams",
-      "albumKey": "big on empathy but not very cool funny",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-02-16",
-          "url": "https://www.indieshuffle.com/untold-williams-big-on-empathy-but-not-very-cool-funny/"
         }
       ],
       "editorialWeight": 3,

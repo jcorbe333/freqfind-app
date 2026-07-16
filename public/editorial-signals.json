@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T09:55:17.211Z",
+  "generatedAt": "2026-07-16T10:01:44.078Z",
   "items": [
     {
       "artist": "Makthaverskan",
@@ -34,24 +34,24 @@
       "mentionCount": 3
     },
     {
-      "artist": "Akusmi",
-      "album": "Terra Incognita",
-      "artistKey": "akusmi",
-      "albumKey": "terra incognita",
+      "artist": "Kelela",
+      "album": "new avatar",
+      "artistKey": "kelela",
+      "albumKey": "new avatar",
       "sources": [
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-07-13",
-          "url": "https://pitchfork.com/reviews/albums/akusmi-terra-incognita/"
+          "publishedAt": "2026-07-16",
+          "url": "https://pitchfork.com/reviews/albums/kelela-new-avatar/"
         },
         {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
           "weight": 4,
-          "publishedAt": "2026-07-03",
-          "url": "https://thequietus.com/quietus-reviews/akusmi-terra-incognita-review/?utm_source=rss&utm_medium=rss&utm_campaign=akusmi-terra-incognita-review"
+          "publishedAt": "2026-07-07",
+          "url": "https://stereogum.com/2504380/album-of-the-week-kelela-new-avatar/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 11,
@@ -409,6 +409,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Madonna",
+      "album": "CONFESSIONS II",
+      "artistKey": "madonna",
+      "albumKey": "confessions ii",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-07-08",
+          "url": "https://thequietus.com/quietus-reviews/madonna-confessions-ii-review/?utm_source=rss&utm_medium=rss&utm_campaign=madonna-confessions-ii-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "2K88, Lauren Duffus, Rainy Miller & Bianca Scout",
       "album": "Everything Always Changes, For We’re Truly Here",
       "artistKey": "2k88 lauren duffus rainy miller and bianca scout",
@@ -427,56 +452,6 @@
           "weight": 4,
           "publishedAt": "2026-07-07",
           "url": "https://daily.bandcamp.com/album-of-the-day/2k88-lauren-duffus-rainy-miller-bianca-scout-everything-always-changes-for-were-truly-here-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Madonna",
-      "album": "CONFESSIONS II",
-      "artistKey": "madonna",
-      "albumKey": "confessions ii",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-10",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-08",
-          "url": "https://thequietus.com/quietus-reviews/madonna-confessions-ii-review/?utm_source=rss&utm_medium=rss&utm_campaign=madonna-confessions-ii-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Parlor Greens",
-      "album": "Emeralds",
-      "artistKey": "parlor greens",
-      "albumKey": "emeralds",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-06",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-03-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
         }
       ],
       "editorialWeight": 9,
@@ -542,6 +517,24 @@
       "album": "Cowboy Carter",
       "artistKey": "beyonce",
       "albumKey": "cowboy carter",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Blu & Exile",
+      "album": "Love (the) Ominous World",
+      "artistKey": "blu and exile",
+      "albumKey": "love the ominous world",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -772,6 +765,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Blu & Exile",
+      "album": "Miles",
+      "artistKey": "blu and exile",
+      "albumKey": "miles",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "HAIM",
       "album": "Women in Music Pt. III",
       "artistKey": "haim",
@@ -895,6 +906,42 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Bby Kell",
+      "album": "GIRLY POP",
+      "artistKey": "bby kell",
+      "albumKey": "girly pop",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-16",
+          "url": "https://pitchfork.com/reviews/albums/bby-kell-girly-pop/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Loathe",
+      "album": "A Stranger to You",
+      "artistKey": "loathe",
+      "albumKey": "a stranger to you",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-16",
+          "url": "https://pitchfork.com/reviews/albums/loathe-a-stranger-to-you/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1057,6 +1104,24 @@
       ],
       "editorialWeight": 5,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Akusmi",
+      "album": "Terra Incognita",
+      "artistKey": "akusmi",
+      "albumKey": "terra incognita",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-13",
+          "url": "https://pitchfork.com/reviews/albums/akusmi-terra-incognita/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1240,24 +1305,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Gas",
-      "album": "November 89",
-      "artistKey": "gas",
-      "albumKey": "november 89",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-07",
-          "url": "https://pitchfork.com/reviews/albums/gas-november-89/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Horse Lords",
       "album": "Demand to Be Taken to Heaven Alive!",
       "artistKey": "horse lords",
@@ -1305,6 +1352,24 @@
           "weight": 4,
           "publishedAt": "2026-06-05",
           "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ora Cogan",
+      "album": "Hard Hearted Woman",
+      "artistKey": "ora cogan",
+      "albumKey": "hard hearted woman",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-03-13",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ora-cogan-hard-hearted-woman-review"
         }
       ],
       "editorialWeight": 5,
@@ -2990,24 +3055,6 @@
       "album": "Absolute Elsewhere",
       "artistKey": "blood incantation",
       "albumKey": "absolute elsewhere",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Blu & Exile",
-      "album": "Love (the) Ominous World",
-      "artistKey": "blu and exile",
-      "albumKey": "love the ominous world",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -6964,24 +7011,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Blu & Exile",
-      "album": "Miles",
-      "artistKey": "blu and exile",
-      "albumKey": "miles",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Boldy James & Sterling Toles",
       "album": "Manger on McNichols",
       "artistKey": "boldy james and sterling toles",
@@ -8764,6 +8793,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Brian Ennals & Blockhead",
+      "album": "Boatshoes",
+      "artistKey": "brian ennals and blockhead",
+      "albumKey": "boatshoes",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-15",
+          "url": "https://daily.bandcamp.com/album-of-the-day/brian-ennals-blockhead-boatshoes-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Violet Cowboy",
       "album": "Ramraid at the Wiggly Worm",
       "artistKey": "violet cowboy",
@@ -8782,40 +8829,58 @@
       "mentionCount": 9
     },
     {
-      "artist": "Ferries",
-      "album": "Eye Wander",
-      "artistKey": "ferries",
-      "albumKey": "eye wander",
+      "artist": "Conway Savage",
+      "album": "Too Dark To See: Solo and Collaborative Recordings 1992–2010",
+      "artistKey": "conway savage",
+      "albumKey": "too dark to see solo and collaborative recordings 1992 2010",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-07-13",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ferries-eye-wander-review"
+          "publishedAt": "2026-07-16",
+          "url": "https://thequietus.com/quietus-reviews/conway-savage-too-dark-to-see-solo-and-collaborative-recordings-1992-2010-review/?utm_source=rss&utm_medium=rss&utm_campaign=conway-savage-too-dark-to-see-solo-and-collaborative-recordings-1992-2010-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
-      "artist": "Another Planet (Phiik & Lungs) & steel tipped dove",
-      "album": "People Are Not Your Friends",
-      "artistKey": "another planet phiik and lungs and steel tipped dove",
-      "albumKey": "people are not your friends",
+      "artist": "Blu & Exile",
+      "album": "Time Heals Everything",
+      "artistKey": "blu and exile",
+      "albumKey": "time heals everything",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-10",
-          "url": "https://daily.bandcamp.com/album-of-the-day/phiik-lungs-steel-tipped-dove-people-are-not-your-friends-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ora Cogan",
+      "album": "Live on KEXP",
+      "artistKey": "ora cogan",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "RenzNiro",
@@ -8872,6 +8937,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Ferries",
+      "album": "Eye Wander",
+      "artistKey": "ferries",
+      "albumKey": "eye wander",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-13",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ferries-eye-wander-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Michael Cloud Duguay",
       "album": "Kingdom Come, Kingdom Go",
       "artistKey": "michael cloud duguay",
@@ -8883,6 +8966,24 @@
           "weight": 4,
           "publishedAt": "2026-07-13",
           "url": "https://thequietus.com/quietus-reviews/michael-cloud-duguay-kingdom-come-kingdom-go/?utm_source=rss&utm_medium=rss&utm_campaign=michael-cloud-duguay-kingdom-come-kingdom-go"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Another Planet (Phiik & Lungs) & steel tipped dove",
+      "album": "People Are Not Your Friends",
+      "artistKey": "another planet phiik and lungs and steel tipped dove",
+      "albumKey": "people are not your friends",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-10",
+          "url": "https://daily.bandcamp.com/album-of-the-day/phiik-lungs-steel-tipped-dove-people-are-not-your-friends-review"
         }
       ],
       "editorialWeight": 4,
@@ -8995,24 +9096,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kelela",
-      "album": "new avatar",
-      "artistKey": "kelela",
-      "albumKey": "new avatar",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-07-07",
-          "url": "https://stereogum.com/2504380/album-of-the-week-kelela-new-avatar/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -10348,6 +10431,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Parlor Greens",
+      "album": "Emeralds",
+      "artistKey": "parlor greens",
+      "albumKey": "emeralds",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-03-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "dälek",
       "album": "Brilliance of a Falling Moon",
       "artistKey": "dalek",
@@ -10467,24 +10568,6 @@
           "weight": 4,
           "publishedAt": "2026-03-16",
           "url": "https://daily.bandcamp.com/album-of-the-day/cut-worms-transmitter-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ora Cogan",
-      "album": "Hard Hearted Woman",
-      "artistKey": "ora cogan",
-      "albumKey": "hard hearted woman",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-03-13",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ora-cogan-hard-hearted-woman-review"
         }
       ],
       "editorialWeight": 4,
@@ -13138,20 +13221,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "Open Mike Eagle",
-      "album": "Neighborhood Gods Unlimited",
-      "artistKey": "open mike eagle",
-      "albumKey": "neighborhood gods unlimited",
+      "artist": "Al-Qasar",
+      "album": "Live on KEXP",
+      "artistKey": "al qasar",
+      "albumKey": "live on kexp",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-15",
-          "url": "https://daily.bandcamp.com/album-of-the-day/open-mike-eagle-neighborhood-gods-unlimited-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Alela Diane",
+      "album": "Who's Keeping Time?",
+      "artistKey": "alela diane",
+      "albumKey": "whos keeping time",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Angèle, Fcukers, Justice & Fcukers",
+      "album": "What You Want (Fcukers remix)",
+      "artistKey": "angele fcukers justice and fcukers",
+      "albumKey": "what you want fcukers remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13160,6 +13279,24 @@
       "album": "Inferno",
       "artistKey": "boards of canada",
       "albumKey": "inferno",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gurriers",
+      "album": "Live on KEXP",
+      "artistKey": "gurriers",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13214,6 +13351,42 @@
       "album": "The Last Balloon",
       "artistKey": "tank and the bangas",
       "albumKey": "the last balloon",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wavves, Say Anything",
+      "album": "Cherry Soda",
+      "artistKey": "wavves say anything",
+      "albumKey": "cherry soda",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Young Fathers",
+      "album": "Cocoa Sugar",
+      "artistKey": "young fathers",
+      "albumKey": "cocoa sugar",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14326,24 +14499,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Gurriers",
-      "album": "Live on KEXP",
-      "artistKey": "gurriers",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Heavy Bloom",
       "album": "Live on KEXP",
       "artistKey": "heavy bloom",
@@ -14686,60 +14841,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Cultura Profética",
-      "album": "En bucle",
-      "artistKey": "cultura profetica",
-      "albumKey": "en bucle",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Harto Rodriguez, Kase.O",
-      "album": "Camisa de Fuerza",
-      "artistKey": "harto rodriguez kase o",
-      "albumKey": "camisa de fuerza",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "KTNA",
-      "album": "ABYSS",
-      "artistKey": "ktna",
-      "albumKey": "abyss",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Matt Maltese",
       "album": "Coward (Ft. Biig Piig)",
       "artistKey": "matt maltese",
@@ -14751,24 +14852,6 @@
           "weight": 3,
           "publishedAt": "2026-07-05",
           "url": "https://www.indieshuffle.com/matt-maltese-coward-ft-biig-piig/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Runkus feat. Peter Tosh",
-      "album": "SUPERNOVA",
-      "artistKey": "runkus feat peter tosh",
-      "albumKey": "supernova",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-05",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

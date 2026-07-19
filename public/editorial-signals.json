@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T09:18:12.258Z",
+  "generatedAt": "2026-07-19T09:46:54.405Z",
   "items": [
     {
       "artist": "Kelela",
@@ -250,7 +250,7 @@
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-07-17",
+          "publishedAt": "2026-07-18",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -452,6 +452,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Panopticon",
+      "album": "Det hjemsøkte hjertet",
+      "artistKey": "panopticon",
+      "albumKey": "det hjems kte hjertet",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "SML",
       "album": "Spontaneous Music Live",
       "artistKey": "sml",
@@ -596,24 +614,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "PetroDragonic Apocalypse",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "petrodragonic apocalypse",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Snooper",
       "album": "Super Sn​õ​õ​per",
       "artistKey": "snooper",
@@ -625,24 +625,6 @@
           "weight": 5,
           "publishedAt": "2023-01-01",
           "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "Laminated Denim",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "laminated denim",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
         }
       ],
       "editorialWeight": 6,
@@ -848,24 +830,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "Infest the Rats’ Nest",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "infest the rats nest",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Xiu Xiu",
       "album": "Girl with Basket of Fruit",
       "artistKey": "xiu xiu",
@@ -900,6 +864,24 @@
       "editorialWeight": 5,
       "multiSourceBonus": 1,
       "mentionCount": 9
+    },
+    {
+      "artist": "Opeth",
+      "album": "Damnation",
+      "artistKey": "opeth",
+      "albumKey": "damnation",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-19",
+          "url": "https://pitchfork.com/reviews/albums/opeth-damnation/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Four Tet Wingdings 2026",
@@ -4484,6 +4466,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "PetroDragonic Apocalypse",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "petrodragonic apocalypse",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "King Krule",
       "album": "Space Heavy",
       "artistKey": "king krule",
@@ -5730,6 +5730,24 @@
       "album": "American Gurl",
       "artistKey": "kilo kish",
       "albumKey": "american gurl",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "Laminated Denim",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "laminated denim",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8354,6 +8372,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "Infest the Rats’ Nest",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "infest the rats nest",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Kirin J. Callinan",
       "album": "Return to Center",
       "artistKey": "kirin j callinan",
@@ -9128,24 +9164,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "King Gizzard & the Lizard Wizard",
-      "album": "Level 5",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "level 5",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Smirk",
       "album": "Speculative Fiction",
       "artistKey": "smirk",
@@ -9157,24 +9175,6 @@
           "weight": 4,
           "publishedAt": "2026-07-08",
           "url": "https://daily.bandcamp.com/album-of-the-day/smirk-speculative-fiction-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Luke Haines",
-      "album": "Izzy Wizzy Let’s Get Bizzy",
-      "artistKey": "luke haines",
-      "albumKey": "izzy wizzy lets get bizzy",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-07",
-          "url": "https://thequietus.com/quietus-reviews/luke-haines-izzy-wizzy-lets-get-bizzy-review/?utm_source=rss&utm_medium=rss&utm_campaign=luke-haines-izzy-wizzy-lets-get-bizzy-review"
         }
       ],
       "editorialWeight": 4,
@@ -13232,20 +13232,92 @@
       "mentionCount": 1
     },
     {
-      "artist": "Dj Haram",
-      "album": "Beside Myself",
-      "artistKey": "dj haram",
-      "albumKey": "beside myself",
+      "artist": "U-Men",
+      "album": "U-Men",
+      "artistKey": "u men",
+      "albumKey": "u men",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-18",
-          "url": "https://daily.bandcamp.com/album-of-the-day/dj-haram-beside-myself-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-19",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wimps",
+      "album": "Garbage People",
+      "artistKey": "wimps",
+      "albumKey": "garbage people",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Daisy*",
+      "album": "Melody",
+      "artistKey": "daisy",
+      "albumKey": "melody",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Just Mustard",
+      "album": "Live on KEXP",
+      "artistKey": "just mustard",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Litronix",
+      "album": "Live on KEXP",
+      "artistKey": "litronix",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -14564,42 +14636,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Irreversible Entanglements feat. Helado Negro",
-      "album": "Future Present Past",
-      "artistKey": "irreversible entanglements feat helado negro",
-      "albumKey": "future present past",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jill Scott feat. Ab‐Soul",
-      "album": "To Whom This May Concern",
-      "artistKey": "jill scott feat ab soul",
-      "albumKey": "to whom this may concern",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lime Garden",
       "album": "Abbey Road Session",
       "artistKey": "lime garden",
@@ -14610,24 +14646,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Frog",
-      "album": "Live on KEXP",
-      "artistKey": "frog",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-08",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14647,114 +14665,6 @@
           "weight": 3,
           "publishedAt": "2026-07-08",
           "url": "https://www.indieshuffle.com/jjerome87-track-and-field/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jungle",
-      "album": "Someday, Somewhere",
-      "artistKey": "jungle",
-      "albumKey": "someday somewhere",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Les Louanges",
-      "album": "Alouette!",
-      "artistKey": "les louanges",
-      "albumKey": "alouette",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Merchandise",
-      "album": "Live on KEXP",
-      "artistKey": "merchandise",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nina Simone",
-      "album": "Baltimore (live) (Supershy remix)",
-      "artistKey": "nina simone",
-      "albumKey": "baltimore live supershy remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Talaya.",
-      "album": "almost",
-      "artistKey": "talaya",
-      "albumKey": "almost",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wimps",
-      "album": "Garbage People",
-      "artistKey": "wimps",
-      "albumKey": "garbage people",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-08",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

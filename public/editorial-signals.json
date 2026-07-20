@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T09:46:54.405Z",
+  "generatedAt": "2026-07-20T10:45:00.566Z",
   "items": [
     {
       "artist": "Kelela",
@@ -30,38 +30,6 @@
         }
       ],
       "editorialWeight": 16,
-      "multiSourceBonus": 2,
-      "mentionCount": 3
-    },
-    {
-      "artist": "Makthaverskan",
-      "album": "Glass and Bones",
-      "artistKey": "makthaverskan",
-      "albumKey": "glass and bones",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-09",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-04-08",
-          "url": "https://daily.bandcamp.com/album-of-the-day/makthaverskan-glass-and-bones-review"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-03-31",
-          "url": "https://stereogum.com/2494076/album-of-the-week-makthaverskan-glass-and-bones/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 13,
       "multiSourceBonus": 2,
       "mentionCount": 3
     },
@@ -241,6 +209,31 @@
       "mentionCount": 10
     },
     {
+      "artist": "Genesis Owusu",
+      "album": "Redstar Wu & the Worldwide Scourge",
+      "artistKey": "genesis owusu",
+      "albumKey": "redstar wu and the worldwide scourge",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-19",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Jessie Ware",
       "album": "Superbloom",
       "artistKey": "jessie ware",
@@ -316,6 +309,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Makthaverskan",
+      "album": "Glass and Bones",
+      "artistKey": "makthaverskan",
+      "albumKey": "glass and bones",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-04-08",
+          "url": "https://daily.bandcamp.com/album-of-the-day/makthaverskan-glass-and-bones-review"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-03-31",
+          "url": "https://stereogum.com/2494076/album-of-the-week-makthaverskan-glass-and-bones/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Stuck",
       "album": "Optimizer",
       "artistKey": "stuck",
@@ -366,24 +384,24 @@
       "mentionCount": 2
     },
     {
-      "artist": "Madonna",
-      "album": "CONFESSIONS II",
-      "artistKey": "madonna",
-      "albumKey": "confessions ii",
+      "artist": "Parlor Greens",
+      "album": "Emeralds",
+      "artistKey": "parlor greens",
+      "albumKey": "emeralds",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-07-17",
+          "publishedAt": "2026-07-20",
           "url": "https://www.kexp.org/playlist/"
         },
         {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-07-08",
-          "url": "https://thequietus.com/quietus-reviews/madonna-confessions-ii-review/?utm_source=rss&utm_medium=rss&utm_campaign=madonna-confessions-ii-review"
+          "publishedAt": "2026-03-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
         }
       ],
       "editorialWeight": 9,
@@ -596,6 +614,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Genesis Owusu",
+      "album": "Struggler",
+      "artistKey": "genesis owusu",
+      "albumKey": "struggler",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Jessie Ware",
       "album": "That! Feels Good!",
       "artistKey": "jessie ware",
@@ -643,6 +679,24 @@
           "weight": 5,
           "publishedAt": "2022-01-01",
           "url": "https://theneedledrop.com/loved-list/2022/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Genesis Owusu",
+      "album": "Smiling with No Teeth",
+      "artistKey": "genesis owusu",
+      "albumKey": "smiling with no teeth",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
         }
       ],
       "editorialWeight": 6,
@@ -864,6 +918,78 @@
       "editorialWeight": 5,
       "multiSourceBonus": 1,
       "mentionCount": 9
+    },
+    {
+      "artist": "Eartheater",
+      "album": "Heavenly Body: If I’m the Bottle You’re the Message",
+      "artistKey": "eartheater",
+      "albumKey": "heavenly body if im the bottle youre the message",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-20",
+          "url": "https://pitchfork.com/reviews/albums/eartheater-heavenly-body-if-im-the-bottle-youre-the-message/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Evil Graham Lee",
+      "album": "I Think I’m Alone Now",
+      "artistKey": "evil graham lee",
+      "albumKey": "i think im alone now",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-20",
+          "url": "https://pitchfork.com/reviews/albums/evil-graham-lee-i-think-im-alone-now/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Helado Negro Reyna Tropical",
+      "album": "Helado Tropical",
+      "artistKey": "helado negro reyna tropical",
+      "albumKey": "helado tropical",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-20",
+          "url": "https://pitchfork.com/reviews/albums/helado-negro-reyna-tropical-helado-tropical/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nia Archives",
+      "album": "Emotional Junglist",
+      "artistKey": "nia archives",
+      "albumKey": "emotional junglist",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-20",
+          "url": "https://pitchfork.com/reviews/albums/nia-archives-emotional-junglist/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Opeth",
@@ -1262,24 +1388,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Bruno Berle",
-      "album": "Sem Fronteiras",
-      "artistKey": "bruno berle",
-      "albumKey": "sem fronteiras",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-10",
-          "url": "https://pitchfork.com/reviews/albums/bruno-berle-sem-fronteiras/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Synecdoche New York",
       "album": "meanderings EP",
       "artistKey": "synecdoche new york",
@@ -1291,60 +1399,6 @@
           "weight": 5,
           "publishedAt": "2026-07-10",
           "url": "https://pitchfork.com/reviews/albums/synecdoche-new-york-meanderings-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tran Uy Duc",
-      "album": "ByyShh",
-      "artistKey": "tran uy duc",
-      "albumKey": "byyshh",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-10",
-          "url": "https://pitchfork.com/reviews/albums/tran-uy-duc-byyshh/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "artistKey": "ken carson",
-      "albumKey": "xperiment",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-09",
-          "url": "https://pitchfork.com/reviews/albums/ken-carson-xperiment/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nirosta Steel",
-      "album": "My Skyscraper",
-      "artistKey": "nirosta steel",
-      "albumKey": "my skyscraper",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-09",
-          "url": "https://pitchfork.com/reviews/albums/nirosta-steel-my-skyscraper/"
         }
       ],
       "editorialWeight": 5,
@@ -1460,24 +1514,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Joyce Manor",
-      "album": "I Used To Go To This Bar",
-      "artistKey": "joyce manor",
-      "albumKey": "i used to go to this bar",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-01-27",
-          "url": "https://stereogum.com/2486605/album-of-the-week-joyce-manor-i-used-to-go-to-this-bar/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Xiu Xiu",
       "album": "Xiu Mutha F—in’ Xiu: Vol. 1",
       "artistKey": "xiu xiu",
@@ -1554,24 +1590,6 @@
       "album": "The Pleasure Is Yours",
       "artistKey": "gena",
       "albumKey": "the pleasure is yours",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Genesis Owusu",
-      "album": "Redstar Wu & the Worldwide Scourge",
-      "artistKey": "genesis owusu",
-      "albumKey": "redstar wu and the worldwide scourge",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -4250,24 +4268,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Genesis Owusu",
-      "album": "Struggler",
-      "artistKey": "genesis owusu",
-      "albumKey": "struggler",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "George Clanton",
       "album": "Ooh Rap I Ya",
       "artistKey": "george clanton",
@@ -6396,24 +6396,6 @@
       "album": "Promises",
       "artistKey": "floating points pharoah sanders and the london symphony orchestra",
       "albumKey": "promises",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Genesis Owusu",
-      "album": "Smiling with No Teeth",
-      "artistKey": "genesis owusu",
-      "albumKey": "smiling with no teeth",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8894,6 +8876,42 @@
       "mentionCount": 9
     },
     {
+      "artist": "Speaker Music",
+      "album": "Synoptic Audio",
+      "artistKey": "speaker music",
+      "albumKey": "synoptic audio",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-07-20",
+          "url": "https://thequietus.com/quietus-reviews/speaker-music-synoptic-audio-review/?utm_source=rss&utm_medium=rss&utm_campaign=speaker-music-synoptic-audio-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Blu & Exile",
+      "album": "Time Heals Everything",
+      "artistKey": "blu and exile",
+      "albumKey": "time heals everything",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "De La Soul",
       "album": "Buhloone Mindstate",
       "artistKey": "de la soul",
@@ -8927,24 +8945,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Blu & Exile",
-      "album": "Time Heals Everything",
-      "artistKey": "blu and exile",
-      "albumKey": "time heals everything",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9107,24 +9107,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Joyce Manor",
-      "album": "Live on KEXP",
-      "artistKey": "joyce manor",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -10496,24 +10478,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Parlor Greens",
-      "album": "Emeralds",
-      "artistKey": "parlor greens",
-      "albumKey": "emeralds",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-03-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "dälek",
       "album": "Brilliance of a Falling Moon",
       "artistKey": "dalek",
@@ -11209,6 +11173,24 @@
           "weight": 4,
           "publishedAt": "2026-01-28",
           "url": "https://daily.bandcamp.com/album-of-the-day/tashi-dorji-low-clouds-hang-this-land-is-on-fire-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Joyce Manor",
+      "album": "I Used To Go To This Bar",
+      "artistKey": "joyce manor",
+      "albumKey": "i used to go to this bar",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-01-27",
+          "url": "https://stereogum.com/2486605/album-of-the-week-joyce-manor-i-used-to-go-to-this-bar/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -13232,6 +13214,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "GWEN",
+      "album": "Achub Yr Iaith",
+      "artistKey": "gwen",
+      "albumKey": "achub yr iaith",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rowena Wise",
+      "album": "Blood Ties",
+      "artistKey": "rowena wise",
+      "albumKey": "blood ties",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-20",
+          "url": "https://www.indieshuffle.com/rowena-wise-blood-ties/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Blue Lab Beats",
+      "album": "The Blue Lab Beats Show",
+      "artistKey": "blue lab beats",
+      "albumKey": "the blue lab beats show",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tank and the Bangas feat. HaSizzle",
+      "album": "The Last Balloon",
+      "artistKey": "tank and the bangas feat hasizzle",
+      "albumKey": "the last balloon",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "U-Men",
       "album": "U-Men",
       "artistKey": "u men",
@@ -13398,6 +13452,24 @@
       "album": "Sick of Love (Mura Masa remix)",
       "artistKey": "lykke li",
       "albumKey": "sick of love mura masa remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Madonna",
+      "album": "CONFESSIONS II",
+      "artistKey": "madonna",
+      "albumKey": "confessions ii",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14564,24 +14636,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "New Constellations & STRFKR",
-      "album": "Hot Blooded (Rose City rework)",
-      "artistKey": "new constellations and strfkr",
-      "albumKey": "hot blooded rose city rework",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "SUEP",
       "album": "Forever",
       "artistKey": "suep",
@@ -14610,42 +14664,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cave Singers",
-      "album": "Live on KEXP",
-      "artistKey": "cave singers",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lime Garden",
-      "album": "Abbey Road Session",
-      "artistKey": "lime garden",
-      "albumKey": "abbey road session",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-09",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15367,42 +15385,6 @@
           "weight": 3,
           "publishedAt": "2026-02-21",
           "url": "https://www.indieshuffle.com/arlo-parks-heaven/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Paradise Blossom",
-      "album": "forever, with you",
-      "artistKey": "paradise blossom",
-      "albumKey": "forever with you",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-02-18",
-          "url": "https://www.indieshuffle.com/paradise-blossom-forever-with-you/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Neighbor",
-      "album": "Home",
-      "artistKey": "neighbor",
-      "albumKey": "home",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-02-17",
-          "url": "https://www.indieshuffle.com/neighbor-home/"
         }
       ],
       "editorialWeight": 3,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T10:19:51.384Z",
+  "generatedAt": "2026-07-22T10:19:38.972Z",
   "items": [
     {
       "artist": "Kelela",
@@ -64,6 +64,31 @@
       "editorialWeight": 13,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "Luluc",
+      "album": "Sweet Thief",
+      "artistKey": "luluc",
+      "albumKey": "sweet thief",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-21",
+          "url": "https://daily.bandcamp.com/album-of-the-day/luluc-sweet-thief-review"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-21",
+          "url": "https://pitchfork.com/reviews/albums/luluc-sweet-thief/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 10
     },
     {
       "artist": "Lido Pimienta",
@@ -241,24 +266,49 @@
       "mentionCount": 2
     },
     {
-      "artist": "Genesis Owusu",
-      "album": "Redstar Wu & the Worldwide Scourge",
-      "artistKey": "genesis owusu",
-      "albumKey": "redstar wu and the worldwide scourge",
+      "artist": "Steve Lacy",
+      "album": "Oh yeah?",
+      "artistKey": "steve lacy",
+      "albumKey": "oh yeah",
       "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-22",
+          "url": "https://pitchfork.com/reviews/albums/steve-lacy-oh-yeah/"
+        },
         {
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-07-20",
+          "publishedAt": "2026-07-17",
           "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "The Garden",
+      "album": "Bootleg",
+      "artistKey": "the garden",
+      "albumKey": "bootleg",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-22",
+          "url": "https://pitchfork.com/reviews/albums/the-garden-bootleg/"
         },
         {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-17",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 10,
@@ -275,7 +325,32 @@
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-07-18",
+          "publishedAt": "2026-07-21",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Genesis Owusu",
+      "album": "Redstar Wu & the Worldwide Scourge",
+      "artistKey": "genesis owusu",
+      "albumKey": "redstar wu and the worldwide scourge",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-20",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -464,24 +539,6 @@
       "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
-    },
-    {
-      "artist": "Jasper Dean",
-      "album": "TOY COLLAGES",
-      "artistKey": "jasper dean",
-      "albumKey": "toy collages",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-13",
-          "url": "https://pitchfork.com/reviews/albums/jasper-dean-toy-collages/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
     },
     {
       "artist": "Panopticon",
@@ -898,6 +955,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Menzingers",
+      "album": "Everything I Ever Saw",
+      "artistKey": "the menzingers",
+      "albumKey": "everything i ever saw",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-22",
+          "url": "https://pitchfork.com/reviews/albums/the-menzingers-everything-i-ever-saw/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Diamond Bling Slime Vol 1 Hosted By Dj Holiday",
       "album": "BLING SLIME VØL 1: HØSTED BY DJ HØLIDAY",
       "artistKey": "diamond bling slime vol 1 hosted by dj holiday",
@@ -909,24 +984,6 @@
           "weight": 5,
           "publishedAt": "2026-07-21",
           "url": "https://pitchfork.com/reviews/albums/diamond-bling-slime-vol-1-hosted-by-dj-holiday/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Luluc",
-      "album": "Sweet Thief",
-      "artistKey": "luluc",
-      "albumKey": "sweet thief",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-21",
-          "url": "https://pitchfork.com/reviews/albums/luluc-sweet-thief/"
         }
       ],
       "editorialWeight": 5,
@@ -1258,24 +1315,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Gloorp",
-      "album": "Gloorp Life",
-      "artistKey": "gloorp",
-      "albumKey": "gloorp life",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-14",
-          "url": "https://pitchfork.com/reviews/albums/gloorp-gloorp-life/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Panda Bear Sonic Boom A Question Of When",
       "album": "A ? of WHEN",
       "artistKey": "panda bear sonic boom a question of when",
@@ -1327,60 +1366,6 @@
       ],
       "editorialWeight": 5,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Akusmi",
-      "album": "Terra Incognita",
-      "artistKey": "akusmi",
-      "albumKey": "terra incognita",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-13",
-          "url": "https://pitchfork.com/reviews/albums/akusmi-terra-incognita/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Rolling Stones",
-      "album": "Foreign Tongues",
-      "artistKey": "the rolling stones",
-      "albumKey": "foreign tongues",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-13",
-          "url": "https://pitchfork.com/reviews/albums/the-rolling-stones-foreign-tongues/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Twisted Teens",
-      "album": "Florida Water Blues",
-      "artistKey": "twisted teens",
-      "albumKey": "florida water blues",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-13",
-          "url": "https://pitchfork.com/reviews/albums/twisted-teens-florida-water-blues/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -8872,22 +8857,22 @@
       "mentionCount": 9
     },
     {
-      "artist": "Chuck Strangers",
-      "album": "Glory of the King’s Hand",
-      "artistKey": "chuck strangers",
-      "albumKey": "glory of the kings hand",
+      "artist": "Kirk Barley",
+      "album": "Arc",
+      "artistKey": "kirk barley",
+      "albumKey": "arc",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-07-17",
-          "url": "https://daily.bandcamp.com/album-of-the-day/chuck-strangers-glory-of-the-kings-hand-review"
+          "publishedAt": "2026-07-22",
+          "url": "https://thequietus.com/quietus-reviews/kirk-barley-arc-review/?utm_source=rss&utm_medium=rss&utm_campaign=kirk-barley-arc-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Kate Carr",
@@ -8901,6 +8886,24 @@
           "weight": 4,
           "publishedAt": "2026-07-21",
           "url": "https://thequietus.com/quietus-reviews/kate-carr-vertical-london-new-years-day/?utm_source=rss&utm_medium=rss&utm_campaign=kate-carr-vertical-london-new-years-day"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nick Hakim",
+      "album": "I Can See",
+      "artistKey": "nick hakim",
+      "albumKey": "i can see",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-07-21",
+          "url": "https://stereogum.com/2505329/album-of-the-week-nick-hakim-i-can-see/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -8941,6 +8944,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Chuck Strangers",
+      "album": "Glory of the King’s Hand",
+      "artistKey": "chuck strangers",
+      "albumKey": "glory of the kings hand",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-17",
+          "url": "https://daily.bandcamp.com/album-of-the-day/chuck-strangers-glory-of-the-kings-hand-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -9117,24 +9138,6 @@
           "weight": 4,
           "publishedAt": "2026-07-10",
           "url": "https://daily.bandcamp.com/album-of-the-day/phiik-lungs-steel-tipped-dove-people-are-not-your-friends-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gnod R&D",
-      "album": "Nobody Knows This Is Anywhere",
-      "artistKey": "gnod r and d",
-      "albumKey": "nobody knows this is anywhere",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-10",
-          "url": "https://thequietus.com/quietus-reviews/gnod-rd-nobody-knows-this-is-anywhere-review/?utm_source=rss&utm_medium=rss&utm_campaign=gnod-rd-nobody-knows-this-is-anywhere-review"
         }
       ],
       "editorialWeight": 4,
@@ -9841,24 +9844,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jasper Dean",
-      "album": "TELEMONKEY",
-      "artistKey": "jasper dean",
-      "albumKey": "telemonkey",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-17",
-          "url": "https://www.indieshuffle.com/jasper-dean-telemonkey/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -12328,24 +12313,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Rocket",
-      "album": "R Is For Rocket",
-      "artistKey": "rocket",
-      "albumKey": "r is for rocket",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-09-30",
-          "url": "https://stereogum.com/2324757/album-of-the-week-rocket-r-is-for-rocket/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Neko Case",
       "album": "Neon Grey Midnight Green",
       "artistKey": "neko case",
@@ -13210,20 +13177,128 @@
       "mentionCount": 1
     },
     {
-      "artist": "Nmesh",
-      "album": "The Molokai Compendium",
-      "artistKey": "nmesh",
-      "albumKey": "the molokai compendium",
+      "artist": "Boy Harsher",
+      "album": "GET MEAN",
+      "artistKey": "boy harsher",
+      "albumKey": "get mean",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-21",
-          "url": "https://daily.bandcamp.com/album-of-the-day/nmesh-the-molokai-compendium-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Chinese American Bear",
+      "album": "Dim Sum & Then Some",
+      "artistKey": "chinese american bear",
+      "albumKey": "dim sum and then some",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Genesis Owusu & Ladyhawke",
+      "album": "Redstar Wu & The Worldwide Scourge",
+      "artistKey": "genesis owusu and ladyhawke",
+      "albumKey": "redstar wu and the worldwide scourge",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jon Hopkins & Imogen Heap",
+      "album": "Reckoning",
+      "artistKey": "jon hopkins and imogen heap",
+      "albumKey": "reckoning",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "JuJu Rogers feat. Jamila Woods",
+      "album": "Pink Guitars, Spaceships N Voodoo Dolls",
+      "artistKey": "juju rogers feat jamila woods",
+      "albumKey": "pink guitars spaceships n voodoo dolls",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "PawPaw Rod",
+      "album": "Picture Day: A PawPaw Rod Album",
+      "artistKey": "pawpaw rod",
+      "albumKey": "picture day a pawpaw rod album",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "A Very Special Episode",
+      "album": "AVSE",
+      "artistKey": "a very special episode",
+      "albumKey": "avse",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13282,6 +13357,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Diary",
+      "album": "Spiral Bound",
+      "artistKey": "diary",
+      "albumKey": "spiral bound",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "DJ Seinfeld feat. TS Graye",
+      "album": "If This Is It",
+      "artistKey": "dj seinfeld feat ts graye",
+      "albumKey": "if this is it",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Fauzia",
       "album": "I Was Here for a Moment",
       "artistKey": "fauzia",
@@ -13318,10 +13429,82 @@
       "mentionCount": 1
     },
     {
+      "artist": "L.A. Witch",
+      "album": "L.A. WITCH",
+      "artistKey": "l a witch",
+      "albumKey": "l a witch",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lime Garden",
+      "album": "Age of Consent' & 'Downtown Lover'",
+      "artistKey": "lime garden",
+      "albumKey": "age of consent and downtown lover",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Los Mirlos feat. Chicha Libre",
+      "album": "The World Meets Los Mirlos",
+      "artistKey": "los mirlos feat chicha libre",
+      "albumKey": "the world meets los mirlos",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Luca Lozano",
       "album": "Da Vinci",
       "artistKey": "luca lozano",
       "albumKey": "da vinci",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Madonna",
+      "album": "CONFESSIONS II",
+      "artistKey": "madonna",
+      "albumKey": "confessions ii",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13394,6 +13577,24 @@
       "album": "Distance EP",
       "artistKey": "planar traits",
       "albumKey": "distance ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "sparklmami",
+      "album": "in this body",
+      "artistKey": "sparklmami",
+      "albumKey": "in this body",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13714,24 +13915,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Madonna",
-      "album": "CONFESSIONS II",
-      "artistKey": "madonna",
-      "albumKey": "confessions ii",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Marika Christine",
       "album": "Enjoy the Clouds",
       "artistKey": "marika christine",
@@ -13750,46 +13933,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Steve Lacy",
-      "album": "Oh yeah?",
-      "artistKey": "steve lacy",
-      "albumKey": "oh yeah",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Steve Lacy feat. Erykah Badu",
       "album": "Oh yeah?",
       "artistKey": "steve lacy feat erykah badu",
       "albumKey": "oh yeah",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Garden",
-      "album": "Bootleg",
-      "artistKey": "the garden",
-      "albumKey": "bootleg",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13988,24 +14135,6 @@
       "album": "Live on KEXP",
       "artistKey": "lets eat grandma",
       "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lime Garden",
-      "album": "Age of Consent' & 'Downtown Lover'",
-      "artistKey": "lime garden",
-      "albumKey": "age of consent and downtown lover",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14632,64 +14761,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Homeboy Sandman",
-      "album": "Still Champion",
-      "artistKey": "homeboy sandman",
-      "albumKey": "still champion",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Luster",
-      "album": "Whirr & Luster Split",
-      "artistKey": "luster",
-      "albumKey": "whirr and luster split",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Parisalexa",
       "album": "WRONG GENERATION",
       "artistKey": "parisalexa",
       "albumKey": "wrong generation",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Phantom",
-      "album": "Not Midnight Yet",
-      "artistKey": "phantom",
-      "albumKey": "not midnight yet",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14714,42 +14789,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "GENER8ION & Yung Lean",
-      "album": "STORM",
-      "artistKey": "gener8ion and yung lean",
-      "albumKey": "storm",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "MYXA",
-      "album": "Live on KEXP",
-      "artistKey": "myxa",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-11",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15057,6 +15096,24 @@
           "weight": 3,
           "publishedAt": "2026-05-18",
           "url": "https://www.indieshuffle.com/zimmer90--summer-rain/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jasper Dean",
+      "album": "TELEMONKEY",
+      "artistKey": "jasper dean",
+      "albumKey": "telemonkey",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-05-17",
+          "url": "https://www.indieshuffle.com/jasper-dean-telemonkey/"
         }
       ],
       "editorialWeight": 3,

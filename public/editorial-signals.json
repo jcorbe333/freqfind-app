@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T10:19:38.972Z",
+  "generatedAt": "2026-07-23T10:14:13.889Z",
   "items": [
     {
       "artist": "Kelela",
@@ -64,6 +64,31 @@
       "editorialWeight": 13,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "Nia Archives",
+      "album": "Emotional Junglist",
+      "artistKey": "nia archives",
+      "albumKey": "emotional junglist",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-20",
+          "url": "https://pitchfork.com/reviews/albums/nia-archives-emotional-junglist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 12,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Luluc",
@@ -955,6 +980,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Dj Cinema Quartier Latin",
+      "album": "Bruise",
+      "artistKey": "dj cinema quartier latin",
+      "albumKey": "bruise",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-23",
+          "url": "https://pitchfork.com/reviews/albums/dj-cinema-quartier-latin-bruise/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nu Jazz",
+      "album": "Un Jazz",
+      "artistKey": "nu jazz",
+      "albumKey": "un jazz",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-23",
+          "url": "https://pitchfork.com/reviews/albums/nu-jazz-un-jazz/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rick Ross",
+      "album": "Set in Stone",
+      "artistKey": "rick ross",
+      "albumKey": "set in stone",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-23",
+          "url": "https://pitchfork.com/reviews/albums/rick-ross-set-in-stone/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Swapmeet",
+      "album": "Mount Zero",
+      "artistKey": "swapmeet",
+      "albumKey": "mount zero",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-23",
+          "url": "https://pitchfork.com/reviews/albums/swapmeet-mount-zero/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Menzingers",
       "album": "Everything I Ever Saw",
       "artistKey": "the menzingers",
@@ -1056,24 +1153,6 @@
           "weight": 5,
           "publishedAt": "2026-07-20",
           "url": "https://pitchfork.com/reviews/albums/helado-negro-reyna-tropical-helado-tropical/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nia Archives",
-      "album": "Emotional Junglist",
-      "artistKey": "nia archives",
-      "albumKey": "emotional junglist",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-20",
-          "url": "https://pitchfork.com/reviews/albums/nia-archives-emotional-junglist/"
         }
       ],
       "editorialWeight": 5,
@@ -1225,24 +1304,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Fiddlehead",
-      "album": "Baby I’ll Change EP",
-      "artistKey": "fiddlehead",
-      "albumKey": "baby ill change ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-15",
-          "url": "https://pitchfork.com/reviews/albums/fiddlehead-baby-ill-change-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Future",
       "album": "The Real Me",
       "artistKey": "future",
@@ -1290,60 +1351,6 @@
           "weight": 5,
           "publishedAt": "2026-07-15",
           "url": "https://pitchfork.com/reviews/albums/show-me-the-body-alone-together/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Baby Rose",
-      "album": "YEARNALISM",
-      "artistKey": "baby rose",
-      "albumKey": "yearnalism",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-14",
-          "url": "https://pitchfork.com/reviews/albums/baby-rose-yearnalism/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Panda Bear Sonic Boom A Question Of When",
-      "album": "A ? of WHEN",
-      "artistKey": "panda bear sonic boom a question of when",
-      "albumKey": "a of when",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-14",
-          "url": "https://pitchfork.com/reviews/albums/panda-bear-sonic-boom-a-question-of-when/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sad13",
-      "album": "1331",
-      "artistKey": "sad13",
-      "albumKey": "1331",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-14",
-          "url": "https://pitchfork.com/reviews/albums/sad13-1331/"
         }
       ],
       "editorialWeight": 5,
@@ -8839,22 +8846,40 @@
       "mentionCount": 1
     },
     {
-      "artist": "foodman",
-      "album": "HIKARIGASASHIKOMU",
-      "artistKey": "foodman",
-      "albumKey": "hikarigasashikomu",
+      "artist": "REZN",
+      "album": "Cycles in the Infinite Dream",
+      "artistKey": "rezn",
+      "albumKey": "cycles in the infinite dream",
       "sources": [
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-07-20",
-          "url": "https://daily.bandcamp.com/album-of-the-day/foodman-hikarigasashikomu-review"
+          "publishedAt": "2026-07-22",
+          "url": "https://daily.bandcamp.com/album-of-the-day/rezn-cycles-in-the-infinite-dream-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "Panda Bear and Sonic Boom",
+      "album": "A ? of WHEN",
+      "artistKey": "panda bear and sonic boom",
+      "albumKey": "a of when",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-07-23",
+          "url": "https://thequietus.com/quietus-reviews/panda-bear-and-sonic-boom-a-of-when-review/?utm_source=rss&utm_medium=rss&utm_campaign=panda-bear-and-sonic-boom-a-of-when-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Kirk Barley",
@@ -8872,6 +8897,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Snõõper",
+      "album": "Live on KEXP",
+      "artistKey": "snooper",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -8904,6 +8947,24 @@
           "weight": 4,
           "publishedAt": "2026-07-21",
           "url": "https://stereogum.com/2505329/album-of-the-week-nick-hakim-i-can-see/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "foodman",
+      "album": "HIKARIGASASHIKOMU",
+      "artistKey": "foodman",
+      "albumKey": "hikarigasashikomu",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-20",
+          "url": "https://daily.bandcamp.com/album-of-the-day/foodman-hikarigasashikomu-review"
         }
       ],
       "editorialWeight": 4,
@@ -9102,24 +9163,6 @@
           "weight": 4,
           "publishedAt": "2026-07-13",
           "url": "https://daily.bandcamp.com/album-of-the-day/ferries-eye-wander-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Michael Cloud Duguay",
-      "album": "Kingdom Come, Kingdom Go",
-      "artistKey": "michael cloud duguay",
-      "albumKey": "kingdom come kingdom go",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-13",
-          "url": "https://thequietus.com/quietus-reviews/michael-cloud-duguay-kingdom-come-kingdom-go/?utm_source=rss&utm_medium=rss&utm_campaign=michael-cloud-duguay-kingdom-come-kingdom-go"
         }
       ],
       "editorialWeight": 4,
@@ -13159,20 +13202,92 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sunmundi & Sasco",
-      "album": "Contacting",
-      "artistKey": "sunmundi and sasco",
-      "albumKey": "contacting",
+      "artist": "Jill Scott feat. Tierra Whack",
+      "album": "To Whom This May Concern",
+      "artistKey": "jill scott feat tierra whack",
+      "albumKey": "to whom this may concern",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-22",
-          "url": "https://daily.bandcamp.com/album-of-the-day/sunmundi-and-sasco-contacting-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-23",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Moses Yoofee Trio",
+      "album": "CHASING LIGHT",
+      "artistKey": "moses yoofee trio",
+      "albumKey": "chasing light",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Al‐Qasar & Sibel",
+      "album": "Live on KEXP",
+      "artistKey": "al qasar and sibel",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Bob Mould",
+      "album": "Live on KEXP",
+      "artistKey": "bob mould",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Boy Deluxe",
+      "album": "Trespasser",
+      "artistKey": "boy deluxe",
+      "albumKey": "trespasser",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13213,10 +13328,64 @@
       "mentionCount": 1
     },
     {
+      "artist": "DJ Seinfeld feat. Dan Whitlam",
+      "album": "If This Is It",
+      "artistKey": "dj seinfeld feat dan whitlam",
+      "albumKey": "if this is it",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Doc Rhombus",
+      "album": "Shaken Up",
+      "artistKey": "doc rhombus",
+      "albumKey": "shaken up",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.indieshuffle.com/doc-rhombus-shaken-up/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Genesis Owusu & Ladyhawke",
       "album": "Redstar Wu & The Worldwide Scourge",
       "artistKey": "genesis owusu and ladyhawke",
       "albumKey": "redstar wu and the worldwide scourge",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Geowulf",
+      "album": "Great Big Blue",
+      "artistKey": "geowulf",
+      "albumKey": "great big blue",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13253,6 +13422,42 @@
       "album": "Pink Guitars, Spaceships N Voodoo Dolls",
       "artistKey": "juju rogers feat jamila woods",
       "albumKey": "pink guitars spaceships n voodoo dolls",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Messa",
+      "album": "At Races",
+      "artistKey": "messa",
+      "albumKey": "at races",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Night Tapes",
+      "album": "storm (Jasper Tygner Remix)",
+      "artistKey": "night tapes",
+      "albumKey": "storm jasper tygner remix",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14545,46 +14750,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Cola Ren",
-      "album": "NU-S3RVO Vol. 2",
-      "artistKey": "cola ren",
-      "albumKey": "nu s3rvo vol 2",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Faetooth",
       "album": "Live on KEXP",
       "artistKey": "faetooth",
       "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Galcher Lustwerk",
-      "album": "Vestibule Remixes",
-      "artistKey": "galcher lustwerk",
-      "albumKey": "vestibule remixes",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14681,114 +14850,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Acid Arab & Dalia",
-      "album": "Resonance",
-      "artistKey": "acid arab and dalia",
-      "albumKey": "resonance",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Band of Horses",
-      "album": "Live on KEXP",
-      "artistKey": "band of horses",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cat Clyde",
-      "album": "Mud Blood Bone",
-      "artistKey": "cat clyde",
-      "albumKey": "mud blood bone",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Girl Group",
-      "album": "Little Sticky Pictures",
-      "artistKey": "girl group",
-      "albumKey": "little sticky pictures",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Parisalexa",
-      "album": "WRONG GENERATION",
-      "artistKey": "parisalexa",
-      "albumKey": "wrong generation",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sniffany & The Nits",
-      "album": "Hyperspace",
-      "artistKey": "sniffany and the nits",
-      "albumKey": "hyperspace",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-12",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15510,24 +15571,6 @@
           "weight": 3,
           "publishedAt": "2026-02-23",
           "url": "https://www.indieshuffle.com/rio-kosta-unicorn/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Arlo Parks",
-      "album": "Heaven",
-      "artistKey": "arlo parks",
-      "albumKey": "heaven",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-02-21",
-          "url": "https://www.indieshuffle.com/arlo-parks-heaven/"
         }
       ],
       "editorialWeight": 3,

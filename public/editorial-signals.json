@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T10:14:13.889Z",
+  "generatedAt": "2026-07-24T10:10:53.791Z",
   "items": [
     {
       "artist": "Kelela",
@@ -291,6 +291,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Genesis Owusu",
+      "album": "Redstar Wu & the Worldwide Scourge",
+      "artistKey": "genesis owusu",
+      "albumKey": "redstar wu and the worldwide scourge",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Steve Lacy",
       "album": "Oh yeah?",
       "artistKey": "steve lacy",
@@ -351,31 +376,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-21",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Genesis Owusu",
-      "album": "Redstar Wu & the Worldwide Scourge",
-      "artistKey": "genesis owusu",
-      "albumKey": "redstar wu and the worldwide scourge",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-20",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -534,31 +534,6 @@
           "weight": 4,
           "publishedAt": "2026-03-26",
           "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "2K88, Lauren Duffus, Rainy Miller & Bianca Scout",
-      "album": "Everything Always Changes, For We’re Truly Here",
-      "artistKey": "2k88 lauren duffus rainy miller and bianca scout",
-      "albumKey": "everything always changes for were truly here",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-14",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/2k88-lauren-duffus-rainy-miller-bianca-scout-everything-always-changes-for-were-truly-here-review"
         }
       ],
       "editorialWeight": 9,
@@ -980,6 +955,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Oen Sujet",
+      "album": "The Friendliest Fight We Know",
+      "artistKey": "oen sujet",
+      "albumKey": "the friendliest fight we know",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-24",
+          "url": "https://pitchfork.com/reviews/albums/oen-sujet-the-friendliest-fight-we-know/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rico Nasty",
+      "album": "RX",
+      "artistKey": "rico nasty",
+      "albumKey": "rx",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-24",
+          "url": "https://pitchfork.com/reviews/albums/rico-nasty-rx/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yard Act",
+      "album": "You’re Gonna Need a Little Music",
+      "artistKey": "yard act",
+      "albumKey": "youre gonna need a little music",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-24",
+          "url": "https://pitchfork.com/reviews/albums/yard-act-youre-gonna-need-a-little-music/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Dj Cinema Quartier Latin",
       "album": "Bruise",
       "artistKey": "dj cinema quartier latin",
@@ -1268,24 +1297,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Bby Kell",
-      "album": "GIRLY POP",
-      "artistKey": "bby kell",
-      "albumKey": "girly pop",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-16",
-          "url": "https://pitchfork.com/reviews/albums/bby-kell-girly-pop/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Loathe",
       "album": "A Stranger to You",
       "artistKey": "loathe",
@@ -1301,78 +1312,6 @@
       ],
       "editorialWeight": 5,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Future",
-      "album": "The Real Me",
-      "artistKey": "future",
-      "albumKey": "the real me",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-15",
-          "url": "https://pitchfork.com/reviews/albums/future-the-real-me/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "M Geddes Gengras",
-      "album": "Guest List",
-      "artistKey": "m geddes gengras",
-      "albumKey": "guest list",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-15",
-          "url": "https://pitchfork.com/reviews/albums/m-geddes-gengras-guest-list/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Show Me The Body",
-      "album": "Alone Together",
-      "artistKey": "show me the body",
-      "albumKey": "alone together",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-15",
-          "url": "https://pitchfork.com/reviews/albums/show-me-the-body-alone-together/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Xiu Xiu",
-      "album": "Eraserhead Xiu Xiu",
-      "artistKey": "xiu xiu",
-      "albumKey": "eraserhead xiu xiu",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-14",
-          "url": "https://thequietus.com/quietus-reviews/xiu-xiu-eraserhead-xiu-xiu-review/?utm_source=rss&utm_medium=rss&utm_campaign=xiu-xiu-eraserhead-xiu-xiu-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -8846,6 +8785,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Left to Die",
+      "album": "Initium Mortis",
+      "artistKey": "left to die",
+      "albumKey": "initium mortis",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-23",
+          "url": "https://daily.bandcamp.com/album-of-the-day/left-to-die-initium-mortis-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "REZN",
       "album": "Cycles in the Infinite Dream",
       "artistKey": "rezn",
@@ -8862,6 +8819,24 @@
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "Terry Riley, Claire Chase, Jack Quartet, Samuel Clay Birmaher",
+      "album": "The Holy Liftoff",
+      "artistKey": "terry riley claire chase jack quartet samuel clay birmaher",
+      "albumKey": "the holy liftoff",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-07-24",
+          "url": "https://thequietus.com/quietus-reviews/terry-riley-claire-chase-jack-quartet-samuel-clay-birmaher-the-holy-liftoff-review/?utm_source=rss&utm_medium=rss&utm_campaign=terry-riley-claire-chase-jack-quartet-samuel-clay-birmaher-the-holy-liftoff-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Panda Bear and Sonic Boom",
@@ -9080,24 +9055,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "RenzNiro",
-      "album": "No Weapon Shall Prosper",
-      "artistKey": "renzniro",
-      "albumKey": "no weapon shall prosper",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-15",
-          "url": "https://thequietus.com/quietus-reviews/renzniro-no-weapon-shall-prosper-review/?utm_source=rss&utm_medium=rss&utm_campaign=renzniro-no-weapon-shall-prosper-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Quicksand",
       "album": "Bring On The Psychics",
       "artistKey": "quicksand",
@@ -9127,24 +9084,6 @@
           "weight": 4,
           "publishedAt": "2026-07-14",
           "url": "https://daily.bandcamp.com/album-of-the-day/violet-cowboy-ramraid-at-the-wiggly-worm-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "DJ Shadow",
-      "album": "The Mo’ Wax Singles 1993-1997",
-      "artistKey": "dj shadow",
-      "albumKey": "the mo wax singles 1993 1997",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-13",
-          "url": "https://thequietus.com/quietus-reviews/dj-shadow-mo-wax-singles/?utm_source=rss&utm_medium=rss&utm_campaign=dj-shadow-mo-wax-singles"
         }
       ],
       "editorialWeight": 4,
@@ -9217,6 +9156,24 @@
           "weight": 4,
           "publishedAt": "2026-07-08",
           "url": "https://daily.bandcamp.com/album-of-the-day/smirk-speculative-fiction-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "2K88, Lauren Duffus, Rainy Miller & Bianca Scout",
+      "album": "Everything Always Changes, For We’re Truly Here",
+      "artistKey": "2k88 lauren duffus rainy miller and bianca scout",
+      "albumKey": "everything always changes for were truly here",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-07",
+          "url": "https://daily.bandcamp.com/album-of-the-day/2k88-lauren-duffus-rainy-miller-bianca-scout-everything-always-changes-for-were-truly-here-review"
         }
       ],
       "editorialWeight": 4,
@@ -13184,20 +13141,128 @@
       "mentionCount": 1
     },
     {
-      "artist": "Various Artists",
-      "album": "Tectonic Sound",
-      "artistKey": "various artists",
-      "albumKey": "tectonic sound",
+      "artist": "A/S/L",
+      "album": "Burnt Out Disco For Club Rats",
+      "artistKey": "a s l",
+      "albumKey": "burnt out disco for club rats",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-23",
-          "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-tectonic-sound-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Adi Oasis",
+      "album": "Silver Lining (Remixes)",
+      "artistKey": "adi oasis",
+      "albumKey": "silver lining remixes",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Brian Jackson featuring Black Thought",
+      "album": "Now More Than Ever",
+      "artistKey": "brian jackson featuring black thought",
+      "albumKey": "now more than ever",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "New Age Healers",
+      "album": "Blowing Smoke Through The Choir",
+      "artistKey": "new age healers",
+      "albumKey": "blowing smoke through the choir",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nymphlord",
+      "album": "Shedding Velvet",
+      "artistKey": "nymphlord",
+      "albumKey": "shedding velvet",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Champagne Bubblebath",
+      "album": "Mixtape: Volume One",
+      "artistKey": "champagne bubblebath",
+      "albumKey": "mixtape volume one",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Chico Detour",
+      "album": "Wash It Down",
+      "artistKey": "chico detour",
+      "albumKey": "wash it down",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13224,6 +13289,24 @@
       "album": "CHASING LIGHT",
       "artistKey": "moses yoofee trio",
       "albumKey": "chasing light",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sera Cahoone",
+      "album": "Live on KEXP",
+      "artistKey": "sera cahoone",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14300,24 +14383,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Chico Detour",
-      "album": "Wash It Down",
-      "artistKey": "chico detour",
-      "albumKey": "wash it down",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Echo & the Bunnymen",
       "album": "Apples For Isaac",
       "artistKey": "echo and the bunnymen",
@@ -14534,114 +14599,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "¿Dondedos",
-      "album": "¿Dondedos",
-      "artistKey": "dondedos",
-      "albumKey": "dondedos",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Edgar",
-      "album": "Pavor",
-      "artistKey": "edgar",
-      "albumKey": "pavor",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gryph",
-      "album": "Nash Angeles",
-      "artistKey": "gryph",
-      "albumKey": "nash angeles",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Joyce & Tutty Moreno, Adrian Younge",
-      "album": "Joyce e Tutty Moreno JID027",
-      "artistKey": "joyce and tutty moreno adrian younge",
-      "albumKey": "joyce e tutty moreno jid027",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "K Wata",
-      "album": "Give U Space",
-      "artistKey": "k wata",
-      "albumKey": "give u space",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mind Control",
-      "album": "Documents of Different Reality",
-      "artistKey": "mind control",
-      "albumKey": "documents of different reality",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Phoenix",
       "album": "Live on KEXP",
       "artistKey": "phoenix",
@@ -14670,186 +14627,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Satoshi Tomiie",
-      "album": "Thursday, 2AM (Ron Trent Remixes)",
-      "artistKey": "satoshi tomiie",
-      "albumKey": "thursday 2am ron trent remixes",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "System Olympia",
-      "album": "Double Climax",
-      "artistKey": "system olympia",
-      "albumKey": "double climax",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "All Them Witches",
-      "album": "Live on KEXP",
-      "artistKey": "all them witches",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Casimir Liberski ReTrio",
-      "album": "Zelda Suites (The Live Album)",
-      "artistKey": "casimir liberski retrio",
-      "albumKey": "zelda suites the live album",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Faetooth",
-      "album": "Live on KEXP",
-      "artistKey": "faetooth",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jéroboam",
-      "album": "Jéroboam",
-      "artistKey": "jeroboam",
-      "albumKey": "jeroboam",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sam Goku",
-      "album": "Interrelation",
-      "artistKey": "sam goku",
-      "albumKey": "interrelation",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Talking Drums",
-      "album": "Pier Pressure",
-      "artistKey": "talking drums",
-      "albumKey": "pier pressure",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tapper Zukie",
-      "album": "Mr Bongo Record Club Vol. 8",
-      "artistKey": "tapper zukie",
-      "albumKey": "mr bongo record club vol 8",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Turn on the Sunlight / Sam Gendel",
-      "album": "Warm Waves",
-      "artistKey": "turn on the sunlight sam gendel",
-      "albumKey": "warm waves",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-13",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

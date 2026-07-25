@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T10:10:53.791Z",
+  "generatedAt": "2026-07-25T09:40:03.741Z",
   "items": [
     {
       "artist": "Kelela",
@@ -91,31 +91,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Luluc",
-      "album": "Sweet Thief",
-      "artistKey": "luluc",
-      "albumKey": "sweet thief",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-21",
-          "url": "https://daily.bandcamp.com/album-of-the-day/luluc-sweet-thief-review"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-21",
-          "url": "https://pitchfork.com/reviews/albums/luluc-sweet-thief/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 10
-    },
-    {
       "artist": "Lido Pimienta",
       "album": "Caribenya",
       "artistKey": "lido pimienta",
@@ -134,6 +109,31 @@
           "weight": 4,
           "publishedAt": "2026-07-16",
           "url": "https://daily.bandcamp.com/album-of-the-day/lido-pimienta-caribenya-review"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Luluc",
+      "album": "Sweet Thief",
+      "artistKey": "luluc",
+      "albumKey": "sweet thief",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-21",
+          "url": "https://daily.bandcamp.com/album-of-the-day/luluc-sweet-thief-review"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-21",
+          "url": "https://pitchfork.com/reviews/albums/luluc-sweet-thief/"
         }
       ],
       "editorialWeight": 11,
@@ -1290,24 +1290,6 @@
           "weight": 5,
           "publishedAt": "2026-07-17",
           "url": "https://pitchfork.com/reviews/albums/will-sheff-extra-mile/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Loathe",
-      "album": "A Stranger to You",
-      "artistKey": "loathe",
-      "albumKey": "a stranger to you",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-16",
-          "url": "https://pitchfork.com/reviews/albums/loathe-a-stranger-to-you/"
         }
       ],
       "editorialWeight": 5,
@@ -8785,6 +8767,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Curió Curió",
+      "album": "Curió Curió",
+      "artistKey": "curio curio",
+      "albumKey": "curio curio",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/curio-curio-self-titled-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Left to Die",
       "album": "Initium Mortis",
       "artistKey": "left to die",
@@ -8796,24 +8796,6 @@
           "weight": 4,
           "publishedAt": "2026-07-23",
           "url": "https://daily.bandcamp.com/album-of-the-day/left-to-die-initium-mortis-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
-      "artist": "REZN",
-      "album": "Cycles in the Infinite Dream",
-      "artistKey": "rezn",
-      "albumKey": "cycles in the infinite dream",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-22",
-          "url": "https://daily.bandcamp.com/album-of-the-day/rezn-cycles-in-the-infinite-dream-review"
         }
       ],
       "editorialWeight": 4,
@@ -8868,6 +8850,24 @@
           "weight": 4,
           "publishedAt": "2026-07-22",
           "url": "https://thequietus.com/quietus-reviews/kirk-barley-arc-review/?utm_source=rss&utm_medium=rss&utm_campaign=kirk-barley-arc-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "REZN",
+      "album": "Cycles in the Infinite Dream",
+      "artistKey": "rezn",
+      "albumKey": "cycles in the infinite dream",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-22",
+          "url": "https://daily.bandcamp.com/album-of-the-day/rezn-cycles-in-the-infinite-dream-review"
         }
       ],
       "editorialWeight": 4,
@@ -13123,24 +13123,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Les Rallizes Dénudés",
-      "album": "Jittoku ’76",
-      "artistKey": "les rallizes denudes",
-      "albumKey": "jittoku 76",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/les-rallizes-denudes-jittoku-76-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "A/S/L",
       "album": "Burnt Out Disco For Club Rats",
       "artistKey": "a s l",
@@ -13195,6 +13177,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "CFCF",
+      "album": "L.U.V.",
+      "artistKey": "cfcf",
+      "albumKey": "l u v",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dua Saleh",
+      "album": "Of Earth & Wires",
+      "artistKey": "dua saleh",
+      "albumKey": "of earth and wires",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "effe",
+      "album": "See-Through",
+      "artistKey": "effe",
+      "albumKey": "see through",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Haiver",
+      "album": "Crime",
+      "artistKey": "haiver",
+      "albumKey": "crime",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "New Age Healers",
       "album": "Blowing Smoke Through The Choir",
       "artistKey": "new age healers",
@@ -13224,6 +13278,60 @@
           "weight": 3,
           "publishedAt": "2026-07-24",
           "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pit Pony",
+      "album": "Thunder",
+      "artistKey": "pit pony",
+      "albumKey": "thunder",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Weep Wave",
+      "album": "Live on KEXP",
+      "artistKey": "weep wave",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Winn Winn",
+      "album": "give af",
+      "artistKey": "winn winn",
+      "albumKey": "give af",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.indieshuffle.com/winn-winn-give-af/"
         }
       ],
       "editorialWeight": 3,
@@ -14455,114 +14563,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Alela Diane",
-      "album": "Who's Keeping Time?",
-      "artistKey": "alela diane",
-      "albumKey": "whos keeping time",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Angèle, Fcukers, Justice & Fcukers",
-      "album": "What You Want (Fcukers remix)",
-      "artistKey": "angele fcukers justice and fcukers",
-      "albumKey": "what you want fcukers remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gurriers",
-      "album": "Live on KEXP",
-      "artistKey": "gurriers",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Heavy Bloom feat. Jesse Desean & Nodalus",
-      "album": "Back To Us",
-      "artistKey": "heavy bloom feat jesse desean and nodalus",
-      "albumKey": "back to us",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kelley Stoltz",
-      "album": "If You Don't Know Me, Buy Now!",
-      "artistKey": "kelley stoltz",
-      "albumKey": "if you dont know me buy now",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tank and the Bangas",
-      "album": "The Last Balloon",
-      "artistKey": "tank and the bangas",
-      "albumKey": "the last balloon",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Wavves, Say Anything",
       "album": "Cherry Soda",
       "artistKey": "wavves say anything",
@@ -14591,42 +14591,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Phoenix",
-      "album": "Live on KEXP",
-      "artistKey": "phoenix",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Real Estate",
-      "album": "Live on KEXP",
-      "artistKey": "real estate",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-14",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15330,24 +15294,6 @@
           "weight": 3,
           "publishedAt": "2026-02-26",
           "url": "https://www.indieshuffle.com/khruangbin-white-gloves-ii/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "RIO KOSTA",
-      "album": "Unicorn",
-      "artistKey": "rio kosta",
-      "albumKey": "unicorn",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-02-23",
-          "url": "https://www.indieshuffle.com/rio-kosta-unicorn/"
         }
       ],
       "editorialWeight": 3,

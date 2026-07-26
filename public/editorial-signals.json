@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T09:40:03.741Z",
+  "generatedAt": "2026-07-26T09:53:21.487Z",
   "items": [
     {
       "artist": "Kelela",
@@ -401,7 +401,7 @@
           "sourceLabel": "The Quietus",
           "weight": 4,
           "publishedAt": "2026-07-17",
-          "url": "https://thequietus.com/quietus-reviews/brian-ennals-and-blockhead-boatshoes-review/?utm_source=rss&utm_medium=rss&utm_campaign=brian-ennals-and-blockhead-boatshoes-review"
+          "url": "https://thequietus.com/quietus-reviews/brian-ennals-and-blockhead-boatshoes-review/"
         },
         {
           "sourceId": "bandcamp-album-of-the-day",
@@ -1344,24 +1344,6 @@
           "weight": 4,
           "publishedAt": "2026-06-05",
           "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ora Cogan",
-      "album": "Hard Hearted Woman",
-      "artistKey": "ora cogan",
-      "albumKey": "hard hearted woman",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-03-13",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ora-cogan-hard-hearted-woman-review"
         }
       ],
       "editorialWeight": 5,
@@ -8813,7 +8795,7 @@
           "sourceLabel": "The Quietus",
           "weight": 4,
           "publishedAt": "2026-07-24",
-          "url": "https://thequietus.com/quietus-reviews/terry-riley-claire-chase-jack-quartet-samuel-clay-birmaher-the-holy-liftoff-review/?utm_source=rss&utm_medium=rss&utm_campaign=terry-riley-claire-chase-jack-quartet-samuel-clay-birmaher-the-holy-liftoff-review"
+          "url": "https://thequietus.com/quietus-reviews/terry-riley-claire-chase-jack-quartet-samuel-clay-birmaher-the-holy-liftoff-review/"
         }
       ],
       "editorialWeight": 4,
@@ -8831,7 +8813,7 @@
           "sourceLabel": "The Quietus",
           "weight": 4,
           "publishedAt": "2026-07-23",
-          "url": "https://thequietus.com/quietus-reviews/panda-bear-and-sonic-boom-a-of-when-review/?utm_source=rss&utm_medium=rss&utm_campaign=panda-bear-and-sonic-boom-a-of-when-review"
+          "url": "https://thequietus.com/quietus-reviews/panda-bear-and-sonic-boom-a-of-when-review/"
         }
       ],
       "editorialWeight": 4,
@@ -8849,7 +8831,7 @@
           "sourceLabel": "The Quietus",
           "weight": 4,
           "publishedAt": "2026-07-22",
-          "url": "https://thequietus.com/quietus-reviews/kirk-barley-arc-review/?utm_source=rss&utm_medium=rss&utm_campaign=kirk-barley-arc-review"
+          "url": "https://thequietus.com/quietus-reviews/kirk-barley-arc-review/"
         }
       ],
       "editorialWeight": 4,
@@ -8903,7 +8885,7 @@
           "sourceLabel": "The Quietus",
           "weight": 4,
           "publishedAt": "2026-07-21",
-          "url": "https://thequietus.com/quietus-reviews/kate-carr-vertical-london-new-years-day/?utm_source=rss&utm_medium=rss&utm_campaign=kate-carr-vertical-london-new-years-day"
+          "url": "https://thequietus.com/quietus-reviews/kate-carr-vertical-london-new-years-day/"
         }
       ],
       "editorialWeight": 4,
@@ -8957,7 +8939,7 @@
           "sourceLabel": "The Quietus",
           "weight": 4,
           "publishedAt": "2026-07-20",
-          "url": "https://thequietus.com/quietus-reviews/speaker-music-synoptic-audio-review/?utm_source=rss&utm_medium=rss&utm_campaign=speaker-music-synoptic-audio-review"
+          "url": "https://thequietus.com/quietus-reviews/speaker-music-synoptic-audio-review/"
         }
       ],
       "editorialWeight": 4,
@@ -9029,29 +9011,11 @@
           "sourceLabel": "The Quietus",
           "weight": 4,
           "publishedAt": "2026-07-16",
-          "url": "https://thequietus.com/quietus-reviews/conway-savage-too-dark-to-see-solo-and-collaborative-recordings-1992-2010-review/?utm_source=rss&utm_medium=rss&utm_campaign=conway-savage-too-dark-to-see-solo-and-collaborative-recordings-1992-2010-review"
+          "url": "https://thequietus.com/quietus-reviews/conway-savage-too-dark-to-see-solo-and-collaborative-recordings-1992-2010-review/"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ora Cogan",
-      "album": "Live on KEXP",
-      "artistKey": "ora cogan",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -10596,6 +10560,24 @@
           "weight": 4,
           "publishedAt": "2026-03-16",
           "url": "https://daily.bandcamp.com/album-of-the-day/cut-worms-transmitter-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ora Cogan",
+      "album": "Hard Hearted Woman",
+      "artistKey": "ora cogan",
+      "albumKey": "hard hearted woman",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-03-13",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ora-cogan-hard-hearted-woman-review"
         }
       ],
       "editorialWeight": 4,
@@ -13105,20 +13087,74 @@
       "mentionCount": 1
     },
     {
-      "artist": "Stars of the Lid",
-      "album": "Music for Nitrous Oxide (30 Year Anniversary Remastered)",
-      "artistKey": "stars of the lid",
-      "albumKey": "music for nitrous oxide 30 year anniversary remastered",
+      "artist": "Fuming Mouth",
+      "album": "The Ringing Bell",
+      "artistKey": "fuming mouth",
+      "albumKey": "the ringing bell",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-25",
-          "url": "https://daily.bandcamp.com/album-of-the-day/stars-of-the-lid-music-for-nitrous-oxide-30-year-anniversary-remastered-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-26",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Widowspeak",
+      "album": "Roses",
+      "artistKey": "widowspeak",
+      "albumKey": "roses",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Penelope Isles",
+      "album": "3",
+      "artistKey": "penelope isles",
+      "albumKey": "3",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Retro Kid",
+      "album": "Let It Out",
+      "artistKey": "retro kid",
+      "albumKey": "let it out",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-25",
+          "url": "https://www.indieshuffle.com/retro-kid-let-it-out/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -14437,64 +14473,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Balming Tiger",
-      "album": "Gongbu",
-      "artistKey": "balming tiger",
-      "albumKey": "gongbu",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Boards of Canada",
-      "album": "Inferno",
-      "artistKey": "boards of canada",
-      "albumKey": "inferno",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Broken Social Scene",
       "album": "Hug of Thunder",
       "artistKey": "broken social scene",
       "albumKey": "hug of thunder",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Echo & the Bunnymen",
-      "album": "Apples For Isaac",
-      "artistKey": "echo and the bunnymen",
-      "albumKey": "apples for isaac",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14537,60 +14519,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Al-Qasar",
-      "album": "Live on KEXP",
-      "artistKey": "al qasar",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wavves, Say Anything",
-      "album": "Cherry Soda",
-      "artistKey": "wavves say anything",
-      "albumKey": "cherry soda",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Young Fathers",
-      "album": "Cocoa Sugar",
-      "artistKey": "young fathers",
-      "albumKey": "cocoa sugar",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-15",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15276,24 +15204,6 @@
           "weight": 3,
           "publishedAt": "2026-03-05",
           "url": "https://www.indieshuffle.com/jjerome87-x-alt-j-brush-me-like-a-horse/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Khruangbin",
-      "album": "White Gloves ii",
-      "artistKey": "khruangbin",
-      "albumKey": "white gloves ii",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-02-26",
-          "url": "https://www.indieshuffle.com/khruangbin-white-gloves-ii/"
         }
       ],
       "editorialWeight": 3,

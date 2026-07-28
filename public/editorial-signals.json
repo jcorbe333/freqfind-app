@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T11:13:30.234Z",
+  "generatedAt": "2026-07-28T10:28:36.887Z",
   "items": [
     {
       "artist": "Carla dal Forno",
@@ -334,56 +334,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Steve Lacy",
-      "album": "Oh yeah?",
-      "artistKey": "steve lacy",
-      "albumKey": "oh yeah",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-22",
-          "url": "https://pitchfork.com/reviews/albums/steve-lacy-oh-yeah/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "The Garden",
-      "album": "Bootleg",
-      "artistKey": "the garden",
-      "albumKey": "bootleg",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-22",
-          "url": "https://pitchfork.com/reviews/albums/the-garden-bootleg/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Jessie Ware",
       "album": "Superbloom",
       "artistKey": "jessie ware",
@@ -557,6 +507,24 @@
       "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
+    },
+    {
+      "artist": "The Strokes",
+      "album": "Reality Awaits",
+      "artistKey": "the strokes",
+      "albumKey": "reality awaits",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-28",
+          "url": "https://pitchfork.com/reviews/albums/the-strokes-reality-awaits/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Panopticon",
@@ -937,6 +905,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Strokes",
+      "album": "The New Abnormal",
+      "artistKey": "the strokes",
+      "albumKey": "the new abnormal",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Anamanaguchi",
       "album": "[USA]",
       "artistKey": "anamanaguchi",
@@ -1006,6 +992,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ian Sweet",
+      "album": "Shiverstruck",
+      "artistKey": "ian sweet",
+      "albumKey": "shiverstruck",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-28",
+          "url": "https://pitchfork.com/reviews/albums/ian-sweet-shiverstruck/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lumtz",
+      "album": "Tesoros",
+      "artistKey": "lumtz",
+      "albumKey": "tesoros",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-28",
+          "url": "https://pitchfork.com/reviews/albums/lumtz-tesoros/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Syd",
+      "album": "Beard",
+      "artistKey": "syd",
+      "albumKey": "beard",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-28",
+          "url": "https://pitchfork.com/reviews/albums/syd-beard/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1207,6 +1247,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Steve Lacy",
+      "album": "Oh yeah?",
+      "artistKey": "steve lacy",
+      "albumKey": "oh yeah",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-22",
+          "url": "https://pitchfork.com/reviews/albums/steve-lacy-oh-yeah/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Garden",
+      "album": "Bootleg",
+      "artistKey": "the garden",
+      "albumKey": "bootleg",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-22",
+          "url": "https://pitchfork.com/reviews/albums/the-garden-bootleg/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Menzingers",
       "album": "Everything I Ever Saw",
       "artistKey": "the menzingers",
@@ -1290,78 +1366,6 @@
           "weight": 5,
           "publishedAt": "2026-07-20",
           "url": "https://pitchfork.com/reviews/albums/evil-graham-lee-i-think-im-alone-now/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Helado Negro Reyna Tropical",
-      "album": "Helado Tropical",
-      "artistKey": "helado negro reyna tropical",
-      "albumKey": "helado tropical",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-20",
-          "url": "https://pitchfork.com/reviews/albums/helado-negro-reyna-tropical-helado-tropical/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Opeth",
-      "album": "Damnation",
-      "artistKey": "opeth",
-      "albumKey": "damnation",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-19",
-          "url": "https://pitchfork.com/reviews/albums/opeth-damnation/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Four Tet Wingdings 2026",
-      "album": "ʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌ ҉ ͡ ͞ ͞ ͞ ҉● ࿀ ● ࿀ ● ҉⃝ ⃝͢ ͞ ͘ ͞⃝̕ ͢ ̛ ⃝ ̸ ̡ ͢⃝̧ ͡ ͡ ̀ ̧ ̢⃝͜ ҉ ͞ ͞ ⃝͞ ͘ ͞ ͡⃝ ⃝҉҈҉҈҉҈҉҈҉҈҉ :̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗̊( ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ l̡̡̡ ̡͌ Ɵʅ͡͡͡͡͡͡͡͡͡͡͡(̸",
-      "artistKey": "four tet wingdings 2026",
-      "albumKey": "l",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-18",
-          "url": "https://pitchfork.com/reviews/albums/four-tet-wingdings-2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gracie Abrams",
-      "album": "Daughter From Hell",
-      "artistKey": "gracie abrams",
-      "albumKey": "daughter from hell",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-17",
-          "url": "https://pitchfork.com/reviews/albums/gracie-abrams-daughter-from-hell/"
         }
       ],
       "editorialWeight": 5,
@@ -1715,6 +1719,24 @@
       "album": "you seem pretty sad for a girl so in love",
       "artistKey": "olivia rodrigo",
       "albumKey": "you seem pretty sad for a girl so in love",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "slayr",
+      "album": "AVANT NOVA (EP)",
+      "artistKey": "slayr",
+      "albumKey": "avant nova ep",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -7921,24 +7943,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Strokes",
-      "album": "The New Abnormal",
-      "artistKey": "the strokes",
-      "albumKey": "the new abnormal",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Tkay Maidza",
       "album": "Last Year Was Weird Vol. 2",
       "artistKey": "tkay maidza",
@@ -8785,6 +8789,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Black Drumset",
+      "album": "Friends In Dark Places",
+      "artistKey": "the black drumset",
+      "albumKey": "friends in dark places",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-27",
+          "url": "https://daily.bandcamp.com/album-of-the-day/the-black-drumset-friends-in-dark-places-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Curió Curió",
       "album": "Curió Curió",
       "artistKey": "curio curio",
@@ -8819,6 +8841,24 @@
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "Quiet Husband",
+      "album": "The Architecture of Perception",
+      "artistKey": "quiet husband",
+      "albumKey": "the architecture of perception",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-07-28",
+          "url": "https://thequietus.com/quietus-reviews/quiet-husband-the-architecture-of-perception-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Terry Riley, Claire Chase, Jack Quartet, Samuel Clay Birmaher",
@@ -13069,6 +13109,204 @@
       "mentionCount": 1
     },
     {
+      "artist": "Balming Tiger",
+      "album": "Oui",
+      "artistKey": "balming tiger",
+      "albumKey": "oui",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.indieshuffle.com/balming-tiger-oui/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "CFCF feat. nuum & Seren Forever",
+      "album": "L.U.V.",
+      "artistKey": "cfcf feat nuum and seren forever",
+      "albumKey": "l u v",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ela Stiles",
+      "album": "Rassberry",
+      "artistKey": "ela stiles",
+      "albumKey": "rassberry",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Emily A. Sprague",
+      "album": "Cyano",
+      "artistKey": "emily a sprague",
+      "albumKey": "cyano",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Flocks",
+      "album": "Lagoon",
+      "artistKey": "flocks",
+      "albumKey": "lagoon",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Holo",
+      "album": "Thunder EP",
+      "artistKey": "holo",
+      "albumKey": "thunder ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "ifax!",
+      "album": "Zoomie Earth",
+      "artistKey": "ifax",
+      "albumKey": "zoomie earth",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shiho Yabuki",
+      "album": "Alpha Wave Music",
+      "artistKey": "shiho yabuki",
+      "albumKey": "alpha wave music",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sobolik",
+      "album": "Final Drive",
+      "artistKey": "sobolik",
+      "albumKey": "final drive",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sofie Birch",
+      "album": "Bivabippabualukka",
+      "artistKey": "sofie birch",
+      "albumKey": "bivabippabualukka",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tomo Katsurada & Jonny Nash",
+      "album": "At the Emerald Pool",
+      "artistKey": "tomo katsurada and jonny nash",
+      "albumKey": "at the emerald pool",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Breaka",
       "album": "Mangled Reworks",
       "artistKey": "breaka",
@@ -13091,6 +13329,60 @@
       "album": "Tender Rain",
       "artistKey": "ghia",
       "albumKey": "tender rain",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Maria Minerva",
+      "album": "Contact High",
+      "artistKey": "maria minerva",
+      "albumKey": "contact high",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Russian Blue",
+      "album": "Live on KEXP",
+      "artistKey": "russian blue",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Moondoggies",
+      "album": "Moondoggies",
+      "artistKey": "the moondoggies",
+      "albumKey": "moondoggies",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13447,24 +13739,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "tWinn Winn",
-      "album": "give af",
-      "artistKey": "twinn winn",
-      "albumKey": "give af",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-07-24",
-          "url": "https://www.indieshuffle.com/winn-winn-give-af/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Weep Wave",
       "album": "Live on KEXP",
       "artistKey": "weep wave",
@@ -13476,6 +13750,24 @@
           "weight": 3,
           "publishedAt": "2026-07-24",
           "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Winn Winn",
+      "album": "give af",
+      "artistKey": "winn winn",
+      "albumKey": "give af",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.indieshuffle.com/winn-winn-give-af/"
         }
       ],
       "editorialWeight": 3,
@@ -14311,42 +14603,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Daisy*",
-      "album": "Melody",
-      "artistKey": "daisy",
-      "albumKey": "melody",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Just Mustard",
-      "album": "Live on KEXP",
-      "artistKey": "just mustard",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Litronix",
       "album": "Live on KEXP",
       "artistKey": "litronix",
@@ -14357,78 +14613,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dry Cleaning",
-      "album": "Live on KEXP",
-      "artistKey": "dry cleaning",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kevin Morby",
-      "album": "Live on KEXP",
-      "artistKey": "kevin morby",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Steve Lacy feat. Erykah Badu",
-      "album": "Oh yeah?",
-      "artistKey": "steve lacy feat erykah badu",
-      "albumKey": "oh yeah",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Moondoggies",
-      "album": "Moondoggies",
-      "artistKey": "the moondoggies",
-      "albumKey": "moondoggies",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-17",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

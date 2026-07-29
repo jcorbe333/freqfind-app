@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T10:28:36.887Z",
+  "generatedAt": "2026-07-29T10:32:48.515Z",
   "items": [
     {
       "artist": "Carla dal Forno",
@@ -34,29 +34,29 @@
       "mentionCount": 3
     },
     {
-      "artist": "Nia Archives",
-      "album": "Emotional Junglist",
-      "artistKey": "nia archives",
-      "albumKey": "emotional junglist",
+      "artist": "Nu Jazz",
+      "album": "Un Jazz",
+      "artistKey": "nu jazz",
+      "albumKey": "un jazz",
       "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-28",
+          "url": "https://daily.bandcamp.com/album-of-the-day/nu-jazz-un-jazz"
+        },
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-07-20",
-          "url": "https://pitchfork.com/reviews/albums/nia-archives-emotional-junglist/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
+          "publishedAt": "2026-07-23",
+          "url": "https://pitchfork.com/reviews/albums/nu-jazz-un-jazz/"
         }
       ],
-      "editorialWeight": 12,
+      "editorialWeight": 11,
       "multiSourceBonus": 2,
-      "mentionCount": 2
+      "mentionCount": 10
     },
     {
       "artist": "foodman",
@@ -102,31 +102,6 @@
           "weight": 4,
           "publishedAt": "2026-07-16",
           "url": "https://daily.bandcamp.com/album-of-the-day/lido-pimienta-caribenya-review"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Luluc",
-      "album": "Sweet Thief",
-      "artistKey": "luluc",
-      "albumKey": "sweet thief",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-21",
-          "url": "https://daily.bandcamp.com/album-of-the-day/luluc-sweet-thief-review"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-21",
-          "url": "https://pitchfork.com/reviews/albums/luluc-sweet-thief/"
         }
       ],
       "editorialWeight": 11,
@@ -259,31 +234,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Hannah Frances",
-      "album": "Nested in Tangles",
-      "artistKey": "hannah frances",
-      "albumKey": "nested in tangles",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-10-07",
-          "url": "https://stereogum.com/2325276/album-of-the-week-hannah-frances-nested-in-tangles/reviews/album-of-the-week/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Snõõper",
       "album": "Worldwide",
       "artistKey": "snooper",
@@ -318,7 +268,7 @@
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-07-24",
+          "publishedAt": "2026-07-28",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -352,31 +302,6 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Brian Ennals & Blockhead",
-      "album": "Boatshoes",
-      "artistKey": "brian ennals and blockhead",
-      "albumKey": "boatshoes",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-17",
-          "url": "https://thequietus.com/quietus-reviews/brian-ennals-and-blockhead-boatshoes-review/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-15",
-          "url": "https://daily.bandcamp.com/album-of-the-day/brian-ennals-blockhead-boatshoes-review"
         }
       ],
       "editorialWeight": 10,
@@ -995,6 +920,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Debasement",
+      "album": "HARDBODY",
+      "artistKey": "debasement",
+      "albumKey": "hardbody",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-29",
+          "url": "https://pitchfork.com/reviews/albums/debasement-hardbody/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fox Bd",
+      "album": "Finessin Distribution Deals",
+      "artistKey": "fox bd",
+      "albumKey": "finessin distribution deals",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-29",
+          "url": "https://pitchfork.com/reviews/albums/fox-bd-finessin-distribution-deals/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shannon Lay",
+      "album": "Past the Veil",
+      "artistKey": "shannon lay",
+      "albumKey": "past the veil",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-29",
+          "url": "https://pitchfork.com/reviews/albums/shannon-lay-past-the-veil/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Zayallcaps My Uncle Told Me Some Real Ass Shit On The Phone Yesterday",
+      "album": "My Uncle Told Me Some Real Ass Sh*t on the Phone Yesterday",
+      "artistKey": "zayallcaps my uncle told me some real ass shit on the phone yesterday",
+      "albumKey": "my uncle told me some real ass sh t on the phone yesterday",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-29",
+          "url": "https://pitchfork.com/reviews/albums/zayallcaps-my-uncle-told-me-some-real-ass-shit-on-the-phone-yesterday/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Ian Sweet",
       "album": "Shiverstruck",
       "artistKey": "ian sweet",
@@ -1193,24 +1190,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Nu Jazz",
-      "album": "Un Jazz",
-      "artistKey": "nu jazz",
-      "albumKey": "un jazz",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-23",
-          "url": "https://pitchfork.com/reviews/albums/nu-jazz-un-jazz/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Rick Ross",
       "album": "Set in Stone",
       "artistKey": "rick ross",
@@ -1330,42 +1309,6 @@
           "weight": 5,
           "publishedAt": "2026-07-21",
           "url": "https://pitchfork.com/reviews/albums/tricky-different-when-its-silent/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Eartheater",
-      "album": "Heavenly Body: If I’m the Bottle You’re the Message",
-      "artistKey": "eartheater",
-      "albumKey": "heavenly body if im the bottle youre the message",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-20",
-          "url": "https://pitchfork.com/reviews/albums/eartheater-heavenly-body-if-im-the-bottle-youre-the-message/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Evil Graham Lee",
-      "album": "I Think I’m Alone Now",
-      "artistKey": "evil graham lee",
-      "albumKey": "i think im alone now",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-20",
-          "url": "https://pitchfork.com/reviews/albums/evil-graham-lee-i-think-im-alone-now/"
         }
       ],
       "editorialWeight": 5,
@@ -1701,6 +1644,24 @@
       "album": "An Undying Love for a Burning World",
       "artistKey": "neurosis",
       "albumKey": "an undying love for a burning world",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nia Archives",
+      "album": "Emotional Junglist",
+      "artistKey": "nia archives",
+      "albumKey": "emotional junglist",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -2331,6 +2292,24 @@
       "album": "You're Weird Now",
       "artistKey": "guerilla toss",
       "albumKey": "youre weird now",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hannah Frances",
+      "album": "Nested in Tangles",
+      "artistKey": "hannah frances",
+      "albumKey": "nested in tangles",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8825,22 +8804,40 @@
       "mentionCount": 9
     },
     {
-      "artist": "Left to Die",
-      "album": "Initium Mortis",
-      "artistKey": "left to die",
-      "albumKey": "initium mortis",
+      "artist": "Tyla",
+      "album": "A*Pop",
+      "artistKey": "tyla",
+      "albumKey": "a pop",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-07-23",
-          "url": "https://daily.bandcamp.com/album-of-the-day/left-to-die-initium-mortis-review"
+          "publishedAt": "2026-07-29",
+          "url": "https://thequietus.com/quietus-reviews/tyla-apop-review/"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mallory Hawk",
+      "album": "Chinook",
+      "artistKey": "mallory hawk",
+      "albumKey": "chinook",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-07-28",
+          "url": "https://stereogum.com/2506443/album-of-the-week-mallory-hawk-chinook/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Quiet Husband",
@@ -8861,6 +8858,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Terror/Cactus",
+      "album": "Colapso",
+      "artistKey": "terror cactus",
+      "albumKey": "colapso",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Terry Riley, Claire Chase, Jack Quartet, Samuel Clay Birmaher",
       "album": "The Holy Liftoff",
       "artistKey": "terry riley claire chase jack quartet samuel clay birmaher",
@@ -8872,6 +8887,24 @@
           "weight": 4,
           "publishedAt": "2026-07-24",
           "url": "https://thequietus.com/quietus-reviews/terry-riley-claire-chase-jack-quartet-samuel-clay-birmaher-the-holy-liftoff-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Left to Die",
+      "album": "Initium Mortis",
+      "artistKey": "left to die",
+      "albumKey": "initium mortis",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-23",
+          "url": "https://daily.bandcamp.com/album-of-the-day/left-to-die-initium-mortis-review"
         }
       ],
       "editorialWeight": 4,
@@ -8969,6 +9002,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Luluc",
+      "album": "Sweet Thief",
+      "artistKey": "luluc",
+      "albumKey": "sweet thief",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-21",
+          "url": "https://daily.bandcamp.com/album-of-the-day/luluc-sweet-thief-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Nick Hakim",
       "album": "I Can See",
       "artistKey": "nick hakim",
@@ -8980,24 +9031,6 @@
           "weight": 4,
           "publishedAt": "2026-07-21",
           "url": "https://stereogum.com/2505329/album-of-the-week-nick-hakim-i-can-see/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Speaker Music",
-      "album": "Synoptic Audio",
-      "artistKey": "speaker music",
-      "albumKey": "synoptic audio",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-20",
-          "url": "https://thequietus.com/quietus-reviews/speaker-music-synoptic-audio-review/"
         }
       ],
       "editorialWeight": 4,
@@ -9034,6 +9067,24 @@
           "weight": 4,
           "publishedAt": "2026-07-17",
           "url": "https://daily.bandcamp.com/album-of-the-day/chuck-strangers-glory-of-the-kings-hand-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Brian Ennals & Blockhead",
+      "album": "Boatshoes",
+      "artistKey": "brian ennals and blockhead",
+      "albumKey": "boatshoes",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-15",
+          "url": "https://daily.bandcamp.com/album-of-the-day/brian-ennals-blockhead-boatshoes-review"
         }
       ],
       "editorialWeight": 4,
@@ -10064,6 +10115,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Terror/Cactus",
+      "album": "Transmisión Clandestina",
+      "artistKey": "terror cactus",
+      "albumKey": "transmision clandestina",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-04-27",
+          "url": "https://www.indieshuffle.com/terror-cactus-transmisi-n-clandestina/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13091,20 +13160,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "Fortunato Durutti Marinetti",
-      "album": "Bitter Sweet, Sweet Bitter",
-      "artistKey": "fortunato durutti marinetti",
-      "albumKey": "bitter sweet sweet bitter",
+      "artist": "Latroit House Ensemble",
+      "album": "Beautiful People",
+      "artistKey": "latroit house ensemble",
+      "albumKey": "beautiful people",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-07-28",
-          "url": "https://daily.bandcamp.com/album-of-the-day/fortunato-durutti-marinetti-bitter-sweet-sweet-bitter-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-29",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lucha Luna",
+      "album": "Ritmo Eterno (Maga Bo Remix)",
+      "artistKey": "lucha luna",
+      "albumKey": "ritmo eterno maga bo remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Public Enemy, Austin Millz & Nico de Andrea",
+      "album": "Bring The Noise 2026",
+      "artistKey": "public enemy austin millz and nico de andrea",
+      "albumKey": "bring the noise 2026",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13235,6 +13340,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Lala Lala",
+      "album": "Heaven 2",
+      "artistKey": "lala lala",
+      "albumKey": "heaven 2",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lykke Li",
+      "album": "Sick of Love (Mura Masa remix)",
+      "artistKey": "lykke li",
+      "albumKey": "sick of love mura masa remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Meduulla, Ethan Hill, Rozzzqween",
+      "album": "Melanin Monroe",
+      "artistKey": "meduulla ethan hill rozzzqween",
+      "albumKey": "melanin monroe",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Shiho Yabuki",
       "album": "Alpha Wave Music",
       "artistKey": "shiho yabuki",
@@ -13293,6 +13452,24 @@
       "album": "At the Emerald Pool",
       "artistKey": "tomo katsurada and jonny nash",
       "albumKey": "at the emerald pool",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "U2",
+      "album": "Street of Dreams",
+      "artistKey": "u2",
+      "albumKey": "street of dreams",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13973,24 +14150,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Doc Rhombus",
-      "album": "Shaken Up",
-      "artistKey": "doc rhombus",
-      "albumKey": "shaken up",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-07-22",
-          "url": "https://www.indieshuffle.com/doc-rhombus-shaken-up/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Genesis Owusu & Ladyhawke",
       "album": "Redstar Wu & The Worldwide Scourge",
       "artistKey": "genesis owusu and ladyhawke",
@@ -14567,60 +14726,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "U-Men",
-      "album": "U-Men",
-      "artistKey": "u men",
-      "albumKey": "u men",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wimps",
-      "album": "Garbage People",
-      "artistKey": "wimps",
-      "albumKey": "garbage people",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Litronix",
-      "album": "Live on KEXP",
-      "artistKey": "litronix",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "JJerome87",
       "album": "Track and Field",
       "artistKey": "jjerome87",
@@ -15028,24 +15133,6 @@
           "weight": 3,
           "publishedAt": "2026-04-29",
           "url": "https://www.indieshuffle.com/lullabies-left-in-the-dust/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Terror/Cactus",
-      "album": "Transmisión Clandestina",
-      "artistKey": "terror cactus",
-      "albumKey": "transmision clandestina",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-04-27",
-          "url": "https://www.indieshuffle.com/terror-cactus-transmisi-n-clandestina/"
         }
       ],
       "editorialWeight": 3,

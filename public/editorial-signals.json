@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T09:52:21.253Z",
+  "generatedAt": "2026-08-02T09:50:48.249Z",
   "items": [
     {
       "artist": "leo",
@@ -120,6 +120,31 @@
           "weight": 5,
           "publishedAt": "2026-07-23",
           "url": "https://pitchfork.com/reviews/albums/nu-jazz-un-jazz/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Charli xcx",
+      "album": "Music, Fashion, Film",
+      "artistKey": "charli xcx",
+      "albumKey": "music fashion film",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-07-27",
+          "url": "https://thequietus.com/quietus-reviews/charli-xcx-music-fashion-film-review/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 11,
@@ -884,6 +909,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Primus",
+      "album": "Pork Soda",
+      "artistKey": "primus",
+      "albumKey": "pork soda",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-02",
+          "url": "https://pitchfork.com/reviews/albums/primus-pork-soda/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Ween",
       "album": "12 Golden Country Greats (Deluxe Edition)",
       "artistKey": "ween",
@@ -1082,24 +1125,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Charli XCX",
-      "album": "Music, Fashion, Film",
-      "artistKey": "charli xcx",
-      "albumKey": "music fashion film",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-27",
-          "url": "https://thequietus.com/quietus-reviews/charli-xcx-music-fashion-film-review/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Dux Content",
       "album": "Lifestyle",
       "artistKey": "dux content",
@@ -1219,24 +1244,6 @@
           "weight": 5,
           "publishedAt": "2026-07-23",
           "url": "https://pitchfork.com/reviews/albums/rick-ross-set-in-stone/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Swapmeet",
-      "album": "Mount Zero",
-      "artistKey": "swapmeet",
-      "albumKey": "mount zero",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-23",
-          "url": "https://pitchfork.com/reviews/albums/swapmeet-mount-zero/"
         }
       ],
       "editorialWeight": 5,
@@ -9002,24 +9009,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Snõõper",
-      "album": "Live on KEXP",
-      "artistKey": "snooper",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Luluc",
       "album": "Sweet Thief",
       "artistKey": "luluc",
@@ -13070,20 +13059,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "𝘮𝘦𝘵𝘳𝘢.𝘷𝘦𝘴𝘵𝘭𝘶𝘥",
-      "album": "Ashes That Made The Shape Of My Dreams",
-      "artistKey": "metra vestlud",
-      "albumKey": "ashes that made the shape of my dreams",
+      "artist": "The Grizzled Mighty",
+      "album": "Confetti Teeth",
+      "artistKey": "the grizzled mighty",
+      "albumKey": "confetti teeth",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-01",
-          "url": "https://daily.bandcamp.com/album-of-the-day/metra-vestlud-ashes-that-made-the-shape-of-my-dreams-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-02",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Warning",
+      "album": "Rituals of Shame",
+      "artistKey": "warning",
+      "albumKey": "rituals of shame",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "beabadoobee feat. PinkPantheress",
+      "album": "Beatopia",
+      "artistKey": "beabadoobee feat pinkpantheress",
+      "albumKey": "beatopia",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13092,6 +13117,60 @@
       "album": "Redstar Wu & The Worldwide Scourge",
       "artistKey": "genesis owusu and ladyhawke",
       "albumKey": "redstar wu and the worldwide scourge",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jalen Ngonda",
+      "album": "Doctrine of Love",
+      "artistKey": "jalen ngonda",
+      "albumKey": "doctrine of love",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jamie She",
+      "album": "Funeral Songs",
+      "artistKey": "jamie she",
+      "albumKey": "funeral songs",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Peeled",
+      "album": "World of Choices",
+      "artistKey": "peeled",
+      "albumKey": "world of choices",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14240,42 +14319,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Jill Scott feat. Tierra Whack",
-      "album": "To Whom This May Concern",
-      "artistKey": "jill scott feat tierra whack",
-      "albumKey": "to whom this may concern",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Moses Yoofee Trio",
-      "album": "CHASING LIGHT",
-      "artistKey": "moses yoofee trio",
-      "albumKey": "chasing light",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Sera Cahoone",
       "album": "Live on KEXP",
       "artistKey": "sera cahoone",
@@ -14286,96 +14329,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Al‐Qasar & Sibel",
-      "album": "Live on KEXP",
-      "artistKey": "al qasar and sibel",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bob Mould",
-      "album": "Live on KEXP",
-      "artistKey": "bob mould",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Boy Deluxe",
-      "album": "Trespasser",
-      "artistKey": "boy deluxe",
-      "albumKey": "trespasser",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Boy Harsher",
-      "album": "GET MEAN",
-      "artistKey": "boy harsher",
-      "albumKey": "get mean",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "DJ Seinfeld feat. Dan Whitlam",
-      "album": "If This Is It",
-      "artistKey": "dj seinfeld feat dan whitlam",
-      "albumKey": "if this is it",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-22",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14395,78 +14348,6 @@
           "weight": 3,
           "publishedAt": "2026-07-22",
           "url": "https://www.indieshuffle.com/doc-rhombus-shaken-up/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Geowulf",
-      "album": "Great Big Blue",
-      "artistKey": "geowulf",
-      "albumKey": "great big blue",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jon Hopkins & Imogen Heap",
-      "album": "Reckoning",
-      "artistKey": "jon hopkins and imogen heap",
-      "albumKey": "reckoning",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Messa",
-      "album": "At Races",
-      "artistKey": "messa",
-      "albumKey": "at races",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Night Tapes",
-      "album": "storm (Jasper Tygner Remix)",
-      "artistKey": "night tapes",
-      "albumKey": "storm jasper tygner remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-22",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

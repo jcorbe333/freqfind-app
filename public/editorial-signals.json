@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T09:50:48.249Z",
+  "generatedAt": "2026-08-03T11:15:53.293Z",
   "items": [
     {
       "artist": "leo",
@@ -95,31 +95,6 @@
           "weight": 4,
           "publishedAt": "2026-07-21",
           "url": "https://stereogum.com/2505329/album-of-the-week-nick-hakim-i-can-see/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Nu Jazz",
-      "album": "Un Jazz",
-      "artistKey": "nu jazz",
-      "albumKey": "un jazz",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-28",
-          "url": "https://daily.bandcamp.com/album-of-the-day/nu-jazz-un-jazz"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-23",
-          "url": "https://pitchfork.com/reviews/albums/nu-jazz-un-jazz/"
         }
       ],
       "editorialWeight": 11,
@@ -477,6 +452,24 @@
       "mentionCount": 2
     },
     {
+      "artist": "Cheekface",
+      "album": "Podium",
+      "artistKey": "cheekface",
+      "albumKey": "podium",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-03",
+          "url": "https://pitchfork.com/reviews/albums/cheekface-podium/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Ariana Grande",
       "album": "petal",
       "artistKey": "ariana grande",
@@ -553,6 +546,24 @@
       "album": "BRAT",
       "artistKey": "charli xcx",
       "albumKey": "brat",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cheekface",
+      "album": "It’s Sorted",
+      "artistKey": "cheekface",
+      "albumKey": "its sorted",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -650,6 +661,24 @@
           "weight": 5,
           "publishedAt": "2023-01-01",
           "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cheekface",
+      "album": "Too Much to Ask",
+      "artistKey": "cheekface",
+      "albumKey": "too much to ask",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
         }
       ],
       "editorialWeight": 6,
@@ -906,6 +935,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Domi And Jd Beck",
+      "album": "WHO ASKED?",
+      "artistKey": "domi and jd beck",
+      "albumKey": "who asked",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-03",
+          "url": "https://pitchfork.com/reviews/albums/domi-and-jd-beck-who-asked/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Omari Lyseight",
+      "album": "Digital",
+      "artistKey": "omari lyseight",
+      "albumKey": "digital",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-03",
+          "url": "https://pitchfork.com/reviews/albums/omari-lyseight-digital/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sophie Hunter",
+      "album": "Stereoscope",
+      "artistKey": "sophie hunter",
+      "albumKey": "stereoscope",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-03",
+          "url": "https://pitchfork.com/reviews/albums/sophie-hunter-stereoscope/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1179,24 +1262,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Oen Sujet",
-      "album": "The Friendliest Fight We Know",
-      "artistKey": "oen sujet",
-      "albumKey": "the friendliest fight we know",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-24",
-          "url": "https://pitchfork.com/reviews/albums/oen-sujet-the-friendliest-fight-we-know/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Rico Nasty",
       "album": "RX",
       "artistKey": "rico nasty",
@@ -1208,42 +1273,6 @@
           "weight": 5,
           "publishedAt": "2026-07-24",
           "url": "https://pitchfork.com/reviews/albums/rico-nasty-rx/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Yard Act",
-      "album": "You’re Gonna Need a Little Music",
-      "artistKey": "yard act",
-      "albumKey": "youre gonna need a little music",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-24",
-          "url": "https://pitchfork.com/reviews/albums/yard-act-youre-gonna-need-a-little-music/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rick Ross",
-      "album": "Set in Stone",
-      "artistKey": "rick ross",
-      "albumKey": "set in stone",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-23",
-          "url": "https://pitchfork.com/reviews/albums/rick-ross-set-in-stone/"
         }
       ],
       "editorialWeight": 5,
@@ -3109,24 +3138,6 @@
       "album": "Cool World",
       "artistKey": "chat pile",
       "albumKey": "cool world",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cheekface",
-      "album": "It’s Sorted",
-      "artistKey": "cheekface",
-      "albumKey": "its sorted",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -5395,24 +5406,6 @@
       "album": "God’s Country",
       "artistKey": "chat pile",
       "albumKey": "gods country",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cheekface",
-      "album": "Too Much to Ask",
-      "artistKey": "cheekface",
-      "albumKey": "too much to ask",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8829,6 +8822,42 @@
       "mentionCount": 9
     },
     {
+      "artist": "Highsigh",
+      "album": "Once Bend",
+      "artistKey": "highsigh",
+      "albumKey": "once bend",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-03",
+          "url": "https://thequietus.com/quietus-reviews/highsigh-once-bend-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Asal",
+      "album": "Kiss the Sun",
+      "artistKey": "asal",
+      "albumKey": "kiss the sun",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "2K88 & Lauren Duffus & Rainy Miller & Bianca Scout",
       "album": "Everything Always Changes, For We’re Truly Here",
       "artistKey": "2k88 and lauren duffus and rainy miller and bianca scout",
@@ -8876,6 +8905,24 @@
           "weight": 4,
           "publishedAt": "2026-07-28",
           "url": "https://stereogum.com/2506443/album-of-the-week-mallory-hawk-chinook/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nu Jazz",
+      "album": "Un Jazz",
+      "artistKey": "nu jazz",
+      "albumKey": "un jazz",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-28",
+          "url": "https://daily.bandcamp.com/album-of-the-day/nu-jazz-un-jazz"
         }
       ],
       "editorialWeight": 4,
@@ -9564,6 +9611,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Asal",
+      "album": "Tolerance",
+      "artistKey": "asal",
+      "albumKey": "tolerance",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-06-05",
+          "url": "https://www.indieshuffle.com/asal-tolerance/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13059,6 +13124,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Georgie Sweet",
+      "album": "I Swear To You: The Remixes",
+      "artistKey": "georgie sweet",
+      "albumKey": "i swear to you the remixes",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Bb trickz",
+      "album": "sugarhiii",
+      "artistKey": "bb trickz",
+      "albumKey": "sugarhiii",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Public Enemy, Austin Millz & Nico de Andrea",
+      "album": "Bring The Noise 2026",
+      "artistKey": "public enemy austin millz and nico de andrea",
+      "albumKey": "bring the noise 2026",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Telehealth",
+      "album": "Green World Image",
+      "artistKey": "telehealth",
+      "albumKey": "green world image",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Grizzled Mighty",
       "album": "Confetti Teeth",
       "artistKey": "the grizzled mighty",
@@ -13077,10 +13214,46 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Healing Power Of Horses",
+      "album": "Summer Indoors (or outside wearing black)",
+      "artistKey": "the healing power of horses",
+      "albumKey": "summer indoors or outside wearing black",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Warning",
       "album": "Rituals of Shame",
       "artistKey": "warning",
       "albumKey": "rituals of shame",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wednesday",
+      "album": "Live on KEXP",
+      "artistKey": "wednesday",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13567,24 +13740,6 @@
       "album": "Live on KEXP",
       "artistKey": "primitive ring",
       "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Public Enemy, Austin Millz & Nico de Andrea",
-      "album": "Bring The Noise 2026",
-      "artistKey": "public enemy austin millz and nico de andrea",
-      "albumKey": "bring the noise 2026",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14157,100 +14312,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "A/S/L",
-      "album": "Burnt Out Disco For Club Rats",
-      "artistKey": "a s l",
-      "albumKey": "burnt out disco for club rats",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Adi Oasis",
-      "album": "Silver Lining (Remixes)",
-      "artistKey": "adi oasis",
-      "albumKey": "silver lining remixes",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Brian Jackson featuring Black Thought",
-      "album": "Now More Than Ever",
-      "artistKey": "brian jackson featuring black thought",
-      "albumKey": "now more than ever",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "effe",
-      "album": "See-Through",
-      "artistKey": "effe",
-      "albumKey": "see through",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Haiver",
       "album": "Crime",
       "artistKey": "haiver",
       "albumKey": "crime",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nymphlord",
-      "album": "Shedding Velvet",
-      "artistKey": "nymphlord",
-      "albumKey": "shedding velvet",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14312,24 +14377,6 @@
           "weight": 3,
           "publishedAt": "2026-07-24",
           "url": "https://www.indieshuffle.com/winn-winn-give-af/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sera Cahoone",
-      "album": "Live on KEXP",
-      "artistKey": "sera cahoone",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-23",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -14474,24 +14521,6 @@
           "weight": 3,
           "publishedAt": "2026-06-09",
           "url": "https://www.indieshuffle.com/tyler-ballgame-for-the-first-time-again/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Asal",
-      "album": "Tolerance",
-      "artistKey": "asal",
-      "albumKey": "tolerance",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-06-05",
-          "url": "https://www.indieshuffle.com/asal-tolerance/"
         }
       ],
       "editorialWeight": 3,

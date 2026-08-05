@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T10:30:27.992Z",
+  "generatedAt": "2026-08-05T10:28:26.561Z",
   "items": [
     {
       "artist": "The Durutti Column",
@@ -120,31 +120,6 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "foodman",
-      "album": "HIKARIGASASHIKOMU",
-      "artistKey": "foodman",
-      "albumKey": "hikarigasashikomu",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-27",
-          "url": "https://pitchfork.com/reviews/albums/foodman-hikarigasashikomu/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-20",
-          "url": "https://daily.bandcamp.com/album-of-the-day/foodman-hikarigasashikomu-review"
         }
       ],
       "editorialWeight": 11,
@@ -302,6 +277,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Cheekface",
+      "album": "Podium",
+      "artistKey": "cheekface",
+      "albumKey": "podium",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-04",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-03",
+          "url": "https://pitchfork.com/reviews/albums/cheekface-podium/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Genesis Owusu",
       "album": "Redstar Wu & the Worldwide Scourge",
       "artistKey": "genesis owusu",
@@ -452,6 +452,24 @@
       "mentionCount": 2
     },
     {
+      "artist": "Trashcan Sinatras",
+      "album": "Ever the Optimist",
+      "artistKey": "trashcan sinatras",
+      "albumKey": "ever the optimist",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-05",
+          "url": "https://pitchfork.com/reviews/albums/trashcan-sinatras-ever-the-optimist/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Arca",
       "album": "XXXXX",
       "artistKey": "arca",
@@ -481,24 +499,6 @@
           "weight": 5,
           "publishedAt": "2026-08-04",
           "url": "https://pitchfork.com/reviews/albums/portraits-of-tracy-q-from-where-do-our-primal-instincts-originate-a-mtv-ep/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cheekface",
-      "album": "Podium",
-      "artistKey": "cheekface",
-      "albumKey": "podium",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-03",
-          "url": "https://pitchfork.com/reviews/albums/cheekface-podium/"
         }
       ],
       "editorialWeight": 6,
@@ -1046,6 +1046,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Flo",
+      "album": "Therapy at the Club",
+      "artistKey": "flo",
+      "albumKey": "therapy at the club",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-05",
+          "url": "https://pitchfork.com/reviews/albums/flo-therapy-at-the-club/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Foodman",
+      "album": "Hikarigasashikomo",
+      "artistKey": "foodman",
+      "albumKey": "hikarigasashikomo",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-05",
+          "url": "https://thequietus.com/quietus-reviews/hikarigasashikomo-foodman-review/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hana Stretton",
+      "album": "tiarn",
+      "artistKey": "hana stretton",
+      "albumKey": "tiarn",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-05",
+          "url": "https://pitchfork.com/reviews/albums/hana-stretton-tiarn/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Eden Aurelius",
       "album": "Entre Nous",
       "artistKey": "eden aurelius",
@@ -1352,57 +1406,21 @@
       "mentionCount": 1
     },
     {
-      "artist": "Dux Content",
-      "album": "Lifestyle",
-      "artistKey": "dux content",
-      "albumKey": "lifestyle",
+      "artist": "foodman",
+      "album": "HIKARIGASASHIKOMU",
+      "artistKey": "foodman",
+      "albumKey": "hikarigasashikomu",
       "sources": [
         {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-27",
-          "url": "https://pitchfork.com/reviews/albums/dux-content-lifestyle/"
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-20",
+          "url": "https://daily.bandcamp.com/album-of-the-day/foodman-hikarigasashikomu-review"
         }
       ],
       "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Judah Weston Isokeys",
-      "album": "Why So Much Hate",
-      "artistKey": "judah weston isokeys",
-      "albumKey": "why so much hate",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-27",
-          "url": "https://pitchfork.com/reviews/albums/judah-weston-isokeys-why-so-much-hate/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Picture",
-      "album": "Uuuuuuuu",
-      "artistKey": "picture",
-      "albumKey": "uuuuuuuu",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-27",
-          "url": "https://pitchfork.com/reviews/albums/picture-uuuuuuuu/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -8840,6 +8858,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Patrick Belaga",
+      "album": "Solar Calf",
+      "artistKey": "patrick belaga",
+      "albumKey": "solar calf",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-04",
+          "url": "https://daily.bandcamp.com/album-of-the-day/patrick-belaga-solar-calf-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "sachi’s mirror",
       "album": "Talking in a Different Way",
       "artistKey": "sachis mirror",
@@ -8876,6 +8912,42 @@
       "mentionCount": 9
     },
     {
+      "artist": "Asal",
+      "album": "Kiss the Sun",
+      "artistKey": "asal",
+      "albumKey": "kiss the sun",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ceremony",
+      "album": "Tell Me Your Dream",
+      "artistKey": "ceremony",
+      "albumKey": "tell me your dream",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-08-04",
+          "url": "https://stereogum.com/2506867/album-of-the-week-ceremony-tell-me-your-dream/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "HIIIT",
       "album": "SIIIX, Vol. 3",
       "artistKey": "hiiit",
@@ -8894,16 +8966,16 @@
       "mentionCount": 1
     },
     {
-      "artist": "Asal",
-      "album": "Kiss the Sun",
-      "artistKey": "asal",
-      "albumKey": "kiss the sun",
+      "artist": "Trashcan Sinatras",
+      "album": "Live on KEXP",
+      "artistKey": "trashcan sinatras",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-08-03",
+          "publishedAt": "2026-08-04",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -12350,24 +12422,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Militarie Gun",
-      "album": "God Save The Gun",
-      "artistKey": "militarie gun",
-      "albumKey": "god save the gun",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-10-14",
-          "url": "https://stereogum.com/2326374/album-of-the-week-militarie-gun-god-save-the-gun/reviews/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "The Telephone Numbers",
       "album": "Scarecrow II",
       "artistKey": "the telephone numbers",
@@ -13232,20 +13286,128 @@
       "mentionCount": 1
     },
     {
-      "artist": "DEBBY FRIDAY",
-      "album": "The Starrr Of The Queen Of Life",
-      "artistKey": "debby friday",
-      "albumKey": "the starrr of the queen of life",
+      "artist": "casi",
+      "album": "CASI",
+      "artistKey": "casi",
+      "albumKey": "casi",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-04",
-          "url": "https://daily.bandcamp.com/album-of-the-day/debby-friday-the-starrr-of-the-queen-of-life-revew"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-05",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Getdown Services",
+      "album": "The Radiator",
+      "artistKey": "getdown services",
+      "albumKey": "the radiator",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "PawPaw Rod & Sherwyn",
+      "album": "Picture Day: A PawPaw Rod Album",
+      "artistKey": "pawpaw rod and sherwyn",
+      "albumKey": "picture day a pawpaw rod album",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Seu Jorge & Zap Mama",
+      "album": "The Other Side",
+      "artistKey": "seu jorge and zap mama",
+      "albumKey": "the other side",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Trabants",
+      "album": "Mirage",
+      "artistKey": "trabants",
+      "albumKey": "mirage",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Twen",
+      "album": "Live on KEXP",
+      "artistKey": "twen",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "A Certain Ratio",
+      "album": "Force Majeure",
+      "artistKey": "a certain ratio",
+      "albumKey": "force majeure",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13376,6 +13538,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Kevin Morby",
+      "album": "Live on KEXP",
+      "artistKey": "kevin morby",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Modest Mouse",
+      "album": "An Eraser and a Maze",
+      "artistKey": "modest mouse",
+      "albumKey": "an eraser and a maze",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Portaits of Tracy",
+      "album": "Q: From Where Do Our Primal Instincts Originate? A: MTV!",
+      "artistKey": "portaits of tracy",
+      "albumKey": "q from where do our primal instincts originate a mtv",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Prewn",
+      "album": "Live on KEXP",
+      "artistKey": "prewn",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Puerta Negra",
       "album": "Metafísica",
       "artistKey": "puerta negra",
@@ -13488,6 +13722,42 @@
       "album": "Love Comes Thru",
       "artistKey": "teal",
       "albumKey": "love comes thru",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Black Tones",
+      "album": "Bombs",
+      "artistKey": "the black tones",
+      "albumKey": "bombs",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Royal Firecrackers",
+      "album": "Medicine Lodge",
+      "artistKey": "the royal firecrackers",
+      "albumKey": "medicine lodge",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14718,24 +14988,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-07-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Penelope Isles",
-      "album": "3",
-      "artistKey": "penelope isles",
-      "albumKey": "3",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-25",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

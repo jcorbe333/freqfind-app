@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T08:50:37.685Z",
+  "generatedAt": "2026-08-08T08:32:32.658Z",
   "items": [
     {
       "artist": "Sir Richard Bishop",
@@ -45,56 +45,6 @@
           "weight": 5,
           "publishedAt": "2026-07-30",
           "url": "https://pitchfork.com/reviews/albums/the-durutti-column-renascent/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Tyla",
-      "album": "A*POP",
-      "artistKey": "tyla",
-      "albumKey": "a pop",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-31",
-          "url": "https://pitchfork.com/reviews/albums/tyla-a-pop/"
-        },
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-29",
-          "url": "https://thequietus.com/quietus-reviews/tyla-apop-review/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "leo",
-      "album": "Cicada Burnt",
-      "artistKey": "leo",
-      "albumKey": "cicada burnt",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-30",
-          "url": "https://daily.bandcamp.com/album-of-the-day/leo-cicada-burnt-review"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-07-30",
-          "url": "https://pitchfork.com/reviews/albums/leo-cicada-burnt/"
         }
       ],
       "editorialWeight": 11,
@@ -981,6 +931,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Overmono",
+      "album": "Pure Devotion",
+      "artistKey": "overmono",
+      "albumKey": "pure devotion",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-08",
+          "url": "https://pitchfork.com/reviews/albums/overmono-pure-devotion/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Frost Children",
       "album": "Frost Fest Mixtape",
       "artistKey": "frost children",
@@ -1316,6 +1284,24 @@
           "weight": 5,
           "publishedAt": "2026-07-31",
           "url": "https://pitchfork.com/reviews/albums/juicy-j-project-pat-dem-goats/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tyla",
+      "album": "A*POP",
+      "artistKey": "tyla",
+      "albumKey": "a pop",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-07-31",
+          "url": "https://pitchfork.com/reviews/albums/tyla-a-pop/"
         }
       ],
       "editorialWeight": 5,
@@ -9063,35 +9049,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "abracadabra",
-      "album": "peel away",
-      "artistKey": "abracadabra",
-      "albumKey": "peel away",
+      "artist": "Papangu",
+      "album": "Celestial",
+      "artistKey": "papangu",
+      "albumKey": "celestial",
       "sources": [
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-08-06",
-          "url": "https://daily.bandcamp.com/album-of-the-day/abracadabra-peel-away-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
-      "artist": "Manuela Ocampo",
-      "album": "Ocasos y Albas",
-      "artistKey": "manuela ocampo",
-      "albumKey": "ocasos y albas",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/manuela-ocampo-ocasos-y-albas-review"
+          "publishedAt": "2026-08-07",
+          "url": "https://daily.bandcamp.com/album-of-the-day/papangu-celestial-review"
         }
       ],
       "editorialWeight": 4,
@@ -9110,6 +9078,24 @@
           "weight": 4,
           "publishedAt": "2026-08-07",
           "url": "https://thequietus.com/quietus-reviews/roy-montgomery-martha-skye-murphy-nebular/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "abracadabra",
+      "album": "peel away",
+      "artistKey": "abracadabra",
+      "albumKey": "peel away",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-06",
+          "url": "https://daily.bandcamp.com/album-of-the-day/abracadabra-peel-away-review"
         }
       ],
       "editorialWeight": 4,
@@ -9168,6 +9154,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Manuela Ocampo",
+      "album": "Ocasos y Albas",
+      "artistKey": "manuela ocampo",
+      "albumKey": "ocasos y albas",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/manuela-ocampo-ocasos-y-albas-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -9362,6 +9366,24 @@
           "weight": 4,
           "publishedAt": "2026-07-30",
           "url": "https://thequietus.com/quietus-reviews/2k88-lauren-duffus-rainy-miller-bianca-scout-everything-always-changes-for-were-truly-here-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "leo",
+      "album": "Cicada Burnt",
+      "artistKey": "leo",
+      "albumKey": "cicada burnt",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-30",
+          "url": "https://daily.bandcamp.com/album-of-the-day/leo-cicada-burnt-review"
         }
       ],
       "editorialWeight": 4,
@@ -13293,24 +13315,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "alice does computer music",
-      "album": "Bliss",
-      "artistKey": "alice does computer music",
-      "albumKey": "bliss",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/alice-does-computer-music-bliss-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Automatic",
       "album": "Black Box (Nick Zinner Remix)",
       "artistKey": "automatic",
@@ -13329,10 +13333,64 @@
       "mentionCount": 1
     },
     {
+      "artist": "Baauer",
+      "album": "U",
+      "artistKey": "baauer",
+      "albumKey": "u",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Blue Lab Beats",
       "album": "The Blue Lab Beats Show",
       "artistKey": "blue lab beats",
       "albumKey": "the blue lab beats show",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dua Saleh",
+      "album": "Of Earth & Wires",
+      "artistKey": "dua saleh",
+      "albumKey": "of earth and wires",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Herbert & Momoko",
+      "album": "Clay (Bonus Edition)",
+      "artistKey": "herbert and momoko",
+      "albumKey": "clay bonus edition",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13573,24 +13631,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Baauer",
-      "album": "U",
-      "artistKey": "baauer",
-      "albumKey": "u",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14607,24 +14647,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Dua Saleh",
-      "album": "Of Earth & Wires",
-      "artistKey": "dua saleh",
-      "albumKey": "of earth and wires",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-31",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Eloise Pezzner",
       "album": "Apocoloco",
       "artistKey": "eloise pezzner",
@@ -14823,24 +14845,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Latroit House Ensemble",
-      "album": "Beautiful People",
-      "artistKey": "latroit house ensemble",
-      "albumKey": "beautiful people",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lucha Luna",
       "album": "Ritmo Eterno (Maga Bo Remix)",
       "artistKey": "lucha luna",
@@ -14942,150 +14946,6 @@
           "weight": 3,
           "publishedAt": "2026-07-28",
           "url": "https://www.indieshuffle.com/balming-tiger-oui/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "CFCF feat. nuum & Seren Forever",
-      "album": "L.U.V.",
-      "artistKey": "cfcf feat nuum and seren forever",
-      "albumKey": "l u v",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Holo",
-      "album": "Thunder EP",
-      "artistKey": "holo",
-      "albumKey": "thunder ep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "ifax!",
-      "album": "Zoomie Earth",
-      "artistKey": "ifax",
-      "albumKey": "zoomie earth",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lala Lala",
-      "album": "Heaven 2",
-      "artistKey": "lala lala",
-      "albumKey": "heaven 2",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lykke Li",
-      "album": "Sick of Love (Mura Masa remix)",
-      "artistKey": "lykke li",
-      "albumKey": "sick of love mura masa remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Meduulla, Ethan Hill, Rozzzqween",
-      "album": "Melanin Monroe",
-      "artistKey": "meduulla ethan hill rozzzqween",
-      "albumKey": "melanin monroe",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sobolik",
-      "album": "Final Drive",
-      "artistKey": "sobolik",
-      "albumKey": "final drive",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "U2",
-      "album": "Street of Dreams",
-      "artistKey": "u2",
-      "albumKey": "street of dreams",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-07-28",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

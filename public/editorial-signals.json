@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T08:46:37.505Z",
+  "generatedAt": "2026-08-12T09:05:55.619Z",
   "items": [
     {
       "artist": "HULDER",
@@ -227,6 +227,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Iceage",
+      "album": "For Love of Grace & the Hereafter",
+      "artistKey": "iceage",
+      "albumKey": "for love of grace and the hereafter",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-11",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Trashcan Sinatras",
       "album": "Ever the Optimist",
       "artistKey": "trashcan sinatras",
@@ -245,31 +270,6 @@
           "weight": 5,
           "publishedAt": "2026-08-05",
           "url": "https://pitchfork.com/reviews/albums/trashcan-sinatras-ever-the-optimist/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Cheekface",
-      "album": "Podium",
-      "artistKey": "cheekface",
-      "albumKey": "podium",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-04",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-03",
-          "url": "https://pitchfork.com/reviews/albums/cheekface-podium/"
         }
       ],
       "editorialWeight": 10,
@@ -427,6 +427,24 @@
       "mentionCount": 2
     },
     {
+      "artist": "Kevin Drumm",
+      "album": "The Mild Temper",
+      "artistKey": "kevin drumm",
+      "albumKey": "the mild temper",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-12",
+          "url": "https://pitchfork.com/reviews/albums/kevin-drumm-the-mild-temper/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Various Artists",
       "album": "Melodies International presents Ariwa Sounds",
       "artistKey": "various artists",
@@ -503,6 +521,24 @@
       "album": "Forever Howlong",
       "artistKey": "black country new road",
       "albumKey": "forever howlong",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kevin Drumm",
+      "album": "Sheer Hellish Miasma II",
+      "artistKey": "kevin drumm",
+      "albumKey": "sheer hellish miasma ii",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -838,6 +874,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nino Paid",
+      "album": "Somewhere Over the Rainbow",
+      "artistKey": "nino paid",
+      "albumKey": "somewhere over the rainbow",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-12",
+          "url": "https://pitchfork.com/reviews/albums/nino-paid-somewhere-over-the-rainbow/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Starface Tyga S",
+      "album": "$TARFACE",
+      "artistKey": "starface tyga s",
+      "albumKey": "tarface",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-12",
+          "url": "https://pitchfork.com/reviews/albums/starface-tyga-starface/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Worldpeace Dmt",
+      "album": "Flowers Powers",
+      "artistKey": "worldpeace dmt",
+      "albumKey": "flowers powers",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-12",
+          "url": "https://pitchfork.com/reviews/albums/worldpeace-dmt-flowers-powers/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1212,60 +1302,6 @@
           "weight": 5,
           "publishedAt": "2026-08-04",
           "url": "https://pitchfork.com/reviews/albums/portraits-of-tracy-q-from-where-do-our-primal-instincts-originate-a-mtv-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Domi And Jd Beck",
-      "album": "WHO ASKED?",
-      "artistKey": "domi and jd beck",
-      "albumKey": "who asked",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-03",
-          "url": "https://pitchfork.com/reviews/albums/domi-and-jd-beck-who-asked/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Omari Lyseight",
-      "album": "Digital",
-      "artistKey": "omari lyseight",
-      "albumKey": "digital",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-03",
-          "url": "https://pitchfork.com/reviews/albums/omari-lyseight-digital/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sophie Hunter",
-      "album": "Stereoscope",
-      "artistKey": "sophie hunter",
-      "albumKey": "stereoscope",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-03",
-          "url": "https://pitchfork.com/reviews/albums/sophie-hunter-stereoscope/"
         }
       ],
       "editorialWeight": 5,
@@ -1655,24 +1691,6 @@
       "album": "The Mountain",
       "artistKey": "gorillaz",
       "albumKey": "the mountain",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Iceage",
-      "album": "For Love of Grace & the Hereafter",
-      "artistKey": "iceage",
-      "albumKey": "for love of grace and the hereafter",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -2645,24 +2663,6 @@
       "album": "God Does Like Ugly",
       "artistKey": "jid",
       "albumKey": "god does like ugly",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kevin Drumm",
-      "album": "Sheer Hellish Miasma II",
-      "artistKey": "kevin drumm",
-      "albumKey": "sheer hellish miasma ii",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9067,6 +9067,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Alfonso Soliano",
+      "album": "Tiga Trombone",
+      "artistKey": "alfonso soliano",
+      "albumKey": "tiga trombone",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-11",
+          "url": "https://daily.bandcamp.com/album-of-the-day/alfonso-soliano-tiga-trombone-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
+      "artist": "Blodfet & DJ Lonely",
+      "album": "Titanium Hip Replacement Disco",
+      "artistKey": "blodfet and dj lonely",
+      "albumKey": "titanium hip replacement disco",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-12",
+          "url": "https://thequietus.com/quietus-reviews/blodfet-dj-lonely-titanium-hip-replacement-disco-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ela Minus and Nick León",
+      "album": "Qué les pasó a mis amigos?",
+      "artistKey": "ela minus and nick leon",
+      "albumKey": "que les paso a mis amigos",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-12",
+          "url": "https://thequietus.com/quietus-reviews/ela-minus-and-nick-leon-que-les-paso-a-mis-amigos-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "L&#8217;Rain",
+      "album": "fata morgana",
+      "artistKey": "l and 8217 rain",
+      "albumKey": "fata morgana",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-08-11",
+          "url": "https://stereogum.com/2507540/album-of-the-week-lrain-fata-morgana/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Oen Sujet",
       "album": "The Friendliest Fight We Know",
       "artistKey": "oen sujet",
@@ -9265,6 +9337,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Cheekface",
+      "album": "Podium",
+      "artistKey": "cheekface",
+      "albumKey": "podium",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "HIIIT",
       "album": "SIIIX, Vol. 3",
       "artistKey": "hiiit",
@@ -9402,42 +9492,6 @@
           "weight": 4,
           "publishedAt": "2026-07-31",
           "url": "https://daily.bandcamp.com/album-of-the-day/hourlope-last-lost-word-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Durutti Column",
-      "album": "Renascent",
-      "artistKey": "the durutti column",
-      "albumKey": "renascent",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-31",
-          "url": "https://thequietus.com/quietus-reviews/the-durutti-column-renascent-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "2K88 & Lauren Duffus & Rainy Miller & Bianca Scout",
-      "album": "Everything Always Changes, For We’re Truly Here",
-      "artistKey": "2k88 and lauren duffus and rainy miller and bianca scout",
-      "albumKey": "everything always changes for were truly here",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-07-30",
-          "url": "https://thequietus.com/quietus-reviews/2k88-lauren-duffus-rainy-miller-bianca-scout-everything-always-changes-for-were-truly-here-review/"
         }
       ],
       "editorialWeight": 4,
@@ -12469,24 +12523,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Rafael Toral",
-      "album": "Traveling Light",
-      "artistKey": "rafael toral",
-      "albumKey": "traveling light",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-10-21",
-          "url": "https://stereogum.com/2327090/album-of-the-week-rafael-toral-traveling-light/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Melvin Gibbs",
       "album": "Amasia: Anamibia Sessions 2",
       "artistKey": "melvin gibbs",
@@ -13315,20 +13351,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "OSEES",
-      "album": "ABOMINATION REVEALED AT LAST",
-      "artistKey": "osees",
-      "albumKey": "abomination revealed at last",
+      "artist": "Johanna Samuels",
+      "album": "Sorry, Kid",
+      "artistKey": "johanna samuels",
+      "albumKey": "sorry kid",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-11",
-          "url": "https://daily.bandcamp.com/album-of-the-day/osees-abomination-revealed-at-last"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-12",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Telehealth",
+      "album": "Live on KEXP",
+      "artistKey": "telehealth",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Automatic",
+      "album": "Black Box (Nick Zinner Remix)",
+      "artistKey": "automatic",
+      "albumKey": "black box nick zinner remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13423,6 +13495,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Orquestra Pacifico Tropical",
+      "album": "El Poder",
+      "artistKey": "orquestra pacifico tropical",
+      "albumKey": "el poder",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shabazz Palaces",
+      "album": "It’s a Style Sport",
+      "artistKey": "shabazz palaces",
+      "albumKey": "its a style sport",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Slacker / Georg-i",
       "album": "Brittle Forms",
       "artistKey": "slacker georg i",
@@ -13445,6 +13553,24 @@
       "album": "Spike",
       "artistKey": "spike",
       "albumKey": "spike",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sweeping Promises",
+      "album": "You Say I Romanticize",
+      "artistKey": "sweeping promises",
+      "albumKey": "you say i romanticize",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13517,6 +13643,24 @@
       "album": "Astral Plane",
       "artistKey": "tom drew",
       "albumKey": "astral plane",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wet Leg",
+      "album": "moisturizer (deluxe)",
+      "artistKey": "wet leg",
+      "albumKey": "moisturizer deluxe",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14009,24 +14153,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Automatic",
-      "album": "Black Box (Nick Zinner Remix)",
-      "artistKey": "automatic",
-      "albumKey": "black box nick zinner remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-07",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15025,24 +15151,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Grizzled Mighty",
-      "album": "Confetti Teeth",
-      "artistKey": "the grizzled mighty",
-      "albumKey": "confetti teeth",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "The Healing Power Of Horses",
       "album": "Summer Indoors (or outside wearing black)",
       "artistKey": "the healing power of horses",
@@ -15089,42 +15197,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "beabadoobee feat. PinkPantheress",
-      "album": "Beatopia",
-      "artistKey": "beabadoobee feat pinkpantheress",
-      "albumKey": "beatopia",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Peeled",
-      "album": "World of Choices",
-      "artistKey": "peeled",
-      "albumKey": "world of choices",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-01",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

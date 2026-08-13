@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T09:05:55.619Z",
+  "generatedAt": "2026-08-13T09:05:32.617Z",
   "items": [
     {
       "artist": "HULDER",
@@ -24,7 +24,7 @@
       ],
       "editorialWeight": 11,
       "multiSourceBonus": 2,
-      "mentionCount": 10
+      "mentionCount": 2
     },
     {
       "artist": "Mallory Hawk",
@@ -223,6 +223,31 @@
         }
       ],
       "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Ravyn Lenae",
+      "album": "Blue Island",
+      "artistKey": "ravyn lenae",
+      "albumKey": "blue island",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-13",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-07",
+          "url": "https://pitchfork.com/reviews/albums/ravyn-lenae-blue-island/"
+        }
+      ],
+      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -427,6 +452,24 @@
       "mentionCount": 2
     },
     {
+      "artist": "Phoebe Bridgers",
+      "album": "Lost Weekend",
+      "artistKey": "phoebe bridgers",
+      "albumKey": "lost weekend",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-13",
+          "url": "https://pitchfork.com/reviews/albums/phoebe-bridgers-lost-weekend/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Kevin Drumm",
       "album": "The Mild Temper",
       "artistKey": "kevin drumm",
@@ -456,24 +499,6 @@
           "weight": 5,
           "publishedAt": "2026-08-06",
           "url": "https://pitchfork.com/reviews/albums/various-artists-melodies-international-presents-ariwa-sounds/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Arca",
-      "album": "XXXXX",
-      "artistKey": "arca",
-      "albumKey": "xxxxx",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-04",
-          "url": "https://pitchfork.com/reviews/albums/arca-xxxxx/"
         }
       ],
       "editorialWeight": 6,
@@ -697,24 +722,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Arca",
-      "album": "KicK iii",
-      "artistKey": "arca",
-      "albumKey": "kick iii",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Black Country, New Road",
       "album": "For the first time",
       "artistKey": "black country new road",
@@ -823,17 +830,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Anamanaguchi",
-      "album": "[USA]",
-      "artistKey": "anamanaguchi",
-      "albumKey": "usa",
+      "artist": "Phoebe Bridgers",
+      "album": "Punisher",
+      "artistKey": "phoebe bridgers",
+      "albumKey": "punisher",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
           "sourceLabel": "The Needle Drop Loved List",
           "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
         }
       ],
       "editorialWeight": 6,
@@ -874,6 +881,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "James Ellis Ford",
+      "album": "Lost in Another World",
+      "artistKey": "james ellis ford",
+      "albumKey": "lost in another world",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-13",
+          "url": "https://pitchfork.com/reviews/albums/james-ellis-ford-lost-in-another-world/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kurupt Dj Battlecat",
+      "album": "Tales From My Hood",
+      "artistKey": "kurupt dj battlecat",
+      "albumKey": "tales from my hood",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-13",
+          "url": "https://pitchfork.com/reviews/albums/kurupt-dj-battlecat-tales-from-my-hood/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Moliy",
+      "album": "BADDIES <3 MOLIY",
+      "artistKey": "moliy",
+      "albumKey": "baddies 3 moliy",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-13",
+          "url": "https://pitchfork.com/reviews/albums/moliy-baddies-3-moliy/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1129,24 +1190,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Ravyn Lenae",
-      "album": "Blue Island",
-      "artistKey": "ravyn lenae",
-      "albumKey": "blue island",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-07",
-          "url": "https://pitchfork.com/reviews/albums/ravyn-lenae-blue-island/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Cel Ray",
       "album": "Cel Rayzer",
       "artistKey": "cel ray",
@@ -1201,24 +1244,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Foodman",
-      "album": "Hikarigasashikomo",
-      "artistKey": "foodman",
-      "albumKey": "hikarigasashikomo",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-05",
-          "url": "https://thequietus.com/quietus-reviews/hikarigasashikomo-foodman-review/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Hana Stretton",
       "album": "tiarn",
       "artistKey": "hana stretton",
@@ -1234,96 +1259,6 @@
       ],
       "editorialWeight": 5,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Willow",
-      "album": "The Thread",
-      "artistKey": "willow",
-      "albumKey": "the thread",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-05",
-          "url": "https://pitchfork.com/reviews/albums/willow-the-thread/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Eden Aurelius",
-      "album": "Entre Nous",
-      "artistKey": "eden aurelius",
-      "albumKey": "entre nous",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-04",
-          "url": "https://pitchfork.com/reviews/albums/eden-aurelius-entre-nous/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Parts And Labor",
-      "album": "Set of All Sets",
-      "artistKey": "parts and labor",
-      "albumKey": "set of all sets",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-04",
-          "url": "https://pitchfork.com/reviews/albums/parts-and-labor-set-of-all-sets/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Portraits Of Tracy",
-      "album": "Q: From Where Do Our Primal Instincts Originate? A: MTV! EP",
-      "artistKey": "portraits of tracy",
-      "albumKey": "q from where do our primal instincts originate a mtv ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-04",
-          "url": "https://pitchfork.com/reviews/albums/portraits-of-tracy-q-from-where-do-our-primal-instincts-originate-a-mtv-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "foodman",
-      "album": "HIKARIGASASHIKOMU",
-      "artistKey": "foodman",
-      "albumKey": "hikarigasashikomu",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-20",
-          "url": "https://daily.bandcamp.com/album-of-the-day/foodman-hikarigasashikomu-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -2112,24 +2047,6 @@
           "weight": 4,
           "publishedAt": "2025-08-15",
           "url": "https://daily.bandcamp.com/album-of-the-day/panopticon-laurentian-blue-songs-of-hiraeth-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Anamanaguchi",
-      "album": "Anyway",
-      "artistKey": "anamanaguchi",
-      "albumKey": "anyway",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-12",
-          "url": "https://daily.bandcamp.com/album-of-the-day/anamanaguchi-anyway"
         }
       ],
       "editorialWeight": 5,
@@ -6349,6 +6266,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Arca",
+      "album": "KicK iii",
+      "artistKey": "arca",
+      "albumKey": "kick iii",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Armand Hammer & The Alchemist",
       "album": "Haram",
       "artistKey": "armand hammer and the alchemist",
@@ -7987,24 +7922,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Phoebe Bridgers",
-      "album": "Punisher",
-      "artistKey": "phoebe bridgers",
-      "albumKey": "punisher",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Poppy",
       "album": "I Disagree",
       "artistKey": "poppy",
@@ -8261,6 +8178,24 @@
       "album": "Little Electric Chicken Heart",
       "artistKey": "ana frango eletrico",
       "albumKey": "little electric chicken heart",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Anamanaguchi",
+      "album": "[USA]",
+      "artistKey": "anamanaguchi",
+      "albumKey": "usa",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9067,6 +9002,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Maya Ongaku",
+      "album": "Nothing Space Music",
+      "artistKey": "maya ongaku",
+      "albumKey": "nothing space music",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-12",
+          "url": "https://daily.bandcamp.com/album-of-the-day/maya-ongaku-nothing-space-music-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Alfonso Soliano",
       "album": "Tiga Trombone",
       "artistKey": "alfonso soliano",
@@ -9083,6 +9036,24 @@
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "He Didnt",
+      "album": "Dark Making",
+      "artistKey": "he didnt",
+      "albumKey": "dark making",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-13",
+          "url": "https://thequietus.com/quietus-reviews/he-didnt-dark-making-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Blodfet & DJ Lonely",
@@ -9355,24 +9326,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "HIIIT",
-      "album": "SIIIX, Vol. 3",
-      "artistKey": "hiiit",
-      "albumKey": "siiix vol 3",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-04",
-          "url": "https://thequietus.com/quietus-reviews/hiiit-siiix-vol-3-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Patrick Belaga",
       "album": "Solar Calf",
       "artistKey": "patrick belaga",
@@ -9442,24 +9395,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Highsigh",
-      "album": "Once Bend",
-      "artistKey": "highsigh",
-      "albumKey": "once bend",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-03",
-          "url": "https://thequietus.com/quietus-reviews/highsigh-once-bend-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -9636,6 +9571,24 @@
           "weight": 4,
           "publishedAt": "2026-07-21",
           "url": "https://stereogum.com/2505329/album-of-the-week-nick-hakim-i-can-see/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "foodman",
+      "album": "HIKARIGASASHIKOMU",
+      "artistKey": "foodman",
+      "albumKey": "hikarigasashikomu",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-20",
+          "url": "https://daily.bandcamp.com/album-of-the-day/foodman-hikarigasashikomu-review"
         }
       ],
       "editorialWeight": 4,
@@ -13351,6 +13304,150 @@
       "mentionCount": 1
     },
     {
+      "artist": "Bruise Control",
+      "album": "Bruise Control",
+      "artistKey": "bruise control",
+      "albumKey": "bruise control",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Graham Coxon",
+      "album": "Billy Says",
+      "artistKey": "graham coxon",
+      "albumKey": "billy says",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lucha Luna",
+      "album": "BRILLA BRILLA: Remixed",
+      "artistKey": "lucha luna",
+      "albumKey": "brilla brilla remixed",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Aqiestoy",
+      "album": "Daño Choca",
+      "artistKey": "aqiestoy",
+      "albumKey": "dano choca",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "casi",
+      "album": "CASI",
+      "artistKey": "casi",
+      "albumKey": "casi",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dig",
+      "album": "something in the air",
+      "artistKey": "dig",
+      "albumKey": "something in the air",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gurriers",
+      "album": "Nobody's Coming to Save You",
+      "artistKey": "gurriers",
+      "albumKey": "nobodys coming to save you",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "IZCO feat.Camille Munn",
+      "album": "Strike a Pose (Karen Nyame KG remix)",
+      "artistKey": "izco feat camille munn",
+      "albumKey": "strike a pose karen nyame kg remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Johanna Samuels",
       "album": "Sorry, Kid",
       "artistKey": "johanna samuels",
@@ -13369,10 +13466,82 @@
       "mentionCount": 1
     },
     {
+      "artist": "Kathleen Hanna ft. Ad-Rock, Money Mark, Fredo Ortiz, & Frank Figueroa",
+      "album": "Contra-ICE Vol. 1: ICE OUT",
+      "artistKey": "kathleen hanna ft ad rock money mark fredo ortiz and frank figueroa",
+      "albumKey": "contra ice vol 1 ice out",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Telehealth",
       "album": "Live on KEXP",
       "artistKey": "telehealth",
       "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "True Blue",
+      "album": "Fountain Edits",
+      "artistKey": "true blue",
+      "albumKey": "fountain edits",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Two-Man Giant Squid",
+      "album": "I Was a DJ in 2015 (NOVABLOOD Remix)",
+      "artistKey": "two man giant squid",
+      "albumKey": "i was a dj in 2015 novablood remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Westside Cowboy",
+      "album": "It Goes On",
+      "artistKey": "westside cowboy",
+      "albumKey": "it goes on",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14305,24 +14474,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Lucha Luna",
-      "album": "BRILLA BRILLA: Remixed",
-      "artistKey": "lucha luna",
-      "albumKey": "brilla brilla remixed",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Madonna",
       "album": "CONFESSIONS II",
       "artistKey": "madonna",
@@ -14423,42 +14574,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Westside Cowboy",
-      "album": "It Goes On",
-      "artistKey": "westside cowboy",
-      "albumKey": "it goes on",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "casi",
-      "album": "CASI",
-      "artistKey": "casi",
-      "albumKey": "casi",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15043,24 +15158,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Georgie Sweet",
-      "album": "I Swear To You: The Remixes",
-      "artistKey": "georgie sweet",
-      "albumKey": "i swear to you the remixes",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Jalen Ngonda",
       "album": "Doctrine of Love",
       "artistKey": "jalen ngonda",
@@ -15107,96 +15204,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bb trickz",
-      "album": "sugarhiii",
-      "artistKey": "bb trickz",
-      "albumKey": "sugarhiii",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Telehealth",
-      "album": "Green World Image",
-      "artistKey": "telehealth",
-      "albumKey": "green world image",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Healing Power Of Horses",
-      "album": "Summer Indoors (or outside wearing black)",
-      "artistKey": "the healing power of horses",
-      "albumKey": "summer indoors or outside wearing black",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Warning",
-      "album": "Rituals of Shame",
-      "artistKey": "warning",
-      "albumKey": "rituals of shame",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wednesday",
-      "album": "Live on KEXP",
-      "artistKey": "wednesday",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-02",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15918,24 +15925,6 @@
           "weight": 3,
           "publishedAt": "2026-03-13",
           "url": "https://www.indieshuffle.com/mission-creep-some-kind-of-work/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Big Sleep",
-      "album": "Bruiser",
-      "artistKey": "big sleep",
-      "albumKey": "bruiser",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-03-11",
-          "url": "https://www.indieshuffle.com/big-sleep--bruiser/"
         }
       ],
       "editorialWeight": 3,

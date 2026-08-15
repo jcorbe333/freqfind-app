@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T09:01:59.387Z",
+  "generatedAt": "2026-08-15T08:19:50.495Z",
   "items": [
     {
       "artist": "HULDER",
@@ -45,31 +45,6 @@
           "weight": 4,
           "publishedAt": "2026-07-28",
           "url": "https://stereogum.com/2506443/album-of-the-week-mallory-hawk-chinook/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Sir Richard Bishop",
-      "album": "Hillbilly Erotica",
-      "artistKey": "sir richard bishop",
-      "albumKey": "hillbilly erotica",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-06",
-          "url": "https://pitchfork.com/reviews/albums/sir-richard-bishop-hillbilly-erotica/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-29",
-          "url": "https://daily.bandcamp.com/album-of-the-day/sir-richard-bishop-hillbilly-erotica-review"
         }
       ],
       "editorialWeight": 11,
@@ -560,24 +535,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Cheekface",
-      "album": "It’s Sorted",
-      "artistKey": "cheekface",
-      "albumKey": "its sorted",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kim Gordon",
       "album": "The Collective",
       "artistKey": "kim gordon",
@@ -643,24 +600,6 @@
           "weight": 5,
           "publishedAt": "2023-01-01",
           "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cheekface",
-      "album": "Too Much to Ask",
-      "artistKey": "cheekface",
-      "albumKey": "too much to ask",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
         }
       ],
       "editorialWeight": 6,
@@ -863,6 +802,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nintendo Sound Team",
+      "album": "Donkey Kong Bananza",
+      "artistKey": "nintendo sound team",
+      "albumKey": "donkey kong bananza",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-15",
+          "url": "https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -3120,6 +3077,24 @@
       "album": "Cool World",
       "artistKey": "chat pile",
       "albumKey": "cool world",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cheekface",
+      "album": "It’s Sorted",
+      "artistKey": "cheekface",
+      "albumKey": "its sorted",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -5406,6 +5381,24 @@
       "album": "God’s Country",
       "artistKey": "chat pile",
       "albumKey": "gods country",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cheekface",
+      "album": "Too Much to Ask",
+      "artistKey": "cheekface",
+      "albumKey": "too much to ask",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8840,6 +8833,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Kiwi Jr",
+      "album": "Blowin Up",
+      "artistKey": "kiwi jr",
+      "albumKey": "blowin up",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-14",
+          "url": "https://daily.bandcamp.com/album-of-the-day/kiwi-jr-blowin-up-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "André Cymone",
       "album": "The Resurrection of Funk",
       "artistKey": "andre cymone",
@@ -8851,24 +8862,6 @@
           "weight": 4,
           "publishedAt": "2026-08-13",
           "url": "https://daily.bandcamp.com/album-of-the-day/andre-cymone-the-resurrection-of-funk-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
-      "artist": "Maya Ongaku",
-      "album": "Nothing Space Music",
-      "artistKey": "maya ongaku",
-      "albumKey": "nothing space music",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-12",
-          "url": "https://daily.bandcamp.com/album-of-the-day/maya-ongaku-nothing-space-music-review"
         }
       ],
       "editorialWeight": 4,
@@ -8959,6 +8952,24 @@
           "weight": 4,
           "publishedAt": "2026-08-12",
           "url": "https://thequietus.com/quietus-reviews/ela-minus-and-nick-leon-que-les-paso-a-mis-amigos-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Maya Ongaku",
+      "album": "Nothing Space Music",
+      "artistKey": "maya ongaku",
+      "albumKey": "nothing space music",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-12",
+          "url": "https://daily.bandcamp.com/album-of-the-day/maya-ongaku-nothing-space-music-review"
         }
       ],
       "editorialWeight": 4,
@@ -9164,24 +9175,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Cheekface",
-      "album": "Podium",
-      "artistKey": "cheekface",
-      "albumKey": "podium",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Patrick Belaga",
       "album": "Solar Calf",
       "artistKey": "patrick belaga",
@@ -9247,6 +9240,24 @@
           "weight": 4,
           "publishedAt": "2026-07-30",
           "url": "https://daily.bandcamp.com/album-of-the-day/leo-cicada-burnt-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sir Richard Bishop",
+      "album": "Hillbilly Erotica",
+      "artistKey": "sir richard bishop",
+      "albumKey": "hillbilly erotica",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-29",
+          "url": "https://daily.bandcamp.com/album-of-the-day/sir-richard-bishop-hillbilly-erotica-review"
         }
       ],
       "editorialWeight": 4,
@@ -13250,24 +13261,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Prefaces",
-      "album": "Acqua Marina",
-      "artistKey": "prefaces",
-      "albumKey": "acqua marina",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-14",
-          "url": "https://daily.bandcamp.com/album-of-the-day/prefaces-acqua-marina-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Angus & Julia Stone",
       "album": "Celestial Bodies",
       "artistKey": "angus and julia stone",
@@ -13279,6 +13272,132 @@
           "weight": 3,
           "publishedAt": "2026-08-14",
           "url": "https://www.indieshuffle.com/angus-julia-stone-celestial-bodies/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dinner Party feat. Phoelix",
+      "album": "Whatchu Bringing?",
+      "artistKey": "dinner party feat phoelix",
+      "albumKey": "whatchu bringing",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Erykah Badu, The Alchemist",
+      "album": "Before The World Blows",
+      "artistKey": "erykah badu the alchemist",
+      "albumKey": "before the world blows",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Filth Is Eternal",
+      "album": "Impossible World",
+      "artistKey": "filth is eternal",
+      "albumKey": "impossible world",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hollis",
+      "album": "Unlearning",
+      "artistKey": "hollis",
+      "albumKey": "unlearning",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Open Mike Eagle & Kenny Segal feat. Hemlock Ernst",
+      "album": "DOOMED!",
+      "artistKey": "open mike eagle and kenny segal feat hemlock ernst",
+      "albumKey": "doomed",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pit Pony",
+      "album": "Thunder",
+      "artistKey": "pit pony",
+      "albumKey": "thunder",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Telenovella",
+      "album": "Ring of Stones",
+      "artistKey": "telenovella",
+      "albumKey": "ring of stones",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-14",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -14726,24 +14845,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Getdown Services",
-      "album": "The Radiator",
-      "artistKey": "getdown services",
-      "albumKey": "the radiator",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Imperial Teen",
       "album": "All Over You",
       "artistKey": "imperial teen",
@@ -14784,24 +14885,6 @@
       "album": "Live on KEXP",
       "artistKey": "minus the bear",
       "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "PawPaw Rod & Sherwyn",
-      "album": "Picture Day: A PawPaw Rod Album",
-      "artistKey": "pawpaw rod and sherwyn",
-      "albumKey": "picture day a pawpaw rod album",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14888,24 +14971,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Twen",
-      "album": "Live on KEXP",
-      "artistKey": "twen",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "YUNGBLUD",
       "album": "Idols II",
       "artistKey": "yungblud",
@@ -14916,132 +14981,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "A Certain Ratio",
-      "album": "Force Majeure",
-      "artistKey": "a certain ratio",
-      "albumKey": "force majeure",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kevin Morby",
-      "album": "Live on KEXP",
-      "artistKey": "kevin morby",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Modest Mouse",
-      "album": "An Eraser and a Maze",
-      "artistKey": "modest mouse",
-      "albumKey": "an eraser and a maze",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Portaits of Tracy",
-      "album": "Q: From Where Do Our Primal Instincts Originate? A: MTV!",
-      "artistKey": "portaits of tracy",
-      "albumKey": "q from where do our primal instincts originate a mtv",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Prewn",
-      "album": "Live on KEXP",
-      "artistKey": "prewn",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Royal Firecrackers",
-      "album": "Medicine Lodge",
-      "artistKey": "the royal firecrackers",
-      "albumKey": "medicine lodge",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Trashcan Sinatras",
-      "album": "Live on KEXP",
-      "artistKey": "trashcan sinatras",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-04",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

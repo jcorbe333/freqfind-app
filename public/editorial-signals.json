@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T08:19:50.495Z",
+  "generatedAt": "2026-08-16T08:20:10.580Z",
   "items": [
     {
       "artist": "HULDER",
@@ -402,6 +402,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Spacemoth",
+      "album": "Inward Eye",
+      "artistKey": "spacemoth",
+      "albumKey": "inward eye",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-15",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-30",
+          "url": "https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Manuela Ocampo",
       "album": "Ocasos y Albas",
       "artistKey": "manuela ocampo",
@@ -474,24 +499,6 @@
           "weight": 5,
           "publishedAt": "2026-08-12",
           "url": "https://pitchfork.com/reviews/albums/kevin-drumm-the-mild-temper/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Panopticon",
-      "album": "Det hjemsøkte hjertet",
-      "artistKey": "panopticon",
-      "albumKey": "det hjems kte hjertet",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 6,
@@ -629,24 +636,6 @@
       "album": "Fatigue",
       "artistKey": "lrain",
       "albumKey": "fatigue",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Panopticon",
-      "album": "…And Again Into the Light",
-      "artistKey": "panopticon",
-      "albumKey": "and again into the light",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -802,6 +791,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Future",
+      "album": "Monster",
+      "artistKey": "future",
+      "albumKey": "monster",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-16",
+          "url": "https://pitchfork.com/reviews/albums/future-monster/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1158,24 +1165,6 @@
           "weight": 5,
           "publishedAt": "2026-08-07",
           "url": "https://pitchfork.com/reviews/albums/gi-gi-in-lieu/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cel Ray",
-      "album": "Cel Rayzer",
-      "artistKey": "cel ray",
-      "albumKey": "cel rayzer",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-06",
-          "url": "https://pitchfork.com/reviews/albums/cel-ray-cel-rayzer/"
         }
       ],
       "editorialWeight": 5,
@@ -1633,6 +1622,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Panopticon",
+      "album": "Det hjemsøkte hjertet",
+      "artistKey": "panopticon",
+      "albumKey": "det hjems kte hjertet",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "slayr",
       "album": "AVANT NOVA (EP)",
       "artistKey": "slayr",
@@ -1806,24 +1813,6 @@
           "weight": 4,
           "publishedAt": "2025-10-21",
           "url": "https://daily.bandcamp.com/album-of-the-day/sudan-archives-the-bpm-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Panopticon",
-      "album": "Laurentian Blue” and “Songs of Hiraeth",
-      "artistKey": "panopticon",
-      "albumKey": "laurentian blue and songs of hiraeth",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-15",
-          "url": "https://daily.bandcamp.com/album-of-the-day/panopticon-laurentian-blue-songs-of-hiraeth-review"
         }
       ],
       "editorialWeight": 5,
@@ -6637,6 +6626,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Panopticon",
+      "album": "…And Again Into the Light",
+      "artistKey": "panopticon",
+      "albumKey": "and again into the light",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Porter Robinson",
       "album": "Nurture",
       "artistKey": "porter robinson",
@@ -9636,24 +9643,6 @@
           "weight": 4,
           "publishedAt": "2026-06-30",
           "url": "https://stereogum.com/2503205/album-of-the-week-nixon-boyd-every-time-we-turn-a-corner/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Spacemoth",
-      "album": "Inward Eye",
-      "artistKey": "spacemoth",
-      "albumKey": "inward eye",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-30",
-          "url": "https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review"
         }
       ],
       "editorialWeight": 4,
@@ -13261,6 +13250,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Jamie She",
+      "album": "Funeral Songs`",
+      "artistKey": "jamie she",
+      "albumKey": "funeral songs",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MYXA",
+      "album": "Live on KEXP",
+      "artistKey": "myxa",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Angus & Julia Stone",
       "album": "Celestial Bodies",
       "artistKey": "angus and julia stone",
@@ -14521,24 +14546,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Jamie She",
-      "album": "Funeral Songs",
-      "artistKey": "jamie she",
-      "albumKey": "funeral songs",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Karma Sheen",
       "album": "Live on KEXP from Trans Musicales",
       "artistKey": "karma sheen",
@@ -14719,24 +14726,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Ladytron",
-      "album": "Live on KEXP",
-      "artistKey": "ladytron",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Madonna",
       "album": "CONFESSIONS II",
       "artistKey": "madonna",
@@ -14773,24 +14762,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Rapsody",
-      "album": "Apple Juice",
-      "artistKey": "rapsody",
-      "albumKey": "apple juice",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Tigers Jaw",
       "album": "Live on KEXP",
       "artistKey": "tigers jaw",
@@ -14801,186 +14772,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Victoria Monét",
-      "album": "Reach Out",
-      "artistKey": "victoria monet",
-      "albumKey": "reach out",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "CFCF feat. dance arts center",
-      "album": "L.U.V.",
-      "artistKey": "cfcf feat dance arts center",
-      "albumKey": "l u v",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Imperial Teen",
-      "album": "All Over You",
-      "artistKey": "imperial teen",
-      "albumKey": "all over you",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mikaela Davis",
-      "album": "Live on KEXP",
-      "artistKey": "mikaela davis",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Minus the Bear",
-      "album": "Live on KEXP",
-      "artistKey": "minus the bear",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Seu Jorge",
-      "album": "The Other Side",
-      "artistKey": "seu jorge",
-      "albumKey": "the other side",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Seu Jorge & Zap Mama",
-      "album": "The Other Side",
-      "artistKey": "seu jorge and zap mama",
-      "albumKey": "the other side",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Trabants",
-      "album": "Mirage",
-      "artistKey": "trabants",
-      "albumKey": "mirage",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Trashcan Sinatras",
-      "album": "Ever The Optimist",
-      "artistKey": "trashcan sinatras",
-      "albumKey": "ever the optimist",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "YUNGBLUD",
-      "album": "Idols II",
-      "artistKey": "yungblud",
-      "albumKey": "idols ii",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-05",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

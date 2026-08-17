@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-08-16T08:20:10.580Z",
+  "generatedAt": "2026-08-17T08:35:22.337Z",
   "items": [
     {
-      "artist": "HULDER",
-      "album": "Verbolgen",
-      "artistKey": "hulder",
-      "albumKey": "verbolgen",
+      "artist": "Kiwi Jr",
+      "album": "Blowin Up",
+      "artistKey": "kiwi jr",
+      "albumKey": "blowin up",
       "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-10",
-          "url": "https://daily.bandcamp.com/album-of-the-day/hulder-verbolgen-review"
-        },
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-08-07",
-          "url": "https://pitchfork.com/reviews/albums/hulder-verbolgen/"
+          "publishedAt": "2026-08-17",
+          "url": "https://pitchfork.com/reviews/albums/kiwi-jr-blowin-up/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-14",
+          "url": "https://daily.bandcamp.com/album-of-the-day/kiwi-jr-blowin-up-review"
         }
       ],
       "editorialWeight": 11,
       "multiSourceBonus": 2,
-      "mentionCount": 2
+      "mentionCount": 10
     },
     {
       "artist": "Mallory Hawk",
@@ -198,6 +198,31 @@
         }
       ],
       "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Radiator Hospital",
+      "album": "Distorting Time",
+      "artistKey": "radiator hospital",
+      "albumKey": "distorting time",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-17",
+          "url": "https://pitchfork.com/reviews/albums/radiator-hospital-distorting-time/"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -398,6 +423,31 @@
         }
       ],
       "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Vince Staples",
+      "album": "Cry Baby",
+      "artistKey": "vince staples",
+      "albumKey": "cry baby",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-16",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
+        }
+      ],
+      "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -794,6 +844,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Djrum I Wander",
+      "album": "I Wander EP",
+      "artistKey": "djrum i wander",
+      "albumKey": "i wander ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-17",
+          "url": "https://pitchfork.com/reviews/albums/djrum-i-wander/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Man Woman Chainsaw",
+      "album": "Cannonball",
+      "artistKey": "man woman chainsaw",
+      "albumKey": "cannonball",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-17",
+          "url": "https://pitchfork.com/reviews/albums/man-woman-chainsaw-cannonball/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Future",
       "album": "Monster",
       "artistKey": "future",
@@ -1136,60 +1222,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Frost Children",
-      "album": "Frost Fest Mixtape",
-      "artistKey": "frost children",
-      "albumKey": "frost fest mixtape",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-07",
-          "url": "https://pitchfork.com/reviews/albums/frost-children-frost-fest-mixtape/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gi Gi",
-      "album": "In Lieu",
-      "artistKey": "gi gi",
-      "albumKey": "in lieu",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-07",
-          "url": "https://pitchfork.com/reviews/albums/gi-gi-in-lieu/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Shaboozey",
-      "album": "The Outlaw Cherie Lee & Other Western Tales",
-      "artistKey": "shaboozey",
-      "albumKey": "the outlaw cherie lee and other western tales",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-06",
-          "url": "https://pitchfork.com/reviews/albums/shaboozey-the-outlaw-cherie-lee-and-other-western-tales/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lido Pimienta",
       "album": "Caribenya",
       "artistKey": "lido pimienta",
@@ -1237,24 +1269,6 @@
           "weight": 4,
           "publishedAt": "2026-06-09",
           "url": "https://stereogum.com/2501203/album-of-the-week-wiki-ancient-history/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Vince Staples",
-      "album": "Cry Baby",
-      "artistKey": "vince staples",
-      "albumKey": "cry baby",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
         }
       ],
       "editorialWeight": 5,
@@ -8840,24 +8854,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Kiwi Jr",
-      "album": "Blowin Up",
-      "artistKey": "kiwi jr",
-      "albumKey": "blowin up",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-14",
-          "url": "https://daily.bandcamp.com/album-of-the-day/kiwi-jr-blowin-up-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
       "artist": "André Cymone",
       "album": "The Resurrection of Funk",
       "artistKey": "andre cymone",
@@ -8874,6 +8870,24 @@
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "Djrum",
+      "album": "I Wander",
+      "artistKey": "djrum",
+      "albumKey": "i wander",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-17",
+          "url": "https://thequietus.com/quietus-reviews/djrum-i-wander-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Open Mike Eagle & Kenny Segal",
@@ -9074,17 +9088,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "John Carpenter",
-      "album": "Cathedral",
-      "artistKey": "john carpenter",
-      "albumKey": "cathedral",
+      "artist": "HULDER",
+      "album": "Verbolgen",
+      "artistKey": "hulder",
+      "albumKey": "verbolgen",
       "sources": [
         {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
           "publishedAt": "2026-08-10",
-          "url": "https://thequietus.com/quietus-reviews/john-carpenter-cathedral-review/"
+          "url": "https://daily.bandcamp.com/album-of-the-day/hulder-verbolgen-review"
         }
       ],
       "editorialWeight": 4,
@@ -13250,6 +13264,96 @@
       "mentionCount": 1
     },
     {
+      "artist": "Lammoth",
+      "album": "Onward",
+      "artistKey": "lammoth",
+      "albumKey": "onward",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Racing Mount Pleasant",
+      "album": "Live on KEXP",
+      "artistKey": "racing mount pleasant",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rell Be Free featuring Shakiah, Gabriel Teodros, TheOneJakobi, Gyasi & Khingz",
+      "album": "Everything Is Everything",
+      "artistKey": "rell be free featuring shakiah gabriel teodros theonejakobi gyasi and khingz",
+      "albumKey": "everything is everything",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Telehealth",
+      "album": "Green World Image",
+      "artistKey": "telehealth",
+      "albumKey": "green world image",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wednesday",
+      "album": "Live on KEXP",
+      "artistKey": "wednesday",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Jamie She",
       "album": "Funeral Songs`",
       "artistKey": "jamie she",
@@ -14348,24 +14452,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Radiator Hospital",
-      "album": "Distorting Time",
-      "artistKey": "radiator hospital",
-      "albumKey": "distorting time",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Regularfantasy & Cecile Believe",
       "album": "The Rabbit EP",
       "artistKey": "regularfantasy and cecile believe",
@@ -14618,24 +14704,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Blue Lab Beats",
-      "album": "The Blue Lab Beats Show",
-      "artistKey": "blue lab beats",
-      "albumKey": "the blue lab beats show",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Dua Saleh",
       "album": "Of Earth & Wires",
       "artistKey": "dua saleh",
@@ -14683,96 +14751,6 @@
           "weight": 3,
           "publishedAt": "2026-08-06",
           "url": "https://www.indieshuffle.com/brandano-life-g-on/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bruses",
-      "album": "Live on KEXP",
-      "artistKey": "bruses",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gelli Haha",
-      "album": "Live on KEXP",
-      "artistKey": "gelli haha",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Madonna",
-      "album": "CONFESSIONS II",
-      "artistKey": "madonna",
-      "albumKey": "confessions ii",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Møtrik & TEKE::TEKE",
-      "album": "Weightless (SEI Remix)",
-      "artistKey": "m trik and teke teke",
-      "albumKey": "weightless sei remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tigers Jaw",
-      "album": "Live on KEXP",
-      "artistKey": "tigers jaw",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-06",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

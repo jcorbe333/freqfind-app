@@ -1,6 +1,31 @@
 {
-  "generatedAt": "2026-08-17T08:35:22.337Z",
+  "generatedAt": "2026-08-18T08:27:43.452Z",
   "items": [
+    {
+      "artist": "L’Rain",
+      "album": "fata morgana",
+      "artistKey": "lrain",
+      "albumKey": "fata morgana",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-17",
+          "url": "https://daily.bandcamp.com/album-of-the-day/lrain-fata-morgana-review"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-14",
+          "url": "https://pitchfork.com/reviews/albums/lrain-fata-morgana/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 10
+    },
     {
       "artist": "Kiwi Jr",
       "album": "Blowin Up",
@@ -20,31 +45,6 @@
           "weight": 4,
           "publishedAt": "2026-08-14",
           "url": "https://daily.bandcamp.com/album-of-the-day/kiwi-jr-blowin-up-review"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 10
-    },
-    {
-      "artist": "Mallory Hawk",
-      "album": "Chinook",
-      "artistKey": "mallory hawk",
-      "albumKey": "chinook",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-10",
-          "url": "https://pitchfork.com/reviews/albums/mallory-hawk-chinook/"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-07-28",
-          "url": "https://stereogum.com/2506443/album-of-the-week-mallory-hawk-chinook/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 11,
@@ -252,31 +252,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Ravyn Lenae",
-      "album": "Blue Island",
-      "artistKey": "ravyn lenae",
-      "albumKey": "blue island",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-07",
-          "url": "https://pitchfork.com/reviews/albums/ravyn-lenae-blue-island/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Iceage",
       "album": "For Love of Grace & the Hereafter",
       "artistKey": "iceage",
@@ -427,6 +402,56 @@
       "mentionCount": 2
     },
     {
+      "artist": "Parlor Greens",
+      "album": "Emeralds",
+      "artistKey": "parlor greens",
+      "albumKey": "emeralds",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-18",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-03-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Hannah Lew",
+      "album": "Hannah Lew",
+      "artistKey": "hannah lew",
+      "albumKey": "hannah lew",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-17",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-04-15",
+          "url": "https://daily.bandcamp.com/album-of-the-day/hannah-lew-self-titled-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Vince Staples",
       "album": "Cry Baby",
       "artistKey": "vince staples",
@@ -500,24 +525,6 @@
       "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
-    },
-    {
-      "artist": "Lrain",
-      "album": "fata morgana",
-      "artistKey": "lrain",
-      "albumKey": "fata morgana",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-14",
-          "url": "https://pitchfork.com/reviews/albums/lrain-fata-morgana/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
     },
     {
       "artist": "Phoebe Bridgers",
@@ -841,6 +848,78 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Karol G",
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "artistKey": "karol g",
+      "albumKey": "no me arrepiento de sentir tanto",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-18",
+          "url": "https://pitchfork.com/reviews/albums/karol-g-no-me-arrepiento-de-sentir-tanto/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Katseye",
+      "album": "Wild EP",
+      "artistKey": "katseye",
+      "albumKey": "wild ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-18",
+          "url": "https://pitchfork.com/reviews/albums/katseye-wild-ep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ksuuvi",
+      "album": "ksuuvi buckets xtended",
+      "artistKey": "ksuuvi",
+      "albumKey": "ksuuvi buckets xtended",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-18",
+          "url": "https://pitchfork.com/reviews/albums/ksuuvi-ksuuvi-buckets-xtended/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Laura Veirs",
+      "album": "Temple Songs",
+      "artistKey": "laura veirs",
+      "albumKey": "temple songs",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-18",
+          "url": "https://pitchfork.com/reviews/albums/laura-veirs-temple-songs/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1179,42 +1258,6 @@
           "weight": 5,
           "publishedAt": "2026-08-10",
           "url": "https://pitchfork.com/reviews/albums/roy-montgomery-martha-skye-murphy-nebular/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Cure",
-      "album": "Mixed Up",
-      "artistKey": "the cure",
-      "albumKey": "mixed up",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-09",
-          "url": "https://pitchfork.com/reviews/albums/the-cure-mixed-up/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Overmono",
-      "album": "Pure Devotion",
-      "artistKey": "overmono",
-      "albumKey": "pure devotion",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-08",
-          "url": "https://pitchfork.com/reviews/albums/overmono-pure-devotion/"
         }
       ],
       "editorialWeight": 5,
@@ -8854,22 +8897,22 @@
       "mentionCount": 1
     },
     {
-      "artist": "André Cymone",
-      "album": "The Resurrection of Funk",
-      "artistKey": "andre cymone",
-      "albumKey": "the resurrection of funk",
+      "artist": "Christer Bothén/Oren Ambarchi/Johan Berthling/Andreas Werliin",
+      "album": "Serpentine",
+      "artistKey": "christer bothen oren ambarchi johan berthling andreas werliin",
+      "albumKey": "serpentine",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-08-13",
-          "url": "https://daily.bandcamp.com/album-of-the-day/andre-cymone-the-resurrection-of-funk-review"
+          "publishedAt": "2026-08-18",
+          "url": "https://thequietus.com/quietus-reviews/christer-bothen-oren-ambarchi-johan-berthling-andreas-werliin-serpentine-review/"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Djrum",
@@ -8923,6 +8966,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "André Cymone",
+      "album": "The Resurrection of Funk",
+      "artistKey": "andre cymone",
+      "albumKey": "the resurrection of funk",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-13",
+          "url": "https://daily.bandcamp.com/album-of-the-day/andre-cymone-the-resurrection-of-funk-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -9279,6 +9340,24 @@
           "weight": 4,
           "publishedAt": "2026-07-29",
           "url": "https://daily.bandcamp.com/album-of-the-day/sir-richard-bishop-hillbilly-erotica-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mallory Hawk",
+      "album": "Chinook",
+      "artistKey": "mallory hawk",
+      "albumKey": "chinook",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-07-28",
+          "url": "https://stereogum.com/2506443/album-of-the-week-mallory-hawk-chinook/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -10636,24 +10715,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Hannah Lew",
-      "album": "Hannah Lew",
-      "artistKey": "hannah lew",
-      "albumKey": "hannah lew",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-04-15",
-          "url": "https://daily.bandcamp.com/album-of-the-day/hannah-lew-self-titled-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Rosa Pistola",
       "album": "Incorregible",
       "artistKey": "rosa pistola",
@@ -10899,24 +10960,6 @@
           "weight": 4,
           "publishedAt": "2026-03-27",
           "url": "https://daily.bandcamp.com/album-of-the-day/the-montvales-path-of-totality-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Parlor Greens",
-      "album": "Emeralds",
-      "artistKey": "parlor greens",
-      "albumKey": "emeralds",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-03-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
         }
       ],
       "editorialWeight": 4,
@@ -13264,6 +13307,186 @@
       "mentionCount": 1
     },
     {
+      "artist": "Lucha Luna",
+      "album": "Ritmo Eterno (Maga Bo Remix)",
+      "artistKey": "lucha luna",
+      "albumKey": "ritmo eterno maga bo remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Moses Yoofee Trio",
+      "album": "CHASING LIGHT",
+      "artistKey": "moses yoofee trio",
+      "albumKey": "chasing light",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Acid Arab & Yasmine Hamdan",
+      "album": "Resonance",
+      "artistKey": "acid arab and yasmine hamdan",
+      "albumKey": "resonance",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fred Again",
+      "album": "Mabe (Ft. Latin Mafia & Mabe Fratti)",
+      "artistKey": "fred again",
+      "albumKey": "mabe ft latin mafia and mabe fratti",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-08-17",
+          "url": "https://www.indieshuffle.com/fred-again-mabe-ft-latin-mafia-mabe-fratti/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "hey thanks.",
+      "album": "Avoidance",
+      "artistKey": "hey thanks",
+      "albumKey": "avoidance",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Homeboy Sandman",
+      "album": "Still Champion",
+      "artistKey": "homeboy sandman",
+      "albumKey": "still champion",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jam City",
+      "album": "My World",
+      "artistKey": "jam city",
+      "albumKey": "my world",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kathleen Hanna, Ad Rock, Money Mark, Fredo Ortiz, Frank Figueroa",
+      "album": "Contra-Ice Vol. 1: ICE OUT",
+      "artistKey": "kathleen hanna ad rock money mark fredo ortiz frank figueroa",
+      "albumKey": "contra ice vol 1 ice out",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sera Cahoone",
+      "album": "Say Something",
+      "artistKey": "sera cahoone",
+      "albumKey": "say something",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shabazz Palaces",
+      "album": "It’s a Style Sport",
+      "artistKey": "shabazz palaces",
+      "albumKey": "its a style sport",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Lammoth",
       "album": "Onward",
       "artistKey": "lammoth",
@@ -13678,10 +13901,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Moses Yoofee Trio",
-      "album": "CHASING LIGHT",
-      "artistKey": "moses yoofee trio",
-      "albumKey": "chasing light",
+      "artist": "Ravyn Lenae",
+      "album": "Blue Island",
+      "artistKey": "ravyn lenae",
+      "albumKey": "blue island",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14110,24 +14333,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Shabazz Palaces",
-      "album": "It’s a Style Sport",
-      "artistKey": "shabazz palaces",
-      "albumKey": "its a style sport",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Slacker / Georg-i",
       "album": "Brittle Forms",
       "artistKey": "slacker georg i",
@@ -14506,24 +14711,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Lucha Luna",
-      "album": "Ritmo Eterno (Maga Bo Remix)",
-      "artistKey": "lucha luna",
-      "albumKey": "ritmo eterno maga bo remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "PawPaw Rod",
       "album": "Picture Day: A PawPaw Rod Album",
       "artistKey": "pawpaw rod",
@@ -14678,60 +14865,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Baauer",
-      "album": "U",
-      "artistKey": "baauer",
-      "albumKey": "u",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dua Saleh",
-      "album": "Of Earth & Wires",
-      "artistKey": "dua saleh",
-      "albumKey": "of earth and wires",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-07",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Herbert & Momoko",
-      "album": "Clay (Bonus Edition)",
-      "artistKey": "herbert and momoko",
-      "albumKey": "clay bonus edition",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-07",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15435,24 +15568,6 @@
           "weight": 3,
           "publishedAt": "2026-03-25",
           "url": "https://www.indieshuffle.com/mounika-3dhearth/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "DLG.",
-      "album": "Dinner at 3am",
-      "artistKey": "dlg",
-      "albumKey": "dinner at 3am",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-03-16",
-          "url": "https://www.indieshuffle.com/dlg--dinner-at-3am/"
         }
       ],
       "editorialWeight": 3,

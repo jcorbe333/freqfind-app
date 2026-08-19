@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T08:27:43.452Z",
+  "generatedAt": "2026-08-19T08:28:40.881Z",
   "items": [
     {
       "artist": "L’Rain",
@@ -25,6 +25,31 @@
       "editorialWeight": 11,
       "multiSourceBonus": 2,
       "mentionCount": 10
+    },
+    {
+      "artist": "Papangu",
+      "album": "Celestial",
+      "artistKey": "papangu",
+      "albumKey": "celestial",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-19",
+          "url": "https://pitchfork.com/reviews/albums/papangu-celestial/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-07",
+          "url": "https://daily.bandcamp.com/album-of-the-day/papangu-celestial-review"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Kiwi Jr",
@@ -427,6 +452,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Westside Cowboy",
+      "album": "It Goes On",
+      "artistKey": "westside cowboy",
+      "albumKey": "it goes on",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-08-18",
+          "url": "https://stereogum.com/2508517/album-of-the-week-westside-cowboy-it-goes-on/reviews/album-of-the-week/"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-12",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Hannah Lew",
       "album": "Hannah Lew",
       "artistKey": "hannah lew",
@@ -525,6 +575,24 @@
       "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
+    },
+    {
+      "artist": "King Gizzard And The Lizard Wizard",
+      "album": "Alien Metal",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "alien metal",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-19",
+          "url": "https://pitchfork.com/reviews/albums/king-gizzard-and-the-lizard-wizard-alien-metal/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Phoebe Bridgers",
@@ -653,6 +721,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "PetroDragonic Apocalypse",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "petrodragonic apocalypse",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Snooper",
       "album": "Super Sn​õ​õ​per",
       "artistKey": "snooper",
@@ -664,6 +750,24 @@
           "weight": 5,
           "publishedAt": "2023-01-01",
           "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "Laminated Denim",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "laminated denim",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
         }
       ],
       "editorialWeight": 6,
@@ -833,6 +937,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "Infest the Rats’ Nest",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "infest the rats nest",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Xiu Xiu",
       "album": "Girl with Basket of Fruit",
       "artistKey": "xiu xiu",
@@ -848,6 +970,42 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Icona Pop",
+      "album": "Ritual",
+      "artistKey": "icona pop",
+      "albumKey": "ritual",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-19",
+          "url": "https://pitchfork.com/reviews/albums/icona-pop-ritual/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Womack Sisters",
+      "album": "The Womack Sisters",
+      "artistKey": "the womack sisters",
+      "albumKey": "the womack sisters",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-19",
+          "url": "https://pitchfork.com/reviews/albums/the-womack-sisters-the-womack-sisters/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1139,24 +1297,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Citizen",
-      "album": "Halcyon Blues",
-      "artistKey": "citizen",
-      "albumKey": "halcyon blues",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-11",
-          "url": "https://pitchfork.com/reviews/albums/citizen-halcyon-blues/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Role Model",
       "album": "Chuck Timely & The Hourglass",
       "artistKey": "role model",
@@ -1204,60 +1344,6 @@
           "weight": 5,
           "publishedAt": "2026-08-11",
           "url": "https://pitchfork.com/reviews/albums/the-mountain-goats-days/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "artistKey": "lil uzi vert",
-      "albumKey": "maverick almost forever ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-10",
-          "url": "https://pitchfork.com/reviews/albums/lil-uzi-vert-maverick-almost-forever-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Margaret Glaspy",
-      "album": "I Am Both",
-      "artistKey": "margaret glaspy",
-      "albumKey": "i am both",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-10",
-          "url": "https://pitchfork.com/reviews/albums/margaret-glaspy-i-am-both/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Roy Montgomery Martha Skye Murphy",
-      "album": "Nebular",
-      "artistKey": "roy montgomery martha skye murphy",
-      "albumKey": "nebular",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-10",
-          "url": "https://pitchfork.com/reviews/albums/roy-montgomery-martha-skye-murphy-nebular/"
         }
       ],
       "editorialWeight": 5,
@@ -1870,6 +1956,24 @@
           "weight": 4,
           "publishedAt": "2025-10-21",
           "url": "https://daily.bandcamp.com/album-of-the-day/sudan-archives-the-bpm-review"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Castle Rat",
+      "album": "The Bestiary",
+      "artistKey": "castle rat",
+      "albumKey": "the bestiary",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-09-23",
+          "url": "https://daily.bandcamp.com/album-of-the-day/castle-rat-the-bestiary-review"
         }
       ],
       "editorialWeight": 5,
@@ -4451,24 +4555,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "PetroDragonic Apocalypse",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "petrodragonic apocalypse",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "King Krule",
       "album": "Space Heavy",
       "artistKey": "king krule",
@@ -5715,24 +5801,6 @@
       "album": "American Gurl",
       "artistKey": "kilo kish",
       "albumKey": "american gurl",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "Laminated Denim",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "laminated denim",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8393,24 +8461,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "Infest the Rats’ Nest",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "infest the rats nest",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kirin J. Callinan",
       "album": "Return to Center",
       "artistKey": "kirin j callinan",
@@ -8897,6 +8947,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Michael Christmas, Chris Crack & Girl Talk",
+      "album": "Don’t Come To My House Sharing Your Location",
+      "artistKey": "michael christmas chris crack and girl talk",
+      "albumKey": "dont come to my house sharing your location",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-18",
+          "url": "https://daily.bandcamp.com/album-of-the-day/michael-christmas-chris-crack-girl-talk-dont-come-to-my-house-sharing-your-location-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
+      "artist": "Melaina Kol",
+      "album": "Okay that’s a great idea because if I do that then",
+      "artistKey": "melaina kol",
+      "albumKey": "okay thats a great idea because if i do that then",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-19",
+          "url": "https://thequietus.com/quietus-reviews/melaina-kol-okay-thats-a-great-idea-because-if-i-do-that-then-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Castle Rat",
+      "album": "Live on KEXP",
+      "artistKey": "castle rat",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Christer Bothén/Oren Ambarchi/Johan Berthling/Andreas Werliin",
       "album": "Serpentine",
       "artistKey": "christer bothen oren ambarchi johan berthling andreas werliin",
@@ -9095,42 +9199,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Oen Sujet",
-      "album": "The Friendliest Fight We Know",
-      "artistKey": "oen sujet",
-      "albumKey": "the friendliest fight we know",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-11",
-          "url": "https://thequietus.com/quietus-reviews/oen-sujet-the-friendliest-fight-we-know-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Breedling",
-      "album": "A Straunge And Terrible Wunder",
-      "artistKey": "the breedling",
-      "albumKey": "a straunge and terrible wunder",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-11",
-          "url": "https://thequietus.com/quietus-reviews/the-breedling-a-straunge-and-terrible-wunder-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Asal",
       "album": "Kiss the Sun",
       "artistKey": "asal",
@@ -9200,24 +9268,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Papangu",
-      "album": "Celestial",
-      "artistKey": "papangu",
-      "albumKey": "celestial",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/papangu-celestial-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -12407,24 +12457,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Chat Pile + Hayden Pedigo",
-      "album": "In The Earth Again",
-      "artistKey": "chat pile hayden pedigo",
-      "albumKey": "in the earth again",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-10-28",
-          "url": "https://stereogum.com/2475773/album-of-the-week-chat-pile-hayden-pedigo-in-the-earth-again/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Gasper Lawal",
       "album": "Ajomasé",
       "artistKey": "gasper lawal",
@@ -12832,24 +12864,6 @@
           "weight": 4,
           "publishedAt": "2025-09-24",
           "url": "https://daily.bandcamp.com/album-of-the-day/mum-history-of-silence-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Castle Rat",
-      "album": "The Bestiary",
-      "artistKey": "castle rat",
-      "albumKey": "the bestiary",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-23",
-          "url": "https://daily.bandcamp.com/album-of-the-day/castle-rat-the-bestiary-review"
         }
       ],
       "editorialWeight": 4,
@@ -13289,20 +13303,92 @@
       "mentionCount": 1
     },
     {
-      "artist": "Delicate Steve",
-      "album": "Luke’s Garage",
-      "artistKey": "delicate steve",
-      "albumKey": "lukes garage",
+      "artist": "Dogs on Shady Lane",
+      "album": "Knots",
+      "artistKey": "dogs on shady lane",
+      "albumKey": "knots",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-18",
-          "url": "https://daily.bandcamp.com/album-of-the-day/delicate-steve-lukes-garage-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-19",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fcukers",
+      "album": "nüyork",
+      "artistKey": "fcukers",
+      "albumKey": "nuyork",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wimps",
+      "album": "Garbage People",
+      "artistKey": "wimps",
+      "albumKey": "garbage people",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Chastity Belt",
+      "album": "I Used to Spend So Much Time Alone",
+      "artistKey": "chastity belt",
+      "albumKey": "i used to spend so much time alone",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Helado Tropical",
+      "album": "Live on KEXP",
+      "artistKey": "helado tropical",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -14189,24 +14275,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Westside Cowboy",
-      "album": "It Goes On",
-      "artistKey": "westside cowboy",
-      "albumKey": "it goes on",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Automatic",
       "album": "Black Box (Nick Zinner Remix)",
       "artistKey": "automatic",
@@ -14693,24 +14761,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Jusmoni",
-      "album": "Sweet to Me",
-      "artistKey": "jusmoni",
-      "albumKey": "sweet to me",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "PawPaw Rod",
       "album": "Picture Day: A PawPaw Rod Album",
       "artistKey": "pawpaw rod",
@@ -14757,114 +14807,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Adi Oasis",
-      "album": "Silver Lining (Remixes)",
-      "artistKey": "adi oasis",
-      "albumKey": "silver lining remixes",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Family Worship Center",
-      "album": "Only Visiting",
-      "artistKey": "family worship center",
-      "albumKey": "only visiting",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ghostkeeper",
-      "album": "Mohkinstsis",
-      "artistKey": "ghostkeeper",
-      "albumKey": "mohkinstsis",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Karma Sheen",
-      "album": "Live on KEXP from Trans Musicales",
-      "artistKey": "karma sheen",
-      "albumKey": "live on kexp from trans musicales",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Olivia Komacheet, Seth Roach",
-      "album": "Murai",
-      "artistKey": "olivia komacheet seth roach",
-      "albumKey": "murai",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-08",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rei",
-      "album": "Never Ceded",
-      "artistKey": "rei",
-      "albumKey": "never ceded",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-08",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

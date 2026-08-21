@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T08:29:52.812Z",
+  "generatedAt": "2026-08-21T08:31:43.543Z",
   "items": [
     {
       "artist": "Makthaverskan",
@@ -284,31 +284,6 @@
       "mentionCount": 10
     },
     {
-      "artist": "Radiator Hospital",
-      "album": "Distorting Time",
-      "artistKey": "radiator hospital",
-      "albumKey": "distorting time",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-17",
-          "url": "https://pitchfork.com/reviews/albums/radiator-hospital-distorting-time/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Sweeping Promises",
       "album": "You Say I Romanticize",
       "artistKey": "sweeping promises",
@@ -577,31 +552,6 @@
           "weight": 4,
           "publishedAt": "2026-06-30",
           "url": "https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Manuela Ocampo",
-      "album": "Ocasos y Albas",
-      "artistKey": "manuela ocampo",
-      "albumKey": "ocasos y albas",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/manuela-ocampo-ocasos-y-albas-review"
         }
       ],
       "editorialWeight": 9,
@@ -969,6 +919,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Faith Leazae",
+      "album": "Faith EP",
+      "artistKey": "faith leazae",
+      "albumKey": "faith ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-21",
+          "url": "https://pitchfork.com/reviews/albums/faith-leazae-faith-ep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fred Again Latin Mafia",
+      "album": "9 months & 50 hours",
+      "artistKey": "fred again latin mafia",
+      "albumKey": "9 months and 50 hours",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-21",
+          "url": "https://pitchfork.com/reviews/albums/fred-again-latin-mafia-9-months-and-50-hours/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gb",
+      "album": "Herzsprung",
+      "artistKey": "gb",
+      "albumKey": "herzsprung",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-21",
+          "url": "https://pitchfork.com/reviews/albums/gb-herzsprung/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Squirrel Flower",
+      "album": "Say a Prayer to the Gods of Getting Going",
+      "artistKey": "squirrel flower",
+      "albumKey": "say a prayer to the gods of getting going",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-21",
+          "url": "https://pitchfork.com/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "730turk Trapculinary Vol2 The Recipe",
       "album": "Trapculinary vol.2 (the recipe)",
       "artistKey": "730turk trapculinary vol2 the recipe",
@@ -1185,6 +1207,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Radiator Hospital",
+      "album": "Distorting Time",
+      "artistKey": "radiator hospital",
+      "albumKey": "distorting time",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-17",
+          "url": "https://pitchfork.com/reviews/albums/radiator-hospital-distorting-time/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Future",
       "album": "Monster",
       "artistKey": "future",
@@ -1304,60 +1344,6 @@
           "weight": 5,
           "publishedAt": "2026-08-13",
           "url": "https://pitchfork.com/reviews/albums/moliy-baddies-3-moliy/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nino Paid",
-      "album": "Somewhere Over the Rainbow",
-      "artistKey": "nino paid",
-      "albumKey": "somewhere over the rainbow",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-12",
-          "url": "https://pitchfork.com/reviews/albums/nino-paid-somewhere-over-the-rainbow/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Starface Tyga S",
-      "album": "$TARFACE",
-      "artistKey": "starface tyga s",
-      "albumKey": "tarface",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-12",
-          "url": "https://pitchfork.com/reviews/albums/starface-tyga-starface/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Worldpeace Dmt",
-      "album": "Flowers Powers",
-      "artistKey": "worldpeace dmt",
-      "albumKey": "flowers powers",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-12",
-          "url": "https://pitchfork.com/reviews/albums/worldpeace-dmt-flowers-powers/"
         }
       ],
       "editorialWeight": 5,
@@ -1743,6 +1729,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "No Cure",
+      "album": "It Is Going to Get Dark",
+      "artistKey": "no cure",
+      "albumKey": "it is going to get dark",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
       "artistKey": "olivia rodrigo",
@@ -1873,6 +1877,24 @@
       "album": "WHACK'S MUSEUM",
       "artistKey": "tierra whack",
       "albumKey": "whacks museum",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Twisted Teens",
+      "album": "Florida Water Blues",
+      "artistKey": "twisted teens",
+      "albumKey": "florida water blues",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8961,17 +8983,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Michael Christmas, Chris Crack & Girl Talk",
-      "album": "Don’t Come To My House Sharing Your Location",
-      "artistKey": "michael christmas chris crack and girl talk",
-      "albumKey": "dont come to my house sharing your location",
+      "artist": "Tyondai Braxton",
+      "album": "Splayed Werks",
+      "artistKey": "tyondai braxton",
+      "albumKey": "splayed werks",
       "sources": [
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-08-18",
-          "url": "https://daily.bandcamp.com/album-of-the-day/michael-christmas-chris-crack-girl-talk-dont-come-to-my-house-sharing-your-location-review"
+          "publishedAt": "2026-08-20",
+          "url": "https://daily.bandcamp.com/album-of-the-day/tyondai-braxton-splayed-werks-review"
         }
       ],
       "editorialWeight": 4,
@@ -9051,6 +9073,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Michael Christmas, Chris Crack & Girl Talk",
+      "album": "Don’t Come To My House Sharing Your Location",
+      "artistKey": "michael christmas chris crack and girl talk",
+      "albumKey": "dont come to my house sharing your location",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-18",
+          "url": "https://daily.bandcamp.com/album-of-the-day/michael-christmas-chris-crack-girl-talk-dont-come-to-my-house-sharing-your-location-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Djrum",
       "album": "I Wander",
       "artistKey": "djrum",
@@ -9098,24 +9138,6 @@
           "weight": 4,
           "publishedAt": "2026-08-13",
           "url": "https://daily.bandcamp.com/album-of-the-day/andre-cymone-the-resurrection-of-funk-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "He Didnt",
-      "album": "Dark Making",
-      "artistKey": "he didnt",
-      "albumKey": "dark making",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-13",
-          "url": "https://thequietus.com/quietus-reviews/he-didnt-dark-making-review/"
         }
       ],
       "editorialWeight": 4,
@@ -9177,24 +9199,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Asal",
-      "album": "Kiss the Sun",
-      "artistKey": "asal",
-      "albumKey": "kiss the sun",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "HULDER",
       "album": "Verbolgen",
       "artistKey": "hulder",
@@ -9224,6 +9228,24 @@
           "weight": 4,
           "publishedAt": "2026-08-06",
           "url": "https://daily.bandcamp.com/album-of-the-day/abracadabra-peel-away-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Manuela Ocampo",
+      "album": "Ocasos y Albas",
+      "artistKey": "manuela ocampo",
+      "albumKey": "ocasos y albas",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/manuela-ocampo-ocasos-y-albas-review"
         }
       ],
       "editorialWeight": 4,
@@ -10020,24 +10042,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Asal",
-      "album": "Tolerance",
-      "artistKey": "asal",
-      "albumKey": "tolerance",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-06-05",
-          "url": "https://www.indieshuffle.com/asal-tolerance/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13209,20 +13213,38 @@
       "mentionCount": 1
     },
     {
-      "artist": "Galaxie 500",
-      "album": "CBGB 12.13.88",
-      "artistKey": "galaxie 500",
-      "albumKey": "cbgb 12 13 88",
+      "artist": "LEMONSUCKR",
+      "album": "Stain",
+      "artistKey": "lemonsuckr",
+      "albumKey": "stain",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-20",
-          "url": "https://daily.bandcamp.com/album-of-the-day/galaxie-500-cbgb-12-13-88-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-21",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Automatic",
+      "album": "Black Box (Nick Zinner Remix)",
+      "artistKey": "automatic",
+      "albumKey": "black box nick zinner remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13245,6 +13267,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Champagne Bubblebath",
+      "album": "Mixtape: Volume One",
+      "artistKey": "champagne bubblebath",
+      "albumKey": "mixtape volume one",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cutie Pie",
+      "album": "Cutie Pie",
+      "artistKey": "cutie pie",
+      "albumKey": "cutie pie",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Eric Slick",
+      "album": "Mannequin",
+      "artistKey": "eric slick",
+      "albumKey": "mannequin",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Erykah Badu & The Alchemist",
       "album": "Witch Doctor",
       "artistKey": "erykah badu and the alchemist",
@@ -13256,6 +13332,60 @@
           "weight": 3,
           "publishedAt": "2026-08-20",
           "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lime Garden",
+      "album": "Age of Consent' & 'Downtown Lover'",
+      "artistKey": "lime garden",
+      "albumKey": "age of consent and downtown lover",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Madonna",
+      "album": "CONFESSIONS II",
+      "artistKey": "madonna",
+      "albumKey": "confessions ii",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "No New Lovers",
+      "album": "Cycles",
+      "artistKey": "no new lovers",
+      "albumKey": "cycles",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-08-20",
+          "url": "https://www.indieshuffle.com/no-new-lovers-cycles/"
         }
       ],
       "editorialWeight": 3,
@@ -14343,226 +14473,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Automatic",
-      "album": "Black Box (Nick Zinner Remix)",
-      "artistKey": "automatic",
-      "albumKey": "black box nick zinner remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Budino",
-      "album": "Open Circuit",
-      "artistKey": "budino",
-      "albumKey": "open circuit",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fantastic Twins",
-      "album": "Wicked Game (Trinity Versions)",
-      "artistKey": "fantastic twins",
-      "albumKey": "wicked game trinity versions",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Guza",
-      "album": "Amor Fati",
-      "artistKey": "guza",
-      "albumKey": "amor fati",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hotel Pools",
-      "album": "BiLLiE",
-      "artistKey": "hotel pools",
-      "albumKey": "billie",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Oltrefuturo",
-      "album": "Figure Del Flusso (Movimenti Adriatici)",
-      "artistKey": "oltrefuturo",
-      "albumKey": "figure del flusso movimenti adriatici",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Orquestra Pacifico Tropical",
       "album": "El Poder",
       "artistKey": "orquestra pacifico tropical",
       "albumKey": "el poder",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Slacker / Georg-i",
-      "album": "Brittle Forms",
-      "artistKey": "slacker georg i",
-      "albumKey": "brittle forms",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Spike",
-      "album": "Spike",
-      "artistKey": "spike",
-      "albumKey": "spike",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "TAMTAM",
-      "album": "Café Après-Midi Meets Studio Ghibli",
-      "artistKey": "tamtam",
-      "albumKey": "cafe apres midi meets studio ghibli",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tengger",
-      "album": "SKY",
-      "artistKey": "tengger",
-      "albumKey": "sky",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Timur Basha",
-      "album": "Sluhay & Dyakuy",
-      "artistKey": "timur basha",
-      "albumKey": "sluhay and dyakuy",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tom Drew",
-      "album": "Astral Plane",
-      "artistKey": "tom drew",
-      "albumKey": "astral plane",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14587,186 +14501,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Akusmi",
-      "album": "Terra Incognita",
-      "artistKey": "akusmi",
-      "albumKey": "terra incognita",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fantastic Man",
-      "album": "A Little Bit More",
-      "artistKey": "fantastic man",
-      "albumKey": "a little bit more",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gabriele Poso",
-      "album": "Maraviglia",
-      "artistKey": "gabriele poso",
-      "albumKey": "maraviglia",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Headhunters",
-      "album": "Mojo Rhythm",
-      "artistKey": "headhunters",
-      "albumKey": "mojo rhythm",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hunter Complex",
-      "album": "Call of the Wild and Void",
-      "artistKey": "hunter complex",
-      "albumKey": "call of the wild and void",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jamie She",
-      "album": "I Never Thought I’d Feel This Way",
-      "artistKey": "jamie she",
-      "albumKey": "i never thought id feel this way",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lime Garden",
-      "album": "Age of Consent' & 'Downtown Lover'",
-      "artistKey": "lime garden",
-      "albumKey": "age of consent and downtown lover",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "NOSRETEP",
-      "album": "Misery Whip",
-      "artistKey": "nosretep",
-      "albumKey": "misery whip",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Proa feat. Sandy Nuni",
-      "album": "Incondicional",
-      "artistKey": "proa feat sandy nuni",
-      "albumKey": "incondicional",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Regularfantasy & Cecile Believe",
-      "album": "The Rabbit EP",
-      "artistKey": "regularfantasy and cecile believe",
-      "albumKey": "the rabbit ep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-10",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15002,6 +14736,24 @@
           "weight": 3,
           "publishedAt": "2026-06-09",
           "url": "https://www.indieshuffle.com/tyler-ballgame-for-the-first-time-again/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Asal",
+      "album": "Tolerance",
+      "artistKey": "asal",
+      "albumKey": "tolerance",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-06-05",
+          "url": "https://www.indieshuffle.com/asal-tolerance/"
         }
       ],
       "editorialWeight": 3,

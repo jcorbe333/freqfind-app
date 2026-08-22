@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T08:31:43.543Z",
+  "generatedAt": "2026-08-22T08:20:20.064Z",
   "items": [
     {
       "artist": "Makthaverskan",
@@ -281,56 +281,6 @@
       ],
       "editorialWeight": 10,
       "multiSourceBonus": 2,
-      "mentionCount": 10
-    },
-    {
-      "artist": "Sweeping Promises",
-      "album": "You Say I Romanticize",
-      "artistKey": "sweeping promises",
-      "albumKey": "you say i romanticize",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-14",
-          "url": "https://pitchfork.com/reviews/albums/sweeping-promises-you-say-i-romanticize/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Iceage",
-      "album": "For Love of Grace & the Hereafter",
-      "artistKey": "iceage",
-      "albumKey": "for love of grace and the hereafter",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
       "mentionCount": 2
     },
     {
@@ -434,6 +384,56 @@
       "mentionCount": 2
     },
     {
+      "artist": "Spacemoth",
+      "album": "Inward Eye",
+      "artistKey": "spacemoth",
+      "albumKey": "inward eye",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-21",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-30",
+          "url": "https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Tasha",
+      "album": "You Are Spring!",
+      "artistKey": "tasha",
+      "albumKey": "you are spring",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-21",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-06-23",
+          "url": "https://stereogum.com/2502949/album-of-the-week-tasha-you-are-spring/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Parlor Greens",
       "album": "Emeralds",
       "artistKey": "parlor greens",
@@ -527,31 +527,6 @@
           "weight": 4,
           "publishedAt": "2026-06-05",
           "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Spacemoth",
-      "album": "Inward Eye",
-      "artistKey": "spacemoth",
-      "albumKey": "inward eye",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-15",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-30",
-          "url": "https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review"
         }
       ],
       "editorialWeight": 9,
@@ -916,6 +891,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Cramps",
+      "album": "Gravest Gravy",
+      "artistKey": "the cramps",
+      "albumKey": "gravest gravy",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-22",
+          "url": "https://pitchfork.com/reviews/albums/the-cramps-gravest-gravy/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1297,17 +1290,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "James Ellis Ford",
-      "album": "Lost in Another World",
-      "artistKey": "james ellis ford",
-      "albumKey": "lost in another world",
+      "artist": "Sweeping Promises",
+      "album": "You Say I Romanticize",
+      "artistKey": "sweeping promises",
+      "albumKey": "you say i romanticize",
       "sources": [
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-08-13",
-          "url": "https://pitchfork.com/reviews/albums/james-ellis-ford-lost-in-another-world/"
+          "publishedAt": "2026-08-14",
+          "url": "https://pitchfork.com/reviews/albums/sweeping-promises-you-say-i-romanticize/"
         }
       ],
       "editorialWeight": 5,
@@ -1553,6 +1546,24 @@
       "album": "The Mountain",
       "artistKey": "gorillaz",
       "albumKey": "the mountain",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Iceage",
+      "album": "For Love of Grace & the Hereafter",
+      "artistKey": "iceage",
+      "albumKey": "for love of grace and the hereafter",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8983,22 +8994,40 @@
       "mentionCount": 1
     },
     {
-      "artist": "Tyondai Braxton",
-      "album": "Splayed Werks",
-      "artistKey": "tyondai braxton",
-      "albumKey": "splayed werks",
+      "artist": "Ok Cowgirl",
+      "album": "Rhinestone Cowgirl",
+      "artistKey": "ok cowgirl",
+      "albumKey": "rhinestone cowgirl",
       "sources": [
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-08-20",
-          "url": "https://daily.bandcamp.com/album-of-the-day/tyondai-braxton-splayed-werks-review"
+          "publishedAt": "2026-08-21",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ok-cowgirl-rhinestone-cowgirl-review"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "Sarah Davachi",
+      "album": "The Will of Tongues",
+      "artistKey": "sarah davachi",
+      "albumKey": "the will of tongues",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-21",
+          "url": "https://thequietus.com/quietus-reviews/sarah-davachi-the-will-of-tongues-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Missing",
@@ -9012,6 +9041,24 @@
           "weight": 4,
           "publishedAt": "2026-08-20",
           "url": "https://thequietus.com/quietus-reviews/missing-cities-without-rivers-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tyondai Braxton",
+      "album": "Splayed Werks",
+      "artistKey": "tyondai braxton",
+      "albumKey": "splayed werks",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-20",
+          "url": "https://daily.bandcamp.com/album-of-the-day/tyondai-braxton-splayed-werks-review"
         }
       ],
       "editorialWeight": 4,
@@ -9840,24 +9887,6 @@
           "weight": 4,
           "publishedAt": "2026-06-23",
           "url": "https://daily.bandcamp.com/album-of-the-day/born-at-midnite-eternal-bam-nation-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tasha",
-      "album": "You Are Spring!",
-      "artistKey": "tasha",
-      "albumKey": "you are spring",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-06-23",
-          "url": "https://stereogum.com/2502949/album-of-the-week-tasha-you-are-spring/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -13195,20 +13224,110 @@
       "mentionCount": 1
     },
     {
-      "artist": "Junior Murvin",
-      "album": "Cool Down the Heat",
-      "artistKey": "junior murvin",
-      "albumKey": "cool down the heat",
+      "artist": "Arlo Parks",
+      "album": "Ambiguous Desire",
+      "artistKey": "arlo parks",
+      "albumKey": "ambiguous desire",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-21",
-          "url": "https://daily.bandcamp.com/album-of-the-day/junior-murvin-cool-down-the-heat-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-22",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Baby Dayliner feat. Alex Sanchez",
+      "album": "You Push I'll Go",
+      "artistKey": "baby dayliner feat alex sanchez",
+      "albumKey": "you push ill go",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Chuck Strangers feat. The Alchemist",
+      "album": "Glory of the King’s Hand",
+      "artistKey": "chuck strangers feat the alchemist",
+      "albumKey": "glory of the kings hand",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Curtis Harding",
+      "album": "Face Your Fear",
+      "artistKey": "curtis harding",
+      "albumKey": "face your fear",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Herbert & Momoko",
+      "album": "Clay (Bonus Edition)",
+      "artistKey": "herbert and momoko",
+      "albumKey": "clay bonus edition",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kokoroko",
+      "album": "Tempos Difíceis Sempre Passam",
+      "artistKey": "kokoroko",
+      "albumKey": "tempos dificeis sempre passam",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13217,6 +13336,42 @@
       "album": "Stain",
       "artistKey": "lemonsuckr",
       "albumKey": "stain",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "New Constellations & STRFKR",
+      "album": "Hot Blooded (Rose City rework)",
+      "artistKey": "new constellations and strfkr",
+      "albumKey": "hot blooded rose city rework",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Neighborhood Kids",
+      "album": "Live on KEXP",
+      "artistKey": "the neighborhood kids",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14365,64 +14520,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "IZCO feat.Camille Munn",
-      "album": "Strike a Pose (Karen Nyame KG remix)",
-      "artistKey": "izco feat camille munn",
-      "albumKey": "strike a pose karen nyame kg remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Johanna Samuels",
-      "album": "Sorry, Kid",
-      "artistKey": "johanna samuels",
-      "albumKey": "sorry kid",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kathleen Hanna ft. Ad-Rock, Money Mark, Fredo Ortiz, & Frank Figueroa",
       "album": "Contra-ICE Vol. 1: ICE OUT",
       "artistKey": "kathleen hanna ft ad rock money mark fredo ortiz and frank figueroa",
       "albumKey": "contra ice vol 1 ice out",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Telehealth",
-      "album": "Live on KEXP",
-      "artistKey": "telehealth",
-      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14465,42 +14566,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Orquestra Pacifico Tropical",
-      "album": "El Poder",
-      "artistKey": "orquestra pacifico tropical",
-      "albumKey": "el poder",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wet Leg",
-      "album": "moisturizer (deluxe)",
-      "artistKey": "wet leg",
-      "albumKey": "moisturizer deluxe",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-11",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

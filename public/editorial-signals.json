@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T08:20:20.064Z",
+  "generatedAt": "2026-08-24T08:39:43.040Z",
   "items": [
     {
       "artist": "Makthaverskan",
@@ -259,31 +259,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Open Mike Eagle & Kenny Segal",
-      "album": "DOOMED!",
-      "artistKey": "open mike eagle and kenny segal",
-      "albumKey": "doomed",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-19",
-          "url": "https://daily.bandcamp.com/album-of-the-day/open-mike-eagle-kenny-segal-doomed-review"
-        },
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-14",
-          "url": "https://thequietus.com/quietus-reviews/open-mike-eagle-kenny-segal-doomed/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Aldous Harding",
       "album": "Train On The Island",
       "artistKey": "aldous harding",
@@ -459,31 +434,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Westside Cowboy",
-      "album": "It Goes On",
-      "artistKey": "westside cowboy",
-      "albumKey": "it goes on",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-08-18",
-          "url": "https://stereogum.com/2508517/album-of-the-week-westside-cowboy-it-goes-on/reviews/album-of-the-week/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Hannah Lew",
       "album": "Hannah Lew",
       "artistKey": "hannah lew",
@@ -534,6 +484,42 @@
       "mentionCount": 2
     },
     {
+      "artist": "Chelsea Wolfe",
+      "album": "The Dark",
+      "artistKey": "chelsea wolfe",
+      "albumKey": "the dark",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-24",
+          "url": "https://pitchfork.com/reviews/albums/chelsea-wolfe-the-dark/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Weezer",
+      "album": "Weezer (Gold Album)",
+      "artistKey": "weezer",
+      "albumKey": "weezer gold album",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-24",
+          "url": "https://pitchfork.com/reviews/albums/weezer-weezer-gold-album/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "King Gizzard And The Lizard Wizard",
       "album": "Alien Metal",
       "artistKey": "king gizzard and the lizard wizard",
@@ -552,24 +538,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Phoebe Bridgers",
-      "album": "Lost Weekend",
-      "artistKey": "phoebe bridgers",
-      "albumKey": "lost weekend",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-13",
-          "url": "https://pitchfork.com/reviews/albums/phoebe-bridgers-lost-weekend/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "SML",
       "album": "Spontaneous Music Live",
       "artistKey": "sml",
@@ -581,6 +549,24 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "album": "She Reaches Out to She Reaches Out to She",
+      "artistKey": "chelsea wolfe",
+      "albumKey": "she reaches out to she reaches out to she",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
         }
       ],
       "editorialWeight": 6,
@@ -750,10 +736,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "St. Vincent",
-      "album": "Daddy’s Home",
-      "artistKey": "st vincent",
-      "albumKey": "daddys home",
+      "artist": "Weezer",
+      "album": "OK Human",
+      "artistKey": "weezer",
+      "albumKey": "ok human",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -822,24 +808,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Phoebe Bridgers",
-      "album": "Punisher",
-      "artistKey": "phoebe bridgers",
-      "albumKey": "punisher",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Daphni",
       "album": "Sizzling",
       "artistKey": "daphni",
@@ -891,6 +859,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Black Marble",
+      "album": "Life in Small Spaces",
+      "artistKey": "black marble",
+      "albumKey": "life in small spaces",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-24",
+          "url": "https://pitchfork.com/reviews/albums/black-marble-life-in-small-spaces/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pooh Shiesty",
+      "album": "All Eyes on Shiest",
+      "artistKey": "pooh shiesty",
+      "albumKey": "all eyes on shiest",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-24",
+          "url": "https://pitchfork.com/reviews/albums/pooh-shiesty-all-eyes-on-shiest/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Paradis",
+      "album": "Recto Verso",
+      "artistKey": "paradis",
+      "albumKey": "recto verso",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-23",
+          "url": "https://pitchfork.com/reviews/albums/paradis-recto-verso/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1254,24 +1276,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Michael Christmas Chris Crack Girl Talk",
-      "album": "Don’t Come to My House Sharing Your Location",
-      "artistKey": "michael christmas chris crack girl talk",
-      "albumKey": "dont come to my house sharing your location",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-14",
-          "url": "https://pitchfork.com/reviews/albums/michael-christmas-chris-crack-girl-talk-dont-come-to-my-house-sharing-your-location/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Open Mike Eagle Kenny Segal",
       "album": "DOOMED!",
       "artistKey": "open mike eagle kenny segal",
@@ -1283,60 +1287,6 @@
           "weight": 5,
           "publishedAt": "2026-08-14",
           "url": "https://pitchfork.com/reviews/albums/open-mike-eagle-kenny-segal-doomed/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sweeping Promises",
-      "album": "You Say I Romanticize",
-      "artistKey": "sweeping promises",
-      "albumKey": "you say i romanticize",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-14",
-          "url": "https://pitchfork.com/reviews/albums/sweeping-promises-you-say-i-romanticize/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kurupt Dj Battlecat",
-      "album": "Tales From My Hood",
-      "artistKey": "kurupt dj battlecat",
-      "albumKey": "tales from my hood",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-13",
-          "url": "https://pitchfork.com/reviews/albums/kurupt-dj-battlecat-tales-from-my-hood/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Moliy",
-      "album": "BADDIES <3 MOLIY",
-      "artistKey": "moliy",
-      "albumKey": "baddies 3 moliy",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-13",
-          "url": "https://pitchfork.com/reviews/albums/moliy-baddies-3-moliy/"
         }
       ],
       "editorialWeight": 5,
@@ -3292,24 +3242,6 @@
       "album": "It’s Sorted",
       "artistKey": "cheekface",
       "albumKey": "its sorted",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chelsea Wolfe",
-      "album": "She Reaches Out to She Reaches Out to She",
-      "artistKey": "chelsea wolfe",
-      "albumKey": "she reaches out to she reaches out to she",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -6942,6 +6874,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "St. Vincent",
+      "album": "Daddy’s Home",
+      "artistKey": "st vincent",
+      "albumKey": "daddys home",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Sufjan Stevens & Angelo De Augustine",
       "album": "A Beginner’s Mind",
       "artistKey": "sufjan stevens and angelo de augustine",
@@ -7018,24 +6968,6 @@
       "album": "Welfare Jazz",
       "artistKey": "viagra boys",
       "albumKey": "welfare jazz",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Weezer",
-      "album": "OK Human",
-      "artistKey": "weezer",
-      "albumKey": "ok human",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -7918,6 +7850,24 @@
       "album": "Set My Heart on Fire Immediately",
       "artistKey": "perfume genius",
       "albumKey": "set my heart on fire immediately",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "album": "Punisher",
+      "artistKey": "phoebe bridgers",
+      "albumKey": "punisher",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9012,6 +8962,42 @@
       "mentionCount": 9
     },
     {
+      "artist": "Stephen O’Malley",
+      "album": "Avaeken",
+      "artistKey": "stephen omalley",
+      "albumKey": "avaeken",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-24",
+          "url": "https://thequietus.com/quietus-reviews/stephen-omalley-avaeken-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Balming Tiger",
+      "album": "Gongbu",
+      "artistKey": "balming tiger",
+      "albumKey": "gongbu",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Sarah Davachi",
       "album": "The Will of Tongues",
       "artistKey": "sarah davachi",
@@ -9084,6 +9070,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Open Mike Eagle & Kenny Segal",
+      "album": "DOOMED!",
+      "artistKey": "open mike eagle and kenny segal",
+      "albumKey": "doomed",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-19",
+          "url": "https://daily.bandcamp.com/album-of-the-day/open-mike-eagle-kenny-segal-doomed-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Castle Rat",
       "album": "Live on KEXP",
       "artistKey": "castle rat",
@@ -9138,6 +9142,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Westside Cowboy",
+      "album": "It Goes On",
+      "artistKey": "westside cowboy",
+      "albumKey": "it goes on",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-08-18",
+          "url": "https://stereogum.com/2508517/album-of-the-week-westside-cowboy-it-goes-on/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Djrum",
       "album": "I Wander",
       "artistKey": "djrum",
@@ -9153,24 +9175,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "St. Vincent",
-      "album": "LIVE IN LONDON! (BBC Proms at the Royal Albert Hall)",
-      "artistKey": "st vincent",
-      "albumKey": "live in london bbc proms at the royal albert hall",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9405,6 +9409,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Balming Tiger",
+      "album": "Oui",
+      "artistKey": "balming tiger",
+      "albumKey": "oui",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.indieshuffle.com/balming-tiger-oui/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13206,20 +13228,74 @@
       "mentionCount": 1
     },
     {
-      "artist": "Water From Your Eyes",
-      "album": "It’s A Beautiful Place",
-      "artistKey": "water from your eyes",
-      "albumKey": "its a beautiful place",
+      "artist": "Atabasca",
+      "album": "Atabasca",
+      "artistKey": "atabasca",
+      "albumKey": "atabasca",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-22",
-          "url": "https://daily.bandcamp.com/album-of-the-day/water-from-your-eyes-its-a-beautiful-place-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-23",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "foamboy",
+      "album": "STUPID HOT",
+      "artistKey": "foamboy",
+      "albumKey": "stupid hot",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Protoje",
+      "album": "The Art of Acceptance",
+      "artistKey": "protoje",
+      "albumKey": "the art of acceptance",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Public Enemy, Austin Millz & Nico de Andrea",
+      "album": "Bring The Noise 2026",
+      "artistKey": "public enemy austin millz and nico de andrea",
+      "albumKey": "bring the noise 2026",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13228,6 +13304,114 @@
       "album": "Ambiguous Desire",
       "artistKey": "arlo parks",
       "albumKey": "ambiguous desire",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ghostkeeper",
+      "album": "Balloon Moon",
+      "artistKey": "ghostkeeper",
+      "albumKey": "balloon moon",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ken Pomeroy",
+      "album": "Tonight's News",
+      "artistKey": "ken pomeroy",
+      "albumKey": "tonights news",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MYXA",
+      "album": "Live on KEXP",
+      "artistKey": "myxa",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Renata Yazzie",
+      "album": "your hands are chiral and so are mine",
+      "artistKey": "renata yazzie",
+      "albumKey": "your hands are chiral and so are mine",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Two-Man Giant Squid",
+      "album": "I Was a DJ in 2015 (NOVABLOOD Remix)",
+      "artistKey": "two man giant squid",
+      "albumKey": "i was a dj in 2015 novablood remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wolf Alice",
+      "album": "Visions of a Life",
+      "artistKey": "wolf alice",
+      "albumKey": "visions of a life",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14034,24 +14218,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "MYXA",
-      "album": "Live on KEXP",
-      "artistKey": "myxa",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Angus & Julia Stone",
       "album": "Celestial Bodies",
       "artistKey": "angus and julia stone",
@@ -14142,24 +14308,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Open Mike Eagle & Kenny Segal feat. Hemlock Ernst",
-      "album": "DOOMED!",
-      "artistKey": "open mike eagle and kenny segal feat hemlock ernst",
-      "albumKey": "doomed",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Pit Pony",
       "album": "Thunder",
       "artistKey": "pit pony",
@@ -14188,384 +14336,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Zeddy Will & Janelle Monáe",
-      "album": "Party at the Beach",
-      "artistKey": "zeddy will and janelle monae",
-      "albumKey": "party at the beach",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bruise Control",
-      "album": "Bruise Control",
-      "artistKey": "bruise control",
-      "albumKey": "bruise control",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Goldie Boutilier",
-      "album": "HOW TO BE A LOVER",
-      "artistKey": "goldie boutilier",
-      "albumKey": "how to be a lover",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Graham Coxon",
-      "album": "Billy Says",
-      "artistKey": "graham coxon",
-      "albumKey": "billy says",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Honey Dijon feat. Greentea Peng",
-      "album": "The Nightlife",
-      "artistKey": "honey dijon feat greentea peng",
-      "albumKey": "the nightlife",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jon Hopkins, Imogen Heap",
-      "album": "Reckoning",
-      "artistKey": "jon hopkins imogen heap",
-      "albumKey": "reckoning",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kathleen Hanna",
-      "album": "Contra-ICE Vol. 1; ICE Out",
-      "artistKey": "kathleen hanna",
-      "albumKey": "contra ice vol 1 ice out",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lucha Luna",
-      "album": "BRILLA BRILLA: Remixed",
-      "artistKey": "lucha luna",
-      "albumKey": "brilla brilla remixed",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ravyn Lenae",
-      "album": "Blue Island",
-      "artistKey": "ravyn lenae",
-      "albumKey": "blue island",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Simian Mobile Disco feat. Deep Throat Choir",
-      "album": "Murmurations",
-      "artistKey": "simian mobile disco feat deep throat choir",
-      "albumKey": "murmurations",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Black Tones",
-      "album": "Bombs",
-      "artistKey": "the black tones",
-      "albumKey": "bombs",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Black Tones",
-      "album": "Diamond Ruby Night",
-      "artistKey": "the black tones",
-      "albumKey": "diamond ruby night",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Toadies",
-      "album": "Live on KEXP",
-      "artistKey": "toadies",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "zzzahara",
-      "album": "Live on KEXP",
-      "artistKey": "zzzahara",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Aqiestoy",
-      "album": "Daño Choca",
-      "artistKey": "aqiestoy",
-      "albumKey": "dano choca",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "casi",
-      "album": "CASI",
-      "artistKey": "casi",
-      "albumKey": "casi",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dig",
-      "album": "something in the air",
-      "artistKey": "dig",
-      "albumKey": "something in the air",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gurriers",
-      "album": "Nobody's Coming to Save You",
-      "artistKey": "gurriers",
-      "albumKey": "nobodys coming to save you",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kathleen Hanna ft. Ad-Rock, Money Mark, Fredo Ortiz, & Frank Figueroa",
-      "album": "Contra-ICE Vol. 1: ICE OUT",
-      "artistKey": "kathleen hanna ft ad rock money mark fredo ortiz and frank figueroa",
-      "albumKey": "contra ice vol 1 ice out",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "True Blue",
-      "album": "Fountain Edits",
-      "artistKey": "true blue",
-      "albumKey": "fountain edits",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Two-Man Giant Squid",
-      "album": "I Was a DJ in 2015 (NOVABLOOD Remix)",
-      "artistKey": "two man giant squid",
-      "albumKey": "i was a dj in 2015 novablood remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-12",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14603,24 +14373,6 @@
           "weight": 3,
           "publishedAt": "2026-08-01",
           "url": "https://www.indieshuffle.com/sofi-tukker-barthelona/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Balming Tiger",
-      "album": "Oui",
-      "artistKey": "balming tiger",
-      "albumKey": "oui",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-07-28",
-          "url": "https://www.indieshuffle.com/balming-tiger-oui/"
         }
       ],
       "editorialWeight": 3,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T08:34:03.396Z",
+  "generatedAt": "2026-08-26T08:35:06.674Z",
   "items": [
     {
       "artist": "Makthaverskan",
@@ -34,6 +34,31 @@
       "mentionCount": 3
     },
     {
+      "artist": "Julia Holter",
+      "album": "Materia",
+      "artistKey": "julia holter",
+      "albumKey": "materia",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-26",
+          "url": "https://pitchfork.com/reviews/albums/julia-holter-materia/"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-26",
+          "url": "https://thequietus.com/quietus-reviews/julia-holter-materia-review/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Papangu",
       "album": "Celestial",
       "artistKey": "papangu",
@@ -52,31 +77,6 @@
           "weight": 4,
           "publishedAt": "2026-08-07",
           "url": "https://daily.bandcamp.com/album-of-the-day/papangu-celestial-review"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Kiwi Jr",
-      "album": "Blowin Up",
-      "artistKey": "kiwi jr",
-      "albumKey": "blowin up",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-17",
-          "url": "https://pitchfork.com/reviews/albums/kiwi-jr-blowin-up/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-14",
-          "url": "https://daily.bandcamp.com/album-of-the-day/kiwi-jr-blowin-up-review"
         }
       ],
       "editorialWeight": 11,
@@ -384,6 +384,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Spacemoth",
+      "album": "Inward Eye",
+      "artistKey": "spacemoth",
+      "albumKey": "inward eye",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-25",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-30",
+          "url": "https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "sachi’s mirror",
       "album": "Talking in a Different Way",
       "artistKey": "sachis mirror",
@@ -427,31 +452,6 @@
           "weight": 4,
           "publishedAt": "2026-06-05",
           "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Spacemoth",
-      "album": "Inward Eye",
-      "artistKey": "spacemoth",
-      "albumKey": "inward eye",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-21",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-30",
-          "url": "https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review"
         }
       ],
       "editorialWeight": 9,
@@ -610,6 +610,24 @@
       "album": "She Reaches Out to She Reaches Out to She",
       "artistKey": "chelsea wolfe",
       "albumKey": "she reaches out to she reaches out to she",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Julia Holter",
+      "album": "Something in the Room She Moves",
+      "artistKey": "julia holter",
+      "albumKey": "something in the room she moves",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -909,6 +927,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Glizzy Glow",
+      "album": "Trench Baddie",
+      "artistKey": "glizzy glow",
+      "albumKey": "trench baddie",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-26",
+          "url": "https://pitchfork.com/reviews/albums/glizzy-glow-trench-baddie/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Living Weapon",
+      "album": "Death in the Family",
+      "artistKey": "living weapon",
+      "albumKey": "death in the family",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-26",
+          "url": "https://pitchfork.com/reviews/albums/living-weapon-death-in-the-family/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sam Smith",
+      "album": "Hazel Eyes",
+      "artistKey": "sam smith",
+      "albumKey": "hazel eyes",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-26",
+          "url": "https://pitchfork.com/reviews/albums/sam-smith-hazel-eyes/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1308,24 +1380,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Djrum I Wander",
-      "album": "I Wander EP",
-      "artistKey": "djrum i wander",
-      "albumKey": "i wander ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-17",
-          "url": "https://pitchfork.com/reviews/albums/djrum-i-wander/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "L’Rain",
       "album": "fata morgana",
       "artistKey": "lrain",
@@ -1341,42 +1395,6 @@
       ],
       "editorialWeight": 5,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Man Woman Chainsaw",
-      "album": "Cannonball",
-      "artistKey": "man woman chainsaw",
-      "albumKey": "cannonball",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-17",
-          "url": "https://pitchfork.com/reviews/albums/man-woman-chainsaw-cannonball/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Radiator Hospital",
-      "album": "Distorting Time",
-      "artistKey": "radiator hospital",
-      "albumKey": "distorting time",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-17",
-          "url": "https://pitchfork.com/reviews/albums/radiator-hospital-distorting-time/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -3580,24 +3598,6 @@
       "album": "I LAY DOWN MY LIFE FOR YOU",
       "artistKey": "jpegmafia",
       "albumKey": "i lay down my life for you",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Julia Holter",
-      "album": "Something in the Room She Moves",
-      "artistKey": "julia holter",
-      "albumKey": "something in the room she moves",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9012,6 +9012,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Lusine",
+      "album": "Melting Days",
+      "artistKey": "lusine",
+      "albumKey": "melting days",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-25",
+          "url": "https://daily.bandcamp.com/album-of-the-day/lusine-melting-days-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "frances chang",
       "album": "been thinking bout confession",
       "artistKey": "frances chang",
@@ -9030,24 +9048,6 @@
       "mentionCount": 9
     },
     {
-      "artist": "Ok Cowgirl",
-      "album": "Rhinestone Cowgirl",
-      "artistKey": "ok cowgirl",
-      "albumKey": "rhinestone cowgirl",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-21",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ok-cowgirl-rhinestone-cowgirl-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
       "artist": "Elanor Moss",
       "album": "The Knife, the Needle",
       "artistKey": "elanor moss",
@@ -9059,6 +9059,24 @@
           "weight": 4,
           "publishedAt": "2026-08-25",
           "url": "https://thequietus.com/quietus-reviews/elanor-moss-the-knife-the-needle-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Maripool",
+      "album": "Rotten Luck",
+      "artistKey": "maripool",
+      "albumKey": "rotten luck",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-08-25",
+          "url": "https://stereogum.com/2509250/album-of-the-week-maripool-rotten-luck/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -9099,6 +9117,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ok Cowgirl",
+      "album": "Rhinestone Cowgirl",
+      "artistKey": "ok cowgirl",
+      "albumKey": "rhinestone cowgirl",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-21",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ok-cowgirl-rhinestone-cowgirl-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -9264,17 +9300,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Djrum",
-      "album": "I Wander",
-      "artistKey": "djrum",
-      "albumKey": "i wander",
+      "artist": "Kiwi Jr",
+      "album": "Blowin Up",
+      "artistKey": "kiwi jr",
+      "albumKey": "blowin up",
       "sources": [
         {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-08-17",
-          "url": "https://thequietus.com/quietus-reviews/djrum-i-wander-review/"
+          "publishedAt": "2026-08-14",
+          "url": "https://daily.bandcamp.com/album-of-the-day/kiwi-jr-blowin-up-review"
         }
       ],
       "editorialWeight": 4,
@@ -12432,24 +12468,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sorry",
-      "album": "COSPLAY",
-      "artistKey": "sorry",
-      "albumKey": "cosplay",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-11-04",
-          "url": "https://stereogum.com/2476381/album-of-the-week-sorry-cosplay/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Ship Sket",
       "album": "InitiatriX",
       "artistKey": "ship sket",
@@ -13278,20 +13296,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "Steve Gunn",
-      "album": "Music for Writers",
-      "artistKey": "steve gunn",
-      "albumKey": "music for writers",
+      "artist": "Babehoven",
+      "album": "I See Them, I See Me",
+      "artistKey": "babehoven",
+      "albumKey": "i see them i see me",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-25",
-          "url": "https://daily.bandcamp.com/album-of-the-day/steve-gunn-music-for-writers-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-26",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lex Walton",
+      "album": "ULTIMATE LOVE FOREVER",
+      "artistKey": "lex walton",
+      "albumKey": "ultimate love forever",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lucha Luna",
+      "album": "Ritmo Eterno (Maga Bo Remix)",
+      "artistKey": "lucha luna",
+      "albumKey": "ritmo eterno maga bo remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13307,6 +13361,24 @@
           "weight": 3,
           "publishedAt": "2026-08-25",
           "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Beatenberg",
+      "album": "Scatterlings (Ft. Johnny Clegg)",
+      "artistKey": "beatenberg",
+      "albumKey": "scatterlings ft johnny clegg",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-08-25",
+          "url": "https://www.indieshuffle.com/beatenberg-scatterlings-ft-johnny-clegg/"
         }
       ],
       "editorialWeight": 3,
@@ -14466,24 +14538,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Lucha Luna",
-      "album": "Ritmo Eterno (Maga Bo Remix)",
-      "artistKey": "lucha luna",
-      "albumKey": "ritmo eterno maga bo remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Moses Yoofee Trio",
       "album": "CHASING LIGHT",
       "artistKey": "moses yoofee trio",
@@ -14710,24 +14764,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jamie She",
-      "album": "Funeral Songs`",
-      "artistKey": "jamie she",
-      "albumKey": "funeral songs",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-15",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

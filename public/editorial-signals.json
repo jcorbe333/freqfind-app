@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T08:35:06.674Z",
+  "generatedAt": "2026-08-27T18:43:02.160Z",
   "items": [
     {
       "artist": "Makthaverskan",
@@ -32,6 +32,56 @@
       "editorialWeight": 13,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "Elanor Moss",
+      "album": "The Knife, The Needle",
+      "artistKey": "elanor moss",
+      "albumKey": "the knife the needle",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-27",
+          "url": "https://pitchfork.com/reviews/albums/elanor-moss-the-knife-the-needle/"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-25",
+          "url": "https://thequietus.com/quietus-reviews/elanor-moss-the-knife-the-needle-review/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "frances chang",
+      "album": "been thinking bout confession",
+      "artistKey": "frances chang",
+      "albumKey": "been thinking bout confession",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-27",
+          "url": "https://pitchfork.com/reviews/albums/frances-chang-been-thinking-bout-confession/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/frances-chang-been-thinking-bout-confession-review"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Julia Holter",
@@ -234,6 +284,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Iceage",
+      "album": "For Love of Grace & the Hereafter",
+      "artistKey": "iceage",
+      "albumKey": "for love of grace and the hereafter",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-26",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Kelsey Lu",
       "album": "So Help Me God",
       "artistKey": "kelsey lu",
@@ -359,6 +434,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Parlor Greens",
+      "album": "Emeralds",
+      "artistKey": "parlor greens",
+      "albumKey": "emeralds",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-27",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-03-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "foodman",
       "album": "HIKARIGASASHIKOMU",
       "artistKey": "foodman",
@@ -477,56 +577,6 @@
           "weight": 4,
           "publishedAt": "2026-06-23",
           "url": "https://stereogum.com/2502949/album-of-the-week-tasha-you-are-spring/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Parlor Greens",
-      "album": "Emeralds",
-      "artistKey": "parlor greens",
-      "albumKey": "emeralds",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-18",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-03-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Hannah Lew",
-      "album": "Hannah Lew",
-      "artistKey": "hannah lew",
-      "albumKey": "hannah lew",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-17",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-04-15",
-          "url": "https://daily.bandcamp.com/album-of-the-day/hannah-lew-self-titled-review"
         }
       ],
       "editorialWeight": 9,
@@ -930,6 +980,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Plum",
+      "album": "Bodies in Motion",
+      "artistKey": "plum",
+      "albumKey": "bodies in motion",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-27",
+          "url": "https://pitchfork.com/reviews/albums/plum-bodies-in-motion/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wild Pink",
+      "album": "Still Coming Down",
+      "artistKey": "wild pink",
+      "albumKey": "still coming down",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-27",
+          "url": "https://pitchfork.com/reviews/albums/wild-pink-still-coming-down/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Glizzy Glow",
       "album": "Trench Baddie",
       "artistKey": "glizzy glow",
@@ -1308,78 +1394,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Karol G",
-      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-      "artistKey": "karol g",
-      "albumKey": "no me arrepiento de sentir tanto",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-18",
-          "url": "https://pitchfork.com/reviews/albums/karol-g-no-me-arrepiento-de-sentir-tanto/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Katseye",
-      "album": "Wild EP",
-      "artistKey": "katseye",
-      "albumKey": "wild ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-18",
-          "url": "https://pitchfork.com/reviews/albums/katseye-wild-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ksuuvi",
-      "album": "ksuuvi buckets xtended",
-      "artistKey": "ksuuvi",
-      "albumKey": "ksuuvi buckets xtended",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-18",
-          "url": "https://pitchfork.com/reviews/albums/ksuuvi-ksuuvi-buckets-xtended/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Laura Veirs",
-      "album": "Temple Songs",
-      "artistKey": "laura veirs",
-      "albumKey": "temple songs",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-18",
-          "url": "https://pitchfork.com/reviews/albums/laura-veirs-temple-songs/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "L’Rain",
       "album": "fata morgana",
       "artistKey": "lrain",
@@ -1600,24 +1614,6 @@
       "album": "The Mountain",
       "artistKey": "gorillaz",
       "albumKey": "the mountain",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Iceage",
-      "album": "For Love of Grace & the Hereafter",
-      "artistKey": "iceage",
-      "albumKey": "for love of grace and the hereafter",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9012,6 +9008,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Henry Threadgill, Vijay Iyer & Dafnis Prieto",
+      "album": "Fifteen",
+      "artistKey": "henry threadgill vijay iyer and dafnis prieto",
+      "albumKey": "fifteen",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-27",
+          "url": "https://daily.bandcamp.com/album-of-the-day/henry-threadgill-vijay-iyer-dafnis-prieto-fifteen-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
+      "artist": "Scrambled Eggs",
+      "album": "Happier Together, Filthier Than Ever: The Best Of",
+      "artistKey": "scrambled eggs",
+      "albumKey": "happier together filthier than ever the best of",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/scrambled-eggs-happier-together-filthier-than-ever-the-best-of-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
+      "artist": "Siavash Amini & Eugene Thacker",
+      "album": "Songs for Sad Poets, Vol. III",
+      "artistKey": "siavash amini and eugene thacker",
+      "albumKey": "songs for sad poets vol iii",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-27",
+          "url": "https://thequietus.com/quietus-reviews/siavash-amini-eugene-thacker-songs-for-sad-poets-vol-iii-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Lusine",
       "album": "Melting Days",
       "artistKey": "lusine",
@@ -9023,42 +9073,6 @@
           "weight": 4,
           "publishedAt": "2026-08-25",
           "url": "https://daily.bandcamp.com/album-of-the-day/lusine-melting-days-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
-      "artist": "frances chang",
-      "album": "been thinking bout confession",
-      "artistKey": "frances chang",
-      "albumKey": "been thinking bout confession",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/frances-chang-been-thinking-bout-confession-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
-      "artist": "Elanor Moss",
-      "album": "The Knife, the Needle",
-      "artistKey": "elanor moss",
-      "albumKey": "the knife the needle",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-25",
-          "url": "https://thequietus.com/quietus-reviews/elanor-moss-the-knife-the-needle-review/"
         }
       ],
       "editorialWeight": 4,
@@ -9138,42 +9152,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sarah Davachi",
-      "album": "The Will of Tongues",
-      "artistKey": "sarah davachi",
-      "albumKey": "the will of tongues",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-21",
-          "url": "https://thequietus.com/quietus-reviews/sarah-davachi-the-will-of-tongues-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Missing",
-      "album": "Cities Without Rivers",
-      "artistKey": "missing",
-      "albumKey": "cities without rivers",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-20",
-          "url": "https://thequietus.com/quietus-reviews/missing-cities-without-rivers-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Tyondai Braxton",
       "album": "Splayed Werks",
       "artistKey": "tyondai braxton",
@@ -9185,24 +9163,6 @@
           "weight": 4,
           "publishedAt": "2026-08-20",
           "url": "https://daily.bandcamp.com/album-of-the-day/tyondai-braxton-splayed-werks-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Melaina Kol",
-      "album": "Okay that’s a great idea because if I do that then",
-      "artistKey": "melaina kol",
-      "albumKey": "okay thats a great idea because if i do that then",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-19",
-          "url": "https://thequietus.com/quietus-reviews/melaina-kol-okay-thats-a-great-idea-because-if-i-do-that-then-review/"
         }
       ],
       "editorialWeight": 4,
@@ -9243,24 +9203,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Christer Bothén/Oren Ambarchi/Johan Berthling/Andreas Werliin",
-      "album": "Serpentine",
-      "artistKey": "christer bothen oren ambarchi johan berthling andreas werliin",
-      "albumKey": "serpentine",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-18",
-          "url": "https://thequietus.com/quietus-reviews/christer-bothen-oren-ambarchi-johan-berthling-andreas-werliin-serpentine-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -10841,6 +10783,24 @@
           "weight": 4,
           "publishedAt": "2026-04-16",
           "url": "https://daily.bandcamp.com/album-of-the-day/rocketship-a-certain-smile-a-certain-sadness-30th-anniversary-edition-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hannah Lew",
+      "album": "Hannah Lew",
+      "artistKey": "hannah lew",
+      "albumKey": "hannah lew",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-04-15",
+          "url": "https://daily.bandcamp.com/album-of-the-day/hannah-lew-self-titled-review"
         }
       ],
       "editorialWeight": 4,
@@ -13278,20 +13238,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "Adrian Sherwood",
-      "album": "The Collapse Of Everything",
-      "artistKey": "adrian sherwood",
-      "albumKey": "the collapse of everything",
+      "artist": "Busta Rhymes & J Dilla feat. D'angelo",
+      "album": "DILLAGENCE II",
+      "artistKey": "busta rhymes and j dilla feat dangelo",
+      "albumKey": "dillagence ii",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/adrian-sherwood-the-collapse-of-everything-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-27",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Champagne Bubblebath",
+      "album": "Mixtape: Volume One",
+      "artistKey": "champagne bubblebath",
+      "albumKey": "mixtape volume one",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hermanos Gutiérrez",
+      "album": "Los Ojos Del Cóndor",
+      "artistKey": "hermanos gutierrez",
+      "albumKey": "los ojos del condor",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13336,6 +13332,60 @@
       "album": "Ritmo Eterno (Maga Bo Remix)",
       "artistKey": "lucha luna",
       "albumKey": "ritmo eterno maga bo remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nappy Nina & Swarvy",
+      "album": "Sow & So",
+      "artistKey": "nappy nina and swarvy",
+      "albumKey": "sow and so",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nat Meek",
+      "album": "bunker tapes",
+      "artistKey": "nat meek",
+      "albumKey": "bunker tapes",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pozi",
+      "album": "Bark Bark",
+      "artistKey": "pozi",
+      "albumKey": "bark bark",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14214,24 +14264,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Champagne Bubblebath",
-      "album": "Mixtape: Volume One",
-      "artistKey": "champagne bubblebath",
-      "albumKey": "mixtape volume one",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Cutie Pie",
       "album": "Cutie Pie",
       "artistKey": "cutie pie",
@@ -14556,24 +14588,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Acid Arab & Yasmine Hamdan",
-      "album": "Resonance",
-      "artistKey": "acid arab and yasmine hamdan",
-      "albumKey": "resonance",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Fred Again",
       "album": "Mabe (Ft. Latin Mafia & Mabe Fratti)",
       "artistKey": "fred again",
@@ -14585,24 +14599,6 @@
           "weight": 3,
           "publishedAt": "2026-08-17",
           "url": "https://www.indieshuffle.com/fred-again-mabe-ft-latin-mafia-mabe-fratti/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "hey thanks.",
-      "album": "Avoidance",
-      "artistKey": "hey thanks",
-      "albumKey": "avoidance",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-17",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -14646,42 +14642,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Kathleen Hanna, Ad Rock, Money Mark, Fredo Ortiz, Frank Figueroa",
-      "album": "Contra-Ice Vol. 1: ICE OUT",
-      "artistKey": "kathleen hanna ad rock money mark fredo ortiz frank figueroa",
-      "albumKey": "contra ice vol 1 ice out",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sera Cahoone",
-      "album": "Say Something",
-      "artistKey": "sera cahoone",
-      "albumKey": "say something",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Shabazz Palaces",
       "album": "It’s a Style Sport",
       "artistKey": "shabazz palaces",
@@ -14692,78 +14652,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lammoth",
-      "album": "Onward",
-      "artistKey": "lammoth",
-      "albumKey": "onward",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Racing Mount Pleasant",
-      "album": "Live on KEXP",
-      "artistKey": "racing mount pleasant",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Telehealth",
-      "album": "Green World Image",
-      "artistKey": "telehealth",
-      "albumKey": "green world image",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wednesday",
-      "album": "Live on KEXP",
-      "artistKey": "wednesday",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-16",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15485,24 +15373,6 @@
           "weight": 3,
           "publishedAt": "2026-03-27",
           "url": "https://www.indieshuffle.com/lannds-hold-my-place/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mounika",
-      "album": "3Dhearth",
-      "artistKey": "mounika",
-      "albumKey": "3dhearth",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-03-25",
-          "url": "https://www.indieshuffle.com/mounika-3dhearth/"
         }
       ],
       "editorialWeight": 3,

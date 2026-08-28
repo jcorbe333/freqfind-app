@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T18:43:02.160Z",
+  "generatedAt": "2026-08-28T19:49:33.476Z",
   "items": [
     {
       "artist": "Makthaverskan",
@@ -109,24 +109,49 @@
       "mentionCount": 2
     },
     {
-      "artist": "Papangu",
-      "album": "Celestial",
-      "artistKey": "papangu",
-      "albumKey": "celestial",
+      "artist": "Open Mike Eagle & Kenny Segal",
+      "album": "DOOMED!",
+      "artistKey": "open mike eagle and kenny segal",
+      "albumKey": "doomed",
       "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-19",
-          "url": "https://pitchfork.com/reviews/albums/papangu-celestial/"
-        },
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-08-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/papangu-celestial-review"
+          "publishedAt": "2026-08-19",
+          "url": "https://daily.bandcamp.com/album-of-the-day/open-mike-eagle-kenny-segal-doomed-review"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Curió Curió",
+      "album": "Curió Curió",
+      "artistKey": "curio curio",
+      "albumKey": "curio curio",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/curio-curio-self-titled-review"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 11,
@@ -280,6 +305,31 @@
         }
       ],
       "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Twisted Teens",
+      "album": "Florida Water Blues",
+      "artistKey": "twisted teens",
+      "albumKey": "florida water blues",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-28",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -620,24 +670,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "King Gizzard And The Lizard Wizard",
-      "album": "Alien Metal",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "alien metal",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-19",
-          "url": "https://pitchfork.com/reviews/albums/king-gizzard-and-the-lizard-wizard-alien-metal/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "SML",
       "album": "Spontaneous Music Live",
       "artistKey": "sml",
@@ -746,24 +778,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "PetroDragonic Apocalypse",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "petrodragonic apocalypse",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Snooper",
       "album": "Super Sn​õ​õ​per",
       "artistKey": "snooper",
@@ -775,24 +789,6 @@
           "weight": 5,
           "publishedAt": "2023-01-01",
           "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "Laminated Denim",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "laminated denim",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
         }
       ],
       "editorialWeight": 6,
@@ -944,24 +940,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "King Gizzard & The Lizard Wizard",
-      "album": "Infest the Rats’ Nest",
-      "artistKey": "king gizzard and the lizard wizard",
-      "albumKey": "infest the rats nest",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Xiu Xiu",
       "album": "Girl with Basket of Fruit",
       "artistKey": "xiu xiu",
@@ -977,6 +955,78 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Denzel Curry Kenneth Blume",
+      "album": "ii",
+      "artistKey": "denzel curry kenneth blume",
+      "albumKey": "ii",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-28",
+          "url": "https://pitchfork.com/reviews/albums/denzel-curry-kenneth-blume-ii/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Interpol",
+      "album": "This Mirror Weighs a Ton",
+      "artistKey": "interpol",
+      "albumKey": "this mirror weighs a ton",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-28",
+          "url": "https://pitchfork.com/reviews/albums/interpol-this-mirror-weighs-a-ton/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jim James",
+      "album": "Wowed Out",
+      "artistKey": "jim james",
+      "albumKey": "wowed out",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-28",
+          "url": "https://pitchfork.com/reviews/albums/jim-james-wowed-out/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mike D",
+      "album": "Thank You",
+      "artistKey": "mike d",
+      "albumKey": "thank you",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-28",
+          "url": "https://pitchfork.com/reviews/albums/mike-d-thank-you/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1358,42 +1408,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Icona Pop",
-      "album": "Ritual",
-      "artistKey": "icona pop",
-      "albumKey": "ritual",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-19",
-          "url": "https://pitchfork.com/reviews/albums/icona-pop-ritual/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Womack Sisters",
-      "album": "The Womack Sisters",
-      "artistKey": "the womack sisters",
-      "albumKey": "the womack sisters",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-19",
-          "url": "https://pitchfork.com/reviews/albums/the-womack-sisters-the-womack-sisters/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "L’Rain",
       "album": "fata morgana",
       "artistKey": "lrain",
@@ -1560,6 +1574,24 @@
       "album": "Love Is Not Enough",
       "artistKey": "converge",
       "albumKey": "love is not enough",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Denzel Curry & Kenneth Blume",
+      "album": "ii",
+      "artistKey": "denzel curry and kenneth blume",
+      "albumKey": "ii",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -1934,24 +1966,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Twisted Teens",
-      "album": "Florida Water Blues",
-      "artistKey": "twisted teens",
-      "albumKey": "florida water blues",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "underscores",
       "album": "U",
       "artistKey": "underscores",
@@ -2017,24 +2031,6 @@
           "weight": 4,
           "publishedAt": "2025-10-21",
           "url": "https://daily.bandcamp.com/album-of-the-day/sudan-archives-the-bpm-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Castle Rat",
-      "album": "The Bestiary",
-      "artistKey": "castle rat",
-      "albumKey": "the bestiary",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-23",
-          "url": "https://daily.bandcamp.com/album-of-the-day/castle-rat-the-bestiary-review"
         }
       ],
       "editorialWeight": 5,
@@ -4598,6 +4594,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "PetroDragonic Apocalypse",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "petrodragonic apocalypse",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "King Krule",
       "album": "Space Heavy",
       "artistKey": "king krule",
@@ -5844,6 +5858,24 @@
       "album": "American Gurl",
       "artistKey": "kilo kish",
       "albumKey": "american gurl",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "Laminated Denim",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "laminated denim",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8522,6 +8554,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "album": "Infest the Rats’ Nest",
+      "artistKey": "king gizzard and the lizard wizard",
+      "albumKey": "infest the rats nest",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Kirin J. Callinan",
       "album": "Return to Center",
       "artistKey": "kirin j callinan",
@@ -9008,6 +9058,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Marci",
+      "album": "Mask Lady and Late Night Girl",
+      "artistKey": "marci",
+      "albumKey": "mask lady and late night girl",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-28",
+          "url": "https://daily.bandcamp.com/album-of-the-day/marci-mask-lady-and-late-night-girl-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
+      "artist": "Anyx",
+      "album": "Starlink",
+      "artistKey": "anyx",
+      "albumKey": "starlink",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-28",
+          "url": "https://thequietus.com/quietus-reviews/anyx-starlink-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Henry Threadgill, Vijay Iyer & Dafnis Prieto",
       "album": "Fifteen",
       "artistKey": "henry threadgill vijay iyer and dafnis prieto",
@@ -9023,25 +9109,7 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
-      "artist": "Scrambled Eggs",
-      "album": "Happier Together, Filthier Than Ever: The Best Of",
-      "artistKey": "scrambled eggs",
-      "albumKey": "happier together filthier than ever the best of",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/scrambled-eggs-happier-together-filthier-than-ever-the-best-of-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Siavash Amini & Eugene Thacker",
@@ -9055,6 +9123,24 @@
           "weight": 4,
           "publishedAt": "2026-08-27",
           "url": "https://thequietus.com/quietus-reviews/siavash-amini-eugene-thacker-songs-for-sad-poets-vol-iii-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Scrambled Eggs",
+      "album": "Happier Together, Filthier Than Ever: The Best Of",
+      "artistKey": "scrambled eggs",
+      "albumKey": "happier together filthier than ever the best of",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/scrambled-eggs-happier-together-filthier-than-ever-the-best-of-review"
         }
       ],
       "editorialWeight": 4,
@@ -9091,24 +9177,6 @@
           "weight": 4,
           "publishedAt": "2026-08-25",
           "url": "https://stereogum.com/2509250/album-of-the-week-maripool-rotten-luck/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Stephen O’Malley",
-      "album": "Avaeken",
-      "artistKey": "stephen omalley",
-      "albumKey": "avaeken",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-24",
-          "url": "https://thequietus.com/quietus-reviews/stephen-omalley-avaeken-review/"
         }
       ],
       "editorialWeight": 4,
@@ -9167,42 +9235,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Open Mike Eagle & Kenny Segal",
-      "album": "DOOMED!",
-      "artistKey": "open mike eagle and kenny segal",
-      "albumKey": "doomed",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-19",
-          "url": "https://daily.bandcamp.com/album-of-the-day/open-mike-eagle-kenny-segal-doomed-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Castle Rat",
-      "album": "Live on KEXP",
-      "artistKey": "castle rat",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9343,6 +9375,24 @@
           "weight": 4,
           "publishedAt": "2026-08-10",
           "url": "https://daily.bandcamp.com/album-of-the-day/hulder-verbolgen-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Papangu",
+      "album": "Celestial",
+      "artistKey": "papangu",
+      "albumKey": "celestial",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-07",
+          "url": "https://daily.bandcamp.com/album-of-the-day/papangu-celestial-review"
         }
       ],
       "editorialWeight": 4,
@@ -9541,24 +9591,6 @@
           "weight": 4,
           "publishedAt": "2026-07-27",
           "url": "https://daily.bandcamp.com/album-of-the-day/the-black-drumset-friends-in-dark-places-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Curió Curió",
-      "album": "Curió Curió",
-      "artistKey": "curio curio",
-      "albumKey": "curio curio",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/curio-curio-self-titled-review"
         }
       ],
       "editorialWeight": 4,
@@ -10628,9 +10660,9 @@
       "mentionCount": 1
     },
     {
-      "artist": "Charbel Harber",
+      "artist": "Charbel Haber",
       "album": "May a soft sun bless your sky while you wait for the inevitable",
-      "artistKey": "charbel harber",
+      "artistKey": "charbel haber",
       "albumKey": "may a soft sun bless your sky while you wait for the inevitable",
       "sources": [
         {
@@ -12914,6 +12946,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Castle Rat",
+      "album": "The Bestiary",
+      "artistKey": "castle rat",
+      "albumKey": "the bestiary",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2025-09-23",
+          "url": "https://daily.bandcamp.com/album-of-the-day/castle-rat-the-bestiary-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "pôt-pot",
       "album": "Warsaw 480km",
       "artistKey": "pot pot",
@@ -13213,24 +13263,6 @@
           "weight": 4,
           "publishedAt": "2025-08-28",
           "url": "https://daily.bandcamp.com/album-of-the-day/modern-nature-the-heat-warps"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kaitlyn Aurelia Smith",
-      "album": "GUSH",
-      "artistKey": "kaitlyn aurelia smith",
-      "albumKey": "gush",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-27",
-          "url": "https://daily.bandcamp.com/album-of-the-day/kaitlyn-aurelia-smith-gush-review"
         }
       ],
       "editorialWeight": 4,
@@ -14534,60 +14566,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Chastity Belt",
-      "album": "I Used to Spend So Much Time Alone",
-      "artistKey": "chastity belt",
-      "albumKey": "i used to spend so much time alone",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Helado Tropical",
-      "album": "Live on KEXP",
-      "artistKey": "helado tropical",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Moses Yoofee Trio",
-      "album": "CHASING LIGHT",
-      "artistKey": "moses yoofee trio",
-      "albumKey": "chasing light",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Fred Again",
       "album": "Mabe (Ft. Latin Mafia & Mabe Fratti)",
       "artistKey": "fred again",
@@ -14599,60 +14577,6 @@
           "weight": 3,
           "publishedAt": "2026-08-17",
           "url": "https://www.indieshuffle.com/fred-again-mabe-ft-latin-mafia-mabe-fratti/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Homeboy Sandman",
-      "album": "Still Champion",
-      "artistKey": "homeboy sandman",
-      "albumKey": "still champion",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jam City",
-      "album": "My World",
-      "artistKey": "jam city",
-      "albumKey": "my world",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Shabazz Palaces",
-      "album": "It’s a Style Sport",
-      "artistKey": "shabazz palaces",
-      "albumKey": "its a style sport",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-17",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

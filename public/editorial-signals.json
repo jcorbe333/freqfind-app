@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T19:49:33.476Z",
+  "generatedAt": "2026-08-29T13:31:34.299Z",
   "items": [
     {
       "artist": "Makthaverskan",
@@ -958,6 +958,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Dinosaur Jr",
+      "album": "There Near",
+      "artistKey": "dinosaur jr",
+      "albumKey": "there near",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-29",
+          "url": "https://pitchfork.com/reviews/albums/dinosaur-jr-there-near/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Denzel Curry Kenneth Blume",
       "album": "ii",
       "artistKey": "denzel curry kenneth blume",
@@ -1329,24 +1347,6 @@
           "weight": 5,
           "publishedAt": "2026-08-21",
           "url": "https://pitchfork.com/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "730turk Trapculinary Vol2 The Recipe",
-      "album": "Trapculinary vol.2 (the recipe)",
-      "artistKey": "730turk trapculinary vol2 the recipe",
-      "albumKey": "trapculinary vol 2 the recipe",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-20",
-          "url": "https://pitchfork.com/reviews/albums/730turk-trapculinary-vol2-the-recipe/"
         }
       ],
       "editorialWeight": 5,
@@ -13252,20 +13252,92 @@
       "mentionCount": 1
     },
     {
-      "artist": "Modern Nature",
-      "album": "The Heat Warps",
-      "artistKey": "modern nature",
-      "albumKey": "the heat warps",
+      "artist": "Czarface & Frankie Pulitzer",
+      "album": "Czarface Meets Frankie Pulitzer",
+      "artistKey": "czarface and frankie pulitzer",
+      "albumKey": "czarface meets frankie pulitzer",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-28",
-          "url": "https://daily.bandcamp.com/album-of-the-day/modern-nature-the-heat-warps"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-28",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dahi feat. Kendrick Lamar & Amber Mark",
+      "album": "Black Boy (Alternative)",
+      "artistKey": "dahi feat kendrick lamar and amber mark",
+      "albumKey": "black boy alternative",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Erykah Badu & The Alchemist",
+      "album": "Before The World Blows",
+      "artistKey": "erykah badu and the alchemist",
+      "albumKey": "before the world blows",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Erykah Badu & The Alchemist feat. Steve Lacy",
+      "album": "Before The World Blows",
+      "artistKey": "erykah badu and the alchemist feat steve lacy",
+      "albumKey": "before the world blows",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Turnstile & Panda Bear",
+      "album": "NEVER ENOUGH: VERSIONS",
+      "artistKey": "turnstile and panda bear",
+      "albumKey": "never enough versions",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -14440,118 +14512,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Dogs on Shady Lane",
-      "album": "Knots",
-      "artistKey": "dogs on shady lane",
-      "albumKey": "knots",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fcukers",
-      "album": "nüyork",
-      "artistKey": "fcukers",
-      "albumKey": "nuyork",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Feral Family",
-      "album": "The Razor",
-      "artistKey": "feral family",
-      "albumKey": "the razor",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Ken Pomeroy",
       "album": "Deportee",
       "artistKey": "ken pomeroy",
       "albumKey": "deportee",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "O’Phantom",
-      "album": "Deprivation",
-      "artistKey": "ophantom",
-      "albumKey": "deprivation",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rell Be Free featuring Shakiah, Gabriel Teodros, TheOneJakobi, Gyasi & Khingz",
-      "album": "Everything Is Everything",
-      "artistKey": "rell be free featuring shakiah gabriel teodros theonejakobi gyasi and khingz",
-      "albumKey": "everything is everything",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wimps",
-      "album": "Garbage People",
-      "artistKey": "wimps",
-      "albumKey": "garbage people",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -15279,24 +15243,6 @@
           "weight": 3,
           "publishedAt": "2026-04-01",
           "url": "https://www.indieshuffle.com/trails-and-ways-young/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "LANNDS",
-      "album": "Hold My Place",
-      "artistKey": "lannds",
-      "albumKey": "hold my place",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-03-27",
-          "url": "https://www.indieshuffle.com/lannds-hold-my-place/"
         }
       ],
       "editorialWeight": 3,

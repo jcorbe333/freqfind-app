@@ -1,38 +1,6 @@
 {
-  "generatedAt": "2026-08-29T13:31:34.299Z",
+  "generatedAt": "2026-08-30T13:27:51.795Z",
   "items": [
-    {
-      "artist": "Makthaverskan",
-      "album": "Glass and Bones",
-      "artistKey": "makthaverskan",
-      "albumKey": "glass and bones",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-19",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-04-08",
-          "url": "https://daily.bandcamp.com/album-of-the-day/makthaverskan-glass-and-bones-review"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-03-31",
-          "url": "https://stereogum.com/2494076/album-of-the-week-makthaverskan-glass-and-bones/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 13,
-      "multiSourceBonus": 2,
-      "mentionCount": 3
-    },
     {
       "artist": "Elanor Moss",
       "album": "The Knife, The Needle",
@@ -434,6 +402,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Makthaverskan",
+      "album": "Glass and Bones",
+      "artistKey": "makthaverskan",
+      "albumKey": "glass and bones",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-04-08",
+          "url": "https://daily.bandcamp.com/album-of-the-day/makthaverskan-glass-and-bones-review"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-03-31",
+          "url": "https://stereogum.com/2494076/album-of-the-week-makthaverskan-glass-and-bones/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Stuck",
       "album": "Optimizer",
       "artistKey": "stuck",
@@ -670,6 +663,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Jessie Ware",
+      "album": "Superbloom",
+      "artistKey": "jessie ware",
+      "albumKey": "superbloom",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "SML",
       "album": "Spontaneous Music Live",
       "artistKey": "sml",
@@ -771,6 +782,24 @@
           "weight": 5,
           "publishedAt": "2024-01-01",
           "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jessie Ware",
+      "album": "That! Feels Good!",
+      "artistKey": "jessie ware",
+      "albumKey": "that feels good",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
         }
       ],
       "editorialWeight": 6,
@@ -904,6 +933,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Jessie Ware",
+      "album": "What’s Your Pleasure?",
+      "artistKey": "jessie ware",
+      "albumKey": "whats your pleasure",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Lido Pimienta",
       "album": "Miss Colombia",
       "artistKey": "lido pimienta",
@@ -955,6 +1002,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Eagles",
+      "album": "Their Greatest Hits (1971-1975)",
+      "artistKey": "the eagles",
+      "albumKey": "their greatest hits 1971 1975",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-30",
+          "url": "https://pitchfork.com/reviews/albums/the-eagles-their-greatest-hits-1971-1975/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1390,24 +1455,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Prairie Princess",
-      "album": "Jewish American Prairie Princess",
-      "artistKey": "prairie princess",
-      "albumKey": "jewish american prairie princess",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-20",
-          "url": "https://pitchfork.com/reviews/albums/prairie-princess-jewish-american-prairie-princess/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "L’Rain",
       "album": "fata morgana",
       "artistKey": "lrain",
@@ -1682,24 +1729,6 @@
       "album": "Trying Times",
       "artistKey": "james blake",
       "albumKey": "trying times",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jessie Ware",
-      "album": "Superbloom",
-      "artistKey": "jessie ware",
-      "albumKey": "superbloom",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -4490,24 +4519,6 @@
       "album": "The Gray In Between",
       "artistKey": "jeromes dream",
       "albumKey": "the gray in between",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jessie Ware",
-      "album": "That! Feels Good!",
-      "artistKey": "jessie ware",
-      "albumKey": "that feels good",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -7708,24 +7719,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Jessie Ware",
-      "album": "What’s Your Pleasure?",
-      "artistKey": "jessie ware",
-      "albumKey": "whats your pleasure",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Jim O’Rourke",
       "album": "Shutting Down Here",
       "artistKey": "jim orourke",
@@ -9074,6 +9067,24 @@
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "Jessie Ware",
+      "album": "Sauna",
+      "artistKey": "jessie ware",
+      "albumKey": "sauna",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Anyx",
@@ -13234,20 +13245,20 @@
       "mentionCount": 1
     },
     {
-      "artist": "Miguel Zenón Quartet",
-      "album": "Vanguardia Subterránea: Live at The Village Vanguard",
-      "artistKey": "miguel zenon quartet",
-      "albumKey": "vanguardia subterranea live at the village vanguard",
+      "artist": "Tricky, Mitch Sanders & Run Red Rambo",
+      "album": "Different When It's Silent",
+      "artistKey": "tricky mitch sanders and run red rambo",
+      "albumKey": "different when its silent",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-08-29",
-          "url": "https://daily.bandcamp.com/album-of-the-day/miguel-zenon-quartet-vanguardia-subterranea-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-29",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -14332,24 +14343,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Automatic",
-      "album": "Black Box (Nick Zinner Remix)",
-      "artistKey": "automatic",
-      "albumKey": "black box nick zinner remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Bonobo",
       "album": "Always on Your Side (Ft. Joy Crookes)",
       "artistKey": "bonobo",
@@ -14361,24 +14354,6 @@
           "weight": 3,
           "publishedAt": "2026-08-20",
           "url": "https://www.indieshuffle.com/bonobo-always-on-your-side-ft-joy-crookes/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cutie Pie",
-      "album": "Cutie Pie",
-      "artistKey": "cutie pie",
-      "albumKey": "cutie pie",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-20",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -14404,60 +14379,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Erykah Badu & The Alchemist",
-      "album": "Witch Doctor",
-      "artistKey": "erykah badu and the alchemist",
-      "albumKey": "witch doctor",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lime Garden",
-      "album": "Age of Consent' & 'Downtown Lover'",
-      "artistKey": "lime garden",
-      "albumKey": "age of consent and downtown lover",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Madonna",
-      "album": "CONFESSIONS II",
-      "artistKey": "madonna",
-      "albumKey": "confessions ii",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "No New Lovers",
       "album": "Cycles",
       "artistKey": "no new lovers",
@@ -14469,60 +14390,6 @@
           "weight": 3,
           "publishedAt": "2026-08-20",
           "url": "https://www.indieshuffle.com/no-new-lovers-cycles/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rell Be Free",
-      "album": "Everything Is Everything",
-      "artistKey": "rell be free",
-      "albumKey": "everything is everything",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "TOKiMONSTA",
-      "album": "Memory on the Run",
-      "artistKey": "tokimonsta",
-      "albumKey": "memory on the run",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ken Pomeroy",
-      "album": "Deportee",
-      "artistKey": "ken pomeroy",
-      "albumKey": "deportee",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-19",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

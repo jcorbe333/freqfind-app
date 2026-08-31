@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-08-30T13:27:51.795Z",
+  "generatedAt": "2026-08-31T15:44:40.322Z",
   "items": [
+    {
+      "artist": "Interpol",
+      "album": "This Mirror Weighs a Ton",
+      "artistKey": "interpol",
+      "albumKey": "this mirror weighs a ton",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-08-31",
+          "url": "https://thequietus.com/quietus-reviews/interpol-this-mirror-weighs-a-ton-review/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-28",
+          "url": "https://pitchfork.com/reviews/albums/interpol-this-mirror-weighs-a-ton/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Westside Cowboy",
+      "album": "It Goes On",
+      "artistKey": "westside cowboy",
+      "albumKey": "it goes on",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-31",
+          "url": "https://pitchfork.com/reviews/albums/westside-cowboy-it-goes-on/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-08-18",
+          "url": "https://stereogum.com/2508517/album-of-the-week-westside-cowboy-it-goes-on/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
     {
       "artist": "Elanor Moss",
       "album": "The Knife, The Needle",
@@ -602,31 +652,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Tasha",
-      "album": "You Are Spring!",
-      "artistKey": "tasha",
-      "albumKey": "you are spring",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-21",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-06-23",
-          "url": "https://stereogum.com/2502949/album-of-the-week-tasha-you-are-spring/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Chelsea Wolfe",
       "album": "The Dark",
       "artistKey": "chelsea wolfe",
@@ -987,6 +1012,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Prince",
+      "album": "Originals",
+      "artistKey": "prince",
+      "albumKey": "originals",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Xiu Xiu",
       "album": "Girl with Basket of Fruit",
       "artistKey": "xiu xiu",
@@ -1002,6 +1045,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Liim",
+      "album": "A Sunflower Garden in Harlem Is Hard to Find",
+      "artistKey": "liim",
+      "albumKey": "a sunflower garden in harlem is hard to find",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-31",
+          "url": "https://pitchfork.com/reviews/albums/liim-a-sunflower-garden-in-harlem-is-hard-to-find/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Maria Isabel",
+      "album": "Miss Me Much?",
+      "artistKey": "maria isabel",
+      "albumKey": "miss me much",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-31",
+          "url": "https://pitchfork.com/reviews/albums/maria-isabel-miss-me-much/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mastodon",
+      "album": "Marrow Deep",
+      "artistKey": "mastodon",
+      "albumKey": "marrow deep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-31",
+          "url": "https://pitchfork.com/reviews/albums/mastodon-marrow-deep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1052,24 +1149,6 @@
           "weight": 5,
           "publishedAt": "2026-08-28",
           "url": "https://pitchfork.com/reviews/albums/denzel-curry-kenneth-blume-ii/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Interpol",
-      "album": "This Mirror Weighs a Ton",
-      "artistKey": "interpol",
-      "albumKey": "this mirror weighs a ton",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-28",
-          "url": "https://pitchfork.com/reviews/albums/interpol-this-mirror-weighs-a-ton/"
         }
       ],
       "editorialWeight": 5,
@@ -1347,42 +1426,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Faith Leazae",
-      "album": "Faith EP",
-      "artistKey": "faith leazae",
-      "albumKey": "faith ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-21",
-          "url": "https://pitchfork.com/reviews/albums/faith-leazae-faith-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fred Again Latin Mafia",
-      "album": "9 months & 50 hours",
-      "artistKey": "fred again latin mafia",
-      "albumKey": "9 months and 50 hours",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-21",
-          "url": "https://pitchfork.com/reviews/albums/fred-again-latin-mafia-9-months-and-50-hours/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Gb",
       "album": "Herzsprung",
       "artistKey": "gb",
@@ -1412,42 +1455,6 @@
           "weight": 5,
           "publishedAt": "2026-08-21",
           "url": "https://pitchfork.com/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dinner Party",
-      "album": "Whatchu Bringing?",
-      "artistKey": "dinner party",
-      "albumKey": "whatchu bringing",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-20",
-          "url": "https://pitchfork.com/reviews/albums/dinner-party-whatchu-bringing/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hovvdy",
-      "album": "Big World",
-      "artistKey": "hovvdy",
-      "albumKey": "big world",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-20",
-          "url": "https://pitchfork.com/reviews/albums/hovvdy-big-world/"
         }
       ],
       "editorialWeight": 5,
@@ -8781,24 +8788,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Prince",
-      "album": "Originals",
-      "artistKey": "prince",
-      "albumKey": "originals",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "PUP",
       "album": "Morbid Stuff",
       "artistKey": "pup",
@@ -9051,6 +9040,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Blind Yeo",
+      "album": "The Lemoine Point",
+      "artistKey": "blind yeo",
+      "albumKey": "the lemoine point",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-31",
+          "url": "https://daily.bandcamp.com/album-of-the-day/blind-yeo-the-lemoine-point-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Marci",
       "album": "Mask Lady and Late Night Girl",
       "artistKey": "marci",
@@ -9067,6 +9074,24 @@
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "Prince",
+      "album": "Timeless",
+      "artistKey": "prince",
+      "albumKey": "timeless",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-31",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Jessie Ware",
@@ -9260,24 +9285,6 @@
           "weight": 4,
           "publishedAt": "2026-08-18",
           "url": "https://daily.bandcamp.com/album-of-the-day/michael-christmas-chris-crack-girl-talk-dont-come-to-my-house-sharing-your-location-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Westside Cowboy",
-      "album": "It Goes On",
-      "artistKey": "westside cowboy",
-      "albumKey": "it goes on",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-08-18",
-          "url": "https://stereogum.com/2508517/album-of-the-week-westside-cowboy-it-goes-on/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -9998,6 +10005,24 @@
           "weight": 4,
           "publishedAt": "2026-06-23",
           "url": "https://daily.bandcamp.com/album-of-the-day/born-at-midnite-eternal-bam-nation-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tasha",
+      "album": "You Are Spring!",
+      "artistKey": "tasha",
+      "albumKey": "you are spring",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-06-23",
+          "url": "https://stereogum.com/2502949/album-of-the-week-tasha-you-are-spring/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -13254,7 +13279,79 @@
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-08-29",
+          "publishedAt": "2026-08-31",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "AAIIEENN",
+      "album": "phonetically ayen",
+      "artistKey": "aaiieenn",
+      "albumKey": "phonetically ayen",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Alewya feat. eejebee",
+      "album": "Zero",
+      "artistKey": "alewya feat eejebee",
+      "albumKey": "zero",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "LOV",
+      "album": "Iskwêw",
+      "artistKey": "lov",
+      "albumKey": "iskwew",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Renée Fleming, Béla Fleck & Dolly Parton",
+      "album": "The Fiddle and the Drum",
+      "artistKey": "renee fleming bela fleck and dolly parton",
+      "albumKey": "the fiddle and the drum",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-30",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14199,100 +14296,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Baby Dayliner feat. Alex Sanchez",
-      "album": "You Push I'll Go",
-      "artistKey": "baby dayliner feat alex sanchez",
-      "albumKey": "you push ill go",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chuck Strangers feat. The Alchemist",
-      "album": "Glory of the King’s Hand",
-      "artistKey": "chuck strangers feat the alchemist",
-      "albumKey": "glory of the kings hand",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Curtis Harding",
       "album": "Face Your Fear",
       "artistKey": "curtis harding",
       "albumKey": "face your fear",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Herbert & Momoko",
-      "album": "Clay (Bonus Edition)",
-      "artistKey": "herbert and momoko",
-      "albumKey": "clay bonus edition",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kokoroko",
-      "album": "Tempos Difíceis Sempre Passam",
-      "artistKey": "kokoroko",
-      "albumKey": "tempos dificeis sempre passam",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "LEMONSUCKR",
-      "album": "Stain",
-      "artistKey": "lemonsuckr",
-      "albumKey": "stain",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14325,24 +14332,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Neighborhood Kids",
-      "album": "Live on KEXP",
-      "artistKey": "the neighborhood kids",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Bonobo",
       "album": "Always on Your Side (Ft. Joy Crookes)",
       "artistKey": "bonobo",
@@ -14354,24 +14343,6 @@
           "weight": 3,
           "publishedAt": "2026-08-20",
           "url": "https://www.indieshuffle.com/bonobo-always-on-your-side-ft-joy-crookes/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Eric Slick",
-      "album": "Mannequin",
-      "artistKey": "eric slick",
-      "albumKey": "mannequin",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-20",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

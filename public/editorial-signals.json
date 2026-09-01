@@ -1,6 +1,31 @@
 {
-  "generatedAt": "2026-08-31T15:44:40.322Z",
+  "generatedAt": "2026-09-01T12:57:11.997Z",
   "items": [
+    {
+      "artist": "Mastodon",
+      "album": "Marrow Deep",
+      "artistKey": "mastodon",
+      "albumKey": "marrow deep",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-09-01",
+          "url": "https://thequietus.com/quietus-reviews/mastodon-marrow-deep-review/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-31",
+          "url": "https://pitchfork.com/reviews/albums/mastodon-marrow-deep/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
     {
       "artist": "Interpol",
       "album": "This Mirror Weighs a Ton",
@@ -45,31 +70,6 @@
           "weight": 4,
           "publishedAt": "2026-08-18",
           "url": "https://stereogum.com/2508517/album-of-the-week-westside-cowboy-it-goes-on/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Elanor Moss",
-      "album": "The Knife, The Needle",
-      "artistKey": "elanor moss",
-      "albumKey": "the knife the needle",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-27",
-          "url": "https://pitchfork.com/reviews/albums/elanor-moss-the-knife-the-needle/"
-        },
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-25",
-          "url": "https://thequietus.com/quietus-reviews/elanor-moss-the-knife-the-needle-review/"
         }
       ],
       "editorialWeight": 11,
@@ -527,6 +527,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Vince Staples",
+      "album": "Cry Baby",
+      "artistKey": "vince staples",
+      "albumKey": "cry baby",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-31",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Parlor Greens",
       "album": "Emeralds",
       "artistKey": "parlor greens",
@@ -627,29 +652,22 @@
       "mentionCount": 2
     },
     {
-      "artist": "Vince Staples",
-      "album": "Cry Baby",
-      "artistKey": "vince staples",
-      "albumKey": "cry baby",
+      "artist": "Turnstile",
+      "album": "NEVER ENOUGH: VERSIONS",
+      "artistKey": "turnstile",
+      "albumKey": "never enough versions",
       "sources": [
         {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-24",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-01",
+          "url": "https://pitchfork.com/reviews/albums/turnstile-never-enough-versions/"
         }
       ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Chelsea Wolfe",
@@ -904,6 +922,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Turnstile",
+      "album": "Glow On",
+      "artistKey": "turnstile",
+      "albumKey": "glow on",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Weezer",
       "album": "OK Human",
       "artistKey": "weezer",
@@ -1048,6 +1084,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Donatell",
+      "album": "Water, CA",
+      "artistKey": "donatell",
+      "albumKey": "water ca",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-01",
+          "url": "https://pitchfork.com/reviews/albums/donatell-water-ca/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sarah Davachi",
+      "album": "The Will of Tongues",
+      "artistKey": "sarah davachi",
+      "albumKey": "the will of tongues",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-01",
+          "url": "https://pitchfork.com/reviews/albums/sarah-davachi-the-will-of-tongues/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Afghan Whigs",
+      "album": "Soft Control",
+      "artistKey": "the afghan whigs",
+      "albumKey": "soft control",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-01",
+          "url": "https://pitchfork.com/reviews/albums/the-afghan-whigs-soft-control/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Liim",
       "album": "A Sunflower Garden in Harlem Is Hard to Find",
       "artistKey": "liim",
@@ -1077,24 +1167,6 @@
           "weight": 5,
           "publishedAt": "2026-08-31",
           "url": "https://pitchfork.com/reviews/albums/maria-isabel-miss-me-much/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mastodon",
-      "album": "Marrow Deep",
-      "artistKey": "mastodon",
-      "albumKey": "marrow deep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-31",
-          "url": "https://pitchfork.com/reviews/albums/mastodon-marrow-deep/"
         }
       ],
       "editorialWeight": 5,
@@ -1185,6 +1257,24 @@
           "weight": 5,
           "publishedAt": "2026-08-28",
           "url": "https://pitchfork.com/reviews/albums/mike-d-thank-you/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Elanor Moss",
+      "album": "The Knife, The Needle",
+      "artistKey": "elanor moss",
+      "albumKey": "the knife the needle",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-27",
+          "url": "https://pitchfork.com/reviews/albums/elanor-moss-the-knife-the-needle/"
         }
       ],
       "editorialWeight": 5,
@@ -1390,78 +1480,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Paradis",
-      "album": "Recto Verso",
-      "artistKey": "paradis",
-      "albumKey": "recto verso",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-23",
-          "url": "https://pitchfork.com/reviews/albums/paradis-recto-verso/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Cramps",
-      "album": "Gravest Gravy",
-      "artistKey": "the cramps",
-      "albumKey": "gravest gravy",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-22",
-          "url": "https://pitchfork.com/reviews/albums/the-cramps-gravest-gravy/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gb",
-      "album": "Herzsprung",
-      "artistKey": "gb",
-      "albumKey": "herzsprung",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-21",
-          "url": "https://pitchfork.com/reviews/albums/gb-herzsprung/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Squirrel Flower",
-      "album": "Say a Prayer to the Gods of Getting Going",
-      "artistKey": "squirrel flower",
-      "albumKey": "say a prayer to the gods of getting going",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-21",
-          "url": "https://pitchfork.com/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "L’Rain",
       "album": "fata morgana",
       "artistKey": "lrain",
@@ -1527,6 +1545,24 @@
           "weight": 4,
           "publishedAt": "2026-06-09",
           "url": "https://stereogum.com/2501203/album-of-the-week-wiki-ancient-history/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hannah Lew",
+      "album": "Hannah Lew",
+      "artistKey": "hannah lew",
+      "albumKey": "hannah lew",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-04-15",
+          "url": "https://daily.bandcamp.com/album-of-the-day/hannah-lew-self-titled-review"
         }
       ],
       "editorialWeight": 5,
@@ -7024,24 +7060,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Turnstile",
-      "album": "Glow On",
-      "artistKey": "turnstile",
-      "albumKey": "glow on",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Twin Shadow",
       "album": "Twin Shadow",
       "artistKey": "twin shadow",
@@ -9058,22 +9076,22 @@
       "mentionCount": 9
     },
     {
-      "artist": "Marci",
-      "album": "Mask Lady and Late Night Girl",
-      "artistKey": "marci",
-      "albumKey": "mask lady and late night girl",
+      "artist": "Hannah Lew",
+      "album": "Live on KEXP",
+      "artistKey": "hannah lew",
+      "albumKey": "live on kexp",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-28",
-          "url": "https://daily.bandcamp.com/album-of-the-day/marci-mask-lady-and-late-night-girl-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-31",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Prince",
@@ -9123,6 +9141,24 @@
           "weight": 4,
           "publishedAt": "2026-08-28",
           "url": "https://thequietus.com/quietus-reviews/anyx-starlink-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Marci",
+      "album": "Mask Lady and Late Night Girl",
+      "artistKey": "marci",
+      "albumKey": "mask lady and late night girl",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-28",
+          "url": "https://daily.bandcamp.com/album-of-the-day/marci-mask-lady-and-late-night-girl-review"
         }
       ],
       "editorialWeight": 4,
@@ -10851,24 +10887,6 @@
           "weight": 4,
           "publishedAt": "2026-04-16",
           "url": "https://daily.bandcamp.com/album-of-the-day/rocketship-a-certain-smile-a-certain-sadness-30th-anniversary-edition-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hannah Lew",
-      "album": "Hannah Lew",
-      "artistKey": "hannah lew",
-      "albumKey": "hannah lew",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-04-15",
-          "url": "https://daily.bandcamp.com/album-of-the-day/hannah-lew-self-titled-review"
         }
       ],
       "editorialWeight": 4,
@@ -13270,6 +13288,294 @@
       "mentionCount": 1
     },
     {
+      "artist": "DJ Fett Burger",
+      "album": "This Game. The World",
+      "artistKey": "dj fett burger",
+      "albumKey": "this game the world",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "DJ Pipe",
+      "album": "15 Years of Butter Side Up",
+      "artistKey": "dj pipe",
+      "albumKey": "15 years of butter side up",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gramrcy",
+      "album": "Peach Pals Vol. 5",
+      "artistKey": "gramrcy",
+      "albumKey": "peach pals vol 5",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Heavenly Blue",
+      "album": "Heavenly Blue EP",
+      "artistKey": "heavenly blue",
+      "albumKey": "heavenly blue ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Herbert & Momoko",
+      "album": "Clay (Bonus Edition)",
+      "artistKey": "herbert and momoko",
+      "albumKey": "clay bonus edition",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ingo Swann",
+      "album": "3 Poisons",
+      "artistKey": "ingo swann",
+      "albumKey": "3 poisons",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Maria Minerva",
+      "album": "Contact High",
+      "artistKey": "maria minerva",
+      "albumKey": "contact high",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Matthew Dear",
+      "album": "New Drug",
+      "artistKey": "matthew dear",
+      "albumKey": "new drug",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Melati ESP & Kaazi",
+      "album": "Chill Pill Volume VIII",
+      "artistKey": "melati esp and kaazi",
+      "albumKey": "chill pill volume viii",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Olsvangèr",
+      "album": "Honey Tangerine",
+      "artistKey": "olsvanger",
+      "albumKey": "honey tangerine",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Other Joe",
+      "album": "The Best Is Yet to Come",
+      "artistKey": "other joe",
+      "albumKey": "the best is yet to come",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Romain FX",
+      "album": "The Witch of Plunder",
+      "artistKey": "romain fx",
+      "albumKey": "the witch of plunder",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Seafoam",
+      "album": "Lost In The Archives",
+      "artistKey": "seafoam",
+      "albumKey": "lost in the archives",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Goldie feat. Natalie Williams",
+      "album": "Jungle Daze",
+      "artistKey": "goldie feat natalie williams",
+      "albumKey": "jungle daze",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-31",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Malcriada",
+      "album": "Live on KEXP",
+      "artistKey": "malcriada",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-31",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MASS OF THE FERMENTING DREGS",
+      "album": "Iwaou",
+      "artistKey": "mass of the fermenting dregs",
+      "albumKey": "iwaou",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-08-31",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Tricky, Mitch Sanders & Run Red Rambo",
       "album": "Different When It's Silent",
       "artistKey": "tricky mitch sanders and run red rambo",
@@ -14170,24 +14476,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Arlo Parks",
-      "album": "Ambiguous Desire",
-      "artistKey": "arlo parks",
-      "albumKey": "ambiguous desire",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Ghostkeeper",
       "album": "Balloon Moon",
       "artistKey": "ghostkeeper",
@@ -14270,60 +14558,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wolf Alice",
-      "album": "Visions of a Life",
-      "artistKey": "wolf alice",
-      "albumKey": "visions of a life",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Curtis Harding",
-      "album": "Face Your Fear",
-      "artistKey": "curtis harding",
-      "albumKey": "face your fear",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "New Constellations & STRFKR",
-      "album": "Hot Blooded (Rose City rework)",
-      "artistKey": "new constellations and strfkr",
-      "albumKey": "hot blooded rose city rework",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-21",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T12:57:11.997Z",
+  "generatedAt": "2026-09-02T12:26:36.177Z",
   "items": [
     {
       "artist": "Mastodon",
@@ -95,31 +95,6 @@
           "weight": 4,
           "publishedAt": "2026-08-24",
           "url": "https://daily.bandcamp.com/album-of-the-day/frances-chang-been-thinking-bout-confession-review"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Julia Holter",
-      "album": "Materia",
-      "artistKey": "julia holter",
-      "albumKey": "materia",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-26",
-          "url": "https://pitchfork.com/reviews/albums/julia-holter-materia/"
-        },
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-26",
-          "url": "https://thequietus.com/quietus-reviews/julia-holter-materia-review/"
         }
       ],
       "editorialWeight": 11,
@@ -327,6 +302,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Tyondai Braxton",
+      "album": "Splayed Werks",
+      "artistKey": "tyondai braxton",
+      "albumKey": "splayed werks",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-09-02",
+          "url": "https://thequietus.com/quietus-reviews/tyondai-braxton-splayed-werks-review/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-20",
+          "url": "https://daily.bandcamp.com/album-of-the-day/tyondai-braxton-splayed-werks-review"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Twisted Teens",
       "album": "Florida Water Blues",
       "artistKey": "twisted teens",
@@ -336,7 +336,7 @@
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-08-28",
+          "publishedAt": "2026-09-01",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -536,7 +536,7 @@
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-08-31",
+          "publishedAt": "2026-09-01",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -670,35 +670,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Chelsea Wolfe",
-      "album": "The Dark",
-      "artistKey": "chelsea wolfe",
-      "albumKey": "the dark",
+      "artist": "Julia Holter",
+      "album": "Materia",
+      "artistKey": "julia holter",
+      "albumKey": "materia",
       "sources": [
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-08-24",
-          "url": "https://pitchfork.com/reviews/albums/chelsea-wolfe-the-dark/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Weezer",
-      "album": "Weezer (Gold Album)",
-      "artistKey": "weezer",
-      "albumKey": "weezer gold album",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-24",
-          "url": "https://pitchfork.com/reviews/albums/weezer-weezer-gold-album/"
+          "publishedAt": "2026-08-26",
+          "url": "https://pitchfork.com/reviews/albums/julia-holter-materia/"
         }
       ],
       "editorialWeight": 6,
@@ -735,24 +717,6 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chelsea Wolfe",
-      "album": "She Reaches Out to She Reaches Out to She",
-      "artistKey": "chelsea wolfe",
-      "albumKey": "she reaches out to she reaches out to she",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
         }
       ],
       "editorialWeight": 6,
@@ -940,24 +904,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Weezer",
-      "album": "OK Human",
-      "artistKey": "weezer",
-      "albumKey": "ok human",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Wiki",
       "album": "Half God",
       "artistKey": "wiki",
@@ -1081,6 +1027,78 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Asher White",
+      "album": "Love Aggregates",
+      "artistKey": "asher white",
+      "albumKey": "love aggregates",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-02",
+          "url": "https://pitchfork.com/reviews/albums/asher-white-love-aggregates/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Credit Card",
+      "album": "Devil's Night / Dead Internet",
+      "artistKey": "credit card",
+      "albumKey": "devils night dead internet",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-02",
+          "url": "https://pitchfork.com/reviews/albums/credit-card-devils-night-dead-internet/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ikeda",
+      "album": "Bangs N Braces EP",
+      "artistKey": "ikeda",
+      "albumKey": "bangs n braces ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-02",
+          "url": "https://pitchfork.com/reviews/albums/ikeda-bangs-n-braces-ep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mike Shabb",
+      "album": "Sewaside IV",
+      "artistKey": "mike shabb",
+      "albumKey": "sewaside iv",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-02",
+          "url": "https://pitchfork.com/reviews/albums/mike-shabb-sewaside-iv/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1437,42 +1455,6 @@
           "weight": 5,
           "publishedAt": "2026-08-25",
           "url": "https://pitchfork.com/reviews/albums/nate-sib-reborn/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Black Marble",
-      "album": "Life in Small Spaces",
-      "artistKey": "black marble",
-      "albumKey": "life in small spaces",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-24",
-          "url": "https://pitchfork.com/reviews/albums/black-marble-life-in-small-spaces/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Pooh Shiesty",
-      "album": "All Eyes on Shiest",
-      "artistKey": "pooh shiesty",
-      "albumKey": "all eyes on shiest",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-24",
-          "url": "https://pitchfork.com/reviews/albums/pooh-shiesty-all-eyes-on-shiest/"
         }
       ],
       "editorialWeight": 5,
@@ -3392,6 +3374,24 @@
       "album": "It’s Sorted",
       "artistKey": "cheekface",
       "albumKey": "its sorted",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "album": "She Reaches Out to She Reaches Out to She",
+      "artistKey": "chelsea wolfe",
+      "albumKey": "she reaches out to she reaches out to she",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -7114,6 +7114,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Weezer",
+      "album": "OK Human",
+      "artistKey": "weezer",
+      "albumKey": "ok human",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Westside Gunn",
       "album": "Hitler Wears Hermes 8: Side B",
       "artistKey": "westside gunn",
@@ -9076,6 +9094,24 @@
       "mentionCount": 9
     },
     {
+      "artist": "Lily Seabird",
+      "album": "Lightspheres On Their Way",
+      "artistKey": "lily seabird",
+      "albumKey": "lightspheres on their way",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-09-01",
+          "url": "https://stereogum.com/2509424/album-of-the-week-lily-seabird-lightspheres-on-their-way/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Hannah Lew",
       "album": "Live on KEXP",
       "artistKey": "hannah lew",
@@ -9285,24 +9321,6 @@
           "weight": 4,
           "publishedAt": "2026-08-21",
           "url": "https://daily.bandcamp.com/album-of-the-day/ok-cowgirl-rhinestone-cowgirl-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tyondai Braxton",
-      "album": "Splayed Werks",
-      "artistKey": "tyondai braxton",
-      "albumKey": "splayed werks",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-20",
-          "url": "https://daily.bandcamp.com/album-of-the-day/tyondai-braxton-splayed-werks-review"
         }
       ],
       "editorialWeight": 4,
@@ -12406,24 +12424,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Home Front",
-      "album": "Watch It Die",
-      "artistKey": "home front",
-      "albumKey": "watch it die",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-11-11",
-          "url": "https://stereogum.com/2479176/album-of-the-week-home-front-watch-it-die/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Zig-Zag Band",
       "album": "Chigiyo Music Kings 1987–1998",
       "artistKey": "zig zag band",
@@ -13288,6 +13288,168 @@
       "mentionCount": 1
     },
     {
+      "artist": "Alewya",
+      "album": "Zero",
+      "artistKey": "alewya",
+      "albumKey": "zero",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Concrete Vehicles",
+      "album": "Text Stop",
+      "artistKey": "concrete vehicles",
+      "albumKey": "text stop",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Czarface, Frankie Pulitzer",
+      "album": "Czarface Meets Frankie Pulitzer",
+      "artistKey": "czarface frankie pulitzer",
+      "albumKey": "czarface meets frankie pulitzer",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Eric Slick",
+      "album": "Mannequin",
+      "artistKey": "eric slick",
+      "albumKey": "mannequin",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fcukers",
+      "album": "nüyork",
+      "artistKey": "fcukers",
+      "albumKey": "nuyork",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Spike",
+      "album": "Spike",
+      "artistKey": "spike",
+      "albumKey": "spike",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Broken Bells",
+      "album": "Live on KEXP",
+      "artistKey": "broken bells",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Choir of Young Believers",
+      "album": "Live at KEXP, Volume Six",
+      "artistKey": "choir of young believers",
+      "albumKey": "live at kexp volume six",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Czarface & Frankie Pulitzer",
+      "album": "Czarface Meets Frankie Pulitzer",
+      "artistKey": "czarface and frankie pulitzer",
+      "albumKey": "czarface meets frankie pulitzer",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "DJ Fett Burger",
       "album": "This Game. The World",
       "artistKey": "dj fett burger",
@@ -13382,6 +13544,24 @@
       "album": "3 Poisons",
       "artistKey": "ingo swann",
       "albumKey": "3 poisons",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Josaleigh Pollett",
+      "album": "If I Let It Quiet",
+      "artistKey": "josaleigh pollett",
+      "albumKey": "if i let it quiet",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13508,6 +13688,24 @@
       "album": "Lost In The Archives",
       "artistKey": "seafoam",
       "albumKey": "lost in the archives",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tricky & Marta",
+      "album": "Different When It's Silent",
+      "artistKey": "tricky and marta",
+      "albumKey": "different when its silent",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13658,24 +13856,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Czarface & Frankie Pulitzer",
-      "album": "Czarface Meets Frankie Pulitzer",
-      "artistKey": "czarface and frankie pulitzer",
-      "albumKey": "czarface meets frankie pulitzer",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-28",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14450,114 +14630,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Public Enemy, Austin Millz & Nico de Andrea",
-      "album": "Bring The Noise 2026",
-      "artistKey": "public enemy austin millz and nico de andrea",
-      "albumKey": "bring the noise 2026",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ghostkeeper",
-      "album": "Balloon Moon",
-      "artistKey": "ghostkeeper",
-      "albumKey": "balloon moon",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ken Pomeroy",
-      "album": "Tonight's News",
-      "artistKey": "ken pomeroy",
-      "albumKey": "tonights news",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "MYXA",
-      "album": "Live on KEXP",
-      "artistKey": "myxa",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Renata Yazzie",
-      "album": "your hands are chiral and so are mine",
-      "artistKey": "renata yazzie",
-      "albumKey": "your hands are chiral and so are mine",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Two-Man Giant Squid",
-      "album": "I Was a DJ in 2015 (NOVABLOOD Remix)",
-      "artistKey": "two man giant squid",
-      "albumKey": "i was a dj in 2015 novablood remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-22",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

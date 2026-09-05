@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T12:25:17.136Z",
+  "generatedAt": "2026-09-05T11:31:47.376Z",
   "items": [
     {
       "artist": "Mastodon",
@@ -602,31 +602,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Spacemoth",
-      "album": "Inward Eye",
-      "artistKey": "spacemoth",
-      "albumKey": "inward eye",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-25",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-06-30",
-          "url": "https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Chat Pile",
       "album": "Who Loves the Sun",
       "artistKey": "chat pile",
@@ -1041,6 +1016,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Alabama Shakes",
+      "album": "I Must Be Dreaming",
+      "artistKey": "alabama shakes",
+      "albumKey": "i must be dreaming",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-05",
+          "url": "https://pitchfork.com/reviews/albums/alabama-shakes-i-must-be-dreaming/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Erykah Badu The Alchemist",
       "album": "Before the World Blows: The Abi and Alan Experiment",
       "artistKey": "erykah badu the alchemist",
@@ -1394,24 +1387,6 @@
           "weight": 5,
           "publishedAt": "2026-08-28",
           "url": "https://pitchfork.com/reviews/albums/mike-d-thank-you/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Elanor Moss",
-      "album": "The Knife, The Needle",
-      "artistKey": "elanor moss",
-      "albumKey": "the knife the needle",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-27",
-          "url": "https://pitchfork.com/reviews/albums/elanor-moss-the-knife-the-needle/"
         }
       ],
       "editorialWeight": 5,
@@ -9069,24 +9044,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "RAP",
-      "album": "Navigator",
-      "artistKey": "rap",
-      "albumKey": "navigator",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-09-02",
-          "url": "https://daily.bandcamp.com/album-of-the-day/rap-navigator-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
       "artist": "Arab Strap",
       "album": "Half-Told Tales",
       "artistKey": "arab strap",
@@ -9177,6 +9134,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "RAP",
+      "album": "Navigator",
+      "artistKey": "rap",
+      "albumKey": "navigator",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-02",
+          "url": "https://daily.bandcamp.com/album-of-the-day/rap-navigator-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Lily Seabird",
       "album": "Lightspheres On Their Way",
       "artistKey": "lily seabird",
@@ -9246,24 +9221,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Anyx",
-      "album": "Starlink",
-      "artistKey": "anyx",
-      "albumKey": "starlink",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-28",
-          "url": "https://thequietus.com/quietus-reviews/anyx-starlink-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -10016,6 +9973,24 @@
           "weight": 4,
           "publishedAt": "2026-06-30",
           "url": "https://stereogum.com/2503205/album-of-the-week-nixon-boyd-every-time-we-turn-a-corner/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Spacemoth",
+      "album": "Inward Eye",
+      "artistKey": "spacemoth",
+      "albumKey": "inward eye",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-06-30",
+          "url": "https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review"
         }
       ],
       "editorialWeight": 4,
@@ -13263,24 +13238,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Lemonheads",
-      "album": "Love Chant",
-      "artistKey": "the lemonheads",
-      "albumKey": "love chant",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-04",
-          "url": "https://daily.bandcamp.com/album-of-the-day/the-lemonheads-love-chant-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Angine de Poitrine",
       "album": "Vol II.",
       "artistKey": "angine de poitrine",
@@ -13303,6 +13260,42 @@
       "album": "HELP(2)",
       "artistKey": "damon albarn grian chatten and kae tempest",
       "albumKey": "help 2",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Panda Bear & Sonic Boom",
+      "album": "A ? of WHEN",
+      "artistKey": "panda bear and sonic boom",
+      "albumKey": "a of when",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shabazz Palaces",
+      "album": "Maximum MN Mixtape",
+      "artistKey": "shabazz palaces",
+      "albumKey": "maximum mn mixtape",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14263,42 +14256,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-08-27",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Babehoven",
-      "album": "I See Them, I See Me",
-      "artistKey": "babehoven",
-      "albumKey": "i see them i see me",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lucha Luna",
-      "album": "Ritmo Eterno (Maga Bo Remix)",
-      "artistKey": "lucha luna",
-      "albumKey": "ritmo eterno maga bo remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-08-26",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

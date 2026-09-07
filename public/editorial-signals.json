@@ -1,56 +1,6 @@
 {
-  "generatedAt": "2026-09-06T11:52:09.853Z",
+  "generatedAt": "2026-09-07T13:51:56.916Z",
   "items": [
-    {
-      "artist": "Mastodon",
-      "album": "Marrow Deep",
-      "artistKey": "mastodon",
-      "albumKey": "marrow deep",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-01",
-          "url": "https://thequietus.com/quietus-reviews/mastodon-marrow-deep-review/"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-31",
-          "url": "https://pitchfork.com/reviews/albums/mastodon-marrow-deep/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Interpol",
-      "album": "This Mirror Weighs a Ton",
-      "artistKey": "interpol",
-      "albumKey": "this mirror weighs a ton",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-08-31",
-          "url": "https://thequietus.com/quietus-reviews/interpol-this-mirror-weighs-a-ton-review/"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-28",
-          "url": "https://pitchfork.com/reviews/albums/interpol-this-mirror-weighs-a-ton/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
     {
       "artist": "Westside Cowboy",
       "album": "It Goes On",
@@ -1261,6 +1211,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Mastodon",
+      "album": "Marrow Deep",
+      "artistKey": "mastodon",
+      "albumKey": "marrow deep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-31",
+          "url": "https://pitchfork.com/reviews/albums/mastodon-marrow-deep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Eagles",
       "album": "Their Greatest Hits (1971-1975)",
       "artistKey": "the eagles",
@@ -1308,6 +1276,24 @@
           "weight": 5,
           "publishedAt": "2026-08-28",
           "url": "https://pitchfork.com/reviews/albums/denzel-curry-kenneth-blume-ii/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Interpol",
+      "album": "This Mirror Weighs a Ton",
+      "artistKey": "interpol",
+      "albumKey": "this mirror weighs a ton",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-08-28",
+          "url": "https://pitchfork.com/reviews/albums/interpol-this-mirror-weighs-a-ton/"
         }
       ],
       "editorialWeight": 5,
@@ -9019,6 +9005,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "My Heart is Dust Before Him: 21st Century Gasba from Algeria",
+      "album": "Various Artists",
+      "artistKey": "my heart is dust before him 21st century gasba from algeria",
+      "albumKey": "various artists",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-09-07",
+          "url": "https://thequietus.com/quietus-reviews/my-heart-is-dust-before-him-21st-century-gasba-from-algeria-various-artists/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Arab Strap",
       "album": "Half-Told Tales",
       "artistKey": "arab strap",
@@ -13213,10 +13217,280 @@
       "mentionCount": 1
     },
     {
+      "artist": "Anthony Calonico",
+      "album": "Spacious Heart",
+      "artistKey": "anthony calonico",
+      "albumKey": "spacious heart",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fabiano do Nascimento & Vittor Santos Orchestra",
+      "album": "Vila",
+      "artistKey": "fabiano do nascimento and vittor santos orchestra",
+      "albumKey": "vila",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Isabella",
+      "album": "Peach Pals Vol. 5",
+      "artistKey": "isabella",
+      "albumKey": "peach pals vol 5",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kaazi & Melati ESP",
+      "album": "Earth E",
+      "artistKey": "kaazi and melati esp",
+      "albumKey": "earth e",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "lupina",
+      "album": "Light In The Dark",
+      "artistKey": "lupina",
+      "albumKey": "light in the dark",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Olga Vosconyan",
+      "album": "Endangered Species Vol. 2",
+      "artistKey": "olga vosconyan",
+      "albumKey": "endangered species vol 2",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pablo’s Eye",
+      "album": "Everything You Give Away",
+      "artistKey": "pablos eye",
+      "albumKey": "everything you give away",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Perennial",
+      "album": "Modernism",
+      "artistKey": "perennial",
+      "albumKey": "modernism",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Picture",
+      "album": "Yyyyyyyyy",
+      "artistKey": "picture",
+      "albumKey": "yyyyyyyyy",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rhode & Brown",
+      "album": "Multitudes",
+      "artistKey": "rhode and brown",
+      "albumKey": "multitudes",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sim Fossil",
+      "album": "Side Order",
+      "artistKey": "sim fossil",
+      "albumKey": "side order",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tawny",
+      "album": "Night Eyes EP",
+      "artistKey": "tawny",
+      "albumKey": "night eyes ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "53x",
+      "album": "Cyan Haze",
+      "artistKey": "53x",
+      "albumKey": "cyan haze",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-06",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Abyssal Rift",
       "album": "Relics of Great Ash",
       "artistKey": "abyssal rift",
       "albumKey": "relics of great ash",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-06",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Arlo Parks",
+      "album": "Heaven (Jacques Greene Remix)",
+      "artistKey": "arlo parks",
+      "albumKey": "heaven jacques greene remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-06",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Brandi Carlile",
+      "album": "Returning To Myself (Sad Gay Version)",
+      "artistKey": "brandi carlile",
+      "albumKey": "returning to myself sad gay version",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13303,6 +13577,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Cubismo Grafico",
+      "album": "Café Après-Midi Meets Studio Ghibli",
+      "artistKey": "cubismo grafico",
+      "albumKey": "cafe apres midi meets studio ghibli",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-06",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "DJ City",
       "album": "PP Mix Vol. 1 (Dance)",
       "artistKey": "dj city",
@@ -13325,6 +13617,42 @@
       "album": "World Dirge",
       "artistKey": "e",
       "albumKey": "world dirge",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-06",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Eartheater",
+      "album": "Heavenly Body: If I'm The Bottle You’re The Message",
+      "artistKey": "eartheater",
+      "albumKey": "heavenly body if im the bottle youre the message",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-06",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Grandma Love",
+      "album": "Grandma Love",
+      "artistKey": "grandma love",
+      "albumKey": "grandma love",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13411,10 +13739,64 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Jayhawks",
+      "album": "Sanctuary Park",
+      "artistKey": "the jayhawks",
+      "albumKey": "sanctuary park",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-06",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Troth",
       "album": "The Limits of a Light Touch",
       "artistKey": "troth",
       "albumKey": "the limits of a light touch",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-06",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Type-303",
+      "album": "Enigmatic Dreams",
+      "artistKey": "type 303",
+      "albumKey": "enigmatic dreams",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-06",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Young Fathers",
+      "album": "Cocoa Sugar",
+      "artistKey": "young fathers",
+      "albumKey": "cocoa sugar",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",

@@ -1,31 +1,6 @@
 {
-  "generatedAt": "2026-09-08T12:29:59.167Z",
+  "generatedAt": "2026-09-09T12:37:30.808Z",
   "items": [
-    {
-      "artist": "Interpol",
-      "album": "This Mirror Weighs a Ton",
-      "artistKey": "interpol",
-      "albumKey": "this mirror weighs a ton",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-28",
-          "url": "https://pitchfork.com/reviews/albums/interpol-this-mirror-weighs-a-ton/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 12,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
     {
       "artist": "Lily Seabird",
       "album": "Lightspheres On Their Way",
@@ -327,6 +302,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Twisted Teens",
+      "album": "Florida Water Blues",
+      "artistKey": "twisted teens",
+      "albumKey": "florida water blues",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-08",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Chat Pile",
       "album": "Who Loves the Sun",
       "artistKey": "chat pile",
@@ -370,56 +370,6 @@
           "weight": 3,
           "publishedAt": "2026-09-02",
           "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Tyondai Braxton",
-      "album": "Splayed Werks",
-      "artistKey": "tyondai braxton",
-      "albumKey": "splayed werks",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-02",
-          "url": "https://thequietus.com/quietus-reviews/tyondai-braxton-splayed-werks-review/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-20",
-          "url": "https://daily.bandcamp.com/album-of-the-day/tyondai-braxton-splayed-werks-review"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Twisted Teens",
-      "album": "Florida Water Blues",
-      "artistKey": "twisted teens",
-      "albumKey": "florida water blues",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-01",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 10,
@@ -998,6 +948,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Adela",
+      "album": "PRIMA",
+      "artistKey": "adela",
+      "albumKey": "prima",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-09",
+          "url": "https://pitchfork.com/reviews/albums/adela-prima/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Bitchin Bajas",
+      "album": "Isle Peaks EP",
+      "artistKey": "bitchin bajas",
+      "albumKey": "isle peaks ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-09",
+          "url": "https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Busta Rhymes J Dilla",
+      "album": "Dillagence II",
+      "artistKey": "busta rhymes j dilla",
+      "albumKey": "dillagence ii",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-09",
+          "url": "https://pitchfork.com/reviews/albums/busta-rhymes-j-dilla-dillagence-ii/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mykki Blanco",
+      "album": "Cafe Paradiso",
+      "artistKey": "mykki blanco",
+      "albumKey": "cafe paradiso",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-09",
+          "url": "https://pitchfork.com/reviews/albums/mykki-blanco-cafe-paradiso/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Ken Carson",
       "album": "xperiment - cartunez",
       "artistKey": "ken carson",
@@ -1358,60 +1380,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Dinosaur Jr",
-      "album": "There Near",
-      "artistKey": "dinosaur jr",
-      "albumKey": "there near",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-29",
-          "url": "https://pitchfork.com/reviews/albums/dinosaur-jr-there-near/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Denzel Curry Kenneth Blume",
-      "album": "ii",
-      "artistKey": "denzel curry kenneth blume",
-      "albumKey": "ii",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-28",
-          "url": "https://pitchfork.com/reviews/albums/denzel-curry-kenneth-blume-ii/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jim James",
-      "album": "Wowed Out",
-      "artistKey": "jim james",
-      "albumKey": "wowed out",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-08-28",
-          "url": "https://pitchfork.com/reviews/albums/jim-james-wowed-out/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "L’Rain",
       "album": "fata morgana",
       "artistKey": "lrain",
@@ -1722,6 +1690,24 @@
       "album": "e.t.d.s.",
       "artistKey": "idk",
       "albumKey": "e t d s",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Interpol",
+      "album": "This Mirror Weighs a Ton",
+      "artistKey": "interpol",
+      "albumKey": "this mirror weighs a ton",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9062,6 +9048,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "doseone, Wino Willy & Zetroc",
+      "album": "sighting",
+      "artistKey": "doseone wino willy and zetroc",
+      "albumKey": "sighting",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-08",
+          "url": "https://daily.bandcamp.com/album-of-the-day/doseone-wino-willy-zetroc-sighting-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
+      "artist": "Mike D",
+      "album": "Thank You",
+      "artistKey": "mike d",
+      "albumKey": "thank you",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-09-09",
+          "url": "https://thequietus.com/quietus-reviews/mike-d-thank-you-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "This Is Lorelei",
+      "album": "The Singer In My Band",
+      "artistKey": "this is lorelei",
+      "albumKey": "the singer in my band",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-09-08",
+          "url": "https://stereogum.com/2510281/album-of-the-week-this-is-lorelei-the-singer-in-my-band/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "My Heart is Dust Before Him: 21st Century Gasba from Algeria",
       "album": "Various Artists",
       "artistKey": "my heart is dust before him 21st century gasba from algeria",
@@ -9361,6 +9401,24 @@
           "weight": 4,
           "publishedAt": "2026-08-21",
           "url": "https://daily.bandcamp.com/album-of-the-day/ok-cowgirl-rhinestone-cowgirl-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tyondai Braxton",
+      "album": "Splayed Werks",
+      "artistKey": "tyondai braxton",
+      "albumKey": "splayed werks",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-20",
+          "url": "https://daily.bandcamp.com/album-of-the-day/tyondai-braxton-splayed-werks-review"
         }
       ],
       "editorialWeight": 4,
@@ -12374,24 +12432,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sharp Pins",
-      "album": "Balloon Balloon Balloon",
-      "artistKey": "sharp pins",
-      "albumKey": "balloon balloon balloon",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-11-18",
-          "url": "https://stereogum.com/2479798/album-of-the-week-sharp-pins-balloon-balloon-balloon/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Hélène Barbier",
       "album": "Panorama",
       "artistKey": "helene barbier",
@@ -13238,20 +13278,128 @@
       "mentionCount": 1
     },
     {
-      "artist": "Vanessa Wagner",
-      "album": "Philip Glass: The Complete Piano Etudes",
-      "artistKey": "vanessa wagner",
-      "albumKey": "philip glass the complete piano etudes",
+      "artist": "Alewya",
+      "album": "Zero",
+      "artistKey": "alewya",
+      "albumKey": "zero",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-08",
-          "url": "https://daily.bandcamp.com/album-of-the-day/vanessa-wagner-philip-glass-the-complete-piano-etudes-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-09",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Automatic",
+      "album": "Black Box (Nick Zinner Remix)",
+      "artistKey": "automatic",
+      "albumKey": "black box nick zinner remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-09",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Babehoven",
+      "album": "I See Them, I See Me",
+      "artistKey": "babehoven",
+      "albumKey": "i see them i see me",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-09",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Helado Tropical",
+      "album": "Helado Tropical",
+      "artistKey": "helado tropical",
+      "albumKey": "helado tropical",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-09",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Maria Minerva",
+      "album": "Contact High",
+      "artistKey": "maria minerva",
+      "albumKey": "contact high",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-09",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Party Dozen",
+      "album": "21 Bum Salute",
+      "artistKey": "party dozen",
+      "albumKey": "21 bum salute",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-09",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wet Leg",
+      "album": "moisturizer (deluxe)",
+      "artistKey": "wet leg",
+      "albumKey": "moisturizer deluxe",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-09",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13346,10 +13494,46 @@
       "mentionCount": 1
     },
     {
+      "artist": "Bob Mould Band",
+      "album": "Live on KEXP",
+      "artistKey": "bob mould band",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Buttechno & Triš",
       "album": "The Spirit",
       "artistKey": "buttechno and tris",
       "albumKey": "the spirit",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Eartheater",
+      "album": "Heavenly Body: If I'm The Bottle You’re The Message",
+      "artistKey": "eartheater",
+      "albumKey": "heavenly body if im the bottle youre the message",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13386,6 +13570,24 @@
       "album": "15 Years of Butter Side Up",
       "artistKey": "garrett david",
       "albumKey": "15 years of butter side up",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Haute & Freddy",
+      "album": "Live on KEXP",
+      "artistKey": "haute and freddy",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13476,6 +13678,24 @@
       "album": "In Another",
       "artistKey": "masahiro takahashi",
       "albumKey": "in another",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Meg Baird",
+      "album": "Live on KEXP",
+      "artistKey": "meg baird",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13962,24 +14182,6 @@
       "album": "World Dirge",
       "artistKey": "e",
       "albumKey": "world dirge",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Eartheater",
-      "album": "Heavenly Body: If I'm The Bottle You’re The Message",
-      "artistKey": "eartheater",
-      "albumKey": "heavenly body if im the bottle youre the message",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14552,24 +14754,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Alewya",
-      "album": "Zero",
-      "artistKey": "alewya",
-      "albumKey": "zero",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Concrete Vehicles",
       "album": "Text Stop",
       "artistKey": "concrete vehicles",
@@ -14862,24 +15046,6 @@
       "album": "If I Let It Quiet",
       "artistKey": "josaleigh pollett",
       "albumKey": "if i let it quiet",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Maria Minerva",
-      "album": "Contact High",
-      "artistKey": "maria minerva",
-      "albumKey": "contact high",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",

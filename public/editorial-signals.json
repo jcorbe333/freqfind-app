@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T12:29:49.313Z",
+  "generatedAt": "2026-09-12T11:52:57.625Z",
   "items": [
     {
       "artist": "This Is Lorelei",
@@ -274,7 +274,7 @@
       ],
       "editorialWeight": 10,
       "multiSourceBonus": 2,
-      "mentionCount": 10
+      "mentionCount": 2
     },
     {
       "artist": "Nu Jazz",
@@ -663,24 +663,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Turnstile",
-      "album": "NEVER ENOUGH: VERSIONS",
-      "artistKey": "turnstile",
-      "albumKey": "never enough versions",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-01",
-          "url": "https://pitchfork.com/reviews/albums/turnstile-never-enough-versions/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Jessie Ware",
       "album": "Superbloom",
       "artistKey": "jessie ware",
@@ -969,24 +951,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Turnstile",
-      "album": "Glow On",
-      "artistKey": "turnstile",
-      "albumKey": "glow on",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Wiki",
       "album": "Half God",
       "artistKey": "wiki",
@@ -1110,6 +1074,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mac Demarco",
+      "album": "Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan",
+      "artistKey": "mac demarco",
+      "albumKey": "dog on the rock seven off the two seaplane dog the view from tian tan",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-12",
+          "url": "https://pitchfork.com/reviews/albums/mac-demarco-dog-on-the-rock-seven-off-the-two-seaplane-dog-the-view-from-tian-tan/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -7125,6 +7107,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Turnstile",
+      "album": "Glow On",
+      "artistKey": "turnstile",
+      "albumKey": "glow on",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Twin Shadow",
       "album": "Twin Shadow",
       "artistKey": "twin shadow",
@@ -9141,17 +9141,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Vanishing Twin",
-      "album": "Archives",
-      "artistKey": "vanishing twin",
-      "albumKey": "archives",
+      "artist": "Angela Autumn",
+      "album": "Believer",
+      "artistKey": "angela autumn",
+      "albumKey": "believer",
       "sources": [
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-09-09",
-          "url": "https://daily.bandcamp.com/album-of-the-day/vanishing-twin-archives-review"
+          "publishedAt": "2026-09-11",
+          "url": "https://daily.bandcamp.com/album-of-the-day/angela-autumn-believer-review"
         }
       ],
       "editorialWeight": 4,
@@ -9213,6 +9213,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Vanishing Twin",
+      "album": "Archives",
+      "artistKey": "vanishing twin",
+      "albumKey": "archives",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-09",
+          "url": "https://daily.bandcamp.com/album-of-the-day/vanishing-twin-archives-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "doseone, Wino Willy & Zetroc",
       "album": "sighting",
       "artistKey": "doseone wino willy and zetroc",
@@ -9242,24 +9260,6 @@
           "weight": 4,
           "publishedAt": "2026-09-07",
           "url": "https://thequietus.com/quietus-reviews/my-heart-is-dust-before-him-21st-century-gasba-from-algeria-various-artists/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Arab Strap",
-      "album": "Half-Told Tales",
-      "artistKey": "arab strap",
-      "albumKey": "half told tales",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-04",
-          "url": "https://thequietus.com/quietus-reviews/arab-strap-half-told-tales-review/"
         }
       ],
       "editorialWeight": 4,
@@ -13281,28 +13281,28 @@
       "mentionCount": 1
     },
     {
-      "artist": "Rian Treanor & Cara Tolmie",
-      "album": "Body Lapse",
-      "artistKey": "rian treanor and cara tolmie",
-      "albumKey": "body lapse",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-11",
-          "url": "https://daily.bandcamp.com/album-of-the-day/rian-treanor-cara-tolmie-body-lapse-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "foamboy",
       "album": "STUPID HOT",
       "artistKey": "foamboy",
       "albumKey": "stupid hot",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ghostland Observatory",
+      "album": "Live on KEXP",
+      "artistKey": "ghostland observatory",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13353,10 +13353,100 @@
       "mentionCount": 1
     },
     {
+      "artist": "Lucha Luna",
+      "album": "BRILLA BRILLA (REMIXED)",
+      "artistKey": "lucha luna",
+      "albumKey": "brilla brilla remixed",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Merchandise",
+      "album": "Live on KEXP",
+      "artistKey": "merchandise",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Nappy Nina & Swarvy",
       "album": "Sow & So",
       "artistKey": "nappy nina and swarvy",
       "albumKey": "sow and so",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nightbus",
+      "album": "False Prophet (Ashnymph Remix)",
+      "artistKey": "nightbus",
+      "albumKey": "false prophet ashnymph remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rolling Blackouts Coastal Fever",
+      "album": "Sideways to New Italy",
+      "artistKey": "rolling blackouts coastal fever",
+      "albumKey": "sideways to new italy",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Two-Man Giant Squid",
+      "album": "Two‐Man Giant Squid",
+      "artistKey": "two man giant squid",
+      "albumKey": "two man giant squid",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -15009,24 +15099,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Czarface, Frankie Pulitzer",
-      "album": "Czarface Meets Frankie Pulitzer",
-      "artistKey": "czarface frankie pulitzer",
-      "albumKey": "czarface meets frankie pulitzer",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Dinner Party feat. Phoelix",
       "album": "Whatchu Bringing?",
       "artistKey": "dinner party feat phoelix",
@@ -15091,114 +15163,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Spike",
-      "album": "Spike",
-      "artistKey": "spike",
-      "albumKey": "spike",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Broken Bells",
-      "album": "Live on KEXP",
-      "artistKey": "broken bells",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Choir of Young Believers",
-      "album": "Live at KEXP, Volume Six",
-      "artistKey": "choir of young believers",
-      "albumKey": "live at kexp volume six",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Czarface & Frankie Pulitzer",
-      "album": "Czarface Meets Frankie Pulitzer",
-      "artistKey": "czarface and frankie pulitzer",
-      "albumKey": "czarface meets frankie pulitzer",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Josaleigh Pollett",
-      "album": "If I Let It Quiet",
-      "artistKey": "josaleigh pollett",
-      "albumKey": "if i let it quiet",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tricky & Marta",
-      "album": "Different When It's Silent",
-      "artistKey": "tricky and marta",
-      "albumKey": "different when its silent",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-01",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T11:52:57.625Z",
+  "generatedAt": "2026-09-13T13:02:10.326Z",
   "items": [
     {
       "artist": "This Is Lorelei",
@@ -252,6 +252,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Chat Pile",
+      "album": "Who Loves the Sun",
+      "artistKey": "chat pile",
+      "albumKey": "who loves the sun",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-13",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-04",
+          "url": "https://pitchfork.com/reviews/albums/chat-pile-who-loves-the-sun/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Nate Mercereau",
       "album": "Fantastic Thoughts",
       "artistKey": "nate mercereau",
@@ -370,56 +395,6 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Chat Pile",
-      "album": "Who Loves the Sun",
-      "artistKey": "chat pile",
-      "albumKey": "who loves the sun",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-06",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-04",
-          "url": "https://pitchfork.com/reviews/albums/chat-pile-who-loves-the-sun/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Lex Walton",
-      "album": "Ultimate Love Forever",
-      "artistKey": "lex walton",
-      "albumKey": "ultimate love forever",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-03",
-          "url": "https://pitchfork.com/reviews/albums/lex-walton-ultimate-love-forever/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-02",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 10,
@@ -1077,6 +1052,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Art Of Noise",
+      "album": "In Visible Silence",
+      "artistKey": "art of noise",
+      "albumKey": "in visible silence",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-13",
+          "url": "https://pitchfork.com/reviews/albums/art-of-noise-in-visible-silence/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Mac Demarco",
       "album": "Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan",
       "artistKey": "mac demarco",
@@ -1401,6 +1394,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Lex Walton",
+      "album": "Ultimate Love Forever",
+      "artistKey": "lex walton",
+      "albumKey": "ultimate love forever",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-03",
+          "url": "https://pitchfork.com/reviews/albums/lex-walton-ultimate-love-forever/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Nina Winder Lind",
       "album": "Wild Love",
       "artistKey": "nina winder lind",
@@ -1430,24 +1441,6 @@
           "weight": 5,
           "publishedAt": "2026-09-02",
           "url": "https://pitchfork.com/reviews/albums/asher-white-love-aggregates/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Credit Card",
-      "album": "Devil’s Night / Dead Internet",
-      "artistKey": "credit card",
-      "albumKey": "devils night dead internet",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-02",
-          "url": "https://pitchfork.com/reviews/albums/credit-card-devils-night-dead-internet/"
         }
       ],
       "editorialWeight": 5,
@@ -1574,24 +1567,6 @@
           "weight": 4,
           "publishedAt": "2026-06-09",
           "url": "https://stereogum.com/2501203/album-of-the-week-wiki-ancient-history/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hannah Lew",
-      "album": "Hannah Lew",
-      "artistKey": "hannah lew",
-      "albumKey": "hannah lew",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-04-15",
-          "url": "https://daily.bandcamp.com/album-of-the-day/hannah-lew-self-titled-review"
         }
       ],
       "editorialWeight": 5,
@@ -9159,6 +9134,24 @@
       "mentionCount": 9
     },
     {
+      "artist": "Ceremony",
+      "album": "East Coast",
+      "artistKey": "ceremony",
+      "albumKey": "east coast",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Low",
       "album": "Live on KEXP",
       "artistKey": "low",
@@ -9277,42 +9270,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ceremony",
-      "album": "Live on KEXP",
-      "artistKey": "ceremony",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hannah Lew",
-      "album": "Live on KEXP",
-      "artistKey": "hannah lew",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-02",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -11078,6 +11035,24 @@
           "weight": 4,
           "publishedAt": "2026-04-16",
           "url": "https://daily.bandcamp.com/album-of-the-day/rocketship-a-certain-smile-a-certain-sadness-30th-anniversary-edition-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hannah Lew",
+      "album": "Hannah Lew",
+      "artistKey": "hannah lew",
+      "albumKey": "hannah lew",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-04-15",
+          "url": "https://daily.bandcamp.com/album-of-the-day/hannah-lew-self-titled-review"
         }
       ],
       "editorialWeight": 4,
@@ -13263,20 +13238,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "Michael Hurley",
-      "album": "Broken Homes and Gardens",
-      "artistKey": "michael hurley",
-      "albumKey": "broken homes and gardens",
+      "artist": "Dent May",
+      "album": "The Big One",
+      "artistKey": "dent may",
+      "albumKey": "the big one",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-12",
-          "url": "https://daily.bandcamp.com/album-of-the-day/michael-hurley-broken-homes-and-gardens-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-13",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Khemmis",
+      "album": "Live on KEXP",
+      "artistKey": "khemmis",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mad Iris",
+      "album": "Mad Iris",
+      "artistKey": "mad iris",
+      "albumKey": "mad iris",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -14901,24 +14912,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Abyssinian Creole",
-      "album": "Sun Out",
-      "artistKey": "abyssinian creole",
-      "albumKey": "sun out",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Alien Boy",
       "album": "Live on KEXP",
       "artistKey": "alien boy",
@@ -15073,96 +15066,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Concrete Vehicles",
-      "album": "Text Stop",
-      "artistKey": "concrete vehicles",
-      "albumKey": "text stop",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dinner Party feat. Phoelix",
-      "album": "Whatchu Bringing?",
-      "artistKey": "dinner party feat phoelix",
-      "albumKey": "whatchu bringing",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Eric Slick",
-      "album": "Mannequin",
-      "artistKey": "eric slick",
-      "albumKey": "mannequin",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fcukers",
-      "album": "nüyork",
-      "artistKey": "fcukers",
-      "albumKey": "nuyork",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fontaines D.C.",
-      "album": "Live on KEXP",
-      "artistKey": "fontaines d c",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-02",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

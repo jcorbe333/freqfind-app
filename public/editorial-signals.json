@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T14:37:58.160Z",
+  "generatedAt": "2026-09-15T13:02:47.202Z",
   "items": [
     {
       "artist": "Carmen Villain",
@@ -64,6 +64,31 @@
       "editorialWeight": 14,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "Angela Autumn",
+      "album": "Believer",
+      "artistKey": "angela autumn",
+      "albumKey": "believer",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-15",
+          "url": "https://pitchfork.com/reviews/albums/angela-autumn-believer/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-11",
+          "url": "https://daily.bandcamp.com/album-of-the-day/angela-autumn-believer-review"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 10
     },
     {
       "artist": "This Is Lorelei",
@@ -807,24 +832,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "WITCH",
-      "album": "Zango",
-      "artistKey": "witch",
-      "albumKey": "zango",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Beyoncé",
       "album": "Renaissance",
       "artistKey": "beyonce",
@@ -1056,6 +1063,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Bloc Party",
+      "album": "Anatomy of a Brief Romance",
+      "artistKey": "bloc party",
+      "albumKey": "anatomy of a brief romance",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-15",
+          "url": "https://pitchfork.com/reviews/albums/bloc-party-anatomy-of-a-brief-romance/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hakushi Hasegawa",
+      "album": "Honest Feeling Album (素直な気持ちアルバム)",
+      "artistKey": "hakushi hasegawa",
+      "albumKey": "honest feeling album",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-15",
+          "url": "https://pitchfork.com/reviews/albums/hakushi-hasegawa-honest-feeling-album/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rio Da Yung Og",
+      "album": "The World Is Yours",
+      "artistKey": "rio da yung og",
+      "albumKey": "the world is yours",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-15",
+          "url": "https://pitchfork.com/reviews/albums/rio-da-yung-og-the-world-is-yours/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1394,78 +1455,6 @@
           "weight": 5,
           "publishedAt": "2026-09-04",
           "url": "https://pitchfork.com/reviews/albums/sleep-hempispheres/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Linda Lindas",
-      "album": "GOTTA GET OUT",
-      "artistKey": "the linda lindas",
-      "albumKey": "gotta get out",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-04",
-          "url": "https://pitchfork.com/reviews/albums/the-linda-lindas-gotta-get-out/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Billy Strings",
-      "album": "So Much for Goodbyes",
-      "artistKey": "billy strings",
-      "albumKey": "so much for goodbyes",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-03",
-          "url": "https://pitchfork.com/reviews/albums/billy-strings-so-much-for-goodbyes/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lex Walton",
-      "album": "Ultimate Love Forever",
-      "artistKey": "lex walton",
-      "albumKey": "ultimate love forever",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-03",
-          "url": "https://pitchfork.com/reviews/albums/lex-walton-ultimate-love-forever/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nina Winder Lind",
-      "album": "Wild Love",
-      "artistKey": "nina winder lind",
-      "albumKey": "wild love",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-03",
-          "url": "https://pitchfork.com/reviews/albums/nina-winder-lind-wild-love/"
         }
       ],
       "editorialWeight": 5,
@@ -5505,6 +5494,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "WITCH",
+      "album": "Zango",
+      "artistKey": "witch",
+      "albumKey": "zango",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Zach Bryan",
       "album": "Zach Bryan",
       "artistKey": "zach bryan",
@@ -9303,22 +9310,22 @@
       "mentionCount": 9
     },
     {
-      "artist": "Angela Autumn",
-      "album": "Believer",
-      "artistKey": "angela autumn",
-      "albumKey": "believer",
+      "artist": "King Ayisoba",
+      "album": "Pure Confusion",
+      "artistKey": "king ayisoba",
+      "albumKey": "pure confusion",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-09-11",
-          "url": "https://daily.bandcamp.com/album-of-the-day/angela-autumn-believer-review"
+          "publishedAt": "2026-09-15",
+          "url": "https://thequietus.com/quietus-reviews/king-ayisoba-pure-confusion-review/"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Ceremony",
@@ -9426,42 +9433,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "My Heart is Dust Before Him: 21st Century Gasba from Algeria",
-      "album": "Various Artists",
-      "artistKey": "my heart is dust before him 21st century gasba from algeria",
-      "albumKey": "various artists",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-07",
-          "url": "https://thequietus.com/quietus-reviews/my-heart-is-dust-before-him-21st-century-gasba-from-algeria-various-artists/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "WITCH",
-      "album": "Lazy Bones!!",
-      "artistKey": "witch",
-      "albumKey": "lazy bones",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13263,6 +13234,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Baby Rose",
+      "album": "YEARNALISM",
+      "artistKey": "baby rose",
+      "albumKey": "yearnalism",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Oscar Lindsey",
+      "album": "Painting The Walls",
+      "artistKey": "oscar lindsey",
+      "albumKey": "painting the walls",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-09-15",
+          "url": "https://www.indieshuffle.com/oscar-lindsey-painting-the-walls/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Bruno Berle & Nyron Higor",
       "album": "Sem Fronteiras",
       "artistKey": "bruno berle and nyron higor",
@@ -14973,78 +14980,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Angine de Poitrine",
-      "album": "Vol II.",
-      "artistKey": "angine de poitrine",
-      "albumKey": "vol ii",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Damon Albarn, Grian Chatten & Kae Tempest",
-      "album": "HELP(2)",
-      "artistKey": "damon albarn grian chatten and kae tempest",
-      "albumKey": "help 2",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Panda Bear & Sonic Boom",
-      "album": "A ? of WHEN",
-      "artistKey": "panda bear and sonic boom",
-      "albumKey": "a of when",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Shabazz Palaces",
-      "album": "Maximum MN Mixtape",
-      "artistKey": "shabazz palaces",
-      "albumKey": "maximum mn mixtape",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Beatenberg",
       "album": "Scatterlings (Ft. Johnny Clegg)",
       "artistKey": "beatenberg",
@@ -15668,24 +15603,6 @@
           "weight": 3,
           "publishedAt": "2026-04-27",
           "url": "https://www.indieshuffle.com/terror-cactus-transmisi-n-clandestina/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sunrom",
-      "album": "I Just Try",
-      "artistKey": "sunrom",
-      "albumKey": "i just try",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-04-20",
-          "url": "https://www.indieshuffle.com/sunrom-i-just-try/"
         }
       ],
       "editorialWeight": 3,

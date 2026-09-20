@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-09-19T12:12:00.910Z",
+  "generatedAt": "2026-09-20T12:47:35.155Z",
   "items": [
+    {
+      "artist": "Kelela",
+      "album": "new avatar",
+      "artistKey": "kelela",
+      "albumKey": "new avatar",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-20",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-07-07",
+          "url": "https://stereogum.com/2504380/album-of-the-week-kelela-new-avatar/reviews/album-of-the-week/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 14,
+      "multiSourceBonus": 2,
+      "mentionCount": 3
+    },
     {
       "artist": "Curió Curió",
       "album": "Curió Curió",
@@ -120,31 +152,6 @@
           "weight": 4,
           "publishedAt": "2026-08-19",
           "url": "https://daily.bandcamp.com/album-of-the-day/open-mike-eagle-kenny-segal-doomed-review"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Kelela",
-      "album": "new avatar",
-      "artistKey": "kelela",
-      "albumKey": "new avatar",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-07-07",
-          "url": "https://stereogum.com/2504380/album-of-the-week-kelela-new-avatar/reviews/album-of-the-week/"
         },
         {
           "sourceId": "needle-drop-loved-list",
@@ -509,6 +516,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "HULDER",
+      "album": "Verbolgen",
+      "artistKey": "hulder",
+      "albumKey": "verbolgen",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-20",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-10",
+          "url": "https://daily.bandcamp.com/album-of-the-day/hulder-verbolgen-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Brian Ennals & Blockhead",
       "album": "Boatshoes",
       "artistKey": "brian ennals and blockhead",
@@ -557,6 +589,24 @@
       "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Easy Rider (Music From the Soundtrack)",
+      "artistKey": "various artists",
+      "albumKey": "easy rider music from the soundtrack",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-20",
+          "url": "https://pitchfork.com/reviews/albums/various-artists-easy-rider-music-from-the-soundtrack/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Various Artists",
@@ -624,24 +674,6 @@
           "weight": 5,
           "publishedAt": "2026-09-10",
           "url": "https://pitchfork.com/reviews/albums/beyonce-bday-20th-anniversary-edition/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jessie Ware",
-      "album": "Superbloom",
-      "artistKey": "jessie ware",
-      "albumKey": "superbloom",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 6,
@@ -750,24 +782,6 @@
           "weight": 5,
           "publishedAt": "2024-01-01",
           "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jessie Ware",
-      "album": "That! Feels Good!",
-      "artistKey": "jessie ware",
-      "albumKey": "that feels good",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
         }
       ],
       "editorialWeight": 6,
@@ -905,24 +919,6 @@
       "album": "The Common Task",
       "artistKey": "horse lords",
       "albumKey": "the common task",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jessie Ware",
-      "album": "What’s Your Pleasure?",
-      "artistKey": "jessie ware",
-      "albumKey": "whats your pleasure",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -1423,24 +1419,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Black Bananas",
-      "album": "Bad Bunch",
-      "artistKey": "black bananas",
-      "albumKey": "bad bunch",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-10",
-          "url": "https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "L’Rain",
       "album": "fata morgana",
       "artistKey": "lrain",
@@ -1913,6 +1891,24 @@
       "album": "Trying Times",
       "artistKey": "james blake",
       "albumKey": "trying times",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jessie Ware",
+      "album": "Superbloom",
+      "artistKey": "jessie ware",
+      "albumKey": "superbloom",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -4811,6 +4807,24 @@
       "album": "The Gray In Between",
       "artistKey": "jeromes dream",
       "albumKey": "the gray in between",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jessie Ware",
+      "album": "That! Feels Good!",
+      "artistKey": "jessie ware",
+      "albumKey": "that feels good",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -7993,6 +8007,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Jessie Ware",
+      "album": "What’s Your Pleasure?",
+      "artistKey": "jessie ware",
+      "albumKey": "whats your pleasure",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Jim O’Rourke",
       "album": "Shutting Down Here",
       "artistKey": "jim orourke",
@@ -9487,24 +9519,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Jessie Ware",
-      "album": "Sauna",
-      "artistKey": "jessie ware",
-      "albumKey": "sauna",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Vanishing Twin",
       "album": "Archives",
       "artistKey": "vanishing twin",
@@ -9876,24 +9890,6 @@
           "weight": 4,
           "publishedAt": "2026-08-11",
           "url": "https://stereogum.com/2507540/album-of-the-week-lrain-fata-morgana/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "HULDER",
-      "album": "Verbolgen",
-      "artistKey": "hulder",
-      "albumKey": "verbolgen",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-10",
-          "url": "https://daily.bandcamp.com/album-of-the-day/hulder-verbolgen-review"
         }
       ],
       "editorialWeight": 4,
@@ -13303,20 +13299,92 @@
       "mentionCount": 1
     },
     {
-      "artist": "Dylan Earl",
-      "album": "Level-Headed Even Smile",
-      "artistKey": "dylan earl",
-      "albumKey": "level headed even smile",
+      "artist": "Melody’s Echo Chamber",
+      "album": "Live on KEXP",
+      "artistKey": "melodys echo chamber",
+      "albumKey": "live on kexp",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-19",
-          "url": "https://daily.bandcamp.com/album-of-the-day/dylan-earl-level-headed-even-smile-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-20",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Steve Lacy feat. Erykah Badu",
+      "album": "Oh yeah?",
+      "artistKey": "steve lacy feat erykah badu",
+      "albumKey": "oh yeah",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Enjambre",
+      "album": "El Sonido Cancioneros podcast feature",
+      "artistKey": "enjambre",
+      "albumKey": "el sonido cancioneros podcast feature",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jamie She",
+      "album": "Funeral Songs",
+      "artistKey": "jamie she",
+      "albumKey": "funeral songs",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sarakiniko",
+      "album": "Pyrocène",
+      "artistKey": "sarakiniko",
+      "albumKey": "pyrocene",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -14303,114 +14371,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Altın Gün",
-      "album": "Live on KEXP",
-      "artistKey": "alt n gun",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Babehoven",
-      "album": "I See Them, I See Me",
-      "artistKey": "babehoven",
-      "albumKey": "i see them i see me",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Maria Minerva",
-      "album": "Contact High",
-      "artistKey": "maria minerva",
-      "albumKey": "contact high",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Party Dozen",
-      "album": "21 Bum Salute",
-      "artistKey": "party dozen",
-      "albumKey": "21 bum salute",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Welcome Strawberry",
-      "album": "desperate flower remixes",
-      "artistKey": "welcome strawberry",
-      "albumKey": "desperate flower remixes",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wet Leg",
-      "album": "moisturizer (deluxe)",
-      "artistKey": "wet leg",
-      "albumKey": "moisturizer deluxe",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-09",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

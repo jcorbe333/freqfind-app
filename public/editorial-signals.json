@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T12:47:35.155Z",
+  "generatedAt": "2026-09-21T14:45:05.183Z",
   "items": [
     {
       "artist": "Kelela",
@@ -313,7 +313,7 @@
       ],
       "editorialWeight": 10,
       "multiSourceBonus": 2,
-      "mentionCount": 10
+      "mentionCount": 2
     },
     {
       "artist": "Standing on the Corner",
@@ -359,31 +359,6 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Nate Mercereau",
-      "album": "Fantastic Thoughts",
-      "artistKey": "nate mercereau",
-      "albumKey": "fantastic thoughts",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-11",
-          "url": "https://thequietus.com/quietus-reviews/nate-mercereau-fantastic-thoughts-review/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-09-10",
-          "url": "https://daily.bandcamp.com/album-of-the-day/nate-mercereau-fantastic-thoughts-review"
         }
       ],
       "editorialWeight": 10,
@@ -591,6 +566,24 @@
       "mentionCount": 2
     },
     {
+      "artist": "Krallice",
+      "album": "Scour Order",
+      "artistKey": "krallice",
+      "albumKey": "scour order",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-21",
+          "url": "https://pitchfork.com/reviews/albums/krallice-scour-order/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Various Artists",
       "album": "Easy Rider (Music From the Soundtrack)",
       "artistKey": "various artists",
@@ -663,24 +656,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Beyonce",
-      "album": "B’DAY (20th ANNIVERSARY EDITION)",
-      "artistKey": "beyonce",
-      "albumKey": "bday 20th anniversary edition",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-10",
-          "url": "https://pitchfork.com/reviews/albums/beyonce-bday-20th-anniversary-edition/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "SML",
       "album": "Spontaneous Music Live",
       "artistKey": "sml",
@@ -692,24 +667,6 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Beyoncé",
-      "album": "Cowboy Carter",
-      "artistKey": "beyonce",
-      "albumKey": "cowboy carter",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
         }
       ],
       "editorialWeight": 6,
@@ -739,6 +696,24 @@
       "album": "The Collective",
       "artistKey": "kim gordon",
       "albumKey": "the collective",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Krallice",
+      "album": "Inorganic Rites",
+      "artistKey": "krallice",
+      "albumKey": "inorganic rites",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -807,10 +782,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Beyoncé",
-      "album": "Renaissance",
-      "artistKey": "beyonce",
-      "albumKey": "renaissance",
+      "artist": "Beach House",
+      "album": "Once Twice Melody",
+      "artistKey": "beach house",
+      "albumKey": "once twice melody",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -829,6 +804,24 @@
       "album": "God’s Country",
       "artistKey": "chat pile",
       "albumKey": "gods country",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Krallice",
+      "album": "Crystalline Exhaustion",
+      "artistKey": "krallice",
+      "albumKey": "crystalline exhaustion",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -865,24 +858,6 @@
       "album": "Fatigue",
       "artistKey": "lrain",
       "albumKey": "fatigue",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Low",
-      "album": "HEY WHAT",
-      "artistKey": "low",
-      "albumKey": "hey what",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -951,24 +926,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Beyoncé",
-      "album": "HOMECOMING: The Live Album",
-      "artistKey": "beyonce",
-      "albumKey": "homecoming the live album",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Daphni",
       "album": "Sizzling",
       "artistKey": "daphni",
@@ -1020,6 +977,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Beck",
+      "album": "Ride Lonesome",
+      "artistKey": "beck",
+      "albumKey": "ride lonesome",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-21",
+          "url": "https://pitchfork.com/reviews/albums/beck-ride-lonesome/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Emma Ruth Rundle",
+      "album": "These Killing Times",
+      "artistKey": "emma ruth rundle",
+      "albumKey": "these killing times",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-21",
+          "url": "https://pitchfork.com/reviews/albums/emma-ruth-rundle-these-killing-times/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rebecca Black",
+      "album": "Age of the Exhibitionist",
+      "artistKey": "rebecca black",
+      "albumKey": "age of the exhibitionist",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-21",
+          "url": "https://pitchfork.com/reviews/albums/rebecca-black-age-of-the-exhibitionist/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1358,60 +1369,6 @@
           "weight": 5,
           "publishedAt": "2026-09-12",
           "url": "https://pitchfork.com/reviews/albums/mac-demarco-dog-on-the-rock-seven-off-the-two-seaplane-dog-the-view-from-tian-tan/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Russian Circles",
-      "album": "Nine",
-      "artistKey": "russian circles",
-      "albumKey": "nine",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-11",
-          "url": "https://pitchfork.com/reviews/albums/russian-circles-nine/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Young Stoner Life Young Thug",
-      "album": "Slime Language 3",
-      "artistKey": "young stoner life young thug",
-      "albumKey": "slime language 3",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-11",
-          "url": "https://pitchfork.com/reviews/albums/young-stoner-life-young-thug-slime-language-3/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Argento",
-      "album": "Miraggi",
-      "artistKey": "argento",
-      "albumKey": "miraggi",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-10",
-          "url": "https://pitchfork.com/reviews/albums/argento-miraggi/"
         }
       ],
       "editorialWeight": 5,
@@ -3489,6 +3446,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Beyoncé",
+      "album": "Cowboy Carter",
+      "artistKey": "beyonce",
+      "albumKey": "cowboy carter",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Bladee",
       "album": "COLD VISIONS",
       "artistKey": "bladee",
@@ -3961,24 +3936,6 @@
       "album": "You Won't Go Before You're Supposed To",
       "artistKey": "knocked loose",
       "albumKey": "you wont go before youre supposed to",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Krallice",
-      "album": "Inorganic Rites",
-      "artistKey": "krallice",
-      "albumKey": "inorganic rites",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -5667,10 +5624,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Beach House",
-      "album": "Once Twice Melody",
-      "artistKey": "beach house",
-      "albumKey": "once twice melody",
+      "artist": "Benny the Butcher",
+      "album": "Tana Talk 4",
+      "artistKey": "benny the butcher",
+      "albumKey": "tana talk 4",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -5685,10 +5642,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Benny the Butcher",
-      "album": "Tana Talk 4",
-      "artistKey": "benny the butcher",
-      "albumKey": "tana talk 4",
+      "artist": "Beyoncé",
+      "album": "Renaissance",
+      "artistKey": "beyonce",
+      "albumKey": "renaissance",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -6157,24 +6114,6 @@
       "album": "Laminated Denim",
       "artistKey": "king gizzard and the lizard wizard",
       "albumKey": "laminated denim",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Krallice",
-      "album": "Crystalline Exhaustion",
-      "artistKey": "krallice",
-      "albumKey": "crystalline exhaustion",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -7003,6 +6942,24 @@
       "album": "Sometimes I Might Be Introvert",
       "artistKey": "little simz",
       "albumKey": "sometimes i might be introvert",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Low",
+      "album": "HEY WHAT",
+      "artistKey": "low",
+      "albumKey": "hey what",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8583,6 +8540,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Beyoncé",
+      "album": "HOMECOMING: The Live Album",
+      "artistKey": "beyonce",
+      "albumKey": "homecoming the live album",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Billie Eilish",
       "album": "When We All Fall Asleep, Where Do We Go?",
       "artistKey": "billie eilish",
@@ -9321,6 +9296,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "SUAHN",
+      "album": "Distort Everything Forever",
+      "artistKey": "suahn",
+      "albumKey": "distort everything forever",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-21",
+          "url": "https://daily.bandcamp.com/album-of-the-day/suahn-distort-everything-forever-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Curly Castro",
       "album": "Yaphet",
       "artistKey": "curly castro",
@@ -9337,6 +9330,42 @@
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "A Certain Ratio",
+      "album": "The Joy of Sextet / Force Majeure",
+      "artistKey": "a certain ratio",
+      "albumKey": "the joy of sextet force majeure",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-09-21",
+          "url": "https://thequietus.com/quietus-reviews/a-certain-ratio-the-joy-of-sextet-force-majeure-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Beach House",
+      "album": "April Suzanne",
+      "artistKey": "beach house",
+      "albumKey": "april suzanne",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Kim Ximya",
@@ -9501,21 +9530,21 @@
       "mentionCount": 1
     },
     {
-      "artist": "Low",
-      "album": "Live on KEXP",
-      "artistKey": "low",
-      "albumKey": "live on kexp",
+      "artist": "Nate Mercereau",
+      "album": "Fantastic Thoughts",
+      "artistKey": "nate mercereau",
+      "albumKey": "fantastic thoughts",
       "sources": [
         {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
           "publishedAt": "2026-09-10",
-          "url": "https://www.kexp.org/playlist/"
+          "url": "https://daily.bandcamp.com/album-of-the-day/nate-mercereau-fantastic-thoughts-review"
         }
       ],
       "editorialWeight": 4,
-      "multiSourceBonus": 1,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -13299,6 +13328,96 @@
       "mentionCount": 1
     },
     {
+      "artist": "Arlo Parks",
+      "album": "2SIDED (Oscar Farrell Remix)",
+      "artistKey": "arlo parks",
+      "albumKey": "2sided oscar farrell remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Concrete Vehicles",
+      "album": "Text Stop",
+      "artistKey": "concrete vehicles",
+      "albumKey": "text stop",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Homeboy Sandman & Jack Splash",
+      "album": "Resonance Frequency",
+      "artistKey": "homeboy sandman and jack splash",
+      "albumKey": "resonance frequency",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lucha Luna",
+      "album": "BRILLA BRILLA (REMIXED)",
+      "artistKey": "lucha luna",
+      "albumKey": "brilla brilla remixed",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Purple Pilgrims",
+      "album": "Given to the Night",
+      "artistKey": "purple pilgrims",
+      "albumKey": "given to the night",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Melody’s Echo Chamber",
       "album": "Live on KEXP",
       "artistKey": "melodys echo chamber",
@@ -13321,6 +13440,42 @@
       "album": "Oh yeah?",
       "artistKey": "steve lacy feat erykah badu",
       "albumKey": "oh yeah",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Taleen Kali",
+      "album": "Viper",
+      "artistKey": "taleen kali",
+      "albumKey": "viper",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wolf Alice",
+      "album": "Visions of a Life",
+      "artistKey": "wolf alice",
+      "albumKey": "visions of a life",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13767,24 +13922,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Lucha Luna",
-      "album": "BRILLA BRILLA (REMIXED)",
-      "artistKey": "lucha luna",
-      "albumKey": "brilla brilla remixed",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Panda Bear & Sonic Boom",
       "album": "A ? of WHEN",
       "artistKey": "panda bear and sonic boom",
@@ -13987,24 +14124,6 @@
       "album": "Good at it",
       "artistKey": "doohickey cubicle",
       "albumKey": "good at it",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Homeboy Sandman & Jack Splash",
-      "album": "Resonance Frequency",
-      "artistKey": "homeboy sandman and jack splash",
-      "albumKey": "resonance frequency",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14263,114 +14382,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cousin Chris",
-      "album": "ENTRYPOINT 01",
-      "artistKey": "cousin chris",
-      "albumKey": "entrypoint 01",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nappy Nina & Swarvy feat. Quelle Chris",
-      "album": "Sow & So",
-      "artistKey": "nappy nina and swarvy feat quelle chris",
-      "albumKey": "sow and so",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rochelle Jordan",
-      "album": "Disc 1",
-      "artistKey": "rochelle jordan",
-      "albumKey": "disc 1",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Shabazz Palaces",
-      "album": "Live on KEXP",
-      "artistKey": "shabazz palaces",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wolf Alice",
-      "album": "Visions of a Life",
-      "artistKey": "wolf alice",
-      "albumKey": "visions of a life",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-10",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Yo La Tengo",
-      "album": "Live on KEXP",
-      "artistKey": "yo la tengo",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-10",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14984,42 +14995,6 @@
           "weight": 3,
           "publishedAt": "2026-05-02",
           "url": "https://www.indieshuffle.com/john-maus-do-your-best/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lullabies",
-      "album": "Left In The Dust",
-      "artistKey": "lullabies",
-      "albumKey": "left in the dust",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-04-29",
-          "url": "https://www.indieshuffle.com/lullabies-left-in-the-dust/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Terror/Cactus",
-      "album": "Transmisión Clandestina",
-      "artistKey": "terror cactus",
-      "albumKey": "transmision clandestina",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-04-27",
-          "url": "https://www.indieshuffle.com/terror-cactus-transmisi-n-clandestina/"
         }
       ],
       "editorialWeight": 3,

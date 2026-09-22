@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-09-21T14:45:05.183Z",
+  "generatedAt": "2026-09-22T12:59:53.173Z",
   "items": [
+    {
+      "artist": "Actress",
+      "album": "Radical Frame",
+      "artistKey": "actress",
+      "albumKey": "radical frame",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-22",
+          "url": "https://pitchfork.com/reviews/albums/actress-radical-frame/"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-09-18",
+          "url": "https://thequietus.com/quietus-reviews/actress-radical-frame-review/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-17",
+          "url": "https://daily.bandcamp.com/album-of-the-day/actress-radical-frame-review"
+        }
+      ],
+      "editorialWeight": 15,
+      "multiSourceBonus": 2,
+      "mentionCount": 3
+    },
     {
       "artist": "Kelela",
       "album": "new avatar",
@@ -109,31 +141,6 @@
           "weight": 4,
           "publishedAt": "2026-09-11",
           "url": "https://daily.bandcamp.com/album-of-the-day/angela-autumn-believer-review"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "This Is Lorelei",
-      "album": "The Singer In My Band",
-      "artistKey": "this is lorelei",
-      "albumKey": "the singer in my band",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-11",
-          "url": "https://pitchfork.com/reviews/albums/this-is-lorelei-the-singer-in-my-band/"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-09-08",
-          "url": "https://stereogum.com/2510281/album-of-the-week-this-is-lorelei-the-singer-in-my-band/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 11,
@@ -287,31 +294,6 @@
         }
       ],
       "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Actress",
-      "album": "Radical Frame",
-      "artistKey": "actress",
-      "albumKey": "radical frame",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-18",
-          "url": "https://thequietus.com/quietus-reviews/actress-radical-frame-review/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-09-17",
-          "url": "https://daily.bandcamp.com/album-of-the-day/actress-radical-frame-review"
-        }
-      ],
-      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -631,24 +613,6 @@
           "weight": 5,
           "publishedAt": "2026-09-14",
           "url": "https://pitchfork.com/reviews/albums/various-artists-synthetic-water-music/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bonobo",
-      "album": "Distance in Static",
-      "artistKey": "bonobo",
-      "albumKey": "distance in static",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-11",
-          "url": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/"
         }
       ],
       "editorialWeight": 6,
@@ -977,6 +941,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "After",
+      "album": "Fell Asleep in the Sun",
+      "artistKey": "after",
+      "albumKey": "fell asleep in the sun",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-22",
+          "url": "https://pitchfork.com/reviews/albums/after-fell-asleep-in-the-sun/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Agnes Obel",
+      "album": "The Meaning of Flowers",
+      "artistKey": "agnes obel",
+      "albumKey": "the meaning of flowers",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-22",
+          "url": "https://pitchfork.com/reviews/albums/agnes-obel-the-meaning-of-flowers/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Drin",
+      "album": "I Lost My Way for Centuries",
+      "artistKey": "the drin",
+      "albumKey": "i lost my way for centuries",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-22",
+          "url": "https://pitchfork.com/reviews/albums/the-drin-i-lost-my-way-for-centuries/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1333,42 +1351,6 @@
           "weight": 5,
           "publishedAt": "2026-09-14",
           "url": "https://pitchfork.com/reviews/albums/valerie-june-brighter-blue-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Art Of Noise",
-      "album": "In Visible Silence",
-      "artistKey": "art of noise",
-      "albumKey": "in visible silence",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-13",
-          "url": "https://pitchfork.com/reviews/albums/art-of-noise-in-visible-silence/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mac Demarco",
-      "album": "Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan",
-      "artistKey": "mac demarco",
-      "albumKey": "dog on the rock seven off the two seaplane dog the view from tian tan",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-12",
-          "url": "https://pitchfork.com/reviews/albums/mac-demarco-dog-on-the-rock-seven-off-the-two-seaplane-dog-the-view-from-tian-tan/"
         }
       ],
       "editorialWeight": 5,
@@ -2201,24 +2183,6 @@
       ],
       "editorialWeight": 5,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "This Is Lorelei",
-      "album": "Holo Boy",
-      "artistKey": "this is lorelei",
-      "albumKey": "holo boy",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-12-09",
-          "url": "https://stereogum.com/2482361/album-of-the-week-this-is-lorelei-holo-boy/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9332,6 +9296,42 @@
       "mentionCount": 9
     },
     {
+      "artist": "EXAUDI",
+      "album": "Pocket Universe",
+      "artistKey": "exaudi",
+      "albumKey": "pocket universe",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-09-22",
+          "url": "https://thequietus.com/quietus-reviews/exaudi-pocket-universe-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ezra Collective",
+      "album": "Here Because of Hope",
+      "artistKey": "ezra collective",
+      "albumKey": "here because of hope",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-09-22",
+          "url": "https://thequietus.com/quietus-reviews/ezra-collective-here-because-of-hope/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "A Certain Ratio",
       "album": "The Joy of Sextet / Force Majeure",
       "artistKey": "a certain ratio",
@@ -9584,6 +9584,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "This Is Lorelei",
+      "album": "The Singer In My Band",
+      "artistKey": "this is lorelei",
+      "albumKey": "the singer in my band",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-09-08",
+          "url": "https://stereogum.com/2510281/album-of-the-week-this-is-lorelei-the-singer-in-my-band/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "RAP",
       "album": "Navigator",
       "artistKey": "rap",
@@ -9761,24 +9779,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bonobo",
-      "album": "Always on Your Side (Ft. Joy Crookes)",
-      "artistKey": "bonobo",
-      "albumKey": "always on your side ft joy crookes",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-08-20",
-          "url": "https://www.indieshuffle.com/bonobo-always-on-your-side-ft-joy-crookes/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -12464,6 +12464,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "This Is Lorelei",
+      "album": "Holo Boy",
+      "artistKey": "this is lorelei",
+      "albumKey": "holo boy",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2025-12-09",
+          "url": "https://stereogum.com/2482361/album-of-the-week-this-is-lorelei-holo-boy/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Blut Aus Nord",
       "album": "Ethereal Horizons",
       "artistKey": "blut aus nord",
@@ -13328,6 +13346,294 @@
       "mentionCount": 1
     },
     {
+      "artist": "Alarm!Systemen",
+      "album": "Alarm!Systemen",
+      "artistKey": "alarm systemen",
+      "albumKey": "alarm systemen",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Alex Albrecht",
+      "album": "In the Turpid Heat of the Afternoon",
+      "artistKey": "alex albrecht",
+      "albumKey": "in the turpid heat of the afternoon",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Asa Tate",
+      "album": "Brahmaputra EP",
+      "artistKey": "asa tate",
+      "albumKey": "brahmaputra ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Barkley Bandon",
+      "album": "I Bet",
+      "artistKey": "barkley bandon",
+      "albumKey": "i bet",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Black Truffle",
+      "album": "La Truffe Galactique",
+      "artistKey": "black truffle",
+      "albumKey": "la truffe galactique",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Darren Nye",
+      "album": "Lunar Refraction",
+      "artistKey": "darren nye",
+      "albumKey": "lunar refraction",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "ddwy",
+      "album": "Tell Me, Told You",
+      "artistKey": "ddwy",
+      "albumKey": "tell me told you",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dea",
+      "album": "Fairlight",
+      "artistKey": "dea",
+      "albumKey": "fairlight",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fort Romeau",
+      "album": "Lovin' U",
+      "artistKey": "fort romeau",
+      "albumKey": "lovin u",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Índio da Cuíca",
+      "album": "Zing Zing",
+      "artistKey": "indio da cuica",
+      "albumKey": "zing zing",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jex Opolis",
+      "album": "Key Rush",
+      "artistKey": "jex opolis",
+      "albumKey": "key rush",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "K-Lone",
+      "album": "Have a Few Days Off",
+      "artistKey": "k lone",
+      "albumKey": "have a few days off",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Low End Activist / SeekersInternational",
+      "album": "Muzikon",
+      "artistKey": "low end activist seekersinternational",
+      "albumKey": "muzikon",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Marco Cassanelli",
+      "album": "Visions EP",
+      "artistKey": "marco cassanelli",
+      "albumKey": "visions ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Meshell Ndegeocello, Bill Callahan & Chris Thile",
+      "album": "Synonym",
+      "artistKey": "meshell ndegeocello bill callahan and chris thile",
+      "albumKey": "synonym",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "YL Hooi",
+      "album": "Running Around (83)",
+      "artistKey": "yl hooi",
+      "albumKey": "running around 83",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Arlo Parks",
       "album": "2SIDED (Oscar Farrell Remix)",
       "artistKey": "arlo parks",
@@ -13364,10 +13670,100 @@
       "mentionCount": 1
     },
     {
+      "artist": "Curtis Harding",
+      "album": "Face Your Fear",
+      "artistKey": "curtis harding",
+      "albumKey": "face your fear",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dead Can Dance",
+      "album": "Nāda",
+      "artistKey": "dead can dance",
+      "albumKey": "nada",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Elliott Skinner feat. Jensen McRae",
+      "album": "How Far We’ve Come",
+      "artistKey": "elliott skinner feat jensen mcrae",
+      "albumKey": "how far weve come",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fever Ray",
+      "album": "Plunge",
+      "artistKey": "fever ray",
+      "albumKey": "plunge",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Homeboy Sandman & Jack Splash",
       "album": "Resonance Frequency",
       "artistKey": "homeboy sandman and jack splash",
       "albumKey": "resonance frequency",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kate Nash",
+      "album": "Spilt Milk",
+      "artistKey": "kate nash",
+      "albumKey": "spilt milk",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13404,6 +13800,60 @@
       "album": "Given to the Night",
       "artistKey": "purple pilgrims",
       "albumKey": "given to the night",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Steve Lacy",
+      "album": "Oh yeah?",
+      "artistKey": "steve lacy",
+      "albumKey": "oh yeah",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Black Tones",
+      "album": "Diamond Ruby Night",
+      "artistKey": "the black tones",
+      "albumKey": "diamond ruby night",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Twin Temple",
+      "album": "Doomed Lovers",
+      "artistKey": "twin temple",
+      "albumKey": "doomed lovers",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14210,60 +14660,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "foamboy",
-      "album": "STUPID HOT",
-      "artistKey": "foamboy",
-      "albumKey": "stupid hot",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ghostland Observatory",
-      "album": "Live on KEXP",
-      "artistKey": "ghostland observatory",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Greg Kramer",
-      "album": "Heat Check",
-      "artistKey": "greg kramer",
-      "albumKey": "heat check",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Hockitay",
       "album": "half smile",
       "artistKey": "hockitay",
@@ -14275,114 +14671,6 @@
           "weight": 3,
           "publishedAt": "2026-09-11",
           "url": "https://www.indieshuffle.com/hockitay-half-smile/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Merchandise",
-      "album": "Live on KEXP",
-      "artistKey": "merchandise",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nappy Nina & Swarvy",
-      "album": "Sow & So",
-      "artistKey": "nappy nina and swarvy",
-      "albumKey": "sow and so",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nightbus",
-      "album": "False Prophet (Ashnymph Remix)",
-      "artistKey": "nightbus",
-      "albumKey": "false prophet ashnymph remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rolling Blackouts Coastal Fever",
-      "album": "Sideways to New Italy",
-      "artistKey": "rolling blackouts coastal fever",
-      "albumKey": "sideways to new italy",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Two-Man Giant Squid",
-      "album": "Two‐Man Giant Squid",
-      "artistKey": "two man giant squid",
-      "albumKey": "two man giant squid",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "WILLOW & Mei Semones",
-      "album": "The Thread",
-      "artistKey": "willow and mei semones",
-      "albumKey": "the thread",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-11",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -14419,6 +14707,24 @@
           "weight": 3,
           "publishedAt": "2026-08-25",
           "url": "https://www.indieshuffle.com/beatenberg-scatterlings-ft-johnny-clegg/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Bonobo",
+      "album": "Always on Your Side (Ft. Joy Crookes)",
+      "artistKey": "bonobo",
+      "albumKey": "always on your side ft joy crookes",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-08-20",
+          "url": "https://www.indieshuffle.com/bonobo-always-on-your-side-ft-joy-crookes/"
         }
       ],
       "editorialWeight": 3,

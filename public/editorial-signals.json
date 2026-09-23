@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T12:59:53.173Z",
+  "generatedAt": "2026-09-23T13:13:20.804Z",
   "items": [
     {
       "artist": "Actress",
@@ -43,7 +43,7 @@
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-09-20",
+          "publishedAt": "2026-09-22",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -96,6 +96,31 @@
       "editorialWeight": 14,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "The Drin",
+      "album": "I Lost My Way For Centuries",
+      "artistKey": "the drin",
+      "albumKey": "i lost my way for centuries",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-22",
+          "url": "https://daily.bandcamp.com/album-of-the-day/the-drin-i-lost-my-way-for-centuries-review"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-22",
+          "url": "https://pitchfork.com/reviews/albums/the-drin-i-lost-my-way-for-centuries/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 10
     },
     {
       "artist": "Haruomi Hosono",
@@ -602,17 +627,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Various Artists",
-      "album": "Synthetic Water Music",
-      "artistKey": "various artists",
-      "albumKey": "synthetic water music",
+      "artist": "SML",
+      "album": "Spontaneous Music Live",
+      "artistKey": "sml",
+      "albumKey": "spontaneous music live",
       "sources": [
         {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
           "weight": 5,
-          "publishedAt": "2026-09-14",
-          "url": "https://pitchfork.com/reviews/albums/various-artists-synthetic-water-music/"
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 6,
@@ -620,10 +645,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "SML",
-      "album": "Spontaneous Music Live",
-      "artistKey": "sml",
-      "albumKey": "spontaneous music live",
+      "artist": "Thundercat",
+      "album": "Distracted",
+      "artistKey": "thundercat",
+      "albumKey": "distracted",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -721,6 +746,24 @@
           "weight": 5,
           "publishedAt": "2024-01-01",
           "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Caroline Polachek",
+      "album": "Desire, I Want to Turn Into You",
+      "artistKey": "caroline polachek",
+      "albumKey": "desire i want to turn into you",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
         }
       ],
       "editorialWeight": 6,
@@ -890,6 +933,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Caroline Polachek",
+      "album": "Pang",
+      "artistKey": "caroline polachek",
+      "albumKey": "pang",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Daphni",
       "album": "Sizzling",
       "artistKey": "daphni",
@@ -944,6 +1005,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Alex G",
+      "album": "Teenage Sex and Death at Camp Miasma (Original Motion Picture Score)",
+      "artistKey": "alex g",
+      "albumKey": "teenage sex and death at camp miasma original motion picture score",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-23",
+          "url": "https://pitchfork.com/reviews/albums/alex-g-teenage-sex-and-death-at-camp-miasma-original-motion-picture-score/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Beastie",
+      "album": "Maria EP",
+      "artistKey": "beastie",
+      "albumKey": "maria ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-23",
+          "url": "https://pitchfork.com/reviews/albums/beastie-maria-ep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Boy Harsher",
+      "album": "GET MEAN",
+      "artistKey": "boy harsher",
+      "albumKey": "get mean",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-23",
+          "url": "https://pitchfork.com/reviews/albums/boy-harsher-get-mean/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fetty P Franklin Bandplay",
+      "album": "THE FRANK PLAY",
+      "artistKey": "fetty p franklin bandplay",
+      "albumKey": "the frank play",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-23",
+          "url": "https://pitchfork.com/reviews/albums/fetty-p-franklin-bandplay-the-frank-play/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "After",
       "album": "Fell Asleep in the Sun",
       "artistKey": "after",
@@ -973,24 +1106,6 @@
           "weight": 5,
           "publishedAt": "2026-09-22",
           "url": "https://pitchfork.com/reviews/albums/agnes-obel-the-meaning-of-flowers/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Drin",
-      "album": "I Lost My Way for Centuries",
-      "artistKey": "the drin",
-      "albumKey": "i lost my way for centuries",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-22",
-          "url": "https://pitchfork.com/reviews/albums/the-drin-i-lost-my-way-for-centuries/"
         }
       ],
       "editorialWeight": 5,
@@ -1297,60 +1412,6 @@
           "weight": 5,
           "publishedAt": "2026-09-15",
           "url": "https://pitchfork.com/reviews/albums/rio-da-yung-og-the-world-is-yours/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Helena Gao",
-      "album": "Gao Dan Dan EP",
-      "artistKey": "helena gao",
-      "albumKey": "gao dan dan ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-14",
-          "url": "https://pitchfork.com/reviews/albums/helena-gao-gao-dan-dan-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sylvan Esso Ow Infinity",
-      "album": "Ow ∞",
-      "artistKey": "sylvan esso ow infinity",
-      "albumKey": "ow",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-14",
-          "url": "https://pitchfork.com/reviews/albums/sylvan-esso-ow-infinity/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Valerie June",
-      "album": "Brighter Blue EP",
-      "artistKey": "valerie june",
-      "albumKey": "brighter blue ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-14",
-          "url": "https://pitchfork.com/reviews/albums/valerie-june-brighter-blue-ep/"
         }
       ],
       "editorialWeight": 5,
@@ -2064,24 +2125,6 @@
       "album": "Look for Your Mind!",
       "artistKey": "the lemon twigs",
       "albumKey": "look for your mind",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Thundercat",
-      "album": "Distracted",
-      "artistKey": "thundercat",
-      "albumKey": "distracted",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -4512,24 +4555,6 @@
       "album": "Bad News",
       "artistKey": "blu and real bad man",
       "albumKey": "bad news",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Caroline Polachek",
-      "album": "Desire, I Want to Turn Into You",
-      "artistKey": "caroline polachek",
-      "albumKey": "desire i want to turn into you",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8594,24 +8619,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Caroline Polachek",
-      "album": "Pang",
-      "artistKey": "caroline polachek",
-      "albumKey": "pang",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Charli XCX",
       "album": "Charli",
       "artistKey": "charli xcx",
@@ -9278,22 +9285,76 @@
       "mentionCount": 9
     },
     {
-      "artist": "Curly Castro",
-      "album": "Yaphet",
-      "artistKey": "curly castro",
-      "albumKey": "yaphet",
+      "artist": "Beach House",
+      "album": "April Suzanne",
+      "artistKey": "beach house",
+      "albumKey": "april suzanne",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Caroline Polachek",
+      "album": "Live on KEXP",
+      "artistKey": "caroline polachek",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Merryn Jeann",
+      "album": "Fear Of The Beauty Parlour",
+      "artistKey": "merryn jeann",
+      "albumKey": "fear of the beauty parlour",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-09-18",
-          "url": "https://daily.bandcamp.com/album-of-the-day/curly-castro-yaphet-review"
+          "publishedAt": "2026-09-23",
+          "url": "https://thequietus.com/quietus-reviews/merryn-jeann-fear-of-the-beauty-parlour-review/"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
+    },
+    {
+      "artist": "Thundercat",
+      "album": "It Is What It Is",
+      "artistKey": "thundercat",
+      "albumKey": "it is what it is",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "EXAUDI",
@@ -9332,6 +9393,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Gilla Band",
+      "album": "Pugnello",
+      "artistKey": "gilla band",
+      "albumKey": "pugnello",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-09-22",
+          "url": "https://stereogum.com/2511953/album-of-the-week-gilla-band-pugnello/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "A Certain Ratio",
       "album": "The Joy of Sextet / Force Majeure",
       "artistKey": "a certain ratio",
@@ -9350,21 +9429,21 @@
       "mentionCount": 1
     },
     {
-      "artist": "Beach House",
-      "album": "April Suzanne",
-      "artistKey": "beach house",
-      "albumKey": "april suzanne",
+      "artist": "Curly Castro",
+      "album": "Yaphet",
+      "artistKey": "curly castro",
+      "albumKey": "yaphet",
       "sources": [
         {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-18",
+          "url": "https://daily.bandcamp.com/album-of-the-day/curly-castro-yaphet-review"
         }
       ],
       "editorialWeight": 4,
-      "multiSourceBonus": 1,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -9487,24 +9566,6 @@
           "weight": 4,
           "publishedAt": "2026-09-15",
           "url": "https://stereogum.com/2511446/album-of-the-week-slow-pulp-melodie/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Carmen Villain",
-      "album": "Memoria",
-      "artistKey": "carmen villain",
-      "albumKey": "memoria",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-14",
-          "url": "https://thequietus.com/quietus-reviews/carmen-villain-memoria-review/"
         }
       ],
       "editorialWeight": 4,
@@ -12518,24 +12579,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Dove Ellis",
-      "album": "Blizzard",
-      "artistKey": "dove ellis",
-      "albumKey": "blizzard",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-12-02",
-          "url": "https://stereogum.com/2481110/album-of-the-week-dove-ellis-blizzard/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Von Pea & The Other Guys",
       "album": "Putcha Weight On It",
       "artistKey": "von pea and the other guys",
@@ -13328,20 +13371,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "pôt-pot",
-      "album": "Warsaw 480km",
-      "artistKey": "pot pot",
-      "albumKey": "warsaw 480km",
+      "artist": "Cel Ray",
+      "album": "Cel Rayzer",
+      "artistKey": "cel ray",
+      "albumKey": "cel rayzer",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-22",
-          "url": "https://daily.bandcamp.com/album-of-the-day/pot-pot-warsaw-480km-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-23",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hercules & Love Affair & Hips & Lips",
+      "album": "Danseur EP",
+      "artistKey": "hercules and love affair and hips and lips",
+      "albumKey": "danseur ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "kelz",
+      "album": "A Sweet Passerby",
+      "artistKey": "kelz",
+      "albumKey": "a sweet passerby",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13422,6 +13501,24 @@
       "album": "La Truffe Galactique",
       "artistKey": "black truffle",
       "albumKey": "la truffe galactique",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Clutter",
+      "album": "Sugar Rush",
+      "artistKey": "clutter",
+      "albumKey": "sugar rush",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13562,10 +13659,46 @@
       "mentionCount": 1
     },
     {
+      "artist": "Kathleen Hanna",
+      "album": "Contra-ICE Vol. 1: ICE Out",
+      "artistKey": "kathleen hanna",
+      "albumKey": "contra ice vol 1 ice out",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Low End Activist / SeekersInternational",
       "album": "Muzikon",
       "artistKey": "low end activist seekersinternational",
       "albumKey": "muzikon",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lucha Luna",
+      "album": "Ritmo Eterno (Maga Bo Remix)",
+      "artistKey": "lucha luna",
+      "albumKey": "ritmo eterno maga bo remix",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",

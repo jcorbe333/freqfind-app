@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T13:04:49.376Z",
+  "generatedAt": "2026-09-25T13:09:28.325Z",
   "items": [
     {
       "artist": "Actress",
@@ -98,49 +98,24 @@
       "mentionCount": 3
     },
     {
-      "artist": "The Drin",
-      "album": "I Lost My Way For Centuries",
-      "artistKey": "the drin",
-      "albumKey": "i lost my way for centuries",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-09-22",
-          "url": "https://daily.bandcamp.com/album-of-the-day/the-drin-i-lost-my-way-for-centuries-review"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-22",
-          "url": "https://pitchfork.com/reviews/albums/the-drin-i-lost-my-way-for-centuries/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 10
-    },
-    {
-      "artist": "Kim Ximya",
-      "album": "Dogma",
-      "artistKey": "kim ximya",
-      "albumKey": "dogma",
+      "artist": "Gilla Band",
+      "album": "Pugnello",
+      "artistKey": "gilla band",
+      "albumKey": "pugnello",
       "sources": [
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-09-24",
-          "url": "https://pitchfork.com/reviews/albums/kim-ximya-dogma/"
+          "publishedAt": "2026-09-25",
+          "url": "https://pitchfork.com/reviews/albums/gilla-band-pugnello/"
         },
         {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
           "weight": 4,
-          "publishedAt": "2026-09-17",
-          "url": "https://thequietus.com/quietus-reviews/kim-ximya-dogma-review/"
+          "publishedAt": "2026-09-22",
+          "url": "https://stereogum.com/2511953/album-of-the-week-gilla-band-pugnello/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 11,
@@ -173,24 +148,24 @@
       "mentionCount": 2
     },
     {
-      "artist": "Haruomi Hosono",
-      "album": "Yours Sincerely",
-      "artistKey": "haruomi hosono",
-      "albumKey": "yours sincerely",
+      "artist": "The Drin",
+      "album": "I Lost My Way For Centuries",
+      "artistKey": "the drin",
+      "albumKey": "i lost my way for centuries",
       "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-16",
-          "url": "https://pitchfork.com/reviews/albums/haruomi-hosono-yours-sincerely/"
-        },
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-09-14",
-          "url": "https://daily.bandcamp.com/album-of-the-day/haruomi-hosono-yours-sincerely-review"
+          "publishedAt": "2026-09-22",
+          "url": "https://daily.bandcamp.com/album-of-the-day/the-drin-i-lost-my-way-for-centuries-review"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-22",
+          "url": "https://pitchfork.com/reviews/albums/the-drin-i-lost-my-way-for-centuries/"
         }
       ],
       "editorialWeight": 11,
@@ -627,24 +602,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Various Artists",
-      "album": "Denshattack! (Original Game Soundtrack)",
-      "artistKey": "various artists",
-      "albumKey": "denshattack original game soundtrack",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-16",
-          "url": "https://pitchfork.com/reviews/albums/various-artists-denshattack-original-game-soundtrack/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "SML",
       "album": "Spontaneous Music Live",
       "artistKey": "sml",
@@ -1023,6 +980,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Jae Stephens",
+      "album": "AUDACITY",
+      "artistKey": "jae stephens",
+      "albumKey": "audacity",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-25",
+          "url": "https://pitchfork.com/reviews/albums/jae-stephens-audacity/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Leon Bridges",
+      "album": "Happiness Anytime",
+      "artistKey": "leon bridges",
+      "albumKey": "happiness anytime",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-25",
+          "url": "https://pitchfork.com/reviews/albums/leon-bridges-happiness-anytime/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tom Morello",
+      "album": "Everyone Gets Everything They Want",
+      "artistKey": "tom morello",
+      "albumKey": "everyone gets everything they want",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-25",
+          "url": "https://pitchfork.com/reviews/albums/tom-morello-everyone-gets-everything-they-want/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Az Chike",
       "album": "No Rest for the Wicked",
       "artistKey": "az chike",
@@ -1034,6 +1045,24 @@
           "weight": 5,
           "publishedAt": "2026-09-24",
           "url": "https://pitchfork.com/reviews/albums/az-chike-no-rest-for-the-wicked/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kim Ximya",
+      "album": "Dogma",
+      "artistKey": "kim ximya",
+      "albumKey": "dogma",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-24",
+          "url": "https://pitchfork.com/reviews/albums/kim-ximya-dogma/"
         }
       ],
       "editorialWeight": 5,
@@ -1358,42 +1387,6 @@
           "weight": 5,
           "publishedAt": "2026-09-17",
           "url": "https://pitchfork.com/reviews/albums/rhiannon-giddens-hope-is-the-thing-with-feathers/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Karrahbooo",
-      "album": "NOT DA 2",
-      "artistKey": "karrahbooo",
-      "albumKey": "not da 2",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-16",
-          "url": "https://pitchfork.com/reviews/albums/karrahbooo-not-da-2/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Tubs",
-      "album": "Hard Life",
-      "artistKey": "the tubs",
-      "albumKey": "hard life",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-16",
-          "url": "https://pitchfork.com/reviews/albums/the-tubs-hard-life/"
         }
       ],
       "editorialWeight": 5,
@@ -9267,6 +9260,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "megiapa",
+      "album": "Intentions",
+      "artistKey": "megiapa",
+      "albumKey": "intentions",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "Semiratruth",
       "album": "S!M",
       "artistKey": "semiratruth",
@@ -9283,6 +9294,24 @@
       "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 9
+    },
+    {
+      "artist": "Godflesh",
+      "album": "Decay",
+      "artistKey": "godflesh",
+      "albumKey": "decay",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-09-25",
+          "url": "https://thequietus.com/quietus-reviews/godflesh-decay-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
     },
     {
       "artist": "Immersion",
@@ -9429,24 +9458,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Gilla Band",
-      "album": "Pugnello",
-      "artistKey": "gilla band",
-      "albumKey": "pugnello",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-09-22",
-          "url": "https://stereogum.com/2511953/album-of-the-week-gilla-band-pugnello/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "A Certain Ratio",
       "album": "The Joy of Sextet / Force Majeure",
       "artistKey": "a certain ratio",
@@ -9548,6 +9559,24 @@
           "weight": 4,
           "publishedAt": "2026-09-15",
           "url": "https://daily.bandcamp.com/album-of-the-day/perennial-modernism-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Haruomi Hosono",
+      "album": "Yours Sincerely",
+      "artistKey": "haruomi hosono",
+      "albumKey": "yours sincerely",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-14",
+          "url": "https://daily.bandcamp.com/album-of-the-day/haruomi-hosono-yours-sincerely-review"
         }
       ],
       "editorialWeight": 4,
@@ -13317,20 +13346,92 @@
       "mentionCount": 1
     },
     {
-      "artist": "múm",
-      "album": "History of Silence",
-      "artistKey": "mum",
-      "albumKey": "history of silence",
+      "artist": "Blondshell",
+      "album": "Heart Has To Work So Hard",
+      "artistKey": "blondshell",
+      "albumKey": "heart has to work so hard",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/mum-history-of-silence-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-25",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fana Hues",
+      "album": "Catch n' Release",
+      "artistKey": "fana hues",
+      "albumKey": "catch n release",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Homeboy Sandman & Jack Splash",
+      "album": "Resonance Frequency",
+      "artistKey": "homeboy sandman and jack splash",
+      "albumKey": "resonance frequency",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lucha Luna",
+      "album": "BRILLA BRILLA (REMIXED)",
+      "artistKey": "lucha luna",
+      "albumKey": "brilla brilla remixed",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "thredd",
+      "album": "It’s Lovely, Come On In REWORKS",
+      "artistKey": "thredd",
+      "albumKey": "its lovely come on in reworks",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13371,10 +13472,46 @@
       "mentionCount": 1
     },
     {
+      "artist": "Fcukers",
+      "album": "nüyork",
+      "artistKey": "fcukers",
+      "albumKey": "nuyork",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Justine Skye",
       "album": "CANDY",
       "artistKey": "justine skye",
       "albumKey": "candy",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Maiah Manser",
+      "album": "FIFTH DIMENSION Part 1",
+      "artistKey": "maiah manser",
+      "albumKey": "fifth dimension part 1",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13425,6 +13562,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Two-Man Giant Squid",
+      "album": "I Was a DJ in 2015 (NOVABLOOD Remix)",
+      "artistKey": "two man giant squid",
+      "albumKey": "i was a dj in 2015 novablood remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "WILLOW",
       "album": "The Thread",
       "artistKey": "willow",
@@ -13447,24 +13602,6 @@
       "album": "Cel Rayzer",
       "artistKey": "cel ray",
       "albumKey": "cel rayzer",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fana Hues",
-      "album": "Catch n' Release",
-      "artistKey": "fana hues",
-      "albumKey": "catch n release",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13983,46 +14120,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Homeboy Sandman & Jack Splash",
-      "album": "Resonance Frequency",
-      "artistKey": "homeboy sandman and jack splash",
-      "albumKey": "resonance frequency",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kate Nash",
       "album": "Spilt Milk",
       "artistKey": "kate nash",
       "albumKey": "spilt milk",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lucha Luna",
-      "album": "BRILLA BRILLA (REMIXED)",
-      "artistKey": "lucha luna",
-      "albumKey": "brilla brilla remixed",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14695,42 +14796,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bruno Berle & Nyron Higor",
-      "album": "Sem Fronteiras",
-      "artistKey": "bruno berle and nyron higor",
-      "albumKey": "sem fronteiras",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Michi feat. Mndsgn",
-      "album": "Dirty Talk: Sunshine Hotline Mixes",
-      "artistKey": "michi feat mndsgn",
-      "albumKey": "dirty talk sunshine hotline mixes",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-14",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

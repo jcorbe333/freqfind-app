@@ -1,38 +1,6 @@
 {
-  "generatedAt": "2026-09-25T13:09:28.325Z",
+  "generatedAt": "2026-09-26T12:36:20.695Z",
   "items": [
-    {
-      "artist": "Actress",
-      "album": "Radical Frame",
-      "artistKey": "actress",
-      "albumKey": "radical frame",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-22",
-          "url": "https://pitchfork.com/reviews/albums/actress-radical-frame/"
-        },
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-18",
-          "url": "https://thequietus.com/quietus-reviews/actress-radical-frame-review/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-09-17",
-          "url": "https://daily.bandcamp.com/album-of-the-day/actress-radical-frame-review"
-        }
-      ],
-      "editorialWeight": 15,
-      "multiSourceBonus": 2,
-      "mentionCount": 3
-    },
     {
       "artist": "Kelela",
       "album": "new avatar",
@@ -141,6 +109,31 @@
           "weight": 4,
           "publishedAt": "2026-09-15",
           "url": "https://stereogum.com/2511446/album-of-the-week-slow-pulp-melodie/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Actress",
+      "album": "Radical Frame",
+      "artistKey": "actress",
+      "albumKey": "radical frame",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-22",
+          "url": "https://pitchfork.com/reviews/albums/actress-radical-frame/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-17",
+          "url": "https://daily.bandcamp.com/album-of-the-day/actress-radical-frame-review"
         }
       ],
       "editorialWeight": 11,
@@ -980,6 +973,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Joy Division",
+      "album": "Eternal (Live)",
+      "artistKey": "joy division",
+      "albumKey": "eternal live",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-26",
+          "url": "https://pitchfork.com/reviews/albums/joy-division-eternal-live/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Jae Stephens",
       "album": "AUDACITY",
       "artistKey": "jae stephens",
@@ -1369,24 +1380,6 @@
           "weight": 5,
           "publishedAt": "2026-09-17",
           "url": "https://pitchfork.com/reviews/albums/curbside-lambsear-put-rings-on-all-my-fingers-to-weigh-down-my-hands/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rhiannon Giddens",
-      "album": "Hope Is the Thing With Feathers",
-      "artistKey": "rhiannon giddens",
-      "albumKey": "hope is the thing with feathers",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-17",
-          "url": "https://pitchfork.com/reviews/albums/rhiannon-giddens-hope-is-the-thing-with-feathers/"
         }
       ],
       "editorialWeight": 5,
@@ -9260,6 +9253,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "applied communications",
+      "album": "applied communications bites the big one",
+      "artistKey": "applied communications",
+      "albumKey": "applied communications bites the big one",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-25",
+          "url": "https://daily.bandcamp.com/album-of-the-day/applied-communications-applied-communications-bites-the-big-one-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "megiapa",
       "album": "Intentions",
       "artistKey": "megiapa",
@@ -9271,24 +9282,6 @@
           "weight": 4,
           "publishedAt": "2026-09-24",
           "url": "https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 9
-    },
-    {
-      "artist": "Semiratruth",
-      "album": "S!M",
-      "artistKey": "semiratruth",
-      "albumKey": "s m",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-09-23",
-          "url": "https://daily.bandcamp.com/album-of-the-day/semiratruth-sm-review"
         }
       ],
       "editorialWeight": 4,
@@ -9404,6 +9397,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Semiratruth",
+      "album": "S!M",
+      "artistKey": "semiratruth",
+      "albumKey": "s m",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-23",
+          "url": "https://daily.bandcamp.com/album-of-the-day/semiratruth-sm-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Thundercat",
       "album": "It Is What It Is",
       "artistKey": "thundercat",
@@ -9451,24 +9462,6 @@
           "weight": 4,
           "publishedAt": "2026-09-22",
           "url": "https://thequietus.com/quietus-reviews/ezra-collective-here-because-of-hope/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "A Certain Ratio",
-      "album": "The Joy of Sextet / Force Majeure",
-      "artistKey": "a certain ratio",
-      "albumKey": "the joy of sextet force majeure",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-21",
-          "url": "https://thequietus.com/quietus-reviews/a-certain-ratio-the-joy-of-sextet-force-majeure-review/"
         }
       ],
       "editorialWeight": 4,
@@ -13328,20 +13321,20 @@
       "mentionCount": 1
     },
     {
-      "artist": "Aphex Twin",
-      "album": "Surfing On Sine Waves (Expanded Edition)",
-      "artistKey": "aphex twin",
-      "albumKey": "surfing on sine waves expanded edition",
+      "artist": "M83",
+      "album": "I Wrote You a Letter",
+      "artistKey": "m83",
+      "albumKey": "i wrote you a letter",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-25",
-          "url": "https://daily.bandcamp.com/album-of-the-day/aphex-twin-surfing-on-sine-waves-expanded-edition-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-26",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13382,6 +13375,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Hermanos Gutiérrez",
+      "album": "Live on KEXP",
+      "artistKey": "hermanos gutierrez",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Homeboy Sandman & Jack Splash",
       "album": "Resonance Frequency",
       "artistKey": "homeboy sandman and jack splash",
@@ -13404,6 +13415,42 @@
       "album": "BRILLA BRILLA (REMIXED)",
       "artistKey": "lucha luna",
       "albumKey": "brilla brilla remixed",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Peaches feat. Joe Talbot",
+      "album": "You’re Alright (Pixel Grip Remix)",
+      "artistKey": "peaches feat joe talbot",
+      "albumKey": "youre alright pixel grip remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Quantic",
+      "album": "Theme From Selva",
+      "artistKey": "quantic",
+      "albumKey": "theme from selva",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14642,24 +14689,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Fat Dog",
-      "album": "Cancel Me (I'm Tired)",
-      "artistKey": "fat dog",
-      "albumKey": "cancel me im tired",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Helado Tropical",
       "album": "Helado Tropical",
       "artistKey": "helado tropical",
@@ -14732,24 +14761,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Baby Rose",
-      "album": "YEARNALISM",
-      "artistKey": "baby rose",
-      "albumKey": "yearnalism",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Oscar Lindsey",
       "album": "Painting The Walls",
       "artistKey": "oscar lindsey",
@@ -14761,42 +14772,6 @@
           "weight": 3,
           "publishedAt": "2026-09-15",
           "url": "https://www.indieshuffle.com/oscar-lindsey-painting-the-walls/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Queens of the Stone Age",
-      "album": "Live on KEXP",
-      "artistKey": "queens of the stone age",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Maldives",
-      "album": "Tequila/Someday EP",
-      "artistKey": "the maldives",
-      "albumKey": "tequila someday ep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-15",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -15409,42 +15384,6 @@
           "weight": 3,
           "publishedAt": "2026-05-08",
           "url": "https://www.indieshuffle.com/modern-diet-maria/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lucy Park",
-      "album": "BLUE SASHIKO",
-      "artistKey": "lucy park",
-      "albumKey": "blue sashiko",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-05",
-          "url": "https://www.indieshuffle.com/lucy-park-blue-sashiko/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "John Maus",
-      "album": "Do Your Best",
-      "artistKey": "john maus",
-      "albumKey": "do your best",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-02",
-          "url": "https://www.indieshuffle.com/john-maus-do-your-best/"
         }
       ],
       "editorialWeight": 3,

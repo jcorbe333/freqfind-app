@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T12:36:20.695Z",
+  "generatedAt": "2026-09-27T13:27:52.712Z",
   "items": [
     {
       "artist": "Kelela",
@@ -312,31 +312,6 @@
         }
       ],
       "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Standing on the Corner",
-      "album": "Standing on the Corner \"II\"",
-      "artistKey": "standing on the corner",
-      "albumKey": "standing on the corner ii",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-16",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -937,24 +912,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Prince",
-      "album": "Originals",
-      "artistKey": "prince",
-      "albumKey": "originals",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2019-01-01",
-          "url": "https://theneedledrop.com/loved-list/2019/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Xiu Xiu",
       "album": "Girl with Basket of Fruit",
       "artistKey": "xiu xiu",
@@ -970,6 +927,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sasha John Digweed",
+      "album": "Northern Exposure",
+      "artistKey": "sasha john digweed",
+      "albumKey": "northern exposure",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-27",
+          "url": "https://pitchfork.com/reviews/albums/sasha-john-digweed-northern-exposure/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1362,24 +1337,6 @@
           "weight": 5,
           "publishedAt": "2026-09-17",
           "url": "https://pitchfork.com/reviews/albums/black-meteoric-star-wet/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Curbside Lambsear Put Rings On All My Fingers To Weigh Down My Hands",
-      "album": "Put Rings on All My Fingers to Weigh Down My Hands EP",
-      "artistKey": "curbside lambsear put rings on all my fingers to weigh down my hands",
-      "albumKey": "put rings on all my fingers to weigh down my hands ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-17",
-          "url": "https://pitchfork.com/reviews/albums/curbside-lambsear-put-rings-on-all-my-fingers-to-weigh-down-my-hands/"
         }
       ],
       "editorialWeight": 5,
@@ -2075,6 +2032,24 @@
       "album": "Half Blood (BloodLuxe)",
       "artistKey": "slayr",
       "albumKey": "half blood bloodluxe",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Standing on the Corner",
+      "album": "Standing on the Corner \"II\"",
+      "artistKey": "standing on the corner",
+      "albumKey": "standing on the corner ii",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9001,6 +8976,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Prince",
+      "album": "Originals",
+      "artistKey": "prince",
+      "albumKey": "originals",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2019-01-01",
+          "url": "https://theneedledrop.com/loved-list/2019/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "PUP",
       "album": "Morbid Stuff",
       "artistKey": "pup",
@@ -9502,24 +9495,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Prince",
-      "album": "Timeless",
-      "artistKey": "prince",
-      "albumKey": "timeless",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13303,20 +13278,38 @@
       "mentionCount": 1
     },
     {
-      "artist": "Meklit",
-      "album": "A Piece of Infinity",
-      "artistKey": "meklit",
-      "albumKey": "a piece of infinity",
+      "artist": "Gallowstreet",
+      "album": "Future Brass",
+      "artistKey": "gallowstreet",
+      "albumKey": "future brass",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/meklit-a-piece-of-infinity-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-26",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kelly Finnigan & Destruments",
+      "album": "B‐Sides, Singles & Forgotten Gems",
+      "artistKey": "kelly finnigan and destruments",
+      "albumKey": "b sides singles and forgotten gems",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13325,6 +13318,24 @@
       "album": "I Wrote You a Letter",
       "artistKey": "m83",
       "albumKey": "i wrote you a letter",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sarakiniko",
+      "album": "Pyrocène",
+      "artistKey": "sarakiniko",
+      "albumKey": "pyrocene",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14365,24 +14376,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sarakiniko",
-      "album": "Pyrocène",
-      "artistKey": "sarakiniko",
-      "albumKey": "pyrocene",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Yard Act",
       "album": "You’re Gonna Need a Little Music",
       "artistKey": "yard act",
@@ -14563,42 +14556,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Moses Yoofee Trio",
-      "album": "CHASING LIGHT",
-      "artistKey": "moses yoofee trio",
-      "albumKey": "chasing light",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rochelle Jordan & Bianca Oblivion",
-      "album": "Disc 2",
-      "artistKey": "rochelle jordan and bianca oblivion",
-      "albumKey": "disc 2",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Wyclef Jean, Harvey Mason, Niia, Robert Glasper & Theo Croker",
       "album": "Q Theory - Quantum Leap, Vol. 2",
       "artistKey": "wyclef jean harvey mason niia robert glasper and theo croker",
@@ -14609,150 +14566,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "alt-J",
-      "album": "Live at KEXP, Volume Nine",
-      "artistKey": "alt j",
-      "albumKey": "live at kexp volume nine",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Amen Dunes",
-      "album": "Freedom",
-      "artistKey": "amen dunes",
-      "albumKey": "freedom",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chapterhouse",
-      "album": "Live on KEXP",
-      "artistKey": "chapterhouse",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "DOMi & JD BECK",
-      "album": "WHO ASKED?",
-      "artistKey": "domi and jd beck",
-      "albumKey": "who asked",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Helado Tropical",
-      "album": "Helado Tropical",
-      "artistKey": "helado tropical",
-      "albumKey": "helado tropical",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Panda Bear & Sonic Boom",
-      "album": "A ? of WHEN",
-      "artistKey": "panda bear and sonic boom",
-      "albumKey": "a of when",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Russian Blue",
-      "album": "Already Dead",
-      "artistKey": "russian blue",
-      "albumKey": "already dead",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "XELTA",
-      "album": "B.D.S.M.",
-      "artistKey": "xelta",
-      "albumKey": "b d s m",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-16",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

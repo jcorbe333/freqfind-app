@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T13:27:52.712Z",
+  "generatedAt": "2026-09-28T16:20:46.798Z",
   "items": [
     {
       "artist": "Kelela",
@@ -316,6 +316,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "M83",
+      "album": "I Wrote You a Letter",
+      "artistKey": "m83",
+      "albumKey": "i wrote you a letter",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-28",
+          "url": "https://pitchfork.com/reviews/albums/m83-i-wrote-you-a-letter/"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Aldous Harding",
       "album": "Train On The Island",
       "artistKey": "aldous harding",
@@ -484,31 +509,6 @@
           "weight": 4,
           "publishedAt": "2026-08-10",
           "url": "https://daily.bandcamp.com/album-of-the-day/hulder-verbolgen-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Brian Ennals & Blockhead",
-      "album": "Boatshoes",
-      "artistKey": "brian ennals and blockhead",
-      "albumKey": "boatshoes",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-17",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-15",
-          "url": "https://daily.bandcamp.com/album-of-the-day/brian-ennals-blockhead-boatshoes-review"
         }
       ],
       "editorialWeight": 9,
@@ -930,6 +930,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Bullion",
+      "album": "Nearly",
+      "artistKey": "bullion",
+      "albumKey": "nearly",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-28",
+          "url": "https://pitchfork.com/reviews/albums/bullion-nearly/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Orville Peck",
+      "album": "Mule",
+      "artistKey": "orville peck",
+      "albumKey": "mule",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-28",
+          "url": "https://pitchfork.com/reviews/albums/orville-peck-mule/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Mary Wallopers",
+      "album": "Paddywhackery",
+      "artistKey": "the mary wallopers",
+      "albumKey": "paddywhackery",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-28",
+          "url": "https://pitchfork.com/reviews/albums/the-mary-wallopers-paddywhackery/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Sasha John Digweed",
       "album": "Northern Exposure",
       "artistKey": "sasha john digweed",
@@ -1265,78 +1319,6 @@
           "weight": 5,
           "publishedAt": "2026-09-18",
           "url": "https://pitchfork.com/reviews/albums/carly-rae-jepsen-day-and-night/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jawdropped",
-      "album": "Secret to Spare",
-      "artistKey": "jawdropped",
-      "albumKey": "secret to spare",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-18",
-          "url": "https://pitchfork.com/reviews/albums/jawdropped-secret-to-spare/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lizzy Mcalpine",
-      "album": "Angel",
-      "artistKey": "lizzy mcalpine",
-      "albumKey": "angel",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-18",
-          "url": "https://pitchfork.com/reviews/albums/lizzy-mcalpine-angel/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Akriila",
-      "album": "lucy miró al mundo y notó que está girando",
-      "artistKey": "akriila",
-      "albumKey": "lucy miro al mundo y noto que esta girando",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-17",
-          "url": "https://pitchfork.com/reviews/albums/akriila-lucy-miro-al-mundo-y-noto-que-esta-girando/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Black Meteoric Star",
-      "album": "Wet",
-      "artistKey": "black meteoric star",
-      "albumKey": "wet",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-17",
-          "url": "https://pitchfork.com/reviews/albums/black-meteoric-star-wet/"
         }
       ],
       "editorialWeight": 5,
@@ -9246,6 +9228,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Big Flowers & shemar",
+      "album": "i love nature!",
+      "artistKey": "big flowers and shemar",
+      "albumKey": "i love nature",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-28",
+          "url": "https://daily.bandcamp.com/album-of-the-day/big-flowers-shemar-i-love-nature-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 9
+    },
+    {
       "artist": "applied communications",
       "album": "applied communications bites the big one",
       "artistKey": "applied communications",
@@ -9264,22 +9264,40 @@
       "mentionCount": 9
     },
     {
-      "artist": "megiapa",
-      "album": "Intentions",
-      "artistKey": "megiapa",
-      "albumKey": "intentions",
+      "artist": "Arlo Parks",
+      "album": "Senses (Ft. Sampha)",
+      "artistKey": "arlo parks",
+      "albumKey": "senses ft sampha",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-09-28",
+          "url": "https://www.indieshuffle.com/arlo-parks-senses-ft-sampha/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tiiva",
+      "album": "This Could Be A Start",
+      "artistKey": "tiiva",
+      "albumKey": "this could be a start",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-09-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review"
+          "publishedAt": "2026-09-28",
+          "url": "https://thequietus.com/quietus-reviews/tiiva-this-could-be-a-start-review/"
         }
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Godflesh",
@@ -9311,6 +9329,24 @@
           "weight": 4,
           "publishedAt": "2026-09-24",
           "url": "https://thequietus.com/quietus-reviews/immersion-what-is-lost-will-return/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "megiapa",
+      "album": "Intentions",
+      "artistKey": "megiapa",
+      "albumKey": "intentions",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review"
         }
       ],
       "editorialWeight": 4,
@@ -9426,24 +9462,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "EXAUDI",
-      "album": "Pocket Universe",
-      "artistKey": "exaudi",
-      "albumKey": "pocket universe",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-22",
-          "url": "https://thequietus.com/quietus-reviews/exaudi-pocket-universe-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Ezra Collective",
       "album": "Here Because of Hope",
       "artistKey": "ezra collective",
@@ -9459,6 +9477,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Arlo Parks",
+      "album": "2SIDED (Oscar Farrell Remix)",
+      "artistKey": "arlo parks",
+      "albumKey": "2sided oscar farrell remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -10265,6 +10301,24 @@
           "weight": 4,
           "publishedAt": "2026-07-17",
           "url": "https://daily.bandcamp.com/album-of-the-day/chuck-strangers-glory-of-the-kings-hand-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Brian Ennals & Blockhead",
+      "album": "Boatshoes",
+      "artistKey": "brian ennals and blockhead",
+      "albumKey": "boatshoes",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-15",
+          "url": "https://daily.bandcamp.com/album-of-the-day/brian-ennals-blockhead-boatshoes-review"
         }
       ],
       "editorialWeight": 4,
@@ -13278,6 +13332,114 @@
       "mentionCount": 1
     },
     {
+      "artist": "Dagmar Zuniga feat. Zach Phillips",
+      "album": "in filth your mystery is kingdom / far smile peasant in yellow music",
+      "artistKey": "dagmar zuniga feat zach phillips",
+      "albumKey": "in filth your mystery is kingdom far smile peasant in yellow music",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Grace Cummings",
+      "album": "Bloodhorse!",
+      "artistKey": "grace cummings",
+      "albumKey": "bloodhorse",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MYXA",
+      "album": "Live on KEXP",
+      "artistKey": "myxa",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "ABOP",
+      "album": "Masters of Afters",
+      "artistKey": "abop",
+      "albumKey": "masters of afters",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Andrew Sa",
+      "album": "American Rough",
+      "artistKey": "andrew sa",
+      "albumKey": "american rough",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Sons of Rainier",
+      "album": "Nothing but Time",
+      "artistKey": "the sons of rainier",
+      "albumKey": "nothing but time",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Gallowstreet",
       "album": "Future Brass",
       "artistKey": "gallowstreet",
@@ -13300,24 +13462,6 @@
       "album": "B‐Sides, Singles & Forgotten Gems",
       "artistKey": "kelly finnigan and destruments",
       "albumKey": "b sides singles and forgotten gems",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "M83",
-      "album": "I Wrote You a Letter",
-      "artistKey": "m83",
-      "albumKey": "i wrote you a letter",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14070,24 +14214,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Arlo Parks",
-      "album": "2SIDED (Oscar Farrell Remix)",
-      "artistKey": "arlo parks",
-      "albumKey": "2sided oscar farrell remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Concrete Vehicles",
       "album": "Text Stop",
       "artistKey": "concrete vehicles",
@@ -14412,42 +14538,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Madeleine",
-      "album": "Earth Cry",
-      "artistKey": "madeleine",
-      "albumKey": "earth cry",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "SE SO NEON",
-      "album": "Remember! (TOWA TEI REMIX)",
-      "artistKey": "se so neon",
-      "albumKey": "remember towa tei remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Souls of Mischief",
       "album": "Live on KEXP",
       "artistKey": "souls of mischief",
@@ -14458,114 +14548,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tomo Nakayama",
-      "album": "Melonday",
-      "artistKey": "tomo nakayama",
-      "albumKey": "melonday",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Animal Collective",
-      "album": "Live at KEXP, Volume Six",
-      "artistKey": "animal collective",
-      "albumKey": "live at kexp volume six",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Arlo Parks",
-      "album": "Heaven (Jacques Greene Remix)",
-      "artistKey": "arlo parks",
-      "albumKey": "heaven jacques greene remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Champagne Bubblebath",
-      "album": "Mixtape: Volume One",
-      "artistKey": "champagne bubblebath",
-      "albumKey": "mixtape volume one",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hey Marseilles",
-      "album": "Live at KEXP, Volume Five",
-      "artistKey": "hey marseilles",
-      "albumKey": "live at kexp volume five",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wyclef Jean, Harvey Mason, Niia, Robert Glasper & Theo Croker",
-      "album": "Q Theory - Quantum Leap, Vol. 2",
-      "artistKey": "wyclef jean harvey mason niia robert glasper and theo croker",
-      "albumKey": "q theory quantum leap vol 2",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-17",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T14:29:38.980Z",
+  "generatedAt": "2026-10-01T14:59:19.434Z",
   "items": [
     {
       "artist": "Gilla Band",
@@ -180,56 +180,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Actress",
-      "album": "Radical Frame",
-      "artistKey": "actress",
-      "albumKey": "radical frame",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-22",
-          "url": "https://pitchfork.com/reviews/albums/actress-radical-frame/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-09-17",
-          "url": "https://daily.bandcamp.com/album-of-the-day/actress-radical-frame-review"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "The Drin",
-      "album": "I Lost My Way For Centuries",
-      "artistKey": "the drin",
-      "albumKey": "i lost my way for centuries",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-09-22",
-          "url": "https://daily.bandcamp.com/album-of-the-day/the-drin-i-lost-my-way-for-centuries-review"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-22",
-          "url": "https://pitchfork.com/reviews/albums/the-drin-i-lost-my-way-for-centuries/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Open Mike Eagle & Kenny Segal",
       "album": "DOOMED!",
       "artistKey": "open mike eagle and kenny segal",
@@ -380,6 +330,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Tinashe",
+      "album": "Popstar",
+      "artistKey": "tinashe",
+      "albumKey": "popstar",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-30",
+          "url": "https://pitchfork.com/reviews/albums/tinashe-popstar/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Kelsey Lu",
       "album": "So Help Me God",
       "artistKey": "kelsey lu",
@@ -411,18 +386,18 @@
       "albumKey": "i wrote you a letter",
       "sources": [
         {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-30",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
           "publishedAt": "2026-09-28",
           "url": "https://pitchfork.com/reviews/albums/m83-i-wrote-you-a-letter/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-26",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 10,
@@ -555,6 +530,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Curbside Lambsear",
+      "album": "Put Rings on All My Fingers to Weigh Down My Hands",
+      "artistKey": "curbside lambsear",
+      "albumKey": "put rings on all my fingers to weigh down my hands",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-01",
+          "url": "https://thequietus.com/quietus-reviews/curbside-lambsear-put-rings-on-all-my-fingers-to-weigh-down-my-hands-review/"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "mary in the junkyard",
       "album": "Role Model Hermit",
       "artistKey": "mary in the junkyard",
@@ -603,49 +603,6 @@
       "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
-    },
-    {
-      "artist": "HULDER",
-      "album": "Verbolgen",
-      "artistKey": "hulder",
-      "albumKey": "verbolgen",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-20",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-10",
-          "url": "https://daily.bandcamp.com/album-of-the-day/hulder-verbolgen-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Tinashe",
-      "album": "Popstar",
-      "artistKey": "tinashe",
-      "albumKey": "popstar",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-30",
-          "url": "https://pitchfork.com/reviews/albums/tinashe-popstar/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
     },
     {
       "artist": "Miley Cyrus",
@@ -990,6 +947,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "300skullsandcounting Jenny Sparks",
+      "album": "THIS IS SPA TOWN!",
+      "artistKey": "300skullsandcounting jenny sparks",
+      "albumKey": "this is spa town",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-01",
+          "url": "https://pitchfork.com/reviews/albums/300skullsandcounting-jenny-sparks-this-is-spa-town/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hallucinator",
+      "album": "Landlocked",
+      "artistKey": "hallucinator",
+      "albumKey": "landlocked",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-01",
+          "url": "https://pitchfork.com/reviews/albums/hallucinator-landlocked/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tove Lo",
+      "album": "ESTRUS",
+      "artistKey": "tove lo",
+      "albumKey": "estrus",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-01",
+          "url": "https://pitchfork.com/reviews/albums/tove-lo-estrus/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Toxe",
+      "album": "Bubble Treasure",
+      "artistKey": "toxe",
+      "albumKey": "bubble treasure",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-01",
+          "url": "https://pitchfork.com/reviews/albums/toxe-bubble-treasure/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Empress Of",
       "album": "Dream House",
       "artistKey": "empress of",
@@ -1325,42 +1354,6 @@
           "weight": 5,
           "publishedAt": "2026-09-23",
           "url": "https://pitchfork.com/reviews/albums/fetty-p-franklin-bandplay-the-frank-play/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "After",
-      "album": "Fell Asleep in the Sun",
-      "artistKey": "after",
-      "albumKey": "fell asleep in the sun",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-22",
-          "url": "https://pitchfork.com/reviews/albums/after-fell-asleep-in-the-sun/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Agnes Obel",
-      "album": "The Meaning of Flowers",
-      "artistKey": "agnes obel",
-      "albumKey": "the meaning of flowers",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-22",
-          "url": "https://pitchfork.com/reviews/albums/agnes-obel-the-meaning-of-flowers/"
         }
       ],
       "editorialWeight": 5,
@@ -9105,7 +9098,7 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Anne Waldman, Thurston Moore, James Ilgenfritz & Anagram Ensemble",
@@ -9123,7 +9116,7 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 9
+      "mentionCount": 1
     },
     {
       "artist": "Gash",
@@ -9252,24 +9245,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Godflesh",
-      "album": "Decay",
-      "artistKey": "godflesh",
-      "albumKey": "decay",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-25",
-          "url": "https://thequietus.com/quietus-reviews/godflesh-decay-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Tinashe",
       "album": "Melatonin",
       "artistKey": "tinashe",
@@ -9360,6 +9335,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Drin",
+      "album": "I Lost My Way For Centuries",
+      "artistKey": "the drin",
+      "albumKey": "i lost my way for centuries",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-22",
+          "url": "https://daily.bandcamp.com/album-of-the-day/the-drin-i-lost-my-way-for-centuries-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Arlo Parks",
       "album": "2SIDED (Oscar Farrell Remix)",
       "artistKey": "arlo parks",
@@ -9407,6 +9400,24 @@
           "weight": 4,
           "publishedAt": "2026-09-18",
           "url": "https://daily.bandcamp.com/album-of-the-day/curly-castro-yaphet-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Actress",
+      "album": "Radical Frame",
+      "artistKey": "actress",
+      "albumKey": "radical frame",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-17",
+          "url": "https://daily.bandcamp.com/album-of-the-day/actress-radical-frame-review"
         }
       ],
       "editorialWeight": 4,
@@ -9875,6 +9886,24 @@
           "weight": 4,
           "publishedAt": "2026-08-11",
           "url": "https://stereogum.com/2507540/album-of-the-week-lrain-fata-morgana/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "HULDER",
+      "album": "Verbolgen",
+      "artistKey": "hulder",
+      "albumKey": "verbolgen",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-10",
+          "url": "https://daily.bandcamp.com/album-of-the-day/hulder-verbolgen-review"
         }
       ],
       "editorialWeight": 4,
@@ -13320,20 +13349,128 @@
       "mentionCount": 1
     },
     {
-      "artist": "Palm Springs",
-      "album": "Turning Yr Back on the Dolphin",
-      "artistKey": "palm springs",
-      "albumKey": "turning yr back on the dolphin",
+      "artist": "Busta Rhymes & J Dilla feat. D’Angelo",
+      "album": "DILLAGENCE II",
+      "artistKey": "busta rhymes and j dilla feat dangelo",
+      "albumKey": "dillagence ii",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-09-30",
-          "url": "https://daily.bandcamp.com/album-of-the-day/palm-springs-turning-yr-back-on-the-dolphin-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Courtney Barnett",
+      "album": "Creature of Habit",
+      "artistKey": "courtney barnett",
+      "albumKey": "creature of habit",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Natanya",
+      "album": "ATTITUDE ERA!",
+      "artistKey": "natanya",
+      "albumKey": "attitude era",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nate Smith",
+      "album": "Fathers",
+      "artistKey": "nate smith",
+      "albumKey": "fathers",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rochelle Jordan",
+      "album": "Disc 1",
+      "artistKey": "rochelle jordan",
+      "albumKey": "disc 1",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Stevie Wonder",
+      "album": "Songs in the Key of Life - The EP",
+      "artistKey": "stevie wonder",
+      "albumKey": "songs in the key of life the ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Viuta",
+      "album": "Obsessive",
+      "artistKey": "viuta",
+      "albumKey": "obsessive",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.indieshuffle.com/viuta-obsessive/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13356,10 +13493,64 @@
       "mentionCount": 1
     },
     {
+      "artist": "DEATH FROM ABOVE 1979",
+      "album": "Private Lives",
+      "artistKey": "death from above 1979",
+      "albumKey": "private lives",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Girl and Girl",
+      "album": "Live on KEXP",
+      "artistKey": "girl and girl",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Lime Garden",
       "album": "Moving Target",
       "artistKey": "lime garden",
       "albumKey": "moving target",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MALCRIADA",
+      "album": "Live on KEXP",
+      "artistKey": "malcriada",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13450,6 +13641,24 @@
       "album": "B.D.S.M.",
       "artistKey": "xelta",
       "albumKey": "b d s m",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "zzzahara",
+      "album": "Live on KEXP",
+      "artistKey": "zzzahara",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13558,24 +13767,6 @@
       "album": "Sunshine",
       "artistKey": "coral d",
       "albumKey": "sunshine",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Curbside Lambsear",
-      "album": "Put Rings on All My Fingers to Weigh Down My Hands",
-      "artistKey": "curbside lambsear",
-      "albumKey": "put rings on all my fingers to weigh down my hands",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13720,24 +13911,6 @@
       "album": "Night Wind",
       "artistKey": "ron trent",
       "albumKey": "night wind",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Stevie Wonder",
-      "album": "Songs in the Key of Life - The EP",
-      "artistKey": "stevie wonder",
-      "albumKey": "songs in the key of life the ep",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14202,24 +14375,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Nate Smith",
-      "album": "Fathers",
-      "artistKey": "nate smith",
-      "albumKey": "fathers",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "The Black Tones",
       "album": "Brain Brain",
       "artistKey": "the black tones",
@@ -14670,24 +14825,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Concrete Vehicles",
-      "album": "Text Stop",
-      "artistKey": "concrete vehicles",
-      "albumKey": "text stop",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Curtis Harding",
       "album": "Face Your Fear",
       "artistKey": "curtis harding",
@@ -14824,78 +14961,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Melody’s Echo Chamber",
-      "album": "Live on KEXP",
-      "artistKey": "melodys echo chamber",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Steve Lacy feat. Erykah Badu",
-      "album": "Oh yeah?",
-      "artistKey": "steve lacy feat erykah badu",
-      "albumKey": "oh yeah",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Taleen Kali",
-      "album": "Viper",
-      "artistKey": "taleen kali",
-      "albumKey": "viper",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wolf Alice",
-      "album": "Visions of a Life",
-      "artistKey": "wolf alice",
-      "albumKey": "visions of a life",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-20",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15509,24 +15574,6 @@
           "weight": 3,
           "publishedAt": "2026-05-13",
           "url": "https://www.indieshuffle.com/joji-last-of-a-dying-breed/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Modern Diet",
-      "album": "Maria",
-      "artistKey": "modern diet",
-      "albumKey": "maria",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-08",
-          "url": "https://www.indieshuffle.com/modern-diet-maria/"
         }
       ],
       "editorialWeight": 3,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T14:59:19.434Z",
+  "generatedAt": "2026-10-02T14:22:22.144Z",
   "items": [
     {
       "artist": "Gilla Band",
@@ -128,6 +128,31 @@
       "editorialWeight": 14,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "Stef Chura",
+      "album": "Dancing Alone on the Concrete",
+      "artistKey": "stef chura",
+      "albumKey": "dancing alone on the concrete",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-02",
+          "url": "https://daily.bandcamp.com/album-of-the-day/stef-chura-dancing-alone-on-the-concrete-review"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-02",
+          "url": "https://pitchfork.com/reviews/albums/stef-chura-dancing-alone-on-the-concrete/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "megiapa",
@@ -659,6 +684,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Horsegirl",
+      "album": "Phonetics On and On",
+      "artistKey": "horsegirl",
+      "albumKey": "phonetics on and on",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Miley Cyrus",
       "album": "Something Beautiful",
       "artistKey": "miley cyrus",
@@ -944,6 +987,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Meernaa",
+      "album": "Methuselah",
+      "artistKey": "meernaa",
+      "albumKey": "methuselah",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-02",
+          "url": "https://pitchfork.com/reviews/albums/meernaa-methuselah/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Miranda Lambert",
+      "album": "Crisco",
+      "artistKey": "miranda lambert",
+      "albumKey": "crisco",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-02",
+          "url": "https://pitchfork.com/reviews/albums/miranda-lambert-crisco/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Beatles",
+      "album": "Rubber Soul (Super Deluxe)",
+      "artistKey": "the beatles",
+      "albumKey": "rubber soul super deluxe",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-02",
+          "url": "https://pitchfork.com/reviews/albums/the-beatles-rubber-soul-super-deluxe/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1282,78 +1379,6 @@
           "weight": 5,
           "publishedAt": "2026-09-24",
           "url": "https://pitchfork.com/reviews/albums/kim-ximya-dogma/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Alex G",
-      "album": "Teenage Sex and Death at Camp Miasma (Original Motion Picture Score)",
-      "artistKey": "alex g",
-      "albumKey": "teenage sex and death at camp miasma original motion picture score",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-23",
-          "url": "https://pitchfork.com/reviews/albums/alex-g-teenage-sex-and-death-at-camp-miasma-original-motion-picture-score/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Beastie",
-      "album": "Maria EP",
-      "artistKey": "beastie",
-      "albumKey": "maria ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-23",
-          "url": "https://pitchfork.com/reviews/albums/beastie-maria-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Boy Harsher",
-      "album": "GET MEAN",
-      "artistKey": "boy harsher",
-      "albumKey": "get mean",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-23",
-          "url": "https://pitchfork.com/reviews/albums/boy-harsher-get-mean/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fetty P Franklin Bandplay",
-      "album": "THE FRANK PLAY",
-      "artistKey": "fetty p franklin bandplay",
-      "albumKey": "the frank play",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-23",
-          "url": "https://pitchfork.com/reviews/albums/fetty-p-franklin-bandplay-the-frank-play/"
         }
       ],
       "editorialWeight": 5,
@@ -2517,24 +2542,6 @@
       "album": "Soft Spot",
       "artistKey": "honningbarna",
       "albumKey": "soft spot",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Horsegirl",
-      "album": "Phonetics On and On",
-      "artistKey": "horsegirl",
-      "albumKey": "phonetics on and on",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9083,6 +9090,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Susanne Sundfør",
+      "album": "Revelations of Divine Love",
+      "artistKey": "susanne sundf r",
+      "albumKey": "revelations of divine love",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-02",
+          "url": "https://thequietus.com/quietus-reviews/susanne-sundfor-revelations-of-divine-love/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Horsegirl",
+      "album": "Live on KEXP",
+      "artistKey": "horsegirl",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kaitlyn Aurelia Smith",
+      "album": "Ruin: It’s Not Just Music",
+      "artistKey": "kaitlyn aurelia smith",
+      "albumKey": "ruin its not just music",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-01",
+          "url": "https://daily.bandcamp.com/album-of-the-day/kaitlyn-aurelia-smith-ruin-its-not-just-music-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "TV Buddha",
       "album": "Hallelujah Anyway",
       "artistKey": "tv buddha",
@@ -9170,24 +9231,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Arlo Parks",
-      "album": "Senses (Ft. Sampha)",
-      "artistKey": "arlo parks",
-      "albumKey": "senses ft sampha",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-09-28",
-          "url": "https://www.indieshuffle.com/arlo-parks-senses-ft-sampha/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9350,24 +9393,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Arlo Parks",
-      "album": "2SIDED (Oscar Farrell Remix)",
-      "artistKey": "arlo parks",
-      "albumKey": "2sided oscar farrell remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13331,20 +13356,38 @@
       "mentionCount": 1
     },
     {
-      "artist": "So Savoeun",
-      "album": "The Golden Voice of Phnom Penh, 1962–1974",
-      "artistKey": "so savoeun",
-      "albumKey": "the golden voice of phnom penh 1962 1974",
+      "artist": "Ken Pomeroy",
+      "album": "Tonight's News",
+      "artistKey": "ken pomeroy",
+      "albumKey": "tonights news",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-01",
-          "url": "https://daily.bandcamp.com/album-of-the-day/so-savoeun-the-golden-voice-of-phnom-penh-1962-1974-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-02",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sycco",
+      "album": "Look Up",
+      "artistKey": "sycco",
+      "albumKey": "look up",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13371,6 +13414,60 @@
       "album": "Creature of Habit",
       "artistKey": "courtney barnett",
       "albumKey": "creature of habit",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Earth Tongue",
+      "album": "Live on KEXP",
+      "artistKey": "earth tongue",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Forest Service",
+      "album": "Southern Facing Window",
+      "artistKey": "forest service",
+      "albumKey": "southern facing window",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Just Mustard",
+      "album": "Live on KEXP",
+      "artistKey": "just mustard",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13943,6 +14040,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Arlo Parks",
+      "album": "Senses (Ft. Sampha)",
+      "artistKey": "arlo parks",
+      "albumKey": "senses ft sampha",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-09-28",
+          "url": "https://www.indieshuffle.com/arlo-parks-senses-ft-sampha/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Dagmar Zuniga feat. Zach Phillips",
       "album": "in filth your mystery is kingdom / far smile peasant in yellow music",
       "artistKey": "dagmar zuniga feat zach phillips",
@@ -14501,208 +14616,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Alarm!Systemen",
-      "album": "Alarm!Systemen",
-      "artistKey": "alarm systemen",
-      "albumKey": "alarm systemen",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Alex Albrecht",
-      "album": "In the Turpid Heat of the Afternoon",
-      "artistKey": "alex albrecht",
-      "albumKey": "in the turpid heat of the afternoon",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Asa Tate",
-      "album": "Brahmaputra EP",
-      "artistKey": "asa tate",
-      "albumKey": "brahmaputra ep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Barkley Bandon",
-      "album": "I Bet",
-      "artistKey": "barkley bandon",
-      "albumKey": "i bet",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Black Truffle",
-      "album": "La Truffe Galactique",
-      "artistKey": "black truffle",
-      "albumKey": "la truffe galactique",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Clutter",
       "album": "Sugar Rush",
       "artistKey": "clutter",
       "albumKey": "sugar rush",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Darren Nye",
-      "album": "Lunar Refraction",
-      "artistKey": "darren nye",
-      "albumKey": "lunar refraction",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dea",
-      "album": "Fairlight",
-      "artistKey": "dea",
-      "albumKey": "fairlight",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fort Romeau",
-      "album": "Lovin' U",
-      "artistKey": "fort romeau",
-      "albumKey": "lovin u",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Índio da Cuíca",
-      "album": "Zing Zing",
-      "artistKey": "indio da cuica",
-      "albumKey": "zing zing",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jex Opolis",
-      "album": "Key Rush",
-      "artistKey": "jex opolis",
-      "albumKey": "key rush",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "K-Lone",
-      "album": "Have a Few Days Off",
-      "artistKey": "k lone",
-      "albumKey": "have a few days off",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14735,24 +14652,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Low End Activist / SeekersInternational",
-      "album": "Muzikon",
-      "artistKey": "low end activist seekersinternational",
-      "albumKey": "muzikon",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lucha Luna",
       "album": "Ritmo Eterno (Maga Bo Remix)",
       "artistKey": "lucha luna",
@@ -14763,204 +14662,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Marco Cassanelli",
-      "album": "Visions EP",
-      "artistKey": "marco cassanelli",
-      "albumKey": "visions ep",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Meshell Ndegeocello, Bill Callahan & Chris Thile",
-      "album": "Synonym",
-      "artistKey": "meshell ndegeocello bill callahan and chris thile",
-      "albumKey": "synonym",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "YL Hooi",
-      "album": "Running Around (83)",
-      "artistKey": "yl hooi",
-      "albumKey": "running around 83",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Curtis Harding",
-      "album": "Face Your Fear",
-      "artistKey": "curtis harding",
-      "albumKey": "face your fear",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dead Can Dance",
-      "album": "Nāda",
-      "artistKey": "dead can dance",
-      "albumKey": "nada",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Elliott Skinner feat. Jensen McRae",
-      "album": "How Far We’ve Come",
-      "artistKey": "elliott skinner feat jensen mcrae",
-      "albumKey": "how far weve come",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fever Ray",
-      "album": "Plunge",
-      "artistKey": "fever ray",
-      "albumKey": "plunge",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kate Nash",
-      "album": "Spilt Milk",
-      "artistKey": "kate nash",
-      "albumKey": "spilt milk",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Purple Pilgrims",
-      "album": "Given to the Night",
-      "artistKey": "purple pilgrims",
-      "albumKey": "given to the night",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Black Tones",
-      "album": "Diamond Ruby Night",
-      "artistKey": "the black tones",
-      "albumKey": "diamond ruby night",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Twin Temple",
-      "album": "Doomed Lovers",
-      "artistKey": "twin temple",
-      "albumKey": "doomed lovers",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-21",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

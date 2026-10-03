@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T14:22:22.144Z",
+  "generatedAt": "2026-10-03T12:56:13.163Z",
   "items": [
     {
       "artist": "Gilla Band",
@@ -330,31 +330,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Snõõper",
-      "album": "Worldwide",
-      "artistKey": "snooper",
-      "albumKey": "worldwide",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-02",
-          "url": "https://daily.bandcamp.com/album-of-the-day/snooper-worldwide-review"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Tinashe",
       "album": "Popstar",
       "artistKey": "tinashe",
@@ -648,6 +623,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Genesis Owusu",
+      "album": "Redstar Wu & the Worldwide Scourge",
+      "artistKey": "genesis owusu",
+      "albumKey": "redstar wu and the worldwide scourge",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "SML",
       "album": "Spontaneous Music Live",
       "artistKey": "sml",
@@ -792,10 +785,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Snooper",
-      "album": "Super Sn​õ​õ​per",
-      "artistKey": "snooper",
-      "albumKey": "super sn o o per",
+      "artist": "Genesis Owusu",
+      "album": "Struggler",
+      "artistKey": "genesis owusu",
+      "albumKey": "struggler",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -857,6 +850,24 @@
           "weight": 5,
           "publishedAt": "2022-01-01",
           "url": "https://theneedledrop.com/loved-list/2022/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Genesis Owusu",
+      "album": "Smiling with No Teeth",
+      "artistKey": "genesis owusu",
+      "albumKey": "smiling with no teeth",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
         }
       ],
       "editorialWeight": 6,
@@ -987,6 +998,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Elvis Costello",
+      "album": "My Aim Is True (49th Anniversary Edition)",
+      "artistKey": "elvis costello",
+      "albumKey": "my aim is true 49th anniversary edition",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-03",
+          "url": "https://pitchfork.com/reviews/albums/elvis-costello-my-aim-is-true-49th-anniversary-edition/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1368,24 +1397,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Kim Ximya",
-      "album": "Dogma",
-      "artistKey": "kim ximya",
-      "albumKey": "dogma",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-24",
-          "url": "https://pitchfork.com/reviews/albums/kim-ximya-dogma/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "L’Rain",
       "album": "fata morgana",
       "artistKey": "lrain",
@@ -1397,6 +1408,24 @@
           "weight": 4,
           "publishedAt": "2026-08-17",
           "url": "https://daily.bandcamp.com/album-of-the-day/lrain-fata-morgana-review"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nick Hakim",
+      "album": "I Can See",
+      "artistKey": "nick hakim",
+      "albumKey": "i can see",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-07-21",
+          "url": "https://stereogum.com/2505329/album-of-the-week-nick-hakim-i-can-see/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 5,
@@ -1642,24 +1671,6 @@
       "album": "The Pleasure Is Yours",
       "artistKey": "gena",
       "albumKey": "the pleasure is yours",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Genesis Owusu",
-      "album": "Redstar Wu & the Worldwide Scourge",
-      "artistKey": "genesis owusu",
-      "albumKey": "redstar wu and the worldwide scourge",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -1966,6 +1977,24 @@
       "album": "PERDIENDO RASGOS ADOLESCENTES",
       "artistKey": "swaggerboyz",
       "albumKey": "perdiendo rasgos adolescentes",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Swans",
+      "album": "Newly Sentient Being",
+      "artistKey": "swans",
+      "albumKey": "newly sentient being",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -2956,6 +2985,24 @@
       "album": "Vanisher, Horizon Scraper",
       "artistKey": "quadeca",
       "albumKey": "vanisher horizon scraper",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Snõõper",
+      "album": "Worldwide",
+      "artistKey": "snooper",
+      "albumKey": "worldwide",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -4410,24 +4457,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Genesis Owusu",
-      "album": "Struggler",
-      "artistKey": "genesis owusu",
-      "albumKey": "struggler",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "George Clanton",
       "album": "Ooh Rap I Ya",
       "artistKey": "george clanton",
@@ -4990,6 +5019,24 @@
       "album": "UGLY",
       "artistKey": "slowthai",
       "albumKey": "ugly",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Snooper",
+      "album": "Super Sn​õ​õ​per",
+      "artistKey": "snooper",
+      "albumKey": "super sn o o per",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -6538,24 +6585,6 @@
       "album": "Promises",
       "artistKey": "floating points pharoah sanders and the london symphony orchestra",
       "albumKey": "promises",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Genesis Owusu",
-      "album": "Smiling with No Teeth",
-      "artistKey": "genesis owusu",
-      "albumKey": "smiling with no teeth",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9090,6 +9119,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Genesis Owusu",
+      "album": "Live on KEXP",
+      "artistKey": "genesis owusu",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nick Hakim",
+      "album": "Live on KEXP",
+      "artistKey": "nick hakim",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Susanne Sundfør",
       "album": "Revelations of Divine Love",
       "artistKey": "susanne sundf r",
@@ -10181,24 +10246,6 @@
           "weight": 4,
           "publishedAt": "2026-07-21",
           "url": "https://daily.bandcamp.com/album-of-the-day/luluc-sweet-thief-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nick Hakim",
-      "album": "I Can See",
-      "artistKey": "nick hakim",
-      "albumKey": "i can see",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-07-21",
-          "url": "https://stereogum.com/2505329/album-of-the-week-nick-hakim-i-can-see/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -13356,6 +13403,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Bel Cobain",
+      "album": "Mind Iz a Dancer (IZCO Remix)",
+      "artistKey": "bel cobain",
+      "albumKey": "mind iz a dancer izco remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Ken Pomeroy",
       "album": "Tonight's News",
       "artistKey": "ken pomeroy",
@@ -13374,10 +13439,64 @@
       "mentionCount": 1
     },
     {
+      "artist": "Sampa The Great",
+      "album": "Live on KEXP",
+      "artistKey": "sampa the great",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shabazz Palaces",
+      "album": "It’s a Style Sport",
+      "artistKey": "shabazz palaces",
+      "albumKey": "its a style sport",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Sycco",
       "album": "Look Up",
       "artistKey": "sycco",
       "albumKey": "look up",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-02",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Womack Sisters",
+      "album": "The Womack Sisters",
+      "artistKey": "the womack sisters",
+      "albumKey": "the womack sisters",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13702,24 +13821,6 @@
       "album": "Oh yeah?",
       "artistKey": "steve lacy",
       "albumKey": "oh yeah",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Womack Sisters",
-      "album": "The Womack Sisters",
-      "artistKey": "the womack sisters",
-      "albumKey": "the womack sisters",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14608,60 +14709,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Clutter",
-      "album": "Sugar Rush",
-      "artistKey": "clutter",
-      "albumKey": "sugar rush",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kathleen Hanna",
-      "album": "Contra-ICE Vol. 1: ICE Out",
-      "artistKey": "kathleen hanna",
-      "albumKey": "contra ice vol 1 ice out",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lucha Luna",
-      "album": "Ritmo Eterno (Maga Bo Remix)",
-      "artistKey": "lucha luna",
-      "albumKey": "ritmo eterno maga bo remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-22",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

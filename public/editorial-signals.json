@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-10-04T13:36:41.790Z",
+  "generatedAt": "2026-10-05T16:41:18.891Z",
   "items": [
+    {
+      "artist": "megiapa",
+      "album": "Intentions",
+      "artistKey": "megiapa",
+      "albumKey": "intentions",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-05",
+          "url": "https://thequietus.com/quietus-reviews/megiapa-intentions-review/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-09-30",
+          "url": "https://pitchfork.com/reviews/albums/megiapa-intentions/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review"
+        }
+      ],
+      "editorialWeight": 15,
+      "multiSourceBonus": 2,
+      "mentionCount": 3
+    },
     {
       "artist": "Gilla Band",
       "album": "Pugnello",
@@ -84,31 +116,6 @@
           "weight": 5,
           "publishedAt": "2026-10-02",
           "url": "https://pitchfork.com/reviews/albums/stef-chura-dancing-alone-on-the-concrete/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "megiapa",
-      "album": "Intentions",
-      "artistKey": "megiapa",
-      "albumKey": "intentions",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-30",
-          "url": "https://pitchfork.com/reviews/albums/megiapa-intentions/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-09-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review"
         }
       ],
       "editorialWeight": 11,
@@ -287,6 +294,31 @@
         }
       ],
       "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Emily A Sprague",
+      "album": "Cyano",
+      "artistKey": "emily a sprague",
+      "albumKey": "cyano",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-05",
+          "url": "https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -541,24 +573,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Miley Cyrus",
-      "album": "Bass Persuades",
-      "artistKey": "miley cyrus",
-      "albumKey": "bass persuades",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-24",
-          "url": "https://pitchfork.com/reviews/albums/miley-cyrus-bass-persuades/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Genesis Owusu",
       "album": "Redstar Wu & the Worldwide Scourge",
       "artistKey": "genesis owusu",
@@ -599,24 +613,6 @@
       "album": "Phonetics On and On",
       "artistKey": "horsegirl",
       "albumKey": "phonetics on and on",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Miley Cyrus",
-      "album": "Something Beautiful",
-      "artistKey": "miley cyrus",
-      "albumKey": "something beautiful",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -862,6 +858,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "B0yg1rl",
+      "album": "B0YG1RL",
+      "artistKey": "b0yg1rl",
+      "albumKey": "b0yg1rl",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-05",
+          "url": "https://pitchfork.com/reviews/albums/b0yg1rl-b0yg1rl/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Godflesh",
+      "album": "Decay",
+      "artistKey": "godflesh",
+      "albumKey": "decay",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-05",
+          "url": "https://pitchfork.com/reviews/albums/godflesh-decay/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jake Xerxes Fussell",
+      "album": "The Old Beloved Path",
+      "artistKey": "jake xerxes fussell",
+      "albumKey": "the old beloved path",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-05",
+          "url": "https://pitchfork.com/reviews/albums/jake-xerxes-fussell-the-old-beloved-path/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1218,60 +1268,6 @@
           "weight": 5,
           "publishedAt": "2026-09-25",
           "url": "https://pitchfork.com/reviews/albums/jae-stephens-audacity/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Leon Bridges",
-      "album": "Happiness Anytime",
-      "artistKey": "leon bridges",
-      "albumKey": "happiness anytime",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-25",
-          "url": "https://pitchfork.com/reviews/albums/leon-bridges-happiness-anytime/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tom Morello",
-      "album": "Everyone Gets Everything They Want",
-      "artistKey": "tom morello",
-      "albumKey": "everyone gets everything they want",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-25",
-          "url": "https://pitchfork.com/reviews/albums/tom-morello-everyone-gets-everything-they-want/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Az Chike",
-      "album": "No Rest for the Wicked",
-      "artistKey": "az chike",
-      "albumKey": "no rest for the wicked",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-24",
-          "url": "https://pitchfork.com/reviews/albums/az-chike-no-rest-for-the-wicked/"
         }
       ],
       "editorialWeight": 5,
@@ -2687,6 +2683,24 @@
       "album": "goodbye, world!",
       "artistKey": "miffle",
       "albumKey": "goodbye world",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Miley Cyrus",
+      "album": "Something Beautiful",
+      "artistKey": "miley cyrus",
+      "albumKey": "something beautiful",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9073,6 +9087,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Yayoba",
+      "album": "Matkat",
+      "artistKey": "yayoba",
+      "albumKey": "matkat",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/yayoba-matkat-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Genesis Owusu",
       "album": "Live on KEXP",
       "artistKey": "genesis owusu",
@@ -9271,24 +9303,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Tiiva",
-      "album": "This Could Be A Start",
-      "artistKey": "tiiva",
-      "albumKey": "this could be a start",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-28",
-          "url": "https://thequietus.com/quietus-reviews/tiiva-this-could-be-a-start-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "applied communications",
       "album": "applied communications bites the big one",
       "artistKey": "applied communications",
@@ -9304,24 +9318,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tinashe",
-      "album": "Melatonin",
-      "artistKey": "tinashe",
-      "albumKey": "melatonin",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -14005,24 +14001,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Emily A. Sprague",
-      "album": "Cyano",
-      "artistKey": "emily a sprague",
-      "albumKey": "cyano",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kaazi",
       "album": "Earth E",
       "artistKey": "kaazi",
@@ -14447,150 +14425,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-25",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Busta Rhymes & J Dilla feat. Lil Wayne",
-      "album": "DILLAGENCE II",
-      "artistKey": "busta rhymes and j dilla feat lil wayne",
-      "albumKey": "dillagence ii",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "fat jon",
-      "album": "Black Time Circle",
-      "artistKey": "fat jon",
-      "albumKey": "black time circle",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fcukers",
-      "album": "nüyork",
-      "artistKey": "fcukers",
-      "albumKey": "nuyork",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Justine Skye",
-      "album": "CANDY",
-      "artistKey": "justine skye",
-      "albumKey": "candy",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Maiah Manser",
-      "album": "FIFTH DIMENSION Part 1",
-      "artistKey": "maiah manser",
-      "albumKey": "fifth dimension part 1",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Black Tones",
-      "album": "Brain Brain",
-      "artistKey": "the black tones",
-      "albumKey": "brain brain",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Two-Man Giant Squid",
-      "album": "I Was a DJ in 2015 (NOVABLOOD Remix)",
-      "artistKey": "two man giant squid",
-      "albumKey": "i was a dj in 2015 novablood remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-24",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "WILLOW",
-      "album": "The Thread",
-      "artistKey": "willow",
-      "albumKey": "the thread",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-24",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

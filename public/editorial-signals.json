@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T16:41:18.891Z",
+  "generatedAt": "2026-10-06T14:38:49.392Z",
   "items": [
     {
       "artist": "megiapa",
@@ -27,38 +27,6 @@
           "weight": 4,
           "publishedAt": "2026-09-24",
           "url": "https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review"
-        }
-      ],
-      "editorialWeight": 15,
-      "multiSourceBonus": 2,
-      "mentionCount": 3
-    },
-    {
-      "artist": "Gilla Band",
-      "album": "Pugnello",
-      "artistKey": "gilla band",
-      "albumKey": "pugnello",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-30",
-          "url": "https://thequietus.com/quietus-reviews/gilla-band-pugnello-review/"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-25",
-          "url": "https://pitchfork.com/reviews/albums/gilla-band-pugnello/"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-09-22",
-          "url": "https://stereogum.com/2511953/album-of-the-week-gilla-band-pugnello/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 15,
@@ -96,6 +64,31 @@
       "editorialWeight": 15,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "Greg Freeman",
+      "album": "All Set The Bone",
+      "artistKey": "greg freeman",
+      "albumKey": "all set the bone",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-06",
+          "url": "https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-09-29",
+          "url": "https://stereogum.com/2512728/album-of-the-week-greg-freeman-all-set-the-bone/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Stef Chura",
@@ -341,6 +334,31 @@
           "weight": 5,
           "publishedAt": "2026-09-30",
           "url": "https://pitchfork.com/reviews/albums/tinashe-popstar/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Gilla Band",
+      "album": "Pugnello",
+      "artistKey": "gilla band",
+      "albumKey": "pugnello",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-09-30",
+          "url": "https://thequietus.com/quietus-reviews/gilla-band-pugnello-review/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-09-22",
+          "url": "https://stereogum.com/2511953/album-of-the-week-gilla-band-pugnello/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 10,
@@ -861,6 +879,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Cara Delevingne",
+      "album": "Not Normal",
+      "artistKey": "cara delevingne",
+      "albumKey": "not normal",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-06",
+          "url": "https://pitchfork.com/reviews/albums/cara-delevingne-not-normal/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jam City",
+      "album": "My World",
+      "artistKey": "jam city",
+      "albumKey": "my world",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-06",
+          "url": "https://pitchfork.com/reviews/albums/jam-city-my-world/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Protomartyr",
+      "album": "Hotel Usona",
+      "artistKey": "protomartyr",
+      "albumKey": "hotel usona",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-06",
+          "url": "https://pitchfork.com/reviews/albums/protomartyr-hotel-usona/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "B0yg1rl",
       "album": "B0YG1RL",
       "artistKey": "b0yg1rl",
@@ -1214,60 +1286,6 @@
           "weight": 5,
           "publishedAt": "2026-09-28",
           "url": "https://pitchfork.com/reviews/albums/the-mary-wallopers-paddywhackery/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sasha John Digweed",
-      "album": "Northern Exposure",
-      "artistKey": "sasha john digweed",
-      "albumKey": "northern exposure",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-27",
-          "url": "https://pitchfork.com/reviews/albums/sasha-john-digweed-northern-exposure/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Joy Division",
-      "album": "Eternal (Live)",
-      "artistKey": "joy division",
-      "albumKey": "eternal live",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-26",
-          "url": "https://pitchfork.com/reviews/albums/joy-division-eternal-live/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jae Stephens",
-      "album": "AUDACITY",
-      "artistKey": "jae stephens",
-      "albumKey": "audacity",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-25",
-          "url": "https://pitchfork.com/reviews/albums/jae-stephens-audacity/"
         }
       ],
       "editorialWeight": 5,
@@ -9087,6 +9105,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Helen",
+      "album": "Linda’s Head",
+      "artistKey": "helen",
+      "albumKey": "lindas head",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-06",
+          "url": "https://thequietus.com/quietus-reviews/helen-lindas-head-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "IVM Trio",
+      "album": "Explain Yourselves",
+      "artistKey": "ivm trio",
+      "albumKey": "explain yourselves",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-06",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ivm-trio-explain-yourselves-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Yayoba",
       "album": "Matkat",
       "artistKey": "yayoba",
@@ -9242,42 +9296,6 @@
           "weight": 4,
           "publishedAt": "2026-09-29",
           "url": "https://thequietus.com/quietus-reviews/gash-at-least-you-know-what-youre-laughing-at/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Greg Freeman",
-      "album": "All Set The Bone",
-      "artistKey": "greg freeman",
-      "albumKey": "all set the bone",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-09-29",
-          "url": "https://stereogum.com/2512728/album-of-the-week-greg-freeman-all-set-the-bone/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Oren Ambarchi",
-      "album": "Cooked",
-      "artistKey": "oren ambarchi",
-      "albumKey": "cooked",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-29",
-          "url": "https://thequietus.com/quietus-reviews/oren-ambarchi-cooked-review/"
         }
       ],
       "editorialWeight": 4,
@@ -14307,42 +14325,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Blondshell",
-      "album": "Heart Has To Work So Hard",
-      "artistKey": "blondshell",
-      "albumKey": "heart has to work so hard",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-25",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fana Hues",
-      "album": "Catch n' Release",
-      "artistKey": "fana hues",
-      "albumKey": "catch n release",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-25",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Hermanos Gutiérrez",
       "album": "Live on KEXP",
       "artistKey": "hermanos gutierrez",
@@ -14361,64 +14343,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Lucha Luna",
-      "album": "BRILLA BRILLA (REMIXED)",
-      "artistKey": "lucha luna",
-      "albumKey": "brilla brilla remixed",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-25",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Peaches feat. Joe Talbot",
       "album": "You’re Alright (Pixel Grip Remix)",
       "artistKey": "peaches feat joe talbot",
       "albumKey": "youre alright pixel grip remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-25",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Quantic",
-      "album": "Theme From Selva",
-      "artistKey": "quantic",
-      "albumKey": "theme from selva",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-25",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "thredd",
-      "album": "It’s Lovely, Come On In REWORKS",
-      "artistKey": "thredd",
-      "albumKey": "its lovely come on in reworks",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",

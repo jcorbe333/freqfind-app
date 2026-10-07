@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T14:38:49.392Z",
+  "generatedAt": "2026-10-07T14:58:47.912Z",
   "items": [
     {
       "artist": "megiapa",
@@ -64,6 +64,31 @@
       "editorialWeight": 15,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "Jam City",
+      "album": "My World",
+      "artistKey": "jam city",
+      "albumKey": "my world",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-07",
+          "url": "https://thequietus.com/quietus-reviews/jam-city-my-world-review/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-06",
+          "url": "https://pitchfork.com/reviews/albums/jam-city-my-world/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Greg Freeman",
@@ -291,6 +316,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Helen",
+      "album": "Linda’s Head",
+      "artistKey": "helen",
+      "albumKey": "lindas head",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-07",
+          "url": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-06",
+          "url": "https://thequietus.com/quietus-reviews/helen-lindas-head-review/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Emily A Sprague",
       "album": "Cyano",
       "artistKey": "emily a sprague",
@@ -384,31 +434,6 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "M83",
-      "album": "I Wrote You a Letter",
-      "artistKey": "m83",
-      "albumKey": "i wrote you a letter",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-28",
-          "url": "https://pitchfork.com/reviews/albums/m83-i-wrote-you-a-letter/"
         }
       ],
       "editorialWeight": 10,
@@ -620,6 +645,24 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cameron Winter",
+      "album": "Heavy Metal (2024)",
+      "artistKey": "cameron winter",
+      "albumKey": "heavy metal 2024",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
         }
       ],
       "editorialWeight": 6,
@@ -879,6 +922,96 @@
       "mentionCount": 1
     },
     {
+      "artist": "Haywire",
+      "album": "I Don’t Wanna Say Goodbye",
+      "artistKey": "haywire",
+      "albumKey": "i dont wanna say goodbye",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-07",
+          "url": "https://pitchfork.com/reviews/albums/haywire-i-dont-wanna-say-goodbye/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Klein",
+      "album": "my own fairytale",
+      "artistKey": "klein",
+      "albumKey": "my own fairytale",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-07",
+          "url": "https://pitchfork.com/reviews/albums/klein-my-own-fairytale/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Quavo",
+      "album": "QRÖMELIFE",
+      "artistKey": "quavo",
+      "albumKey": "qromelife",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-07",
+          "url": "https://pitchfork.com/reviews/albums/quavo-qromelife/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Victoria Monet",
+      "album": "Frequency of Love",
+      "artistKey": "victoria monet",
+      "albumKey": "frequency of love",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-07",
+          "url": "https://pitchfork.com/reviews/albums/victoria-monet-frequency-of-love/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cameron Winter",
+      "album": "Live At Carnegie Hall",
+      "artistKey": "cameron winter",
+      "albumKey": "live at carnegie hall",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-10-06",
+          "url": "https://stereogum.com/2513341/album-of-the-week-cameron-winter-live-at-carnegie-hall/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Cara Delevingne",
       "album": "Not Normal",
       "artistKey": "cara delevingne",
@@ -890,24 +1023,6 @@
           "weight": 5,
           "publishedAt": "2026-10-06",
           "url": "https://pitchfork.com/reviews/albums/cara-delevingne-not-normal/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jam City",
-      "album": "My World",
-      "artistKey": "jam city",
-      "albumKey": "my world",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-06",
-          "url": "https://pitchfork.com/reviews/albums/jam-city-my-world/"
         }
       ],
       "editorialWeight": 5,
@@ -1232,60 +1347,6 @@
           "weight": 5,
           "publishedAt": "2026-09-29",
           "url": "https://pitchfork.com/reviews/albums/taylor-swift-the-life-of-a-showgirl-the-encore/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bullion",
-      "album": "Nearly",
-      "artistKey": "bullion",
-      "albumKey": "nearly",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-28",
-          "url": "https://pitchfork.com/reviews/albums/bullion-nearly/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Orville Peck",
-      "album": "Mule",
-      "artistKey": "orville peck",
-      "albumKey": "mule",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-28",
-          "url": "https://pitchfork.com/reviews/albums/orville-peck-mule/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Mary Wallopers",
-      "album": "Paddywhackery",
-      "artistKey": "the mary wallopers",
-      "albumKey": "paddywhackery",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-28",
-          "url": "https://pitchfork.com/reviews/albums/the-mary-wallopers-paddywhackery/"
         }
       ],
       "editorialWeight": 5,
@@ -2161,24 +2222,6 @@
       "album": "SABLE, fABLE",
       "artistKey": "bon iver",
       "albumKey": "sable fable",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cameron Winter",
-      "album": "Heavy Metal (2024)",
-      "artistKey": "cameron winter",
-      "albumKey": "heavy metal 2024",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9105,17 +9148,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Helen",
-      "album": "Linda’s Head",
-      "artistKey": "helen",
-      "albumKey": "lindas head",
+      "artist": "Glenn Richards & The Venus Lakes",
+      "album": "The Great Behind",
+      "artistKey": "glenn richards and the venus lakes",
+      "albumKey": "the great behind",
       "sources": [
         {
           "sourceId": "the-quietus",
           "sourceLabel": "The Quietus",
           "weight": 4,
           "publishedAt": "2026-10-06",
-          "url": "https://thequietus.com/quietus-reviews/helen-lindas-head-review/"
+          "url": "https://thequietus.com/quietus-reviews/glenn-richards-the-venus-lakes-the-great-behind/"
         }
       ],
       "editorialWeight": 4,
@@ -9278,24 +9321,6 @@
           "weight": 4,
           "publishedAt": "2026-09-29",
           "url": "https://daily.bandcamp.com/album-of-the-day/anne-waldman-thurston-moore-james-ilgenfritz-anagram-ensemble-the-travel-agency-is-on-fire-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gash",
-      "album": "At Least You Know What You’re Laughing At",
-      "artistKey": "gash",
-      "albumKey": "at least you know what youre laughing at",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-29",
-          "url": "https://thequietus.com/quietus-reviews/gash-at-least-you-know-what-youre-laughing-at/"
         }
       ],
       "editorialWeight": 4,
@@ -12579,24 +12604,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Theo Bleak",
-      "album": "Bargaining",
-      "artistKey": "theo bleak",
-      "albumKey": "bargaining",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2025-12-16",
-          "url": "https://stereogum.com/2483008/album-of-the-week-theo-bleak-embargaining-em/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Blut Aus Nord",
       "album": "Ethereal Horizons",
       "artistKey": "blut aus nord",
@@ -13317,24 +13324,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Joker Starr",
-      "album": "Sidenote",
-      "artistKey": "joker starr",
-      "albumKey": "sidenote",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-06",
-          "url": "https://daily.bandcamp.com/album-of-the-day/joker-starr-sidenote-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Buttermello",
       "album": "The Mello Tapes Vol.1",
       "artistKey": "buttermello",
@@ -13717,6 +13706,24 @@
       "album": "Moving Target",
       "artistKey": "lime garden",
       "albumKey": "moving target",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-30",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "M83",
+      "album": "I Wrote You a Letter",
+      "artistKey": "m83",
+      "albumKey": "i wrote you a letter",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14317,42 +14324,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hermanos Gutiérrez",
-      "album": "Live on KEXP",
-      "artistKey": "hermanos gutierrez",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-25",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Peaches feat. Joe Talbot",
-      "album": "You’re Alright (Pixel Grip Remix)",
-      "artistKey": "peaches feat joe talbot",
-      "albumKey": "youre alright pixel grip remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-25",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

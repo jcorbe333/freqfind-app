@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-10-07T14:58:47.912Z",
+  "generatedAt": "2026-10-09T14:52:28.356Z",
   "items": [
     {
-      "artist": "megiapa",
-      "album": "Intentions",
-      "artistKey": "megiapa",
-      "albumKey": "intentions",
+      "artist": "Helen",
+      "album": "Linda’s Head",
+      "artistKey": "helen",
+      "albumKey": "lindas head",
       "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-05",
-          "url": "https://thequietus.com/quietus-reviews/megiapa-intentions-review/"
-        },
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-09-30",
-          "url": "https://pitchfork.com/reviews/albums/megiapa-intentions/"
+          "publishedAt": "2026-10-08",
+          "url": "https://pitchfork.com/reviews/albums/helen-lindas-head/"
         },
         {
           "sourceId": "bandcamp-album-of-the-day",
           "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-09-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review"
+          "publishedAt": "2026-10-07",
+          "url": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-06",
+          "url": "https://thequietus.com/quietus-reviews/helen-lindas-head-review/"
         }
       ],
       "editorialWeight": 15,
@@ -34,24 +34,17 @@
       "mentionCount": 3
     },
     {
-      "artist": "Ty Segall",
-      "album": "Chrome",
-      "artistKey": "ty segall",
-      "albumKey": "chrome",
+      "artist": "Protomartyr",
+      "album": "Hotel Usona",
+      "artistKey": "protomartyr",
+      "albumKey": "hotel usona",
       "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        },
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-09-29",
-          "url": "https://pitchfork.com/reviews/albums/ty-segall-chrome/"
+          "publishedAt": "2026-10-06",
+          "url": "https://pitchfork.com/reviews/albums/protomartyr-hotel-usona/"
         },
         {
           "sourceId": "needle-drop-loved-list",
@@ -61,9 +54,34 @@
           "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
-      "editorialWeight": 15,
+      "editorialWeight": 12,
       "multiSourceBonus": 2,
-      "mentionCount": 3
+      "mentionCount": 2
+    },
+    {
+      "artist": "Cameron Winter",
+      "album": "Live At Carnegie Hall",
+      "artistKey": "cameron winter",
+      "albumKey": "live at carnegie hall",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-09",
+          "url": "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-10-06",
+          "url": "https://stereogum.com/2513341/album-of-the-week-cameron-winter-live-at-carnegie-hall/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Jam City",
@@ -316,31 +334,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Helen",
-      "album": "Linda’s Head",
-      "artistKey": "helen",
-      "albumKey": "lindas head",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-10-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review"
-        },
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-06",
-          "url": "https://thequietus.com/quietus-reviews/helen-lindas-head-review/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Emily A Sprague",
       "album": "Cyano",
       "artistKey": "emily a sprague",
@@ -366,6 +359,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "megiapa",
+      "album": "Intentions",
+      "artistKey": "megiapa",
+      "albumKey": "intentions",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-05",
+          "url": "https://thequietus.com/quietus-reviews/megiapa-intentions-review/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Tinashe",
       "album": "Popstar",
       "artistKey": "tinashe",
@@ -379,36 +397,11 @@
           "url": "https://www.kexp.org/playlist/"
         },
         {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
           "weight": 5,
-          "publishedAt": "2026-09-30",
-          "url": "https://pitchfork.com/reviews/albums/tinashe-popstar/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Gilla Band",
-      "album": "Pugnello",
-      "artistKey": "gilla band",
-      "albumKey": "pugnello",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-09-30",
-          "url": "https://thequietus.com/quietus-reviews/gilla-band-pugnello-review/"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-09-22",
-          "url": "https://stereogum.com/2511953/album-of-the-week-gilla-band-pugnello/reviews/album-of-the-week/"
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 10,
@@ -420,6 +413,31 @@
       "album": "So Help Me God",
       "artistKey": "kelsey lu",
       "albumKey": "so help me god",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-30",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Ty Segall",
+      "album": "Chrome",
+      "artistKey": "ty segall",
+      "albumKey": "chrome",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -566,31 +584,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Curbside Lambsear",
-      "album": "Put Rings on All My Fingers to Weigh Down My Hands",
-      "artistKey": "curbside lambsear",
-      "albumKey": "put rings on all my fingers to weigh down my hands",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-01",
-          "url": "https://thequietus.com/quietus-reviews/curbside-lambsear-put-rings-on-all-my-fingers-to-weigh-down-my-hands-review/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "mary in the junkyard",
       "album": "Role Model Hermit",
       "artistKey": "mary in the junkyard",
@@ -614,6 +607,24 @@
       "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
+    },
+    {
+      "artist": "Remi Wolf",
+      "album": "Mud",
+      "artistKey": "remi wolf",
+      "albumKey": "mud",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-09",
+          "url": "https://pitchfork.com/reviews/albums/remi-wolf-mud/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Genesis Owusu",
@@ -692,6 +703,24 @@
       "album": "The Collective",
       "artistKey": "kim gordon",
       "albumKey": "the collective",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Remi Wolf",
+      "album": "Big Ideas",
+      "artistKey": "remi wolf",
+      "albumKey": "big ideas",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -922,6 +951,96 @@
       "mentionCount": 1
     },
     {
+      "artist": "Dawn Richard",
+      "album": "creole culture",
+      "artistKey": "dawn richard",
+      "albumKey": "creole culture",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-09",
+          "url": "https://pitchfork.com/reviews/albums/dawn-richard-creole-culture/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fat Dog",
+      "album": "Cancel Me (I’m Tired)",
+      "artistKey": "fat dog",
+      "albumKey": "cancel me im tired",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-09",
+          "url": "https://pitchfork.com/reviews/albums/fat-dog-cancel-me-im-tired/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "artistKey": "lucy bedroque",
+      "albumKey": "c",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-08",
+          "url": "https://pitchfork.com/reviews/albums/lucy-bedroque-c/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mnek",
+      "album": "BULLDOZER!!",
+      "artistKey": "mnek",
+      "albumKey": "bulldozer",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-08",
+          "url": "https://pitchfork.com/reviews/albums/mnek-bulldozer/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Your Old Droog",
+      "album": "Bread & Butter",
+      "artistKey": "your old droog",
+      "albumKey": "bread and butter",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-08",
+          "url": "https://pitchfork.com/reviews/albums/your-old-droog-bread-and-butter/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Haywire",
       "album": "I Don’t Wanna Say Goodbye",
       "artistKey": "haywire",
@@ -994,24 +1113,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Cameron Winter",
-      "album": "Live At Carnegie Hall",
-      "artistKey": "cameron winter",
-      "albumKey": "live at carnegie hall",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-10-06",
-          "url": "https://stereogum.com/2513341/album-of-the-week-cameron-winter-live-at-carnegie-hall/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Cara Delevingne",
       "album": "Not Normal",
       "artistKey": "cara delevingne",
@@ -1023,24 +1124,6 @@
           "weight": 5,
           "publishedAt": "2026-10-06",
           "url": "https://pitchfork.com/reviews/albums/cara-delevingne-not-normal/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Protomartyr",
-      "album": "Hotel Usona",
-      "artistKey": "protomartyr",
-      "albumKey": "hotel usona",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-06",
-          "url": "https://pitchfork.com/reviews/albums/protomartyr-hotel-usona/"
         }
       ],
       "editorialWeight": 5,
@@ -1257,96 +1340,6 @@
           "weight": 5,
           "publishedAt": "2026-10-01",
           "url": "https://pitchfork.com/reviews/albums/toxe-bubble-treasure/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Empress Of",
-      "album": "Dream House",
-      "artistKey": "empress of",
-      "albumKey": "dream house",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-30",
-          "url": "https://pitchfork.com/reviews/albums/empress-of-dream-house/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jhene Aiko",
-      "album": "Westside Whimsy",
-      "artistKey": "jhene aiko",
-      "albumKey": "westside whimsy",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-30",
-          "url": "https://pitchfork.com/reviews/albums/jhene-aiko-westside-whimsy/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jules Reidy",
-      "album": "Clerestory",
-      "artistKey": "jules reidy",
-      "albumKey": "clerestory",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-29",
-          "url": "https://pitchfork.com/reviews/albums/jules-reidy-clerestory/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Julia Jacklin",
-      "album": "The Gem",
-      "artistKey": "julia jacklin",
-      "albumKey": "the gem",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-29",
-          "url": "https://pitchfork.com/reviews/albums/julia-jacklin-the-gem/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Taylor Swift",
-      "album": "The Life of a Showgirl: The Encore",
-      "artistKey": "taylor swift",
-      "albumKey": "the life of a showgirl the encore",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-09-29",
-          "url": "https://pitchfork.com/reviews/albums/taylor-swift-the-life-of-a-showgirl-the-encore/"
         }
       ],
       "editorialWeight": 5,
@@ -3986,24 +3979,6 @@
       "album": "Scrapyard",
       "artistKey": "quadeca",
       "albumKey": "scrapyard",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Remi Wolf",
-      "album": "Big Ideas",
-      "artistKey": "remi wolf",
-      "albumKey": "big ideas",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9148,6 +9123,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Margo Cilker",
+      "album": "Little White Cross",
+      "artistKey": "margo cilker",
+      "albumKey": "little white cross",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-09",
+          "url": "https://daily.bandcamp.com/album-of-the-day/margo-cilker-little-white-cross-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pet Shop Boys",
+      "album": "A Man From the Future",
+      "artistKey": "pet shop boys",
+      "albumKey": "a man from the future",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-09",
+          "url": "https://thequietus.com/quietus-reviews/pet-shop-boys-a-man-from-the-future/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Marvin Tate",
+      "album": "Controlled Burn",
+      "artistKey": "marvin tate",
+      "albumKey": "controlled burn",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-08",
+          "url": "https://thequietus.com/quietus-reviews/marvin-tate-controlled-burn-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Antiyano Progresivo: Musical Experiments from the Former Dutch Caribbean, 1968-1986",
+      "artistKey": "various artists",
+      "albumKey": "antiyano progresivo musical experiments from the former dutch caribbean 1968 1986",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-08",
+          "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-antiyano-progresivo-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Glenn Richards & The Venus Lakes",
       "album": "The Great Behind",
       "artistKey": "glenn richards and the venus lakes",
@@ -9235,24 +9282,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Susanne Sundfør",
-      "album": "Revelations of Divine Love",
-      "artistKey": "susanne sundf r",
-      "albumKey": "revelations of divine love",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-02",
-          "url": "https://thequietus.com/quietus-reviews/susanne-sundfor-revelations-of-divine-love/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -9375,6 +9404,24 @@
           "weight": 4,
           "publishedAt": "2026-09-23",
           "url": "https://daily.bandcamp.com/album-of-the-day/semiratruth-sm-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gilla Band",
+      "album": "Pugnello",
+      "artistKey": "gilla band",
+      "albumKey": "pugnello",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-09-22",
+          "url": "https://stereogum.com/2511953/album-of-the-week-gilla-band-pugnello/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -13288,38 +13335,20 @@
       "mentionCount": 1
     },
     {
-      "artist": "Potential Badboy",
-      "album": "Elusive",
-      "artistKey": "potential badboy",
-      "albumKey": "elusive",
+      "artist": "Majid Jordan",
+      "album": "Best Behaviour (Ft. Clementine Douglas)",
+      "artistKey": "majid jordan",
+      "albumKey": "best behaviour ft clementine douglas",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-08",
-          "url": "https://daily.bandcamp.com/album-of-the-day/potential-badboy-elusive-review"
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-10-09",
+          "url": "https://www.indieshuffle.com/majid-jordan-best-behaviour-feat-clementine-douglas/"
         }
       ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Marta & Tricky",
-      "album": "Out The Way",
-      "artistKey": "marta and tricky",
-      "albumKey": "out the way",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/marta-tricky-out-the-way-review"
-        }
-      ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13954,6 +13983,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Curbside Lambsear",
+      "album": "Put Rings on All My Fingers to Weigh Down My Hands",
+      "artistKey": "curbside lambsear",
+      "albumKey": "put rings on all my fingers to weigh down my hands",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-09-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Dave Angel",
       "album": "A Time and a Place",
       "artistKey": "dave angel",
@@ -14234,96 +14281,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-27",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Andrew Sa",
-      "album": "American Rough",
-      "artistKey": "andrew sa",
-      "albumKey": "american rough",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-27",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Sons of Rainier",
-      "album": "Nothing but Time",
-      "artistKey": "the sons of rainier",
-      "albumKey": "nothing but time",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-27",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gallowstreet",
-      "album": "Future Brass",
-      "artistKey": "gallowstreet",
-      "albumKey": "future brass",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kelly Finnigan & Destruments",
-      "album": "B‐Sides, Singles & Forgotten Gems",
-      "artistKey": "kelly finnigan and destruments",
-      "albumKey": "b sides singles and forgotten gems",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sarakiniko",
-      "album": "Pyrocène",
-      "artistKey": "sarakiniko",
-      "albumKey": "pyrocene",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-26",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14919,24 +14876,6 @@
           "weight": 3,
           "publishedAt": "2026-05-17",
           "url": "https://www.indieshuffle.com/jasper-dean-telemonkey/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Joji",
-      "album": "Last of a Dying Breed",
-      "artistKey": "joji",
-      "albumKey": "last of a dying breed",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-13",
-          "url": "https://www.indieshuffle.com/joji-last-of-a-dying-breed/"
         }
       ],
       "editorialWeight": 3,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:52:28.356Z",
+  "generatedAt": "2026-10-10T14:08:36.217Z",
   "items": [
     {
       "artist": "Helen",
@@ -330,6 +330,31 @@
         }
       ],
       "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Stevie Wonder",
+      "album": "Songs in the Key of Life - The EP",
+      "artistKey": "stevie wonder",
+      "albumKey": "songs in the key of life the ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-10",
+          "url": "https://pitchfork.com/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-01",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -1322,24 +1347,6 @@
           "weight": 5,
           "publishedAt": "2026-10-01",
           "url": "https://pitchfork.com/reviews/albums/tove-lo-estrus/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Toxe",
-      "album": "Bubble Treasure",
-      "artistKey": "toxe",
-      "albumKey": "bubble treasure",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-01",
-          "url": "https://pitchfork.com/reviews/albums/toxe-bubble-treasure/"
         }
       ],
       "editorialWeight": 5,
@@ -13317,20 +13324,20 @@
       "mentionCount": 1
     },
     {
-      "artist": "Wode",
-      "album": "Uncrossing the Keys",
-      "artistKey": "wode",
-      "albumKey": "uncrossing the keys",
+      "artist": "LATASHÁ",
+      "album": "Out Here",
+      "artistKey": "latasha",
+      "albumKey": "out here",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-09",
-          "url": "https://daily.bandcamp.com/album-of-the-day/wode-uncrossing-the-keys-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-10",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13627,24 +13634,6 @@
       "album": "Disc 1",
       "artistKey": "rochelle jordan",
       "albumKey": "disc 1",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Stevie Wonder",
-      "album": "Songs in the Key of Life - The EP",
-      "artistKey": "stevie wonder",
-      "albumKey": "songs in the key of life the ep",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14156,132 +14145,6 @@
           "weight": 3,
           "publishedAt": "2026-09-28",
           "url": "https://www.indieshuffle.com/arlo-parks-senses-ft-sampha/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dagmar Zuniga feat. Zach Phillips",
-      "album": "in filth your mystery is kingdom / far smile peasant in yellow music",
-      "artistKey": "dagmar zuniga feat zach phillips",
-      "albumKey": "in filth your mystery is kingdom far smile peasant in yellow music",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Grace Cummings",
-      "album": "Bloodhorse!",
-      "artistKey": "grace cummings",
-      "albumKey": "bloodhorse",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Homeboy Sandman & Jack Splash",
-      "album": "Resonance Frequency",
-      "artistKey": "homeboy sandman and jack splash",
-      "albumKey": "resonance frequency",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "La Texana",
-      "album": "Live on KEXP",
-      "artistKey": "la texana",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "MYXA",
-      "album": "Live on KEXP",
-      "artistKey": "myxa",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rolling Blackouts Coastal Fever",
-      "album": "Live on KEXP",
-      "artistKey": "rolling blackouts coastal fever",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-28",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "ABOP",
-      "album": "Masters of Afters",
-      "artistKey": "abop",
-      "albumKey": "masters of afters",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-27",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

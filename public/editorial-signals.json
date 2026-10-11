@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T14:08:36.217Z",
+  "generatedAt": "2026-10-11T14:32:55.398Z",
   "items": [
     {
       "artist": "Helen",
@@ -351,31 +351,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-10-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Emily A Sprague",
-      "album": "Cyano",
-      "artistKey": "emily a sprague",
-      "albumKey": "cyano",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-05",
-          "url": "https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -976,6 +951,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Chicks",
+      "album": "Taking the Long Way",
+      "artistKey": "the chicks",
+      "albumKey": "taking the long way",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-11",
+          "url": "https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Dawn Richard",
       "album": "creole culture",
       "artistKey": "dawn richard",
@@ -1174,6 +1167,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Emily A Sprague",
+      "album": "Cyano",
+      "artistKey": "emily a sprague",
+      "albumKey": "cyano",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-05",
+          "url": "https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Godflesh",
       "album": "Decay",
       "artistKey": "godflesh",
@@ -1336,24 +1347,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Tove Lo",
-      "album": "ESTRUS",
-      "artistKey": "tove lo",
-      "albumKey": "estrus",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-01",
-          "url": "https://pitchfork.com/reviews/albums/tove-lo-estrus/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "L’Rain",
       "album": "fata morgana",
       "artistKey": "lrain",
@@ -1455,6 +1448,24 @@
           "weight": 4,
           "publishedAt": "2026-06-05",
           "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Monolord",
+      "album": "Neverending",
+      "artistKey": "monolord",
+      "albumKey": "neverending",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-28",
+          "url": "https://daily.bandcamp.com/album-of-the-day/monolord-neverending-review"
         }
       ],
       "editorialWeight": 5,
@@ -9130,6 +9141,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Monolord",
+      "album": "Live on KEXP",
+      "artistKey": "monolord",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Margo Cilker",
       "album": "Little White Cross",
       "artistKey": "margo cilker",
@@ -10923,24 +10952,6 @@
           "weight": 4,
           "publishedAt": "2026-05-29",
           "url": "https://daily.bandcamp.com/album-of-the-day/white-heaven-next-to-nothing-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Monolord",
-      "album": "Neverending",
-      "artistKey": "monolord",
-      "albumKey": "neverending",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-28",
-          "url": "https://daily.bandcamp.com/album-of-the-day/monolord-neverending-review"
         }
       ],
       "editorialWeight": 4,
@@ -13306,20 +13317,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "God Alone.",
-      "album": "The Beep Test",
-      "artistKey": "god alone",
-      "albumKey": "the beep test",
+      "artist": "Abyssal Rift",
+      "album": "Relics of Great Ash",
+      "artistKey": "abyssal rift",
+      "albumKey": "relics of great ash",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-10",
-          "url": "https://daily.bandcamp.com/album-of-the-day/god-alone-the-beep-test-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-11",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Asher White",
+      "album": "Love Aggregates",
+      "artistKey": "asher white",
+      "albumKey": "love aggregates",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sera Cahoone",
+      "album": "I’ve Missed You All These Years",
+      "artistKey": "sera cahoone",
+      "albumKey": "ive missed you all these years",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13648,24 +13695,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Viuta",
-      "album": "Obsessive",
-      "artistKey": "viuta",
-      "albumKey": "obsessive",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-10-01",
-          "url": "https://www.indieshuffle.com/viuta-obsessive/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Boards of Canada",
       "album": "Inferno",
       "artistKey": "boards of canada",
@@ -13856,276 +13885,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Amor Líquido",
-      "album": "A Ver Si Me Despierto",
-      "artistKey": "amor liquido",
-      "albumKey": "a ver si me despierto",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Andy Stott",
-      "album": "Late Loop",
-      "artistKey": "andy stott",
-      "albumKey": "late loop",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Axel Boman & Superpitcher",
-      "album": "Tell It to the Mountain",
-      "artistKey": "axel boman and superpitcher",
-      "albumKey": "tell it to the mountain",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Black Bones & Miles J Paralysis",
-      "album": "Black Cross",
-      "artistKey": "black bones and miles j paralysis",
-      "albumKey": "black cross",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cassandra Jenkins",
-      "album": "Live on KEXP",
-      "artistKey": "cassandra jenkins",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Coral D",
-      "album": "Sunshine",
-      "artistKey": "coral d",
-      "albumKey": "sunshine",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Curbside Lambsear",
-      "album": "Put Rings on All My Fingers to Weigh Down My Hands",
-      "artistKey": "curbside lambsear",
-      "albumKey": "put rings on all my fingers to weigh down my hands",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dave Angel",
-      "album": "A Time and a Place",
-      "artistKey": "dave angel",
-      "albumKey": "a time and a place",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "ddwy",
-      "album": "Tell Me, Told You",
-      "artistKey": "ddwy",
-      "albumKey": "tell me told you",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "DJ Python",
-      "album": "To Accomplish Many Things",
-      "artistKey": "dj python",
-      "albumKey": "to accomplish many things",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Eden Samara",
-      "album": "Odyssey",
-      "artistKey": "eden samara",
-      "albumKey": "odyssey",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kaazi",
-      "album": "Earth E",
-      "artistKey": "kaazi",
-      "albumKey": "earth e",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nathan Fake",
-      "album": "Caldera",
-      "artistKey": "nathan fake",
-      "albumKey": "caldera",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ron Trent",
-      "album": "Night Wind",
-      "artistKey": "ron trent",
-      "albumKey": "night wind",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Tallest Man on Earth",
-      "album": "Live on KEXP",
-      "artistKey": "the tallest man on earth",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-29",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

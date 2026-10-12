@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T14:32:55.398Z",
+  "generatedAt": "2026-10-12T17:13:43.282Z",
   "items": [
     {
       "artist": "Helen",
@@ -55,6 +55,31 @@
         }
       ],
       "editorialWeight": 12,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Kaitlyn Aurelia Smith",
+      "album": "Ruin: It’s Not Just Music",
+      "artistKey": "kaitlyn aurelia smith",
+      "albumKey": "ruin its not just music",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-12",
+          "url": "https://pitchfork.com/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-01",
+          "url": "https://daily.bandcamp.com/album-of-the-day/kaitlyn-aurelia-smith-ruin-its-not-just-music-review"
+        }
+      ],
+      "editorialWeight": 11,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -127,31 +152,6 @@
           "weight": 4,
           "publishedAt": "2026-09-29",
           "url": "https://stereogum.com/2512728/album-of-the-week-greg-freeman-all-set-the-bone/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Stef Chura",
-      "album": "Dancing Alone on the Concrete",
-      "artistKey": "stef chura",
-      "albumKey": "dancing alone on the concrete",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-10-02",
-          "url": "https://daily.bandcamp.com/album-of-the-day/stef-chura-dancing-alone-on-the-concrete-review"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-02",
-          "url": "https://pitchfork.com/reviews/albums/stef-chura-dancing-alone-on-the-concrete/"
         }
       ],
       "editorialWeight": 11,
@@ -359,31 +359,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "megiapa",
-      "album": "Intentions",
-      "artistKey": "megiapa",
-      "albumKey": "intentions",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-05",
-          "url": "https://thequietus.com/quietus-reviews/megiapa-intentions-review/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-09-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Tinashe",
       "album": "Popstar",
       "artistKey": "tinashe",
@@ -394,56 +369,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-10-01",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Kelsey Lu",
-      "album": "So Help Me God",
-      "artistKey": "kelsey lu",
-      "albumKey": "so help me god",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Ty Segall",
-      "album": "Chrome",
-      "artistKey": "ty segall",
-      "albumKey": "chrome",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -584,31 +509,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "mary in the junkyard",
-      "album": "Role Model Hermit",
-      "artistKey": "mary in the junkyard",
-      "albumKey": "role model hermit",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-07-02",
-          "url": "https://daily.bandcamp.com/album-of-the-day/mary-in-the-junkyard-role-model-hermit-review"
-        }
-      ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Remi Wolf",
       "album": "Mud",
       "artistKey": "remi wolf",
@@ -692,6 +592,24 @@
           "weight": 5,
           "publishedAt": "2025-01-02",
           "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "album": "She Reaches Out to She Reaches Out to She",
+      "artistKey": "chelsea wolfe",
+      "albumKey": "she reaches out to she reaches out to she",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
         }
       ],
       "editorialWeight": 6,
@@ -948,6 +866,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Marina Herlop",
+      "album": "Dja Dja",
+      "artistKey": "marina herlop",
+      "albumKey": "dja dja",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-12",
+          "url": "https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Maxime Denuc",
+      "album": "Club Imperiale",
+      "artistKey": "maxime denuc",
+      "albumKey": "club imperiale",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-12",
+          "url": "https://pitchfork.com/reviews/albums/maxime-denuc-club-imperiale/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Teenage Fanclub",
+      "album": "Do Not Dare to Dream",
+      "artistKey": "teenage fanclub",
+      "albumKey": "do not dare to dream",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-12",
+          "url": "https://pitchfork.com/reviews/albums/teenage-fanclub-do-not-dare-to-dream/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1257,24 +1229,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Meernaa",
-      "album": "Methuselah",
-      "artistKey": "meernaa",
-      "albumKey": "methuselah",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-02",
-          "url": "https://pitchfork.com/reviews/albums/meernaa-methuselah/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Miranda Lambert",
       "album": "Crisco",
       "artistKey": "miranda lambert",
@@ -1304,42 +1258,6 @@
           "weight": 5,
           "publishedAt": "2026-10-02",
           "url": "https://pitchfork.com/reviews/albums/the-beatles-rubber-soul-super-deluxe/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "300skullsandcounting Jenny Sparks",
-      "album": "THIS IS SPA TOWN!",
-      "artistKey": "300skullsandcounting jenny sparks",
-      "albumKey": "this is spa town",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-01",
-          "url": "https://pitchfork.com/reviews/albums/300skullsandcounting-jenny-sparks-this-is-spa-town/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hallucinator",
-      "album": "Landlocked",
-      "artistKey": "hallucinator",
-      "albumKey": "landlocked",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-01",
-          "url": "https://pitchfork.com/reviews/albums/hallucinator-landlocked/"
         }
       ],
       "editorialWeight": 5,
@@ -1797,6 +1715,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Kelsey Lu",
+      "album": "So Help Me God",
+      "artistKey": "kelsey lu",
+      "albumKey": "so help me god",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "leroy",
       "album": "status update music",
       "artistKey": "leroy",
@@ -2035,6 +1971,24 @@
       "album": "Florida Water Blues",
       "artistKey": "twisted teens",
       "albumKey": "florida water blues",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ty Segall",
+      "album": "Chrome",
+      "artistKey": "ty segall",
+      "albumKey": "chrome",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -3385,24 +3339,6 @@
       "album": "It’s Sorted",
       "artistKey": "cheekface",
       "albumKey": "its sorted",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chelsea Wolfe",
-      "album": "She Reaches Out to She Reaches Out to She",
-      "artistKey": "chelsea wolfe",
-      "albumKey": "she reaches out to she reaches out to she",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9141,6 +9077,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Gnod",
+      "album": "Chronicles of Gnowt Vol. 2",
+      "artistKey": "gnod",
+      "albumKey": "chronicles of gnowt vol 2",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-12",
+          "url": "https://thequietus.com/quietus-reviews/gnod-chronicles-of-gnowt-vol-2-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Karen y los Remedios",
+      "album": "Bestiaria",
+      "artistKey": "karen y los remedios",
+      "albumKey": "bestiaria",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-12",
+          "url": "https://daily.bandcamp.com/album-of-the-day/karen-y-los-remedios-bestiaria-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Steve Reich",
+      "album": "The ECM Recordings",
+      "artistKey": "steve reich",
+      "albumKey": "the ecm recordings",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-12",
+          "url": "https://thequietus.com/quietus-reviews/steve-reich-the-ecm-recordings-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "album": "The Dark",
+      "artistKey": "chelsea wolfe",
+      "albumKey": "the dark",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Monolord",
       "album": "Live on KEXP",
       "artistKey": "monolord",
@@ -9321,6 +9329,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Stef Chura",
+      "album": "Dancing Alone on the Concrete",
+      "artistKey": "stef chura",
+      "albumKey": "dancing alone on the concrete",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-02",
+          "url": "https://daily.bandcamp.com/album-of-the-day/stef-chura-dancing-alone-on-the-concrete-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Horsegirl",
       "album": "Live on KEXP",
       "artistKey": "horsegirl",
@@ -9336,24 +9362,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kaitlyn Aurelia Smith",
-      "album": "Ruin: It’s Not Just Music",
-      "artistKey": "kaitlyn aurelia smith",
-      "albumKey": "ruin its not just music",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-10-01",
-          "url": "https://daily.bandcamp.com/album-of-the-day/kaitlyn-aurelia-smith-ruin-its-not-just-music-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -9422,6 +9430,24 @@
           "weight": 4,
           "publishedAt": "2026-09-25",
           "url": "https://daily.bandcamp.com/album-of-the-day/applied-communications-applied-communications-bites-the-big-one-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "megiapa",
+      "album": "Intentions",
+      "artistKey": "megiapa",
+      "albumKey": "intentions",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-09-24",
+          "url": "https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review"
         }
       ],
       "editorialWeight": 4,
@@ -10502,6 +10528,24 @@
           "weight": 4,
           "publishedAt": "2026-07-06",
           "url": "https://daily.bandcamp.com/album-of-the-day/camilla-pisani-konstellationen-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "mary in the junkyard",
+      "album": "Role Model Hermit",
+      "artistKey": "mary in the junkyard",
+      "albumKey": "role model hermit",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-07-02",
+          "url": "https://daily.bandcamp.com/album-of-the-day/mary-in-the-junkyard-role-model-hermit-review"
         }
       ],
       "editorialWeight": 4,
@@ -13317,6 +13361,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "DNCR",
+      "album": "RGH",
+      "artistKey": "dncr",
+      "albumKey": "rgh",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-10-12",
+          "url": "https://www.indieshuffle.com/dncr-rgh/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Abyssal Rift",
       "album": "Relics of Great Ash",
       "artistKey": "abyssal rift",
@@ -13357,6 +13419,60 @@
       "album": "I’ve Missed You All These Years",
       "artistKey": "sera cahoone",
       "albumKey": "ive missed you all these years",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Serenity Complex",
+      "album": "The Garden",
+      "artistKey": "serenity complex",
+      "albumKey": "the garden",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Team Dresch",
+      "album": "Furthermore",
+      "artistKey": "team dresch",
+      "albumKey": "furthermore",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Twin Temple",
+      "album": "Doomed Lovers",
+      "artistKey": "twin temple",
+      "albumKey": "doomed lovers",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13687,204 +13803,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-10-01",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Boards of Canada",
-      "album": "Inferno",
-      "artistKey": "boards of canada",
-      "albumKey": "inferno",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "DEATH FROM ABOVE 1979",
-      "album": "Private Lives",
-      "artistKey": "death from above 1979",
-      "albumKey": "private lives",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Girl and Girl",
-      "album": "Live on KEXP",
-      "artistKey": "girl and girl",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lime Garden",
-      "album": "Moving Target",
-      "artistKey": "lime garden",
-      "albumKey": "moving target",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "M83",
-      "album": "I Wrote You a Letter",
-      "artistKey": "m83",
-      "albumKey": "i wrote you a letter",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "MALCRIADA",
-      "album": "Live on KEXP",
-      "artistKey": "malcriada",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Milou Moon",
-      "album": "Like An Adderall",
-      "artistKey": "milou moon",
-      "albumKey": "like an adderall",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Morphine",
-      "album": "Cocoon",
-      "artistKey": "morphine",
-      "albumKey": "cocoon",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Steve Lacy",
-      "album": "Oh yeah?",
-      "artistKey": "steve lacy",
-      "albumKey": "oh yeah",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "XELTA",
-      "album": "B.D.S.M.",
-      "artistKey": "xelta",
-      "albumKey": "b d s m",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "zzzahara",
-      "album": "Live on KEXP",
-      "artistKey": "zzzahara",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-09-30",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14480,24 +14398,6 @@
           "weight": 3,
           "publishedAt": "2026-05-18",
           "url": "https://www.indieshuffle.com/zimmer90--summer-rain/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jasper Dean",
-      "album": "TELEMONKEY",
-      "artistKey": "jasper dean",
-      "albumKey": "telemonkey",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-17",
-          "url": "https://www.indieshuffle.com/jasper-dean-telemonkey/"
         }
       ],
       "editorialWeight": 3,

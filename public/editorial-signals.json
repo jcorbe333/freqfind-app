@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-13T15:29:01.593Z",
+  "generatedAt": "2026-10-14T13:13:56.586Z",
   "items": [
     {
-      "artist": "Helen",
-      "album": "Linda’s Head",
-      "artistKey": "helen",
-      "albumKey": "lindas head",
+      "artist": "Cameron Winter",
+      "album": "Live at Carnegie Hall",
+      "artistKey": "cameron winter",
+      "albumKey": "live at carnegie hall",
       "sources": [
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-10-08",
-          "url": "https://pitchfork.com/reviews/albums/helen-lindas-head/"
+          "publishedAt": "2026-10-09",
+          "url": "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/"
         },
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-10-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review"
-        },
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
           "weight": 4,
           "publishedAt": "2026-10-06",
-          "url": "https://thequietus.com/quietus-reviews/helen-lindas-head-review/"
+          "url": "https://stereogum.com/2513341/album-of-the-week-cameron-winter-live-at-carnegie-hall/reviews/album-of-the-week/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
-      "editorialWeight": 15,
+      "editorialWeight": 16,
       "multiSourceBonus": 2,
       "mentionCount": 3
     },
@@ -109,24 +109,24 @@
       "mentionCount": 2
     },
     {
-      "artist": "Cameron Winter",
-      "album": "Live At Carnegie Hall",
-      "artistKey": "cameron winter",
-      "albumKey": "live at carnegie hall",
+      "artist": "Helen",
+      "album": "Linda’s Head",
+      "artistKey": "helen",
+      "albumKey": "lindas head",
       "sources": [
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-10-09",
-          "url": "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/"
+          "publishedAt": "2026-10-08",
+          "url": "https://pitchfork.com/reviews/albums/helen-lindas-head/"
         },
         {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
-          "publishedAt": "2026-10-06",
-          "url": "https://stereogum.com/2513341/album-of-the-week-cameron-winter-live-at-carnegie-hall/reviews/album-of-the-week/"
+          "publishedAt": "2026-10-07",
+          "url": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review"
         }
       ],
       "editorialWeight": 11,
@@ -495,10 +495,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Genesis Owusu",
-      "album": "Redstar Wu & the Worldwide Scourge",
-      "artistKey": "genesis owusu",
-      "albumKey": "redstar wu and the worldwide scourge",
+      "artist": "Kelsey Lu",
+      "album": "So Help Me God",
+      "artistKey": "kelsey lu",
+      "albumKey": "so help me god",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -657,24 +657,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Genesis Owusu",
-      "album": "Struggler",
-      "artistKey": "genesis owusu",
-      "albumKey": "struggler",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Sudan Archives",
       "album": "Natural Brown Prom Queen",
       "artistKey": "sudan archives",
@@ -686,24 +668,6 @@
           "weight": 5,
           "publishedAt": "2022-01-01",
           "url": "https://theneedledrop.com/loved-list/2022/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Genesis Owusu",
-      "album": "Smiling with No Teeth",
-      "artistKey": "genesis owusu",
-      "albumKey": "smiling with no teeth",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2021-01-01",
-          "url": "https://theneedledrop.com/loved-list/2021/"
         }
       ],
       "editorialWeight": 6,
@@ -816,6 +780,78 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Logic1000",
+      "album": "Confirmation!",
+      "artistKey": "logic1000",
+      "albumKey": "confirmation",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-14",
+          "url": "https://pitchfork.com/reviews/albums/logic1000-confirmation/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ovrkast",
+      "album": "STRIKING",
+      "artistKey": "ovrkast",
+      "albumKey": "striking",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-14",
+          "url": "https://pitchfork.com/reviews/albums/ovrkast-striking/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Troye Sivan",
+      "album": "She’s the Best",
+      "artistKey": "troye sivan",
+      "albumKey": "shes the best",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-14",
+          "url": "https://pitchfork.com/reviews/albums/troye-sivan-shes-the-best/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wishy",
+      "album": "Nature’s Pill",
+      "artistKey": "wishy",
+      "albumKey": "natures pill",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-14",
+          "url": "https://pitchfork.com/reviews/albums/wishy-natures-pill/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1118,78 +1154,6 @@
           "weight": 5,
           "publishedAt": "2026-10-06",
           "url": "https://pitchfork.com/reviews/albums/cara-delevingne-not-normal/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "B0yg1rl",
-      "album": "B0YG1RL",
-      "artistKey": "b0yg1rl",
-      "albumKey": "b0yg1rl",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-05",
-          "url": "https://pitchfork.com/reviews/albums/b0yg1rl-b0yg1rl/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Emily A Sprague",
-      "album": "Cyano",
-      "artistKey": "emily a sprague",
-      "albumKey": "cyano",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-05",
-          "url": "https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Godflesh",
-      "album": "Decay",
-      "artistKey": "godflesh",
-      "albumKey": "decay",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-05",
-          "url": "https://pitchfork.com/reviews/albums/godflesh-decay/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jake Xerxes Fussell",
-      "album": "The Old Beloved Path",
-      "artistKey": "jake xerxes fussell",
-      "albumKey": "the old beloved path",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-05",
-          "url": "https://pitchfork.com/reviews/albums/jake-xerxes-fussell-the-old-beloved-path/"
         }
       ],
       "editorialWeight": 5,
@@ -1503,6 +1467,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Genesis Owusu",
+      "album": "Redstar Wu & the Worldwide Scourge",
+      "artistKey": "genesis owusu",
+      "albumKey": "redstar wu and the worldwide scourge",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Gorillaz",
       "album": "The Mountain",
       "artistKey": "gorillaz",
@@ -1633,24 +1615,6 @@
       "album": "Caminhos de Água",
       "artistKey": "kaataira",
       "albumKey": "caminhos de agua",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kelsey Lu",
-      "album": "So Help Me God",
-      "artistKey": "kelsey lu",
-      "albumKey": "so help me god",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -4329,6 +4293,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Genesis Owusu",
+      "album": "Struggler",
+      "artistKey": "genesis owusu",
+      "albumKey": "struggler",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "George Clanton",
       "album": "Ooh Rap I Ya",
       "artistKey": "george clanton",
@@ -6493,6 +6475,24 @@
       "album": "Promises",
       "artistKey": "floating points pharoah sanders and the london symphony orchestra",
       "albumKey": "promises",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2021-01-01",
+          "url": "https://theneedledrop.com/loved-list/2021/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Genesis Owusu",
+      "album": "Smiling with No Teeth",
+      "artistKey": "genesis owusu",
+      "albumKey": "smiling with no teeth",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9045,6 +9045,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Heroína",
+      "album": "Heroína",
+      "artistKey": "heroina",
+      "albumKey": "heroina",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-14",
+          "url": "https://thequietus.com/quietus-reviews/heroina-heroina-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jon Hassell",
+      "album": "Music Is Invisible (Pentimento Volume Three)",
+      "artistKey": "jon hassell",
+      "albumKey": "music is invisible pentimento volume three",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-14",
+          "url": "https://thequietus.com/quietus-reviews/jon-hassell-music-is-invisible-pentimento-volume-three-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Institut Für Feinmotorik",
       "album": "Öd",
       "artistKey": "institut fur feinmotorik",
@@ -9060,6 +9096,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kelsey Lu",
+      "album": "Live on KEXP",
+      "artistKey": "kelsey lu",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9294,24 +9348,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Genesis Owusu",
-      "album": "Live on KEXP",
-      "artistKey": "genesis owusu",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13347,20 +13383,74 @@
       "mentionCount": 1
     },
     {
-      "artist": "Macy Rodman",
-      "album": "SCALD",
-      "artistKey": "macy rodman",
-      "albumKey": "scald",
+      "artist": "Digital Device",
+      "album": "Welcome to The World",
+      "artistKey": "digital device",
+      "albumKey": "welcome to the world",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-13",
-          "url": "https://daily.bandcamp.com/album-of-the-day/macy-rodman-scald-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-14",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jaz Karis",
+      "album": "Twenty Something",
+      "artistKey": "jaz karis",
+      "albumKey": "twenty something",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Lazy Eyes",
+      "album": "Cheesy Love Songs",
+      "artistKey": "the lazy eyes",
+      "albumKey": "cheesy love songs",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "XELTA",
+      "album": "B.D.S.M.",
+      "artistKey": "xelta",
+      "albumKey": "b d s m",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13405,6 +13495,24 @@
       "album": "Dopamine Chamber",
       "artistKey": "fontaines d c",
       "albumKey": "dopamine chamber",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gareth Donkin",
+      "album": "Extraordinary",
+      "artistKey": "gareth donkin",
+      "albumKey": "extraordinary",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13509,6 +13617,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Original Koffee",
+      "album": "OVA SO",
+      "artistKey": "original koffee",
+      "albumKey": "ova so",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Osees",
+      "album": "Live on KEXP",
+      "artistKey": "osees",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Pearson Sound & Marie Davidson",
       "album": "Heat",
       "artistKey": "pearson sound and marie davidson",
@@ -13585,6 +13729,24 @@
       "album": "Love Comes Thru",
       "artistKey": "teal",
       "albumKey": "love comes thru",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Black Tones",
+      "album": "Diamond Ruby Night",
+      "artistKey": "the black tones",
+      "albumKey": "diamond ruby night",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13789,96 +13951,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-10-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bel Cobain",
-      "album": "Mind Iz a Dancer (IZCO Remix)",
-      "artistKey": "bel cobain",
-      "albumKey": "mind iz a dancer izco remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ken Pomeroy",
-      "album": "Tonight's News",
-      "artistKey": "ken pomeroy",
-      "albumKey": "tonights news",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sampa The Great",
-      "album": "Live on KEXP",
-      "artistKey": "sampa the great",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Shabazz Palaces",
-      "album": "It’s a Style Sport",
-      "artistKey": "shabazz palaces",
-      "albumKey": "its a style sport",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sycco",
-      "album": "Look Up",
-      "artistKey": "sycco",
-      "albumKey": "look up",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-02",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

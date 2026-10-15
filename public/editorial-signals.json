@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T13:13:56.586Z",
+  "generatedAt": "2026-10-15T13:00:05.327Z",
   "items": [
     {
       "artist": "Cameron Winter",
@@ -32,31 +32,6 @@
       "editorialWeight": 16,
       "multiSourceBonus": 2,
       "mentionCount": 3
-    },
-    {
-      "artist": "Protomartyr",
-      "album": "Hotel Usona",
-      "artistKey": "protomartyr",
-      "albumKey": "hotel usona",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-06",
-          "url": "https://pitchfork.com/reviews/albums/protomartyr-hotel-usona/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 12,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
     },
     {
       "artist": "Marina Herlop",
@@ -127,56 +102,6 @@
           "weight": 4,
           "publishedAt": "2026-10-07",
           "url": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Jam City",
-      "album": "My World",
-      "artistKey": "jam city",
-      "albumKey": "my world",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-07",
-          "url": "https://thequietus.com/quietus-reviews/jam-city-my-world-review/"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-06",
-          "url": "https://pitchfork.com/reviews/albums/jam-city-my-world/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Greg Freeman",
-      "album": "All Set The Bone",
-      "artistKey": "greg freeman",
-      "albumKey": "all set the bone",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-06",
-          "url": "https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-09-29",
-          "url": "https://stereogum.com/2512728/album-of-the-week-greg-freeman-all-set-the-bone/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 11,
@@ -457,6 +382,24 @@
       "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
+    },
+    {
+      "artist": "The Koreatown Oddity",
+      "album": "Purdy",
+      "artistKey": "the koreatown oddity",
+      "albumKey": "purdy",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-15",
+          "url": "https://pitchfork.com/reviews/albums/the-koreatown-oddity-purdy/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Deafheaven",
@@ -747,6 +690,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Koreatown Oddity",
+      "album": "Little Dominiques Nosebleed",
+      "artistKey": "the koreatown oddity",
+      "albumKey": "little dominiques nosebleed",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Daphni",
       "album": "Sizzling",
       "artistKey": "daphni",
@@ -780,6 +741,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Errol Holden",
+      "album": "SUPREME MAGNETIC 3",
+      "artistKey": "errol holden",
+      "albumKey": "supreme magnetic 3",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-15",
+          "url": "https://pitchfork.com/reviews/albums/errol-holden-supreme-magnetic-3/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fontaines Dc",
+      "album": "Dopamine Chamber",
+      "artistKey": "fontaines dc",
+      "albumKey": "dopamine chamber",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-15",
+          "url": "https://pitchfork.com/reviews/albums/fontaines-dc-dopamine-chamber/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Oren Ambarchi",
+      "album": "Cooked",
+      "artistKey": "oren ambarchi",
+      "albumKey": "cooked",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-15",
+          "url": "https://pitchfork.com/reviews/albums/oren-ambarchi-cooked/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1143,24 +1158,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Cara Delevingne",
-      "album": "Not Normal",
-      "artistKey": "cara delevingne",
-      "albumKey": "not normal",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-06",
-          "url": "https://pitchfork.com/reviews/albums/cara-delevingne-not-normal/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "L’Rain",
       "album": "fata morgana",
       "artistKey": "lrain",
@@ -1172,24 +1169,6 @@
           "weight": 4,
           "publishedAt": "2026-08-17",
           "url": "https://daily.bandcamp.com/album-of-the-day/lrain-fata-morgana-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nick Hakim",
-      "album": "I Can See",
-      "artistKey": "nick hakim",
-      "albumKey": "i can see",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-07-21",
-          "url": "https://stereogum.com/2505329/album-of-the-week-nick-hakim-i-can-see/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 5,
@@ -1705,6 +1684,24 @@
       "album": "you seem pretty sad for a girl so in love",
       "artistKey": "olivia rodrigo",
       "albumKey": "you seem pretty sad for a girl so in love",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Protomartyr",
+      "album": "Hotel Usona",
+      "artistKey": "protomartyr",
+      "albumKey": "hotel usona",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -8127,24 +8124,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Koreatown Oddity",
-      "album": "Little Dominiques Nosebleed",
-      "artistKey": "the koreatown oddity",
-      "albumKey": "little dominiques nosebleed",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "The Strokes",
       "album": "The New Abnormal",
       "artistKey": "the strokes",
@@ -9045,6 +9024,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Big Flowers x Shemar",
+      "album": "I Love Nature!",
+      "artistKey": "big flowers x shemar",
+      "albumKey": "i love nature",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-15",
+          "url": "https://thequietus.com/quietus-reviews/big-flowers-x-shemar-i-love-nature/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Esoctrilihum",
+      "album": "Annochiül Xar Sorthïlazur",
+      "artistKey": "esoctrilihum",
+      "albumKey": "annochiul xar sorthilazur",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-14",
+          "url": "https://daily.bandcamp.com/album-of-the-day/esoctrilihum-annochiul-xar-sorthilazur-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Heroína",
       "album": "Heroína",
       "artistKey": "heroina",
@@ -9297,24 +9312,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Glenn Richards & The Venus Lakes",
-      "album": "The Great Behind",
-      "artistKey": "glenn richards and the venus lakes",
-      "albumKey": "the great behind",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-06",
-          "url": "https://thequietus.com/quietus-reviews/glenn-richards-the-venus-lakes-the-great-behind/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "IVM Trio",
       "album": "Explain Yourselves",
       "artistKey": "ivm trio",
@@ -9348,24 +9345,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nick Hakim",
-      "album": "Live on KEXP",
-      "artistKey": "nick hakim",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9416,6 +9395,24 @@
           "weight": 4,
           "publishedAt": "2026-09-29",
           "url": "https://daily.bandcamp.com/album-of-the-day/anne-waldman-thurston-moore-james-ilgenfritz-anagram-ensemble-the-travel-agency-is-on-fire-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Greg Freeman",
+      "album": "All Set The Bone",
+      "artistKey": "greg freeman",
+      "albumKey": "all set the bone",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-09-29",
+          "url": "https://stereogum.com/2512728/album-of-the-week-greg-freeman-all-set-the-bone/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -10352,6 +10349,24 @@
           "weight": 4,
           "publishedAt": "2026-07-21",
           "url": "https://daily.bandcamp.com/album-of-the-day/luluc-sweet-thief-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nick Hakim",
+      "album": "I Can See",
+      "artistKey": "nick hakim",
+      "albumKey": "i can see",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-07-21",
+          "url": "https://stereogum.com/2505329/album-of-the-week-nick-hakim-i-can-see/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -13365,20 +13380,110 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Telephone Numbers",
-      "album": "Scarecrow II",
-      "artistKey": "the telephone numbers",
-      "albumKey": "scarecrow ii",
+      "artist": "ALA.NI & Adrian Younge",
+      "album": "Proud of Me",
+      "artistKey": "ala ni and adrian younge",
+      "albumKey": "proud of me",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-14",
-          "url": "https://daily.bandcamp.com/album-of-the-day/the-telephone-numbers-scarecrow-ii"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-15",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Moses Yoofee Trio",
+      "album": "CHASING LIGHT",
+      "artistKey": "moses yoofee trio",
+      "albumKey": "chasing light",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rochelle Jordan",
+      "album": "Disc 3",
+      "artistKey": "rochelle jordan",
+      "albumKey": "disc 3",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Saul Williams",
+      "album": "Leap Life",
+      "artistKey": "saul williams",
+      "albumKey": "leap life",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Black Tones",
+      "album": "Diamond Ruby Night",
+      "artistKey": "the black tones",
+      "albumKey": "diamond ruby night",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Denzel Curry & Kenny Beats",
+      "album": "ii",
+      "artistKey": "denzel curry and kenny beats",
+      "albumKey": "ii",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13387,6 +13492,24 @@
       "album": "Welcome to The World",
       "artistKey": "digital device",
       "albumKey": "welcome to the world",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fatoumata Diawara, Jembaa Groove, The Cavemen",
+      "album": "Be A Lover",
+      "artistKey": "fatoumata diawara jembaa groove the cavemen",
+      "albumKey": "be a lover",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13419,10 +13542,100 @@
       "mentionCount": 1
     },
     {
+      "artist": "Jungle",
+      "album": "Sunshine",
+      "artistKey": "jungle",
+      "albumKey": "sunshine",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ken Pomeroy",
+      "album": "Live on KEXP",
+      "artistKey": "ken pomeroy",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pinder, LA",
+      "album": "For The Love Of The Game Vol 1",
+      "artistKey": "pinder la",
+      "albumKey": "for the love of the game vol 1",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Squirrel Flower",
+      "album": "Say a Prayer to the Gods of Getting Going",
+      "artistKey": "squirrel flower",
+      "albumKey": "say a prayer to the gods of getting going",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Lazy Eyes",
       "album": "Cheesy Love Songs",
       "artistKey": "the lazy eyes",
       "albumKey": "cheesy love songs",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Physics",
+      "album": "VHS",
+      "artistKey": "the physics",
+      "albumKey": "vhs",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13743,24 +13956,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Black Tones",
-      "album": "Diamond Ruby Night",
-      "artistKey": "the black tones",
-      "albumKey": "diamond ruby night",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "DNCR",
       "album": "RGH",
       "artistKey": "dncr",
@@ -13951,24 +14146,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-10-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Womack Sisters",
-      "album": "The Womack Sisters",
-      "artistKey": "the womack sisters",
-      "albumKey": "the womack sisters",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-02",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -14528,24 +14705,6 @@
           "weight": 3,
           "publishedAt": "2026-05-21",
           "url": "https://www.indieshuffle.com/sofi-tukker-boba/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Neighbourhood",
-      "album": "Devil's Advocate",
-      "artistKey": "the neighbourhood",
-      "albumKey": "devils advocate",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-20",
-          "url": "https://www.indieshuffle.com/the-neighbourhood-devils-advocate/"
         }
       ],
       "editorialWeight": 3,

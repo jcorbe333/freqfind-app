@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T13:00:05.327Z",
+  "generatedAt": "2026-10-16T12:56:07.322Z",
   "items": [
     {
       "artist": "Cameron Winter",
@@ -32,6 +32,31 @@
       "editorialWeight": 16,
       "multiSourceBonus": 2,
       "mentionCount": 3
+    },
+    {
+      "artist": "Jon Hassell",
+      "album": "Music Is Invisible (Pentimento Volume Three)",
+      "artistKey": "jon hassell",
+      "albumKey": "music is invisible pentimento volume three",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-16",
+          "url": "https://pitchfork.com/reviews/albums/jon-hassell-music-is-invisible-pentimento-volume-three/"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-14",
+          "url": "https://thequietus.com/quietus-reviews/jon-hassell-music-is-invisible-pentimento-volume-three-review/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
     },
     {
       "artist": "Marina Herlop",
@@ -380,6 +405,31 @@
         }
       ],
       "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Pet Shop Boys",
+      "album": "A Man From the Future",
+      "artistKey": "pet shop boys",
+      "albumKey": "a man from the future",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-16",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-09",
+          "url": "https://thequietus.com/quietus-reviews/pet-shop-boys-a-man-from-the-future/"
+        }
+      ],
+      "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -744,6 +794,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "At Sign",
+      "album": "Autosmile",
+      "artistKey": "at sign",
+      "albumKey": "autosmile",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-16",
+          "url": "https://pitchfork.com/reviews/albums/at-sign-autosmile/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jeremiah Chiu",
+      "album": "Edge Conditions",
+      "artistKey": "jeremiah chiu",
+      "albumKey": "edge conditions",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-16",
+          "url": "https://pitchfork.com/reviews/albums/jeremiah-chiu-edge-conditions/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "album": "I think I spoke too soon",
+      "artistKey": "rachel chinouriri",
+      "albumKey": "i think i spoke too soon",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-16",
+          "url": "https://pitchfork.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Errol Holden",
       "album": "SUPREME MAGNETIC 3",
       "artistKey": "errol holden",
@@ -1079,78 +1183,6 @@
           "weight": 5,
           "publishedAt": "2026-10-08",
           "url": "https://pitchfork.com/reviews/albums/your-old-droog-bread-and-butter/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Haywire",
-      "album": "I Don’t Wanna Say Goodbye",
-      "artistKey": "haywire",
-      "albumKey": "i dont wanna say goodbye",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-07",
-          "url": "https://pitchfork.com/reviews/albums/haywire-i-dont-wanna-say-goodbye/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Klein",
-      "album": "my own fairytale",
-      "artistKey": "klein",
-      "albumKey": "my own fairytale",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-07",
-          "url": "https://pitchfork.com/reviews/albums/klein-my-own-fairytale/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Quavo",
-      "album": "QRÖMELIFE",
-      "artistKey": "quavo",
-      "albumKey": "qromelife",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-07",
-          "url": "https://pitchfork.com/reviews/albums/quavo-qromelife/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Victoria Monet",
-      "album": "Frequency of Love",
-      "artistKey": "victoria monet",
-      "albumKey": "frequency of love",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-07",
-          "url": "https://pitchfork.com/reviews/albums/victoria-monet-frequency-of-love/"
         }
       ],
       "editorialWeight": 5,
@@ -9024,6 +9056,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Avalanches",
+      "album": "No Bad Memories",
+      "artistKey": "the avalanches",
+      "albumKey": "no bad memories",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-16",
+          "url": "https://thequietus.com/quietus-reviews/the-avalanches-no-bad-memories-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Big Flowers x Shemar",
       "album": "I Love Nature!",
       "artistKey": "big flowers x shemar",
@@ -9035,6 +9085,24 @@
           "weight": 4,
           "publishedAt": "2026-10-15",
           "url": "https://thequietus.com/quietus-reviews/big-flowers-x-shemar-i-love-nature/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Witchthroat Serpent",
+      "album": "Demons Left To Roam",
+      "artistKey": "witchthroat serpent",
+      "albumKey": "demons left to roam",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-15",
+          "url": "https://daily.bandcamp.com/album-of-the-day/witchthroat-serpent-demons-left-to-roam-review"
         }
       ],
       "editorialWeight": 4,
@@ -9071,24 +9139,6 @@
           "weight": 4,
           "publishedAt": "2026-10-14",
           "url": "https://thequietus.com/quietus-reviews/heroina-heroina-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jon Hassell",
-      "album": "Music Is Invisible (Pentimento Volume Three)",
-      "artistKey": "jon hassell",
-      "albumKey": "music is invisible pentimento volume three",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-14",
-          "url": "https://thequietus.com/quietus-reviews/jon-hassell-music-is-invisible-pentimento-volume-three-review/"
         }
       ],
       "editorialWeight": 4,
@@ -9251,24 +9301,6 @@
           "weight": 4,
           "publishedAt": "2026-10-09",
           "url": "https://daily.bandcamp.com/album-of-the-day/margo-cilker-little-white-cross-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Pet Shop Boys",
-      "album": "A Man From the Future",
-      "artistKey": "pet shop boys",
-      "albumKey": "a man from the future",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-09",
-          "url": "https://thequietus.com/quietus-reviews/pet-shop-boys-a-man-from-the-future/"
         }
       ],
       "editorialWeight": 4,
@@ -13362,20 +13394,38 @@
       "mentionCount": 1
     },
     {
-      "artist": "Brigitte Fontaine",
-      "album": "Brigitte Fontaine Est Folle: Special Edition",
-      "artistKey": "brigitte fontaine",
-      "albumKey": "brigitte fontaine est folle special edition",
+      "artist": "Fontaines D.C. with ROSALÍA",
+      "album": "Dopamine Chamber",
+      "artistKey": "fontaines d c with rosalia",
+      "albumKey": "dopamine chamber",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-15",
-          "url": "https://daily.bandcamp.com/album-of-the-day/brigitte-fontaine-brigitte-fontaine-est-folle-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-16",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sera Cahoone",
+      "album": "I’ve Missed You All These Years",
+      "artistKey": "sera cahoone",
+      "albumKey": "ive missed you all these years",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13384,6 +13434,24 @@
       "album": "Proud of Me",
       "artistKey": "ala ni and adrian younge",
       "albumKey": "proud of me",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Death Cab for Cutie",
+      "album": "Live on KEXP",
+      "artistKey": "death cab for cutie",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14010,24 +14078,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sera Cahoone",
-      "album": "I’ve Missed You All These Years",
-      "artistKey": "sera cahoone",
-      "albumKey": "ive missed you all these years",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Serenity Complex",
       "album": "The Garden",
       "artistKey": "serenity complex",
@@ -14111,42 +14161,6 @@
           "weight": 3,
           "publishedAt": "2026-10-09",
           "url": "https://www.indieshuffle.com/majid-jordan-best-behaviour-feat-clementine-douglas/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Buttermello",
-      "album": "The Mello Tapes Vol.1",
-      "artistKey": "buttermello",
-      "albumKey": "the mello tapes vol 1",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ravyn Lenae",
-      "album": "Blue Island",
-      "artistKey": "ravyn lenae",
-      "albumKey": "blue island",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-04",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -14687,24 +14701,6 @@
           "weight": 3,
           "publishedAt": "2026-05-22",
           "url": "https://www.indieshuffle.com/lullabies-quarter-till/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "SOFI TUKKER",
-      "album": "Boba",
-      "artistKey": "sofi tukker",
-      "albumKey": "boba",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-21",
-          "url": "https://www.indieshuffle.com/sofi-tukker-boba/"
         }
       ],
       "editorialWeight": 3,

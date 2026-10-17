@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T12:56:07.322Z",
+  "generatedAt": "2026-10-17T11:54:51.556Z",
   "items": [
     {
       "artist": "Cameron Winter",
@@ -794,6 +794,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Djrum",
+      "album": "DJ-Kicks",
+      "artistKey": "djrum",
+      "albumKey": "dj kicks",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-17",
+          "url": "https://pitchfork.com/reviews/albums/djrum-dj-kicks/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "At Sign",
       "album": "Autosmile",
       "artistKey": "at sign",
@@ -1172,24 +1190,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Your Old Droog",
-      "album": "Bread & Butter",
-      "artistKey": "your old droog",
-      "albumKey": "bread and butter",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-08",
-          "url": "https://pitchfork.com/reviews/albums/your-old-droog-bread-and-butter/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "L’Rain",
       "album": "fata morgana",
       "artistKey": "lrain",
@@ -1482,6 +1482,24 @@
       "album": "Redstar Wu & the Worldwide Scourge",
       "artistKey": "genesis owusu",
       "albumKey": "redstar wu and the worldwide scourge",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Godflesh",
+      "album": "Decay",
+      "artistKey": "godflesh",
+      "albumKey": "decay",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -3030,24 +3048,6 @@
       "album": "DON'T TAP THE GLASS",
       "artistKey": "tyler the creator",
       "albumKey": "dont tap the glass",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "venturing",
-      "album": "Ghostholding",
-      "artistKey": "venturing",
-      "albumKey": "ghostholding",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9056,6 +9056,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Pardoner",
+      "album": "Target Practice",
+      "artistKey": "pardoner",
+      "albumKey": "target practice",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-16",
+          "url": "https://daily.bandcamp.com/album-of-the-day/pardoner-target-practice-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Avalanches",
       "album": "No Bad Memories",
       "artistKey": "the avalanches",
@@ -13376,20 +13394,74 @@
       "mentionCount": 1
     },
     {
-      "artist": "Shutaro Noguchi & the Roadhouse Band",
-      "album": "On the Run",
-      "artistKey": "shutaro noguchi and the roadhouse band",
-      "albumKey": "on the run",
+      "artist": "The Allergies",
+      "album": "Beneath This Sun",
+      "artistKey": "the allergies",
+      "albumKey": "beneath this sun",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-16",
-          "url": "https://daily.bandcamp.com/album-of-the-day/shutaro-noguchi-the-roadhouse-band-on-the-run-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-17",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Allergies feat. Andy Cooper & BlabberMouf",
+      "album": "Beneath This Sun",
+      "artistKey": "the allergies feat andy cooper and blabbermouf",
+      "albumKey": "beneath this sun",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ahamefule J. Oluo",
+      "album": "Where Time Does Not Ache",
+      "artistKey": "ahamefule j oluo",
+      "albumKey": "where time does not ache",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Amy Hall",
+      "album": "Morning In May",
+      "artistKey": "amy hall",
+      "albumKey": "morning in may",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13412,10 +13484,82 @@
       "mentionCount": 1
     },
     {
+      "artist": "Gillian Welch & David Rawlings",
+      "album": "Live on KEXP",
+      "artistKey": "gillian welch and david rawlings",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Sera Cahoone",
       "album": "I’ve Missed You All These Years",
       "artistKey": "sera cahoone",
       "albumKey": "ive missed you all these years",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shabazz Palaces",
+      "album": "It’s a Style Sport",
+      "artistKey": "shabazz palaces",
+      "albumKey": "its a style sport",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shana Cleveland",
+      "album": "Live on KEXP",
+      "artistKey": "shana cleveland",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-16",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Watergirls",
+      "album": "The Whole of the Moon",
+      "artistKey": "the watergirls",
+      "albumKey": "the whole of the moon",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14665,24 +14809,6 @@
           "weight": 3,
           "publishedAt": "2026-05-27",
           "url": "https://www.indieshuffle.com/temper-city-self-aware/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hotel Ugly",
-      "album": "Shut up My Moms Calling",
-      "artistKey": "hotel ugly",
-      "albumKey": "shut up my moms calling",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-22",
-          "url": "https://www.indieshuffle.com/hotel-ugly-shut-up-my-moms-calling/"
         }
       ],
       "editorialWeight": 3,

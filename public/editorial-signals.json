@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T11:54:51.556Z",
+  "generatedAt": "2026-10-18T12:22:03.109Z",
   "items": [
     {
       "artist": "Cameron Winter",
@@ -794,6 +794,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Spacemen 3",
+      "album": "The Perfect Prescription",
+      "artistKey": "spacemen 3",
+      "albumKey": "the perfect prescription",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-18",
+          "url": "https://pitchfork.com/reviews/albums/spacemen-3-the-perfect-prescription/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Djrum",
       "album": "DJ-Kicks",
       "artistKey": "djrum",
@@ -1147,24 +1165,6 @@
           "weight": 5,
           "publishedAt": "2026-10-09",
           "url": "https://pitchfork.com/reviews/albums/fat-dog-cancel-me-im-tired/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "artistKey": "lucy bedroque",
-      "albumKey": "c",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-08",
-          "url": "https://pitchfork.com/reviews/albums/lucy-bedroque-c/"
         }
       ],
       "editorialWeight": 5,
@@ -13376,20 +13376,110 @@
       "mentionCount": 1
     },
     {
-      "artist": "CRRDR",
-      "album": "Latincore Legend",
-      "artistKey": "crrdr",
-      "albumKey": "latincore legend",
+      "artist": "Crud",
+      "album": "Human Decency",
+      "artistKey": "crud",
+      "albumKey": "human decency",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-17",
-          "url": "https://daily.bandcamp.com/album-of-the-day/crrdr-latincore-legend-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-18",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "James Ivy",
+      "album": "The Seams",
+      "artistKey": "james ivy",
+      "albumKey": "the seams",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Psalm",
+      "album": "Planning for Burial / Psalm",
+      "artistKey": "psalm",
+      "albumKey": "planning for burial psalm",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ghostkeeper",
+      "album": "Mohkinstsis",
+      "artistKey": "ghostkeeper",
+      "albumKey": "mohkinstsis",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ken Pomeroy",
+      "album": "Late for the Sky",
+      "artistKey": "ken pomeroy",
+      "albumKey": "late for the sky",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mali Obomsawin",
+      "album": "Automatic",
+      "artistKey": "mali obomsawin",
+      "albumKey": "automatic",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13416,6 +13506,24 @@
       "album": "Beneath This Sun",
       "artistKey": "the allergies feat andy cooper and blabbermouf",
       "albumKey": "beneath this sun",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-17",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tiken Jah Fakoly & Ana Tijoux",
+      "album": "Là-bas",
+      "artistKey": "tiken jah fakoly and ana tijoux",
+      "albumKey": "la bas",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",

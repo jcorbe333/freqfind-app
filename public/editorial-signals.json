@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:22:03.109Z",
+  "generatedAt": "2026-10-19T15:11:42.549Z",
   "items": [
     {
       "artist": "Cameron Winter",
@@ -102,31 +102,6 @@
           "weight": 4,
           "publishedAt": "2026-10-01",
           "url": "https://daily.bandcamp.com/album-of-the-day/kaitlyn-aurelia-smith-ruin-its-not-just-music-review"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Helen",
-      "album": "Linda’s Head",
-      "artistKey": "helen",
-      "albumKey": "lindas head",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-08",
-          "url": "https://pitchfork.com/reviews/albums/helen-lindas-head/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-10-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review"
         }
       ],
       "editorialWeight": 11,
@@ -470,24 +445,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Remi Wolf",
-      "album": "Mud",
-      "artistKey": "remi wolf",
-      "albumKey": "mud",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-09",
-          "url": "https://pitchfork.com/reviews/albums/remi-wolf-mud/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kelsey Lu",
       "album": "So Help Me God",
       "artistKey": "kelsey lu",
@@ -582,24 +539,6 @@
       "album": "The Collective",
       "artistKey": "kim gordon",
       "albumKey": "the collective",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Remi Wolf",
-      "album": "Big Ideas",
-      "artistKey": "remi wolf",
-      "albumKey": "big ideas",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -791,6 +730,78 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fish Narc",
+      "album": "Uncle",
+      "artistKey": "fish narc",
+      "albumKey": "uncle",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-19",
+          "url": "https://pitchfork.com/reviews/albums/fish-narc-uncle/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Teller Banks",
+      "album": "NOAH",
+      "artistKey": "teller banks",
+      "albumKey": "noah",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-19",
+          "url": "https://pitchfork.com/reviews/albums/teller-banks-noah/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "They Are Gutting A Body Of Water",
+      "album": "KOOL FAITH / LOOSIES II",
+      "artistKey": "they are gutting a body of water",
+      "albumKey": "kool faith loosies ii",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-19",
+          "url": "https://pitchfork.com/reviews/albums/they-are-gutting-a-body-of-water-kool-faith-loosies-ii/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Worldpeace Dmt",
+      "album": "Stick Around for Tea",
+      "artistKey": "worldpeace dmt",
+      "albumKey": "stick around for tea",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-19",
+          "url": "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1147,42 +1158,6 @@
           "weight": 5,
           "publishedAt": "2026-10-09",
           "url": "https://pitchfork.com/reviews/albums/dawn-richard-creole-culture/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fat Dog",
-      "album": "Cancel Me (I’m Tired)",
-      "artistKey": "fat dog",
-      "albumKey": "cancel me im tired",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-09",
-          "url": "https://pitchfork.com/reviews/albums/fat-dog-cancel-me-im-tired/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mnek",
-      "album": "BULLDOZER!!",
-      "artistKey": "mnek",
-      "albumKey": "bulldozer",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-08",
-          "url": "https://pitchfork.com/reviews/albums/mnek-bulldozer/"
         }
       ],
       "editorialWeight": 5,
@@ -3876,6 +3851,24 @@
       "album": "Scrapyard",
       "artistKey": "quadeca",
       "albumKey": "scrapyard",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Remi Wolf",
+      "album": "Big Ideas",
+      "artistKey": "remi wolf",
+      "albumKey": "big ideas",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9056,6 +9049,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Matthew Herbert",
+      "album": "The UK Has More Food Banks Than Branches Of McDonalds",
+      "artistKey": "matthew herbert",
+      "albumKey": "the uk has more food banks than branches of mcdonalds",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-19",
+          "url": "https://thequietus.com/quietus-reviews/matthew-herbert-the-uk-has-more-food-banks-than-branches-of-mcdonalds-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Beirut City Pop",
+      "artistKey": "various artists",
+      "albumKey": "beirut city pop",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-19",
+          "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-beirut-city-pop-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "album": "The Dark",
+      "artistKey": "chelsea wolfe",
+      "albumKey": "the dark",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Pardoner",
       "album": "Target Practice",
       "artistKey": "pardoner",
@@ -9272,24 +9319,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Chelsea Wolfe",
-      "album": "The Dark",
-      "artistKey": "chelsea wolfe",
-      "albumKey": "the dark",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Monolord",
       "album": "Live on KEXP",
       "artistKey": "monolord",
@@ -9326,24 +9355,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Marvin Tate",
-      "album": "Controlled Burn",
-      "artistKey": "marvin tate",
-      "albumKey": "controlled burn",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-08",
-          "url": "https://thequietus.com/quietus-reviews/marvin-tate-controlled-burn-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Various Artists",
       "album": "Antiyano Progresivo: Musical Experiments from the Former Dutch Caribbean, 1968-1986",
       "artistKey": "various artists",
@@ -9355,6 +9366,24 @@
           "weight": 4,
           "publishedAt": "2026-10-08",
           "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-antiyano-progresivo-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Helen",
+      "album": "Linda’s Head",
+      "artistKey": "helen",
+      "albumKey": "lindas head",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-07",
+          "url": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review"
         }
       ],
       "editorialWeight": 4,
@@ -13376,6 +13405,132 @@
       "mentionCount": 1
     },
     {
+      "artist": "Anthony Naples",
+      "album": "BBT / Seven",
+      "artistKey": "anthony naples",
+      "albumKey": "bbt seven",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Azmito & Nicofasho",
+      "album": "Funkster's Paradise",
+      "artistKey": "azmito and nicofasho",
+      "albumKey": "funksters paradise",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Coco & Clair Clair",
+      "album": "One One",
+      "artistKey": "coco and clair clair",
+      "albumKey": "one one",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jennifer Loveless",
+      "album": "Familiar",
+      "artistKey": "jennifer loveless",
+      "albumKey": "familiar",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kokoroko feat. Nyron Higor",
+      "album": "Tempos Difíceis Sempre Passam",
+      "artistKey": "kokoroko feat nyron higor",
+      "albumKey": "tempos dificeis sempre passam",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Saul Williams",
+      "album": "Leap Life",
+      "artistKey": "saul williams",
+      "albumKey": "leap life",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Spacer Woman",
+      "album": "With Every Step",
+      "artistKey": "spacer woman",
+      "albumKey": "with every step",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Crud",
       "album": "Human Decency",
       "artistKey": "crud",
@@ -13398,6 +13553,24 @@
       "album": "The Seams",
       "artistKey": "james ivy",
       "albumKey": "the seams",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-18",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jonfri",
+      "album": "Djúpfalsað efni",
+      "artistKey": "jonfri",
+      "albumKey": "djupfalsa efni",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13740,24 +13913,6 @@
       "album": "Disc 3",
       "artistKey": "rochelle jordan",
       "albumKey": "disc 3",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Saul Williams",
-      "album": "Leap Life",
-      "artistKey": "saul williams",
-      "albumKey": "leap life",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",

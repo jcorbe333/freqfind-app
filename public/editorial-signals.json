@@ -1,37 +1,30 @@
 {
-  "generatedAt": "2026-10-19T15:11:42.549Z",
+  "generatedAt": "2026-10-20T13:11:52.159Z",
   "items": [
     {
-      "artist": "Cameron Winter",
-      "album": "Live at Carnegie Hall",
-      "artistKey": "cameron winter",
-      "albumKey": "live at carnegie hall",
+      "artist": "The Avalanches",
+      "album": "No Bad Memories",
+      "artistKey": "the avalanches",
+      "albumKey": "no bad memories",
       "sources": [
         {
           "sourceId": "pitchfork-bnm",
           "sourceLabel": "Pitchfork Best New Music",
           "weight": 5,
-          "publishedAt": "2026-10-09",
-          "url": "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/"
+          "publishedAt": "2026-10-20",
+          "url": "https://pitchfork.com/reviews/albums/the-avalanches-no-bad-memories/"
         },
         {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
           "weight": 4,
-          "publishedAt": "2026-10-06",
-          "url": "https://stereogum.com/2513341/album-of-the-week-cameron-winter-live-at-carnegie-hall/reviews/album-of-the-week/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
+          "publishedAt": "2026-10-16",
+          "url": "https://thequietus.com/quietus-reviews/the-avalanches-no-bad-memories-review/"
         }
       ],
-      "editorialWeight": 16,
+      "editorialWeight": 11,
       "multiSourceBonus": 2,
-      "mentionCount": 3
+      "mentionCount": 2
     },
     {
       "artist": "Jon Hassell",
@@ -102,6 +95,31 @@
           "weight": 4,
           "publishedAt": "2026-10-01",
           "url": "https://daily.bandcamp.com/album-of-the-day/kaitlyn-aurelia-smith-ruin-its-not-just-music-review"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Cameron Winter",
+      "album": "Live at Carnegie Hall",
+      "artistKey": "cameron winter",
+      "albumKey": "live at carnegie hall",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-10-06",
+          "url": "https://stereogum.com/2513341/album-of-the-week-cameron-winter-live-at-carnegie-hall/reviews/album-of-the-week/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 11,
@@ -409,6 +427,24 @@
       "mentionCount": 2
     },
     {
+      "artist": "Zach Bryan",
+      "album": "Young Manhood and Other Donatable Organs EP",
+      "artistKey": "zach bryan",
+      "albumKey": "young manhood and other donatable organs ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-20",
+          "url": "https://pitchfork.com/reviews/albums/zach-bryan-young-manhood-and-other-donatable-organs-ep/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Koreatown Oddity",
       "album": "Purdy",
       "artistKey": "the koreatown oddity",
@@ -589,6 +625,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Zach Bryan",
+      "album": "The Great American Bar Scene",
+      "artistKey": "zach bryan",
+      "albumKey": "the great american bar scene",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Zach Bryan",
+      "album": "Zach Bryan",
+      "artistKey": "zach bryan",
+      "albumKey": "zach bryan",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Sudan Archives",
       "album": "Natural Brown Prom Queen",
       "artistKey": "sudan archives",
@@ -730,6 +802,42 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Renny Conti",
+      "album": "Split Second",
+      "artistKey": "renny conti",
+      "albumKey": "split second",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-20",
+          "url": "https://pitchfork.com/reviews/albums/renny-conti-split-second/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Way Dynamic",
+      "album": "Massive Shoe",
+      "artistKey": "way dynamic",
+      "albumKey": "massive shoe",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-20",
+          "url": "https://pitchfork.com/reviews/albums/way-dynamic-massive-shoe/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1104,60 +1212,6 @@
           "weight": 5,
           "publishedAt": "2026-10-12",
           "url": "https://pitchfork.com/reviews/albums/teenage-fanclub-do-not-dare-to-dream/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Chicks",
-      "album": "Taking the Long Way",
-      "artistKey": "the chicks",
-      "albumKey": "taking the long way",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-11",
-          "url": "https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Stevie Wonder",
-      "album": "Songs in the Key of Life - The EP",
-      "artistKey": "stevie wonder",
-      "albumKey": "songs in the key of life the ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-10",
-          "url": "https://pitchfork.com/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dawn Richard",
-      "album": "creole culture",
-      "artistKey": "dawn richard",
-      "albumKey": "creole culture",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-09",
-          "url": "https://pitchfork.com/reviews/albums/dawn-richard-creole-culture/"
         }
       ],
       "editorialWeight": 5,
@@ -4063,24 +4117,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Zach Bryan",
-      "album": "The Great American Bar Scene",
-      "artistKey": "zach bryan",
-      "albumKey": "the great american bar scene",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "100 gecs",
       "album": "10,000 gecs",
       "artistKey": "100 gecs",
@@ -5165,24 +5201,6 @@
       "album": "Zango",
       "artistKey": "witch",
       "albumKey": "zango",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Zach Bryan",
-      "album": "Zach Bryan",
-      "artistKey": "zach bryan",
-      "albumKey": "zach bryan",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9049,6 +9067,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Storefront Church",
+      "album": "Blue Movie",
+      "artistKey": "storefront church",
+      "albumKey": "blue movie",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-20",
+          "url": "https://thequietus.com/quietus-reviews/storefront-church-blue-movie-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Matthew Herbert",
       "album": "The UK Has More Food Banks Than Branches Of McDonalds",
       "artistKey": "matthew herbert",
@@ -9114,24 +9150,6 @@
           "weight": 4,
           "publishedAt": "2026-10-16",
           "url": "https://daily.bandcamp.com/album-of-the-day/pardoner-target-practice-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Avalanches",
-      "album": "No Bad Memories",
-      "artistKey": "the avalanches",
-      "albumKey": "no bad memories",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-16",
-          "url": "https://thequietus.com/quietus-reviews/the-avalanches-no-bad-memories-review/"
         }
       ],
       "editorialWeight": 4,
@@ -13405,6 +13423,258 @@
       "mentionCount": 1
     },
     {
+      "artist": "Alchemical Sisters",
+      "album": "Alchemical Sisters",
+      "artistKey": "alchemical sisters",
+      "albumKey": "alchemical sisters",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Beste Hira",
+      "album": "MP10",
+      "artistKey": "beste hira",
+      "albumKey": "mp10",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Coyote",
+      "album": "Go With The Tide",
+      "artistKey": "coyote",
+      "albumKey": "go with the tide",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dream 2 Science",
+      "album": "My Love Turns To Liquid",
+      "artistKey": "dream 2 science",
+      "albumKey": "my love turns to liquid",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Elanor Moss",
+      "album": "The Knife, The Needle",
+      "artistKey": "elanor moss",
+      "albumKey": "the knife the needle",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Embryo feat. Mishra",
+      "album": "Embryo feat. Mishra",
+      "artistKey": "embryo feat mishra",
+      "albumKey": "embryo feat mishra",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Gi Gi",
+      "album": "In Lieu",
+      "artistKey": "gi gi",
+      "albumKey": "in lieu",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Giorgio Scarpinelli y Su Orquesta",
+      "album": "Danza Secreta",
+      "artistKey": "giorgio scarpinelli y su orquesta",
+      "albumKey": "danza secreta",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Harmony Index",
+      "album": "Lights On",
+      "artistKey": "harmony index",
+      "albumKey": "lights on",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Khalab & Baba Sissoko",
+      "album": "Foli Bah",
+      "artistKey": "khalab and baba sissoko",
+      "albumKey": "foli bah",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Latroit House Ensemble feat. Latroit & Jonathan Mouton",
+      "album": "Classics, Vol. 1",
+      "artistKey": "latroit house ensemble feat latroit and jonathan mouton",
+      "albumKey": "classics vol 1",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mystica Tribe / Scopeotaku",
+      "album": "Mystica Tribe Meets Scopeotaku",
+      "artistKey": "mystica tribe scopeotaku",
+      "albumKey": "mystica tribe meets scopeotaku",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pistaccio",
+      "album": "5 Knuckle Shuffle",
+      "artistKey": "pistaccio",
+      "albumKey": "5 knuckle shuffle",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yuka Mizuhara",
+      "album": "Moon Dust",
+      "artistKey": "yuka mizuhara",
+      "albumKey": "moon dust",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Anthony Naples",
       "album": "BBT / Seven",
       "artistKey": "anthony naples",
@@ -13427,6 +13697,24 @@
       "album": "Funkster's Paradise",
       "artistKey": "azmito and nicofasho",
       "albumKey": "funksters paradise",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cleo Sol",
+      "album": "Gentlewoman",
+      "artistKey": "cleo sol",
+      "albumKey": "gentlewoman",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13495,6 +13783,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Parquet Courts",
+      "album": "Live on KEXP",
+      "artistKey": "parquet courts",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Saul Williams",
       "album": "Leap Life",
       "artistKey": "saul williams",
@@ -13517,6 +13823,24 @@
       "album": "With Every Step",
       "artistKey": "spacer woman",
       "albumKey": "with every step",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-19",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wire",
+      "album": "Live on KEXP",
+      "artistKey": "wire",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",

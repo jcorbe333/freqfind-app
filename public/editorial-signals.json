@@ -1,6 +1,31 @@
 {
-  "generatedAt": "2026-10-20T13:11:52.159Z",
+  "generatedAt": "2026-10-21T13:21:11.805Z",
   "items": [
+    {
+      "artist": "Sophia Stel",
+      "album": "the greatest album of all time",
+      "artistKey": "sophia stel",
+      "albumKey": "the greatest album of all time",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-21",
+          "url": "https://pitchfork.com/reviews/albums/sophia-stel-the-greatest-album-of-all-time/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-10-13",
+          "url": "https://stereogum.com/2514364/album-of-the-week-sophia-stel-the-greatest-album-of-all-time/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
     {
       "artist": "The Avalanches",
       "album": "No Bad Memories",
@@ -45,56 +70,6 @@
           "weight": 4,
           "publishedAt": "2026-10-14",
           "url": "https://thequietus.com/quietus-reviews/jon-hassell-music-is-invisible-pentimento-volume-three-review/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Marina Herlop",
-      "album": "Dja Dja",
-      "artistKey": "marina herlop",
-      "albumKey": "dja dja",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-10-13",
-          "url": "https://daily.bandcamp.com/album-of-the-day/marina-herlop-dja-dja-review"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-12",
-          "url": "https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Kaitlyn Aurelia Smith",
-      "album": "Ruin: It’s Not Just Music",
-      "artistKey": "kaitlyn aurelia smith",
-      "albumKey": "ruin its not just music",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-12",
-          "url": "https://pitchfork.com/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-10-01",
-          "url": "https://daily.bandcamp.com/album-of-the-day/kaitlyn-aurelia-smith-ruin-its-not-just-music-review"
         }
       ],
       "editorialWeight": 11,
@@ -402,24 +377,49 @@
       "mentionCount": 2
     },
     {
-      "artist": "Pet Shop Boys",
-      "album": "A Man From the Future",
-      "artistKey": "pet shop boys",
-      "albumKey": "a man from the future",
+      "artist": "L’Rain",
+      "album": "fata morgana",
+      "artistKey": "lrain",
+      "albumKey": "fata morgana",
       "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-08-17",
+          "url": "https://daily.bandcamp.com/album-of-the-day/lrain-fata-morgana-review"
+        }
+      ],
+      "editorialWeight": 9,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Shabazz Palaces",
+      "album": "It’s A Style Sport",
+      "artistKey": "shabazz palaces",
+      "albumKey": "its a style sport",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-20",
+          "url": "https://daily.bandcamp.com/album-of-the-day/shabazz-palaces-its-a-style-sport-review"
+        },
         {
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-10-16",
           "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-09",
-          "url": "https://thequietus.com/quietus-reviews/pet-shop-boys-a-man-from-the-future/"
         }
       ],
       "editorialWeight": 9,
@@ -805,6 +805,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Andy Shauf",
+      "album": "The Party (10th Anniversary Edition)",
+      "artistKey": "andy shauf",
+      "albumKey": "the party 10th anniversary edition",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-21",
+          "url": "https://pitchfork.com/reviews/albums/andy-shauf-the-party-10th-anniversary-edition/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Seventhirtyatmorning",
+      "album": "Antione’s Son",
+      "artistKey": "seventhirtyatmorning",
+      "albumKey": "antiones son",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-21",
+          "url": "https://pitchfork.com/reviews/albums/seventhirtyatmorning-antiones-son/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Zukenee",
+      "album": "BLUNTS & BLADES",
+      "artistKey": "zukenee",
+      "albumKey": "blunts and blades",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-21",
+          "url": "https://pitchfork.com/reviews/albums/zukenee-blunts-and-blades/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Renny Conti",
       "album": "Split Second",
       "artistKey": "renny conti",
@@ -1183,60 +1237,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Maxime Denuc",
-      "album": "Club Imperiale",
-      "artistKey": "maxime denuc",
-      "albumKey": "club imperiale",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-12",
-          "url": "https://pitchfork.com/reviews/albums/maxime-denuc-club-imperiale/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Teenage Fanclub",
-      "album": "Do Not Dare to Dream",
-      "artistKey": "teenage fanclub",
-      "albumKey": "do not dare to dream",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-12",
-          "url": "https://pitchfork.com/reviews/albums/teenage-fanclub-do-not-dare-to-dream/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "L’Rain",
-      "album": "fata morgana",
-      "artistKey": "lrain",
-      "albumKey": "fata morgana",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-08-17",
-          "url": "https://daily.bandcamp.com/album-of-the-day/lrain-fata-morgana-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lido Pimienta",
       "album": "Caribenya",
       "artistKey": "lido pimienta",
@@ -1302,24 +1302,6 @@
           "weight": 4,
           "publishedAt": "2026-06-05",
           "url": "https://daily.bandcamp.com/album-of-the-day/vince-staples-cry-baby-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Monolord",
-      "album": "Neverending",
-      "artistKey": "monolord",
-      "albumKey": "neverending",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-05-28",
-          "url": "https://daily.bandcamp.com/album-of-the-day/monolord-neverending-review"
         }
       ],
       "editorialWeight": 5,
@@ -9067,6 +9049,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Electro Quartet",
+      "album": "Nature’s World With Studio G",
+      "artistKey": "the electro quartet",
+      "albumKey": "natures world with studio g",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-21",
+          "url": "https://thequietus.com/quietus-reviews/the-electro-quartet-natures-world-with-studio-g-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ye Gods",
+      "album": "Los",
+      "artistKey": "ye gods",
+      "albumKey": "los",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-21",
+          "url": "https://thequietus.com/quietus-reviews/ye-gods-los/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Josh Johnson",
+      "album": "Animative",
+      "artistKey": "josh johnson",
+      "albumKey": "animative",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-10-20",
+          "url": "https://stereogum.com/2515021/album-of-the-week-josh-johnson-animative/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Storefront Church",
       "album": "Blue Movie",
       "artistKey": "storefront church",
@@ -9265,17 +9301,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sophia Stel",
-      "album": "the greatest album of all time",
-      "artistKey": "sophia stel",
-      "albumKey": "the greatest album of all time",
+      "artist": "Marina Herlop",
+      "album": "Dja Dja",
+      "artistKey": "marina herlop",
+      "albumKey": "dja dja",
       "sources": [
         {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
           "weight": 4,
           "publishedAt": "2026-10-13",
-          "url": "https://stereogum.com/2514364/album-of-the-week-sophia-stel-the-greatest-album-of-all-time/reviews/album-of-the-week/"
+          "url": "https://daily.bandcamp.com/album-of-the-day/marina-herlop-dja-dja-review"
         }
       ],
       "editorialWeight": 4,
@@ -9334,24 +9370,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Monolord",
-      "album": "Live on KEXP",
-      "artistKey": "monolord",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9456,6 +9474,24 @@
           "weight": 4,
           "publishedAt": "2026-10-02",
           "url": "https://daily.bandcamp.com/album-of-the-day/stef-chura-dancing-alone-on-the-concrete-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kaitlyn Aurelia Smith",
+      "album": "Ruin: It’s Not Just Music",
+      "artistKey": "kaitlyn aurelia smith",
+      "albumKey": "ruin its not just music",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-01",
+          "url": "https://daily.bandcamp.com/album-of-the-day/kaitlyn-aurelia-smith-ruin-its-not-just-music-review"
         }
       ],
       "editorialWeight": 4,
@@ -11130,6 +11166,24 @@
           "weight": 4,
           "publishedAt": "2026-05-29",
           "url": "https://daily.bandcamp.com/album-of-the-day/white-heaven-next-to-nothing-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Monolord",
+      "album": "Neverending",
+      "artistKey": "monolord",
+      "albumKey": "neverending",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-05-28",
+          "url": "https://daily.bandcamp.com/album-of-the-day/monolord-neverending-review"
         }
       ],
       "editorialWeight": 4,
@@ -12847,24 +12901,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sassy 009",
-      "album": "Dreamer+",
-      "artistKey": "sassy 009",
-      "albumKey": "dreamer",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-01-13",
-          "url": "https://stereogum.com/2484456/album-of-the-week-sassy-009-dreamer/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Blut Aus Nord",
       "album": "Ethereal Horizons",
       "artistKey": "blut aus nord",
@@ -13405,20 +13441,92 @@
       "mentionCount": 1
     },
     {
-      "artist": "Melvin Gibbs",
-      "album": "Amasia: Anamibia Sessions 2",
-      "artistKey": "melvin gibbs",
-      "albumKey": "amasia anamibia sessions 2",
+      "artist": "IAN SWEET",
+      "album": "Shiverstruck",
+      "artistKey": "ian sweet",
+      "albumKey": "shiverstruck",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-20",
-          "url": "https://daily.bandcamp.com/album-of-the-day/melvin-gibbs-amasia-anamibia-sessions-two-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nyota Parker",
+      "album": "What Is A Timeline?",
+      "artistKey": "nyota parker",
+      "albumKey": "what is a timeline",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Peaches feat. Joe Talbot",
+      "album": "You’re Alright (Pixel Grip Remix)",
+      "artistKey": "peaches feat joe talbot",
+      "albumKey": "youre alright pixel grip remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Twin Temple",
+      "album": "Doomed Lovers",
+      "artistKey": "twin temple",
+      "albumKey": "doomed lovers",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yung Lean",
+      "album": "STORM II (Ft. GENER8ION)",
+      "artistKey": "yung lean",
+      "albumKey": "storm ii ft gener8ion",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.indieshuffle.com/yung-lean-storm-ii-ft-gener8ion/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13621,6 +13729,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Linda & Norm",
+      "album": "Moments To Want You (Cable Toy Remix)",
+      "artistKey": "linda and norm",
+      "albumKey": "moments to want you cable toy remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Mystica Tribe / Scopeotaku",
       "album": "Mystica Tribe Meets Scopeotaku",
       "artistKey": "mystica tribe scopeotaku",
@@ -13643,6 +13769,24 @@
       "album": "5 Knuckle Shuffle",
       "artistKey": "pistaccio",
       "albumKey": "5 knuckle shuffle",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Suki Waterhouse",
+      "album": "Loveland",
+      "artistKey": "suki waterhouse",
+      "albumKey": "loveland",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14107,10 +14251,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sera Cahoone",
-      "album": "I’ve Missed You All These Years",
-      "artistKey": "sera cahoone",
-      "albumKey": "ive missed you all these years",
+      "artist": "Pet Shop Boys",
+      "album": "A Man From the Future",
+      "artistKey": "pet shop boys",
+      "albumKey": "a man from the future",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14125,10 +14269,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Shabazz Palaces",
-      "album": "It’s a Style Sport",
-      "artistKey": "shabazz palaces",
-      "albumKey": "its a style sport",
+      "artist": "Sera Cahoone",
+      "album": "I’ve Missed You All These Years",
+      "artistKey": "sera cahoone",
+      "albumKey": "ive missed you all these years",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14773,24 +14917,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Abyssal Rift",
-      "album": "Relics of Great Ash",
-      "artistKey": "abyssal rift",
-      "albumKey": "relics of great ash",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Asher White",
       "album": "Love Aggregates",
       "artistKey": "asher white",
@@ -14837,42 +14963,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-10-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Twin Temple",
-      "album": "Doomed Lovers",
-      "artistKey": "twin temple",
-      "albumKey": "doomed lovers",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "LATASHÁ",
-      "album": "Out Here",
-      "artistKey": "latasha",
-      "albumKey": "out here",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-10",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15396,24 +15486,6 @@
           "weight": 3,
           "publishedAt": "2026-05-27",
           "url": "https://www.indieshuffle.com/temper-city-self-aware/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lullabies",
-      "album": "Quarter Till",
-      "artistKey": "lullabies",
-      "albumKey": "quarter till",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-22",
-          "url": "https://www.indieshuffle.com/lullabies-quarter-till/"
         }
       ],
       "editorialWeight": 3,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T13:21:11.805Z",
+  "generatedAt": "2026-10-22T13:21:38.659Z",
   "items": [
     {
       "artist": "Sophia Stel",
@@ -277,6 +277,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Alchemical Sisters",
+      "album": "Alchemical Sisters",
+      "artistKey": "alchemical sisters",
+      "albumKey": "alchemical sisters",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-22",
+          "url": "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/"
+        },
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Aldous Harding",
       "album": "Train On The Island",
       "artistKey": "aldous harding",
@@ -463,17 +488,17 @@
       "mentionCount": 1
     },
     {
-      "artist": "Deafheaven",
-      "album": "At Work in the Fields of the Bomb EP",
-      "artistKey": "deafheaven",
-      "albumKey": "at work in the fields of the bomb ep",
+      "artist": "Jill Scott",
+      "album": "To Whom This May Concern",
+      "artistKey": "jill scott",
+      "albumKey": "to whom this may concern",
       "sources": [
         {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
           "weight": 5,
-          "publishedAt": "2026-10-13",
-          "url": "https://pitchfork.com/reviews/albums/deafheaven-at-work-in-the-fields-of-the-bomb-ep/"
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 6,
@@ -521,24 +546,6 @@
       "album": "Heavy Metal (2024)",
       "artistKey": "cameron winter",
       "albumKey": "heavy metal 2024",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2025-01-02",
-          "url": "https://theneedledrop.com/loved-list/2025/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Deafheaven",
-      "album": "Lonely People with Power",
-      "artistKey": "deafheaven",
-      "albumKey": "lonely people with power",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -661,24 +668,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sudan Archives",
-      "album": "Natural Brown Prom Queen",
-      "artistKey": "sudan archives",
-      "albumKey": "natural brown prom queen",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "L’Rain",
       "album": "Fatigue",
       "artistKey": "lrain",
@@ -751,6 +740,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Phoebe Bridgers",
+      "album": "Punisher",
+      "artistKey": "phoebe bridgers",
+      "albumKey": "punisher",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Koreatown Oddity",
       "album": "Little Dominiques Nosebleed",
       "artistKey": "the koreatown oddity",
@@ -802,6 +809,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Baba Stiltz",
+      "album": "Totally",
+      "artistKey": "baba stiltz",
+      "albumKey": "totally",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-22",
+          "url": "https://pitchfork.com/reviews/albums/baba-stiltz-totally/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dummy",
+      "album": "do you love the color of the sky?",
+      "artistKey": "dummy",
+      "albumKey": "do you love the color of the sky",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-22",
+          "url": "https://pitchfork.com/reviews/albums/dummy-do-you-love-the-color-of-the-sky/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ryan Hemsworth",
+      "album": "Numbskull",
+      "artistKey": "ryan hemsworth",
+      "albumKey": "numbskull",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-22",
+          "url": "https://pitchfork.com/reviews/albums/ryan-hemsworth-numbskull/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1176,60 +1237,6 @@
           "weight": 5,
           "publishedAt": "2026-10-14",
           "url": "https://pitchfork.com/reviews/albums/wishy-natures-pill/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gash",
-      "album": "at least you know what you’re laughing at",
-      "artistKey": "gash",
-      "albumKey": "at least you know what youre laughing at",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-13",
-          "url": "https://pitchfork.com/reviews/albums/gash-at-least-you-know-what-youre-laughing-at/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jess Williamson",
-      "album": "A Mile South of Heaven",
-      "artistKey": "jess williamson",
-      "albumKey": "a mile south of heaven",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-13",
-          "url": "https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Space Afrika",
-      "album": "Quiet Storm",
-      "artistKey": "space afrika",
-      "albumKey": "quiet storm",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-13",
-          "url": "https://pitchfork.com/reviews/albums/space-afrika-quiet-storm/"
         }
       ],
       "editorialWeight": 5,
@@ -1633,24 +1640,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Jill Scott",
-      "album": "To Whom This May Concern",
-      "artistKey": "jill scott",
-      "albumKey": "to whom this may concern",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kaátaìra",
       "album": "Caminhos de Água",
       "artistKey": "kaataira",
@@ -2029,24 +2018,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sudan Archives",
-      "album": "THE BPM",
-      "artistKey": "sudan archives",
-      "albumKey": "the bpm",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-21",
-          "url": "https://daily.bandcamp.com/album-of-the-day/sudan-archives-the-bpm-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Aesop Rock",
       "album": "Black Hole Superette",
       "artistKey": "aesop rock",
@@ -2231,6 +2202,24 @@
       "album": "Cabin in the Sky",
       "artistKey": "de la soul",
       "albumKey": "cabin in the sky",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2025-01-02",
+          "url": "https://theneedledrop.com/loved-list/2025/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Deafheaven",
+      "album": "Lonely People with Power",
+      "artistKey": "deafheaven",
+      "albumKey": "lonely people with power",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -6169,6 +6158,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Sudan Archives",
+      "album": "Natural Brown Prom Queen",
+      "artistKey": "sudan archives",
+      "albumKey": "natural brown prom queen",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "SZA",
       "album": "SOS",
       "artistKey": "sza",
@@ -7969,24 +7976,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Phoebe Bridgers",
-      "album": "Punisher",
-      "artistKey": "phoebe bridgers",
-      "albumKey": "punisher",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Poppy",
       "album": "I Disagree",
       "artistKey": "poppy",
@@ -9049,6 +9038,96 @@
       "mentionCount": 1
     },
     {
+      "artist": "Chelsea Wolfe",
+      "album": "The Dark",
+      "artistKey": "chelsea wolfe",
+      "albumKey": "the dark",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jill Scott",
+      "album": "Right Here Right Now",
+      "artistKey": "jill scott",
+      "albumKey": "right here right now",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Reigns",
+      "album": "Antigeist",
+      "artistKey": "reigns",
+      "albumKey": "antigeist",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-22",
+          "url": "https://thequietus.com/quietus-reviews/reigns-antigeist-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "June McDoom",
+      "album": "Follow The Light",
+      "artistKey": "june mcdoom",
+      "albumKey": "follow the light",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-21",
+          "url": "https://daily.bandcamp.com/album-of-the-day/june-mcdoom-follow-the-light-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "album": "Lost Weekend",
+      "artistKey": "phoebe bridgers",
+      "albumKey": "lost weekend",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Electro Quartet",
       "album": "Nature’s World With Studio G",
       "artistKey": "the electro quartet",
@@ -9154,24 +9233,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chelsea Wolfe",
-      "album": "The Dark",
-      "artistKey": "chelsea wolfe",
-      "albumKey": "the dark",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9319,24 +9380,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Gnod",
-      "album": "Chronicles of Gnowt Vol. 2",
-      "artistKey": "gnod",
-      "albumKey": "chronicles of gnowt vol 2",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-12",
-          "url": "https://thequietus.com/quietus-reviews/gnod-chronicles-of-gnowt-vol-2-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Karen y los Remedios",
       "album": "Bestiaria",
       "artistKey": "karen y los remedios",
@@ -9348,24 +9391,6 @@
           "weight": 4,
           "publishedAt": "2026-10-12",
           "url": "https://daily.bandcamp.com/album-of-the-day/karen-y-los-remedios-bestiaria-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Steve Reich",
-      "album": "Recordings on ECM",
-      "artistKey": "steve reich",
-      "albumKey": "recordings on ecm",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-12",
-          "url": "https://thequietus.com/quietus-reviews/steve-reich-the-ecm-recordings-review/"
         }
       ],
       "editorialWeight": 4,
@@ -13441,10 +13466,82 @@
       "mentionCount": 1
     },
     {
+      "artist": "Nate Smith",
+      "album": "Fathers",
+      "artistKey": "nate smith",
+      "albumKey": "fathers",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Flat Worms",
+      "album": "Flat Worms",
+      "artistKey": "flat worms",
+      "albumKey": "flat worms",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "IAN SWEET",
       "album": "Shiverstruck",
       "artistKey": "ian sweet",
       "albumKey": "shiverstruck",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "KIRINJI, Tomomi Oda",
+      "album": "TOWN BEAT",
+      "artistKey": "kirinji tomomi oda",
+      "albumKey": "town beat",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lady Lamb",
+      "album": "Live on KEXP",
+      "artistKey": "lady lamb",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13495,6 +13592,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "serial killer coloring book",
+      "album": "rubblebed",
+      "artistKey": "serial killer coloring book",
+      "albumKey": "rubblebed",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Drums, Genesis Owusu",
+      "album": "Blackstar",
+      "artistKey": "the drums genesis owusu",
+      "albumKey": "blackstar",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Twin Temple",
       "album": "Doomed Lovers",
       "artistKey": "twin temple",
@@ -13524,24 +13657,6 @@
           "weight": 3,
           "publishedAt": "2026-10-21",
           "url": "https://www.indieshuffle.com/yung-lean-storm-ii-ft-gener8ion/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Alchemical Sisters",
-      "album": "Alchemical Sisters",
-      "artistKey": "alchemical sisters",
-      "albumKey": "alchemical sisters",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-20",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -14910,60 +15025,6 @@
           "weight": 3,
           "publishedAt": "2026-10-12",
           "url": "https://www.indieshuffle.com/dncr-rgh/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Asher White",
-      "album": "Love Aggregates",
-      "artistKey": "asher white",
-      "albumKey": "love aggregates",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Serenity Complex",
-      "album": "The Garden",
-      "artistKey": "serenity complex",
-      "albumKey": "the garden",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Team Dresch",
-      "album": "Furthermore",
-      "artistKey": "team dresch",
-      "albumKey": "furthermore",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-11",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:00:09.557Z",
+  "generatedAt": "2026-10-24T12:23:18.936Z",
   "items": [
     {
       "artist": "Shabazz Palaces",
@@ -513,24 +513,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Kelsey Lu",
-      "album": "So Help Me God",
-      "artistKey": "kelsey lu",
-      "albumKey": "so help me god",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "SML",
       "album": "Spontaneous Music Live",
       "artistKey": "sml",
@@ -816,6 +798,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Amy Winehouse",
+      "album": "Back to Black (20th Anniversary Edition)",
+      "artistKey": "amy winehouse",
+      "albumKey": "back to black 20th anniversary edition",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-24",
+          "url": "https://pitchfork.com/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1215,24 +1215,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Oren Ambarchi",
-      "album": "Cooked",
-      "artistKey": "oren ambarchi",
-      "albumKey": "cooked",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-15",
-          "url": "https://pitchfork.com/reviews/albums/oren-ambarchi-cooked/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Various Artists",
       "album": "Antiyano Progresivo: Musical Experiments from the Former Dutch Caribbean, 1968-1986",
       "artistKey": "various artists",
@@ -1521,6 +1503,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "brakence",
+      "album": "marroW",
+      "artistKey": "brakence",
+      "albumKey": "marrow",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "By Storm",
       "album": "My Ghosts Go Ghost",
       "artistKey": "by storm",
@@ -1777,6 +1777,24 @@
       "album": "Caminhos de Água",
       "artistKey": "kaataira",
       "albumKey": "caminhos de agua",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kelsey Lu",
+      "album": "So Help Me God",
+      "artistKey": "kelsey lu",
+      "albumKey": "so help me god",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9243,6 +9261,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Water Damage",
+      "album": "Repair",
+      "artistKey": "water damage",
+      "albumKey": "repair",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-23",
+          "url": "https://daily.bandcamp.com/album-of-the-day/water-damage-repair-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Chelsea Wolfe",
       "album": "The Dark",
       "artistKey": "chelsea wolfe",
@@ -9459,24 +9495,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Big Flowers x Shemar",
-      "album": "I Love Nature!",
-      "artistKey": "big flowers x shemar",
-      "albumKey": "i love nature",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-15",
-          "url": "https://thequietus.com/quietus-reviews/big-flowers-x-shemar-i-love-nature/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Witchthroat Serpent",
       "album": "Demons Left To Roam",
       "artistKey": "witchthroat serpent",
@@ -9510,24 +9528,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kelsey Lu",
-      "album": "Live on KEXP",
-      "artistKey": "kelsey lu",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13401,20 +13401,20 @@
       "mentionCount": 1
     },
     {
-      "artist": "Componium Ensemble",
-      "album": "8 Automated Works",
-      "artistKey": "componium ensemble",
-      "albumKey": "8 automated works",
+      "artist": "All Them Witches",
+      "album": "Live on KEXP",
+      "artistKey": "all them witches",
+      "albumKey": "live on kexp",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-23",
-          "url": "https://daily.bandcamp.com/album-of-the-day/componium-ensemble-8-automated-works-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-23",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13509,6 +13509,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Lozen",
+      "album": "Live on KEXP",
+      "artistKey": "lozen",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "OSees",
+      "album": "Live on KEXP",
+      "artistKey": "osees",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Snazzy",
       "album": "All In Due Time",
       "artistKey": "snazzy",
@@ -13520,6 +13556,42 @@
           "weight": 3,
           "publishedAt": "2026-10-23",
           "url": "https://www.indieshuffle.com/snazzy-all-in-due-time/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "TsuShiMaMiRe",
+      "album": "Live on KEXP",
+      "artistKey": "tsushimamire",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wolf Alice",
+      "album": "Visions of a Life",
+      "artistKey": "wolf alice",
+      "albumKey": "visions of a life",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-23",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -14661,46 +14733,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Digital Device",
-      "album": "Welcome to The World",
-      "artistKey": "digital device",
-      "albumKey": "welcome to the world",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Fatoumata Diawara, Jembaa Groove, The Cavemen",
       "album": "Be A Lover",
       "artistKey": "fatoumata diawara jembaa groove the cavemen",
       "albumKey": "be a lover",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jaz Karis",
-      "album": "Twenty Something",
-      "artistKey": "jaz karis",
-      "albumKey": "twenty something",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14787,24 +14823,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Lazy Eyes",
-      "album": "Cheesy Love Songs",
-      "artistKey": "the lazy eyes",
-      "albumKey": "cheesy love songs",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "The Physics",
       "album": "VHS",
       "artistKey": "the physics",
@@ -14815,114 +14833,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-10-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "XELTA",
-      "album": "B.D.S.M.",
-      "artistKey": "xelta",
-      "albumKey": "b d s m",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fontaines D.C.",
-      "album": "Dopamine Chamber",
-      "artistKey": "fontaines d c",
-      "albumKey": "dopamine chamber",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gareth Donkin",
-      "album": "Extraordinary",
-      "artistKey": "gareth donkin",
-      "albumKey": "extraordinary",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Original Koffee",
-      "album": "OVA SO",
-      "artistKey": "original koffee",
-      "albumKey": "ova so",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Osees",
-      "album": "Live on KEXP",
-      "artistKey": "osees",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "PVA",
-      "album": "A Dream Like This",
-      "artistKey": "pva",
-      "albumKey": "a dream like this",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-13",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

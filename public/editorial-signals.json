@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T12:23:18.936Z",
+  "generatedAt": "2026-10-25T12:53:40.921Z",
   "items": [
     {
       "artist": "Shabazz Palaces",
@@ -801,6 +801,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Ne Yo",
+      "album": "In My Own Words",
+      "artistKey": "ne yo",
+      "albumKey": "in my own words",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-25",
+          "url": "https://pitchfork.com/reviews/albums/ne-yo-in-my-own-words/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Amy Winehouse",
       "album": "Back to Black (20th Anniversary Edition)",
       "artistKey": "amy winehouse",
@@ -1172,24 +1190,6 @@
           "weight": 5,
           "publishedAt": "2026-10-16",
           "url": "https://pitchfork.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Errol Holden",
-      "album": "SUPREME MAGNETIC 3",
-      "artistKey": "errol holden",
-      "albumKey": "supreme magnetic 3",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-15",
-          "url": "https://pitchfork.com/reviews/albums/errol-holden-supreme-magnetic-3/"
         }
       ],
       "editorialWeight": 5,
@@ -2198,24 +2198,6 @@
           "weight": 4,
           "publishedAt": "2025-11-11",
           "url": "https://daily.bandcamp.com/album-of-the-day/sml-how-you-been-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Various Artists",
-      "album": "Tehrangeles Vice (Iranian Diaspora Pop 1983-1993)",
-      "artistKey": "various artists",
-      "albumKey": "tehrangeles vice iranian diaspora pop 1983 1993",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-tehrangeles-vice-iranian-diaspora-pop-1983-1993-review"
         }
       ],
       "editorialWeight": 5,
@@ -13401,6 +13383,330 @@
       "mentionCount": 1
     },
     {
+      "artist": "Andy Hart",
+      "album": "Life à l'Orange",
+      "artistKey": "andy hart",
+      "albumKey": "life a lorange",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Castle Rat",
+      "album": "Live on KEXP",
+      "artistKey": "castle rat",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Chariots Overdrive",
+      "album": "The End of Antiquity",
+      "artistKey": "chariots overdrive",
+      "albumKey": "the end of antiquity",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Cloven Hoof",
+      "album": "Never a Prophet in Your Own Land",
+      "artistKey": "cloven hoof",
+      "albumKey": "never a prophet in your own land",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Critical Defiance",
+      "album": "Rivers of Blood",
+      "artistKey": "critical defiance",
+      "albumKey": "rivers of blood",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fuzzy Logic",
+      "album": "Northern Exposure Redux",
+      "artistKey": "fuzzy logic",
+      "albumKey": "northern exposure redux",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "K-Lone",
+      "album": "Have a Few Days Off",
+      "artistKey": "k lone",
+      "albumKey": "have a few days off",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "LS Plus",
+      "album": "If You Call My Name",
+      "artistKey": "ls plus",
+      "albumKey": "if you call my name",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ponte del Diavolo",
+      "album": "De Venom Natura",
+      "artistKey": "ponte del diavolo",
+      "albumKey": "de venom natura",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Smoulder",
+      "album": "Witch Wife in an Alien World",
+      "artistKey": "smoulder",
+      "albumKey": "witch wife in an alien world",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Warning",
+      "album": "Rituals of Shame",
+      "artistKey": "warning",
+      "albumKey": "rituals of shame",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dawn Again",
+      "album": "All Day I Dream About Schooners",
+      "artistKey": "dawn again",
+      "albumKey": "all day i dream about schooners",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Desert Island Disco",
+      "album": "World View",
+      "artistKey": "desert island disco",
+      "albumKey": "world view",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dillom",
+      "album": "KEXP's El Sondio Cancioneros Podcast Feature",
+      "artistKey": "dillom",
+      "albumKey": "kexps el sondio cancioneros podcast feature",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jex Opolis",
+      "album": "Key Rush",
+      "artistKey": "jex opolis",
+      "albumKey": "key rush",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mike D",
+      "album": "Thank You",
+      "artistKey": "mike d",
+      "albumKey": "thank you",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Palms Trax",
+      "album": "Keys to a Printed Garden",
+      "artistKey": "palms trax",
+      "albumKey": "keys to a printed garden",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yuka Mizuhara",
+      "album": "Moon Dust",
+      "artistKey": "yuka mizuhara",
+      "albumKey": "moon dust",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "All Them Witches",
       "album": "Live on KEXP",
       "artistKey": "all them witches",
@@ -13538,24 +13844,6 @@
           "weight": 3,
           "publishedAt": "2026-10-23",
           "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Snazzy",
-      "album": "All In Due Time",
-      "artistKey": "snazzy",
-      "albumKey": "all in due time",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-10-23",
-          "url": "https://www.indieshuffle.com/snazzy-all-in-due-time/"
         }
       ],
       "editorialWeight": 3,
@@ -13833,24 +14121,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Yung Lean",
-      "album": "STORM II (Ft. GENER8ION)",
-      "artistKey": "yung lean",
-      "albumKey": "storm ii ft gener8ion",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-10-21",
-          "url": "https://www.indieshuffle.com/yung-lean-storm-ii-ft-gener8ion/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Beste Hira",
       "album": "MP10",
       "artistKey": "beste hira",
@@ -14089,24 +14359,6 @@
       "album": "Loveland",
       "artistKey": "suki waterhouse",
       "albumKey": "loveland",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Yuka Mizuhara",
-      "album": "Moon Dust",
-      "artistKey": "yuka mizuhara",
-      "albumKey": "moon dust",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14625,24 +14877,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "ALA.NI & Adrian Younge",
-      "album": "Proud of Me",
-      "artistKey": "ala ni and adrian younge",
-      "albumKey": "proud of me",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Death Cab for Cutie",
       "album": "Live on KEXP",
       "artistKey": "death cab for cutie",
@@ -14654,726 +14888,6 @@
           "weight": 3,
           "publishedAt": "2026-10-15",
           "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Moses Yoofee Trio",
-      "album": "CHASING LIGHT",
-      "artistKey": "moses yoofee trio",
-      "albumKey": "chasing light",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rochelle Jordan",
-      "album": "Disc 3",
-      "artistKey": "rochelle jordan",
-      "albumKey": "disc 3",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Black Tones",
-      "album": "Diamond Ruby Night",
-      "artistKey": "the black tones",
-      "albumKey": "diamond ruby night",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Denzel Curry & Kenny Beats",
-      "album": "ii",
-      "artistKey": "denzel curry and kenny beats",
-      "albumKey": "ii",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fatoumata Diawara, Jembaa Groove, The Cavemen",
-      "album": "Be A Lover",
-      "artistKey": "fatoumata diawara jembaa groove the cavemen",
-      "albumKey": "be a lover",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jungle",
-      "album": "Sunshine",
-      "artistKey": "jungle",
-      "albumKey": "sunshine",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ken Pomeroy",
-      "album": "Live on KEXP",
-      "artistKey": "ken pomeroy",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Pinder, LA",
-      "album": "For The Love Of The Game Vol 1",
-      "artistKey": "pinder la",
-      "albumKey": "for the love of the game vol 1",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Squirrel Flower",
-      "album": "Say a Prayer to the Gods of Getting Going",
-      "artistKey": "squirrel flower",
-      "albumKey": "say a prayer to the gods of getting going",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Physics",
-      "album": "VHS",
-      "artistKey": "the physics",
-      "albumKey": "vhs",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "DNCR",
-      "album": "RGH",
-      "artistKey": "dncr",
-      "albumKey": "rgh",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-10-12",
-          "url": "https://www.indieshuffle.com/dncr-rgh/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Majid Jordan",
-      "album": "Best Behaviour (Ft. Clementine Douglas)",
-      "artistKey": "majid jordan",
-      "albumKey": "best behaviour ft clementine douglas",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-10-09",
-          "url": "https://www.indieshuffle.com/majid-jordan-best-behaviour-feat-clementine-douglas/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Arlo Parks",
-      "album": "Senses (Ft. Sampha)",
-      "artistKey": "arlo parks",
-      "albumKey": "senses ft sampha",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-09-28",
-          "url": "https://www.indieshuffle.com/arlo-parks-senses-ft-sampha/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Oscar Lindsey",
-      "album": "Painting The Walls",
-      "artistKey": "oscar lindsey",
-      "albumKey": "painting the walls",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-09-15",
-          "url": "https://www.indieshuffle.com/oscar-lindsey-painting-the-walls/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hockitay",
-      "album": "half smile",
-      "artistKey": "hockitay",
-      "albumKey": "half smile",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-09-11",
-          "url": "https://www.indieshuffle.com/hockitay-half-smile/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mackeeper",
-      "album": "Holy Moses",
-      "artistKey": "mackeeper",
-      "albumKey": "holy moses",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-09-08",
-          "url": "https://www.indieshuffle.com/mackeeper-holy-moses/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Beatenberg",
-      "album": "Scatterlings (Ft. Johnny Clegg)",
-      "artistKey": "beatenberg",
-      "albumKey": "scatterlings ft johnny clegg",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-08-25",
-          "url": "https://www.indieshuffle.com/beatenberg-scatterlings-ft-johnny-clegg/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Bonobo",
-      "album": "Always on Your Side (Ft. Joy Crookes)",
-      "artistKey": "bonobo",
-      "albumKey": "always on your side ft joy crookes",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-08-20",
-          "url": "https://www.indieshuffle.com/bonobo-always-on-your-side-ft-joy-crookes/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "No New Lovers",
-      "album": "Cycles",
-      "artistKey": "no new lovers",
-      "albumKey": "cycles",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-08-20",
-          "url": "https://www.indieshuffle.com/no-new-lovers-cycles/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fred Again",
-      "album": "Mabe (Ft. Latin Mafia & Mabe Fratti)",
-      "artistKey": "fred again",
-      "albumKey": "mabe ft latin mafia and mabe fratti",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-08-17",
-          "url": "https://www.indieshuffle.com/fred-again-mabe-ft-latin-mafia-mabe-fratti/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Angus & Julia Stone",
-      "album": "Celestial Bodies",
-      "artistKey": "angus and julia stone",
-      "albumKey": "celestial bodies",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-08-14",
-          "url": "https://www.indieshuffle.com/angus-julia-stone-celestial-bodies/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "BRANDANO",
-      "album": "Life g/on",
-      "artistKey": "brandano",
-      "albumKey": "life g on",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-08-06",
-          "url": "https://www.indieshuffle.com/brandano-life-g-on/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "SOFI TUKKER",
-      "album": "Barthelona",
-      "artistKey": "sofi tukker",
-      "albumKey": "barthelona",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-08-01",
-          "url": "https://www.indieshuffle.com/sofi-tukker-barthelona/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Balming Tiger",
-      "album": "Oui",
-      "artistKey": "balming tiger",
-      "albumKey": "oui",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-07-28",
-          "url": "https://www.indieshuffle.com/balming-tiger-oui/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Retro Kid",
-      "album": "Let It Out",
-      "artistKey": "retro kid",
-      "albumKey": "let it out",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-07-25",
-          "url": "https://www.indieshuffle.com/retro-kid-let-it-out/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Winn Winn",
-      "album": "give af",
-      "artistKey": "winn winn",
-      "albumKey": "give af",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-07-24",
-          "url": "https://www.indieshuffle.com/winn-winn-give-af/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Doc Rhombus",
-      "album": "Shaken Up",
-      "artistKey": "doc rhombus",
-      "albumKey": "shaken up",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-07-22",
-          "url": "https://www.indieshuffle.com/doc-rhombus-shaken-up/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rowena Wise",
-      "album": "Blood Ties",
-      "artistKey": "rowena wise",
-      "albumKey": "blood ties",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-07-20",
-          "url": "https://www.indieshuffle.com/rowena-wise-blood-ties/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "JJerome87",
-      "album": "Track and Field",
-      "artistKey": "jjerome87",
-      "albumKey": "track and field",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-07-08",
-          "url": "https://www.indieshuffle.com/jjerome87-track-and-field/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Matt Maltese",
-      "album": "Coward (Ft. Biig Piig)",
-      "artistKey": "matt maltese",
-      "albumKey": "coward ft biig piig",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-07-05",
-          "url": "https://www.indieshuffle.com/matt-maltese-coward-ft-biig-piig/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Josh Conway",
-      "album": "forget him",
-      "artistKey": "josh conway",
-      "albumKey": "forget him",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-06-29",
-          "url": "https://www.indieshuffle.com/john-conway-forget-him/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Seb Wildblood",
-      "album": "Folded (Ft. Jouska)",
-      "artistKey": "seb wildblood",
-      "albumKey": "folded ft jouska",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-06-16",
-          "url": "https://www.indieshuffle.com/seb-wildblood-folded-ft-jouska/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ecca Vandal",
-      "album": "EYES SHUT",
-      "artistKey": "ecca vandal",
-      "albumKey": "eyes shut",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-06-11",
-          "url": "https://www.indieshuffle.com/ecca-vandal-eyes-shut/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tyler Ballgame",
-      "album": "For The First Time, Again",
-      "artistKey": "tyler ballgame",
-      "albumKey": "for the first time again",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-06-09",
-          "url": "https://www.indieshuffle.com/tyler-ballgame-for-the-first-time-again/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Asal",
-      "album": "Tolerance",
-      "artistKey": "asal",
-      "albumKey": "tolerance",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-06-05",
-          "url": "https://www.indieshuffle.com/asal-tolerance/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tom Misch",
-      "album": "Echo From The Flames",
-      "artistKey": "tom misch",
-      "albumKey": "echo from the flames",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-06-03",
-          "url": "https://www.indieshuffle.com/tom-misch-echo-from-the-flames/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Joji",
-      "album": "Hotel California",
-      "artistKey": "joji",
-      "albumKey": "hotel california",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-06-01",
-          "url": "https://www.indieshuffle.com/joji-hotel-california/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Temper Trap",
-      "album": "What If You Fly (Sweet Disposition) (BUNT Remix)",
-      "artistKey": "the temper trap",
-      "albumKey": "what if you fly sweet disposition bunt remix",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-29",
-          "url": "https://www.indieshuffle.com/bunt-what-if-you-fly-sweet-disposition-the-temper-trap-what-if-you-fly-sweet-disposition-remix/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "flyingfish",
-      "album": "Spider Song",
-      "artistKey": "flyingfish",
-      "albumKey": "spider song",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-27",
-          "url": "https://www.indieshuffle.com/flyingfish-spider-song/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Temper City",
-      "album": "Self Aware",
-      "artistKey": "temper city",
-      "albumKey": "self aware",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-05-27",
-          "url": "https://www.indieshuffle.com/temper-city-self-aware/"
         }
       ],
       "editorialWeight": 3,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T12:53:40.921Z",
+  "generatedAt": "2026-10-26T14:44:38.123Z",
   "items": [
     {
       "artist": "Shabazz Palaces",
@@ -477,24 +477,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Koreatown Oddity",
-      "album": "Purdy",
-      "artistKey": "the koreatown oddity",
-      "albumKey": "purdy",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-15",
-          "url": "https://pitchfork.com/reviews/albums/the-koreatown-oddity-purdy/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Jill Scott",
       "album": "To Whom This May Concern",
       "artistKey": "jill scott",
@@ -747,24 +729,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Koreatown Oddity",
-      "album": "Little Dominiques Nosebleed",
-      "artistKey": "the koreatown oddity",
-      "albumKey": "little dominiques nosebleed",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Daphni",
       "album": "Sizzling",
       "artistKey": "daphni",
@@ -798,6 +762,78 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Andy Boay",
+      "album": "Doomed",
+      "artistKey": "andy boay",
+      "albumKey": "doomed",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-26",
+          "url": "https://pitchfork.com/reviews/albums/andy-boay-doomed/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Caroline Rose",
+      "album": "Gentling the Horse at the Walt Whitman Mall",
+      "artistKey": "caroline rose",
+      "albumKey": "gentling the horse at the walt whitman mall",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-26",
+          "url": "https://pitchfork.com/reviews/albums/caroline-rose-gentling-the-horse-at-the-walt-whitman-mall/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Heavensouls",
+      "album": "cantu of the sower EP",
+      "artistKey": "heavensouls",
+      "albumKey": "cantu of the sower ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-26",
+          "url": "https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Holidays In United States",
+      "album": "How to Count to Five",
+      "artistKey": "holidays in united states",
+      "albumKey": "how to count to five",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-26",
+          "url": "https://pitchfork.com/reviews/albums/holidays-in-united-states-how-to-count-to-five/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1143,42 +1179,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Jeremiah Chiu",
-      "album": "Edge Conditions",
-      "artistKey": "jeremiah chiu",
-      "albumKey": "edge conditions",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-16",
-          "url": "https://pitchfork.com/reviews/albums/jeremiah-chiu-edge-conditions/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jon Hassell",
-      "album": "Music Is Invisible (Pentimento Volume Three)",
-      "artistKey": "jon hassell",
-      "albumKey": "music is invisible pentimento volume three",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-16",
-          "url": "https://pitchfork.com/reviews/albums/jon-hassell-music-is-invisible-pentimento-volume-three/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Rachel Chinouriri",
       "album": "I think I spoke too soon",
       "artistKey": "rachel chinouriri",
@@ -1190,24 +1190,6 @@
           "weight": 5,
           "publishedAt": "2026-10-16",
           "url": "https://pitchfork.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fontaines Dc",
-      "album": "Dopamine Chamber",
-      "artistKey": "fontaines dc",
-      "albumKey": "dopamine chamber",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-15",
-          "url": "https://pitchfork.com/reviews/albums/fontaines-dc-dopamine-chamber/"
         }
       ],
       "editorialWeight": 5,
@@ -8325,6 +8307,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Koreatown Oddity",
+      "album": "Little Dominiques Nosebleed",
+      "artistKey": "the koreatown oddity",
+      "albumKey": "little dominiques nosebleed",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "The Strokes",
       "album": "The New Abnormal",
       "artistKey": "the strokes",
@@ -9221,6 +9221,42 @@
         }
       ],
       "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Oliver Leith",
+      "album": "Doom and the Dooms",
+      "artistKey": "oliver leith",
+      "albumKey": "doom and the dooms",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-26",
+          "url": "https://thequietus.com/quietus-reviews/oliver-leith-doom-and-the-dooms-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "SUN ARAW",
+      "album": "Rapid Response",
+      "artistKey": "sun araw",
+      "albumKey": "rapid response",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/sun-araw-rapid-response-review"
+        }
+      ],
+      "editorialWeight": 4,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13383,6 +13419,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Saul Williams",
+      "album": "Leap Life",
+      "artistKey": "saul williams",
+      "albumKey": "leap life",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wallners",
+      "album": "Movie Stars",
+      "artistKey": "wallners",
+      "albumKey": "movie stars",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-10-26",
+          "url": "https://www.indieshuffle.com/wallners-movie-stars/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Andy Hart",
       "album": "Life à l'Orange",
       "artistKey": "andy hart",
@@ -13477,6 +13549,24 @@
       "album": "Northern Exposure Redux",
       "artistKey": "fuzzy logic",
       "albumKey": "northern exposure redux",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "ĠENN feat. Aidan Moffat",
+      "album": "Jaguar Sun",
+      "artistKey": "genn feat aidan moffat",
+      "albumKey": "jaguar sun",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13851,6 +13941,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Snazzy",
+      "album": "All In Due Time",
+      "artistKey": "snazzy",
+      "albumKey": "all in due time",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-10-23",
+          "url": "https://www.indieshuffle.com/snazzy-all-in-due-time/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "TsuShiMaMiRe",
       "album": "Live on KEXP",
       "artistKey": "tsushimamire",
@@ -14114,6 +14222,24 @@
           "weight": 3,
           "publishedAt": "2026-10-21",
           "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yung Lean",
+      "album": "STORM II (Ft. GENER8ION)",
+      "artistKey": "yung lean",
+      "albumKey": "storm ii ft gener8ion",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-10-21",
+          "url": "https://www.indieshuffle.com/yung-lean-storm-ii-ft-gener8ion/"
         }
       ],
       "editorialWeight": 3,
@@ -14499,24 +14625,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Saul Williams",
-      "album": "Leap Life",
-      "artistKey": "saul williams",
-      "albumKey": "leap life",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Spacer Woman",
       "album": "With Every Step",
       "artistKey": "spacer woman",
@@ -14733,24 +14841,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Ahamefule J. Oluo",
-      "album": "Where Time Does Not Ache",
-      "artistKey": "ahamefule j oluo",
-      "albumKey": "where time does not ache",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Amy Hall",
       "album": "Morning In May",
       "artistKey": "amy hall",
@@ -14769,64 +14859,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Fontaines D.C. with ROSALÍA",
-      "album": "Dopamine Chamber",
-      "artistKey": "fontaines d c with rosalia",
-      "albumKey": "dopamine chamber",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Gillian Welch & David Rawlings",
       "album": "Live on KEXP",
       "artistKey": "gillian welch and david rawlings",
       "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Pet Shop Boys",
-      "album": "A Man From the Future",
-      "artistKey": "pet shop boys",
-      "albumKey": "a man from the future",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sera Cahoone",
-      "album": "I’ve Missed You All These Years",
-      "artistKey": "sera cahoone",
-      "albumKey": "ive missed you all these years",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14877,17 +14913,539 @@
       "mentionCount": 1
     },
     {
-      "artist": "Death Cab for Cutie",
-      "album": "Live on KEXP",
-      "artistKey": "death cab for cutie",
-      "albumKey": "live on kexp",
+      "artist": "DNCR",
+      "album": "RGH",
+      "artistKey": "dncr",
+      "albumKey": "rgh",
       "sources": [
         {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
           "weight": 3,
-          "publishedAt": "2026-10-15",
-          "url": "https://www.kexp.org/playlist/"
+          "publishedAt": "2026-10-12",
+          "url": "https://www.indieshuffle.com/dncr-rgh/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Majid Jordan",
+      "album": "Best Behaviour (Ft. Clementine Douglas)",
+      "artistKey": "majid jordan",
+      "albumKey": "best behaviour ft clementine douglas",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-10-09",
+          "url": "https://www.indieshuffle.com/majid-jordan-best-behaviour-feat-clementine-douglas/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Arlo Parks",
+      "album": "Senses (Ft. Sampha)",
+      "artistKey": "arlo parks",
+      "albumKey": "senses ft sampha",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-09-28",
+          "url": "https://www.indieshuffle.com/arlo-parks-senses-ft-sampha/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Oscar Lindsey",
+      "album": "Painting The Walls",
+      "artistKey": "oscar lindsey",
+      "albumKey": "painting the walls",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-09-15",
+          "url": "https://www.indieshuffle.com/oscar-lindsey-painting-the-walls/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hockitay",
+      "album": "half smile",
+      "artistKey": "hockitay",
+      "albumKey": "half smile",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-09-11",
+          "url": "https://www.indieshuffle.com/hockitay-half-smile/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mackeeper",
+      "album": "Holy Moses",
+      "artistKey": "mackeeper",
+      "albumKey": "holy moses",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-09-08",
+          "url": "https://www.indieshuffle.com/mackeeper-holy-moses/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Beatenberg",
+      "album": "Scatterlings (Ft. Johnny Clegg)",
+      "artistKey": "beatenberg",
+      "albumKey": "scatterlings ft johnny clegg",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-08-25",
+          "url": "https://www.indieshuffle.com/beatenberg-scatterlings-ft-johnny-clegg/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Bonobo",
+      "album": "Always on Your Side (Ft. Joy Crookes)",
+      "artistKey": "bonobo",
+      "albumKey": "always on your side ft joy crookes",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-08-20",
+          "url": "https://www.indieshuffle.com/bonobo-always-on-your-side-ft-joy-crookes/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "No New Lovers",
+      "album": "Cycles",
+      "artistKey": "no new lovers",
+      "albumKey": "cycles",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-08-20",
+          "url": "https://www.indieshuffle.com/no-new-lovers-cycles/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Fred Again",
+      "album": "Mabe (Ft. Latin Mafia & Mabe Fratti)",
+      "artistKey": "fred again",
+      "albumKey": "mabe ft latin mafia and mabe fratti",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-08-17",
+          "url": "https://www.indieshuffle.com/fred-again-mabe-ft-latin-mafia-mabe-fratti/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Angus & Julia Stone",
+      "album": "Celestial Bodies",
+      "artistKey": "angus and julia stone",
+      "albumKey": "celestial bodies",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-08-14",
+          "url": "https://www.indieshuffle.com/angus-julia-stone-celestial-bodies/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "BRANDANO",
+      "album": "Life g/on",
+      "artistKey": "brandano",
+      "albumKey": "life g on",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-08-06",
+          "url": "https://www.indieshuffle.com/brandano-life-g-on/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "SOFI TUKKER",
+      "album": "Barthelona",
+      "artistKey": "sofi tukker",
+      "albumKey": "barthelona",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-08-01",
+          "url": "https://www.indieshuffle.com/sofi-tukker-barthelona/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Balming Tiger",
+      "album": "Oui",
+      "artistKey": "balming tiger",
+      "albumKey": "oui",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-28",
+          "url": "https://www.indieshuffle.com/balming-tiger-oui/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Retro Kid",
+      "album": "Let It Out",
+      "artistKey": "retro kid",
+      "albumKey": "let it out",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-25",
+          "url": "https://www.indieshuffle.com/retro-kid-let-it-out/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Winn Winn",
+      "album": "give af",
+      "artistKey": "winn winn",
+      "albumKey": "give af",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-24",
+          "url": "https://www.indieshuffle.com/winn-winn-give-af/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Doc Rhombus",
+      "album": "Shaken Up",
+      "artistKey": "doc rhombus",
+      "albumKey": "shaken up",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-22",
+          "url": "https://www.indieshuffle.com/doc-rhombus-shaken-up/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rowena Wise",
+      "album": "Blood Ties",
+      "artistKey": "rowena wise",
+      "albumKey": "blood ties",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-20",
+          "url": "https://www.indieshuffle.com/rowena-wise-blood-ties/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "JJerome87",
+      "album": "Track and Field",
+      "artistKey": "jjerome87",
+      "albumKey": "track and field",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-08",
+          "url": "https://www.indieshuffle.com/jjerome87-track-and-field/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Matt Maltese",
+      "album": "Coward (Ft. Biig Piig)",
+      "artistKey": "matt maltese",
+      "albumKey": "coward ft biig piig",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-07-05",
+          "url": "https://www.indieshuffle.com/matt-maltese-coward-ft-biig-piig/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Josh Conway",
+      "album": "forget him",
+      "artistKey": "josh conway",
+      "albumKey": "forget him",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-06-29",
+          "url": "https://www.indieshuffle.com/john-conway-forget-him/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Seb Wildblood",
+      "album": "Folded (Ft. Jouska)",
+      "artistKey": "seb wildblood",
+      "albumKey": "folded ft jouska",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-06-16",
+          "url": "https://www.indieshuffle.com/seb-wildblood-folded-ft-jouska/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ecca Vandal",
+      "album": "EYES SHUT",
+      "artistKey": "ecca vandal",
+      "albumKey": "eyes shut",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-06-11",
+          "url": "https://www.indieshuffle.com/ecca-vandal-eyes-shut/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tyler Ballgame",
+      "album": "For The First Time, Again",
+      "artistKey": "tyler ballgame",
+      "albumKey": "for the first time again",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-06-09",
+          "url": "https://www.indieshuffle.com/tyler-ballgame-for-the-first-time-again/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Asal",
+      "album": "Tolerance",
+      "artistKey": "asal",
+      "albumKey": "tolerance",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-06-05",
+          "url": "https://www.indieshuffle.com/asal-tolerance/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tom Misch",
+      "album": "Echo From The Flames",
+      "artistKey": "tom misch",
+      "albumKey": "echo from the flames",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-06-03",
+          "url": "https://www.indieshuffle.com/tom-misch-echo-from-the-flames/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Joji",
+      "album": "Hotel California",
+      "artistKey": "joji",
+      "albumKey": "hotel california",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-06-01",
+          "url": "https://www.indieshuffle.com/joji-hotel-california/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Temper Trap",
+      "album": "What If You Fly (Sweet Disposition) (BUNT Remix)",
+      "artistKey": "the temper trap",
+      "albumKey": "what if you fly sweet disposition bunt remix",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-05-29",
+          "url": "https://www.indieshuffle.com/bunt-what-if-you-fly-sweet-disposition-the-temper-trap-what-if-you-fly-sweet-disposition-remix/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "flyingfish",
+      "album": "Spider Song",
+      "artistKey": "flyingfish",
+      "albumKey": "spider song",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-05-27",
+          "url": "https://www.indieshuffle.com/flyingfish-spider-song/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Temper City",
+      "album": "Self Aware",
+      "artistKey": "temper city",
+      "albumKey": "self aware",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-05-27",
+          "url": "https://www.indieshuffle.com/temper-city-self-aware/"
         }
       ],
       "editorialWeight": 3,

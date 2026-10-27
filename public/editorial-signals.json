@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T14:44:38.123Z",
+  "generatedAt": "2026-10-27T13:51:19.439Z",
   "items": [
     {
       "artist": "Shabazz Palaces",
@@ -20,18 +20,11 @@
           "weight": 4,
           "publishedAt": "2026-10-20",
           "url": "https://daily.bandcamp.com/album-of-the-day/shabazz-palaces-its-a-style-sport-review"
-        },
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-16",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 14,
+      "editorialWeight": 11,
       "multiSourceBonus": 2,
-      "mentionCount": 3
+      "mentionCount": 2
     },
     {
       "artist": "Various Artists",
@@ -77,31 +70,6 @@
           "weight": 4,
           "publishedAt": "2026-10-13",
           "url": "https://stereogum.com/2514364/album-of-the-week-sophia-stel-the-greatest-album-of-all-time/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "The Avalanches",
-      "album": "No Bad Memories",
-      "artistKey": "the avalanches",
-      "albumKey": "no bad memories",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-20",
-          "url": "https://pitchfork.com/reviews/albums/the-avalanches-no-bad-memories/"
-        },
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-16",
-          "url": "https://thequietus.com/quietus-reviews/the-avalanches-no-bad-memories-review/"
         }
       ],
       "editorialWeight": 11,
@@ -309,6 +277,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Loidis",
+      "album": "From the Toolkit of Lovers",
+      "artistKey": "loidis",
+      "albumKey": "from the toolkit of lovers",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-27",
+          "url": "https://pitchfork.com/reviews/albums/loidis-from-the-toolkit-of-lovers/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Alchemical Sisters",
       "album": "Alchemical Sisters",
       "artistKey": "alchemical sisters",
@@ -430,6 +423,31 @@
         }
       ],
       "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "SUN ARAW",
+      "album": "Rapid Response",
+      "artistKey": "sun araw",
+      "albumKey": "rapid response",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/sun-araw-rapid-response-review"
+        }
+      ],
+      "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -765,6 +783,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Hysterical Love Project",
+      "album": "February’s Album",
+      "artistKey": "hysterical love project",
+      "albumKey": "februarys album",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-27",
+          "url": "https://pitchfork.com/reviews/albums/hysterical-love-project-februarys-album/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Skino",
+      "album": "Blood & Oil",
+      "artistKey": "skino",
+      "albumKey": "blood and oil",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-27",
+          "url": "https://pitchfork.com/reviews/albums/skino-blood-and-oil/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tony Iommi",
+      "album": "From the Dark",
+      "artistKey": "tony iommi",
+      "albumKey": "from the dark",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-27",
+          "url": "https://pitchfork.com/reviews/albums/tony-iommi-from-the-dark/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Andy Boay",
       "album": "Doomed",
       "artistKey": "andy boay",
@@ -1035,6 +1107,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "The Avalanches",
+      "album": "No Bad Memories",
+      "artistKey": "the avalanches",
+      "albumKey": "no bad memories",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-20",
+          "url": "https://pitchfork.com/reviews/albums/the-avalanches-no-bad-memories/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Way Dynamic",
       "album": "Massive Shoe",
       "artistKey": "way dynamic",
@@ -1118,78 +1208,6 @@
           "weight": 5,
           "publishedAt": "2026-10-19",
           "url": "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Spacemen 3",
-      "album": "The Perfect Prescription",
-      "artistKey": "spacemen 3",
-      "albumKey": "the perfect prescription",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-18",
-          "url": "https://pitchfork.com/reviews/albums/spacemen-3-the-perfect-prescription/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Djrum",
-      "album": "DJ-Kicks",
-      "artistKey": "djrum",
-      "albumKey": "dj kicks",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-17",
-          "url": "https://pitchfork.com/reviews/albums/djrum-dj-kicks/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "At Sign",
-      "album": "Autosmile",
-      "artistKey": "at sign",
-      "albumKey": "autosmile",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-16",
-          "url": "https://pitchfork.com/reviews/albums/at-sign-autosmile/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rachel Chinouriri",
-      "album": "I think I spoke too soon",
-      "artistKey": "rachel chinouriri",
-      "albumKey": "i think i spoke too soon",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-16",
-          "url": "https://pitchfork.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon/"
         }
       ],
       "editorialWeight": 5,
@@ -9225,6 +9243,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Johnny Marr",
+      "album": "The Age of Everything",
+      "artistKey": "johnny marr",
+      "albumKey": "the age of everything",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-27",
+          "url": "https://thequietus.com/quietus-reviews/johnny-marr-the-age-of-everything-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Orchestra Baobab",
+      "album": "Made In Senegal",
+      "artistKey": "orchestra baobab",
+      "albumKey": "made in senegal",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-27",
+          "url": "https://daily.bandcamp.com/album-of-the-day/orchestra-baobab-made-in-senegal-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Oliver Leith",
       "album": "Doom and the Dooms",
       "artistKey": "oliver leith",
@@ -9236,24 +9290,6 @@
           "weight": 4,
           "publishedAt": "2026-10-26",
           "url": "https://thequietus.com/quietus-reviews/oliver-leith-doom-and-the-dooms-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "SUN ARAW",
-      "album": "Rapid Response",
-      "artistKey": "sun araw",
-      "albumKey": "rapid response",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-10-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/sun-araw-rapid-response-review"
         }
       ],
       "editorialWeight": 4,
@@ -13419,10 +13455,370 @@
       "mentionCount": 1
     },
     {
+      "artist": "Alien D",
+      "album": "Smoker's Choice",
+      "artistKey": "alien d",
+      "albumKey": "smokers choice",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "DC Salas",
+      "album": "Fiesta EP",
+      "artistKey": "dc salas",
+      "albumKey": "fiesta ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Devonwho",
+      "album": "TV2",
+      "artistKey": "devonwho",
+      "albumKey": "tv2",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dino Pacifici",
+      "album": "Pipe Dreams",
+      "artistKey": "dino pacifici",
+      "albumKey": "pipe dreams",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "DJ Python",
+      "album": "To Accomplish Many Things",
+      "artistKey": "dj python",
+      "albumKey": "to accomplish many things",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Everything But The Girl",
+      "album": "Run a Red Light",
+      "artistKey": "everything but the girl",
+      "albumKey": "run a red light",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Igaxx",
+      "album": "New Lights",
+      "artistKey": "igaxx",
+      "albumKey": "new lights",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Manami",
+      "album": "Treading Dub",
+      "artistKey": "manami",
+      "albumKey": "treading dub",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ocean Company",
+      "album": "Oscillate",
+      "artistKey": "ocean company",
+      "albumKey": "oscillate",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Roger Goula",
+      "album": "Sense and Sensibility: Original Motion Picture Soundtrack",
+      "artistKey": "roger goula",
+      "albumKey": "sense and sensibility original motion picture soundtrack",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Salma Rosa & Jonnnah",
+      "album": "Paradise Lost",
+      "artistKey": "salma rosa and jonnnah",
+      "albumKey": "paradise lost",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "SBWT",
+      "album": "Marauders",
+      "artistKey": "sbwt",
+      "albumKey": "marauders",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Slim Media Player",
+      "album": "Spooky Theme",
+      "artistKey": "slim media player",
+      "albumKey": "spooky theme",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "True Blue",
+      "album": "Fountain",
+      "artistKey": "true blue",
+      "albumKey": "fountain",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Turbotito & Ragz",
+      "album": "Naya Beat Select Remixes and Reworks 2",
+      "artistKey": "turbotito and ragz",
+      "albumKey": "naya beat select remixes and reworks 2",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Twin Temple",
+      "album": "Doomed Lovers",
+      "artistKey": "twin temple",
+      "albumKey": "doomed lovers",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Abyssinian Creole, Khingz, Gabriel Teodros",
+      "album": "Nostalgia For The Future",
+      "artistKey": "abyssinian creole khingz gabriel teodros",
+      "albumKey": "nostalgia for the future",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Francis of Delirium",
+      "album": "Live on KEXP",
+      "artistKey": "francis of delirium",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Luisa Almaguer",
+      "album": "Sin Lázaro",
+      "artistKey": "luisa almaguer",
+      "albumKey": "sin lazaro",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Saul Williams",
       "album": "Leap Life",
       "artistKey": "saul williams",
       "albumKey": "leap life",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-26",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Stars",
+      "album": "Live on KEXP",
+      "artistKey": "stars",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14211,24 +14607,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Twin Temple",
-      "album": "Doomed Lovers",
-      "artistKey": "twin temple",
-      "albumKey": "doomed lovers",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-21",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Yung Lean",
       "album": "STORM II (Ft. GENER8ION)",
       "artistKey": "yung lean",
@@ -14787,42 +15165,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Allergies",
-      "album": "Beneath This Sun",
-      "artistKey": "the allergies",
-      "albumKey": "beneath this sun",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Allergies feat. Andy Cooper & BlabberMouf",
-      "album": "Beneath This Sun",
-      "artistKey": "the allergies feat andy cooper and blabbermouf",
-      "albumKey": "beneath this sun",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Tiken Jah Fakoly & Ana Tijoux",
       "album": "Là-bas",
       "artistKey": "tiken jah fakoly and ana tijoux",
@@ -14833,78 +15175,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-10-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Amy Hall",
-      "album": "Morning In May",
-      "artistKey": "amy hall",
-      "albumKey": "morning in may",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Gillian Welch & David Rawlings",
-      "album": "Live on KEXP",
-      "artistKey": "gillian welch and david rawlings",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Shana Cleveland",
-      "album": "Live on KEXP",
-      "artistKey": "shana cleveland",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Watergirls",
-      "album": "The Whole of the Moon",
-      "artistKey": "the watergirls",
-      "albumKey": "the whole of the moon",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-16",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

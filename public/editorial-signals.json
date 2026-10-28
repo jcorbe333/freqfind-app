@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T13:51:19.439Z",
+  "generatedAt": "2026-10-28T14:45:47.070Z",
   "items": [
     {
       "artist": "Shabazz Palaces",
@@ -277,6 +277,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Josh Johnson",
+      "album": "Animative",
+      "artistKey": "josh johnson",
+      "albumKey": "animative",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-28",
+          "url": "https://daily.bandcamp.com/album-of-the-day/josh-johnson-animative-review"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-10-20",
+          "url": "https://stereogum.com/2515021/album-of-the-week-josh-johnson-animative/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Loidis",
       "album": "From the Toolkit of Lovers",
       "artistKey": "loidis",
@@ -475,6 +500,24 @@
       "editorialWeight": 9,
       "multiSourceBonus": 2,
       "mentionCount": 2
+    },
+    {
+      "artist": "Mackeeper",
+      "album": "Believe You Me",
+      "artistKey": "mackeeper",
+      "albumKey": "believe you me",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-28",
+          "url": "https://pitchfork.com/reviews/albums/mackeeper-believe-you-me/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Zach Bryan",
@@ -780,6 +823,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sour Widows",
+      "album": "Sigil",
+      "artistKey": "sour widows",
+      "albumKey": "sigil",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-28",
+          "url": "https://pitchfork.com/reviews/albums/sour-widows-sigil/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Susanne Sundfor",
+      "album": "Revelations of Divine Love",
+      "artistKey": "susanne sundfor",
+      "albumKey": "revelations of divine love",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-28",
+          "url": "https://pitchfork.com/reviews/albums/susanne-sundfor-revelations-of-divine-love/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yung Miami",
+      "album": "Watch Dis!",
+      "artistKey": "yung miami",
+      "albumKey": "watch dis",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-28",
+          "url": "https://pitchfork.com/reviews/albums/yung-miami-watch-dis/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1136,78 +1233,6 @@
           "weight": 5,
           "publishedAt": "2026-10-20",
           "url": "https://pitchfork.com/reviews/albums/way-dynamic-massive-shoe/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Fish Narc",
-      "album": "Uncle",
-      "artistKey": "fish narc",
-      "albumKey": "uncle",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-19",
-          "url": "https://pitchfork.com/reviews/albums/fish-narc-uncle/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Teller Banks",
-      "album": "NOAH",
-      "artistKey": "teller banks",
-      "albumKey": "noah",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-19",
-          "url": "https://pitchfork.com/reviews/albums/teller-banks-noah/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "They Are Gutting A Body Of Water",
-      "album": "KOOL FAITH / LOOSIES II",
-      "artistKey": "they are gutting a body of water",
-      "albumKey": "kool faith loosies ii",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-19",
-          "url": "https://pitchfork.com/reviews/albums/they-are-gutting-a-body-of-water-kool-faith-loosies-ii/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Worldpeace Dmt",
-      "album": "Stick Around for Tea",
-      "artistKey": "worldpeace dmt",
-      "albumKey": "stick around for tea",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-19",
-          "url": "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/"
         }
       ],
       "editorialWeight": 5,
@@ -9243,6 +9268,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Chelsea Wolfe",
+      "album": "The Dark",
+      "artistKey": "chelsea wolfe",
+      "albumKey": "the dark",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dis Fig",
+      "album": "What To Make Of These Mortal Hands",
+      "artistKey": "dis fig",
+      "albumKey": "what to make of these mortal hands",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-28",
+          "url": "https://thequietus.com/quietus-reviews/dis-fig-what-to-make-of-these-mortal-hands-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "DIIV",
+      "album": "ZIRP!",
+      "artistKey": "diiv",
+      "albumKey": "zirp",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-10-27",
+          "url": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Johnny Marr",
       "album": "The Age of Everything",
       "artistKey": "johnny marr",
@@ -9330,24 +9409,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Chelsea Wolfe",
-      "album": "The Dark",
-      "artistKey": "chelsea wolfe",
-      "albumKey": "the dark",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-22",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9470,60 +9531,6 @@
           "weight": 4,
           "publishedAt": "2026-10-21",
           "url": "https://thequietus.com/quietus-reviews/ye-gods-los/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Josh Johnson",
-      "album": "Animative",
-      "artistKey": "josh johnson",
-      "albumKey": "animative",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-10-20",
-          "url": "https://stereogum.com/2515021/album-of-the-week-josh-johnson-animative/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Storefront Church",
-      "album": "Blue Movie",
-      "artistKey": "storefront church",
-      "albumKey": "blue movie",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-20",
-          "url": "https://thequietus.com/quietus-reviews/storefront-church-blue-movie-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Matthew Herbert",
-      "album": "The UK Has More Food Banks Than Branches Of McDonalds",
-      "artistKey": "matthew herbert",
-      "albumKey": "the uk has more food banks than branches of mcdonalds",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-19",
-          "url": "https://thequietus.com/quietus-reviews/matthew-herbert-the-uk-has-more-food-banks-than-branches-of-mcdonalds-review/"
         }
       ],
       "editorialWeight": 4,
@@ -10086,6 +10093,24 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mackeeper",
+      "album": "Holy Moses",
+      "artistKey": "mackeeper",
+      "albumKey": "holy moses",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-09-08",
+          "url": "https://www.indieshuffle.com/mackeeper-holy-moses/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -12951,24 +12976,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Victoryland",
-      "album": "My Heart Is A Room With No Cameras In It",
-      "artistKey": "victoryland",
-      "albumKey": "my heart is a room with no cameras in it",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-01-20",
-          "url": "https://stereogum.com/2485965/album-of-the-week-victoryland-my-heart-is-a-room-with-no-cameras-in-it/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Emily Scott Robinson",
       "album": "Appalachia",
       "artistKey": "emily scott robinson",
@@ -13437,20 +13444,110 @@
       "mentionCount": 1
     },
     {
-      "artist": "Perera Elsewhere",
-      "album": "Just Wanna Live Some",
-      "artistKey": "perera elsewhere",
-      "albumKey": "just wanna live some",
+      "artist": "ACTORS",
+      "album": "Our Love Will Live Forever",
+      "artistKey": "actors",
+      "albumKey": "our love will live forever",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-27",
-          "url": "https://daily.bandcamp.com/album-of-the-day/perera-elsewhere-just-wanna-live-some-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-28",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jon Hopkins & Imogen Heap",
+      "album": "Reckoning",
+      "artistKey": "jon hopkins and imogen heap",
+      "albumKey": "reckoning",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Summer Clothes",
+      "artistKey": "michael kiwanuka",
+      "albumKey": "summer clothes",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-10-28",
+          "url": "https://www.indieshuffle.com/michael-kiwanuka-summer-clothes/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Portraits of Tracy",
+      "album": "Q: From Where Do Our Primal Instincts Originate? A: MTV!",
+      "artistKey": "portraits of tracy",
+      "albumKey": "q from where do our primal instincts originate a mtv",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Saul Williams feat. Moor Mother & Gonjasufi",
+      "album": "Leap Life",
+      "artistKey": "saul williams feat moor mother and gonjasufi",
+      "albumKey": "leap life",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Souls of Mischief",
+      "album": "Live on KEXP",
+      "artistKey": "souls of mischief",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13473,10 +13570,46 @@
       "mentionCount": 1
     },
     {
+      "artist": "Colin Meloy",
+      "album": "Live on KEXP",
+      "artistKey": "colin meloy",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "DC Salas",
       "album": "Fiesta EP",
       "artistKey": "dc salas",
       "albumKey": "fiesta ep",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dead Man's Bones",
+      "album": "Lost In The Night",
+      "artistKey": "dead mans bones",
+      "albumKey": "lost in the night",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13599,6 +13732,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Modest Mouse",
+      "album": "Live on KEXP",
+      "artistKey": "modest mouse",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "motifs",
+      "album": "Live on KEXP",
+      "artistKey": "motifs",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Ocean Company",
       "album": "Oscillate",
       "artistKey": "ocean company",
@@ -13675,6 +13844,24 @@
       "album": "Spooky Theme",
       "artistKey": "slim media player",
       "albumKey": "spooky theme",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-27",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Soft Cuff",
+      "album": "Thick Heat",
+      "artistKey": "soft cuff",
+      "albumKey": "thick heat",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -15039,24 +15226,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Crud",
-      "album": "Human Decency",
-      "artistKey": "crud",
-      "albumKey": "human decency",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "James Ivy",
       "album": "The Seams",
       "artistKey": "james ivy",
@@ -15085,96 +15254,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-10-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Psalm",
-      "album": "Planning for Burial / Psalm",
-      "artistKey": "psalm",
-      "albumKey": "planning for burial psalm",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ghostkeeper",
-      "album": "Mohkinstsis",
-      "artistKey": "ghostkeeper",
-      "albumKey": "mohkinstsis",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ken Pomeroy",
-      "album": "Late for the Sky",
-      "artistKey": "ken pomeroy",
-      "albumKey": "late for the sky",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mali Obomsawin",
-      "album": "Automatic",
-      "artistKey": "mali obomsawin",
-      "albumKey": "automatic",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-17",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tiken Jah Fakoly & Ana Tijoux",
-      "album": "Là-bas",
-      "artistKey": "tiken jah fakoly and ana tijoux",
-      "albumKey": "la bas",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-17",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15266,24 +15345,6 @@
           "weight": 3,
           "publishedAt": "2026-09-11",
           "url": "https://www.indieshuffle.com/hockitay-half-smile/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mackeeper",
-      "album": "Holy Moses",
-      "artistKey": "mackeeper",
-      "albumKey": "holy moses",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-09-08",
-          "url": "https://www.indieshuffle.com/mackeeper-holy-moses/"
         }
       ],
       "editorialWeight": 3,

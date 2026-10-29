@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-10-28T14:45:47.070Z",
+  "generatedAt": "2026-10-29T14:52:35.706Z",
   "items": [
+    {
+      "artist": "brakence",
+      "album": "marroW",
+      "artistKey": "brakence",
+      "albumKey": "marrow",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-29",
+          "url": "https://pitchfork.com/reviews/albums/brakence-marrow/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 12,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "Water Damage",
+      "album": "Repair",
+      "artistKey": "water damage",
+      "albumKey": "repair",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-29",
+          "url": "https://pitchfork.com/reviews/albums/water-damage-repair/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-23",
+          "url": "https://daily.bandcamp.com/album-of-the-day/water-damage-repair-review"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
     {
       "artist": "Shabazz Palaces",
       "album": "It’s A Style Sport",
@@ -277,6 +327,31 @@
       "mentionCount": 2
     },
     {
+      "artist": "Jill Scott",
+      "album": "To Whom This May Concern",
+      "artistKey": "jill scott",
+      "albumKey": "to whom this may concern",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-29",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 10,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
       "artist": "Josh Johnson",
       "album": "Animative",
       "artistKey": "josh johnson",
@@ -520,42 +595,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Zach Bryan",
-      "album": "Young Manhood and Other Donatable Organs EP",
-      "artistKey": "zach bryan",
-      "albumKey": "young manhood and other donatable organs ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-20",
-          "url": "https://pitchfork.com/reviews/albums/zach-bryan-young-manhood-and-other-donatable-organs-ep/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jill Scott",
-      "album": "To Whom This May Concern",
-      "artistKey": "jill scott",
-      "albumKey": "to whom this may concern",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "SML",
       "album": "Spontaneous Music Live",
       "artistKey": "sml",
@@ -657,42 +696,6 @@
           "weight": 5,
           "publishedAt": "2024-01-01",
           "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Zach Bryan",
-      "album": "The Great American Bar Scene",
-      "artistKey": "zach bryan",
-      "albumKey": "the great american bar scene",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2024-01-01",
-          "url": "https://theneedledrop.com/loved-list/2024/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Zach Bryan",
-      "album": "Zach Bryan",
-      "artistKey": "zach bryan",
-      "albumKey": "zach bryan",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
         }
       ],
       "editorialWeight": 6,
@@ -823,6 +826,42 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Anderson Paak Cordae",
+      "album": "Heavy Is the Crown",
+      "artistKey": "anderson paak cordae",
+      "albumKey": "heavy is the crown",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-29",
+          "url": "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Olivia Tremor Control",
+      "album": "The Same Place",
+      "artistKey": "the olivia tremor control",
+      "albumKey": "the same place",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-29",
+          "url": "https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1186,60 +1225,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Renny Conti",
-      "album": "Split Second",
-      "artistKey": "renny conti",
-      "albumKey": "split second",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-20",
-          "url": "https://pitchfork.com/reviews/albums/renny-conti-split-second/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Avalanches",
-      "album": "No Bad Memories",
-      "artistKey": "the avalanches",
-      "albumKey": "no bad memories",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-20",
-          "url": "https://pitchfork.com/reviews/albums/the-avalanches-no-bad-memories/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Way Dynamic",
-      "album": "Massive Shoe",
-      "artistKey": "way dynamic",
-      "albumKey": "massive shoe",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-20",
-          "url": "https://pitchfork.com/reviews/albums/way-dynamic-massive-shoe/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Various Artists",
       "album": "Antiyano Progresivo: Musical Experiments from the Former Dutch Caribbean, 1968-1986",
       "artistKey": "various artists",
@@ -1514,24 +1499,6 @@
       "album": "Late to Set",
       "artistKey": "alex cameron",
       "albumKey": "late to set",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "brakence",
-      "album": "marroW",
-      "artistKey": "brakence",
-      "albumKey": "marrow",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -4300,6 +4267,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Zach Bryan",
+      "album": "The Great American Bar Scene",
+      "artistKey": "zach bryan",
+      "albumKey": "the great american bar scene",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2024-01-01",
+          "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "100 gecs",
       "album": "10,000 gecs",
       "artistKey": "100 gecs",
@@ -5384,6 +5369,24 @@
       "album": "Zango",
       "artistKey": "witch",
       "albumKey": "zango",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Zach Bryan",
+      "album": "Zach Bryan",
+      "artistKey": "zach bryan",
+      "albumKey": "zach bryan",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9268,6 +9271,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Darko the Super",
+      "album": "How To Play Basketball in the Rain and Not Get Wet",
+      "artistKey": "darko the super",
+      "albumKey": "how to play basketball in the rain and not get wet",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-29",
+          "url": "https://daily.bandcamp.com/album-of-the-day/darko-the-super-how-to-play-basketball-in-the-rain-and-not-get-wet-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Maria W Horn",
+      "album": "Melting Pillars of Snow",
+      "artistKey": "maria w horn",
+      "albumKey": "melting pillars of snow",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-10-29",
+          "url": "https://thequietus.com/quietus-reviews/melting-pillars-of-snow-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Chelsea Wolfe",
       "album": "The Dark",
       "artistKey": "chelsea wolfe",
@@ -9394,24 +9433,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Water Damage",
-      "album": "Repair",
-      "artistKey": "water damage",
-      "albumKey": "repair",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-10-23",
-          "url": "https://daily.bandcamp.com/album-of-the-day/water-damage-repair-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Jill Scott",
       "album": "Right Here Right Now",
       "artistKey": "jill scott",
@@ -9499,24 +9520,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Electro Quartet",
-      "album": "Nature’s World With Studio G",
-      "artistKey": "the electro quartet",
-      "albumKey": "natures world with studio g",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-21",
-          "url": "https://thequietus.com/quietus-reviews/the-electro-quartet-natures-world-with-studio-g-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -13426,20 +13429,182 @@
       "mentionCount": 1
     },
     {
-      "artist": "Gasper Lawal",
-      "album": "Ajomasé",
-      "artistKey": "gasper lawal",
-      "albumKey": "ajomase",
+      "artist": "Adrian Younge & Ali Shaheed Muhammad",
+      "album": "The Midnight Hour: Lost Tapes JID028",
+      "artistKey": "adrian younge and ali shaheed muhammad",
+      "albumKey": "the midnight hour lost tapes jid028",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-28",
-          "url": "https://daily.bandcamp.com/album-of-the-day/gasper-lawal-ajomase-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-29",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Darlynn",
+      "album": "Dyke Den",
+      "artistKey": "darlynn",
+      "albumKey": "dyke den",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Everything But the Girl",
+      "album": "Blue Reservoir",
+      "artistKey": "everything but the girl",
+      "albumKey": "blue reservoir",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Francis of Delirium",
+      "album": "Run, Run Pure Beauty",
+      "artistKey": "francis of delirium",
+      "albumKey": "run run pure beauty",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "JAYMYLONI",
+      "album": "Sybil Club",
+      "artistKey": "jaymyloni",
+      "albumKey": "sybil club",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Keep Shelly in Athens",
+      "album": "Still",
+      "artistKey": "keep shelly in athens",
+      "albumKey": "still",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kelela & PinkPantheress",
+      "album": "new avatar",
+      "artistKey": "kelela and pinkpantheress",
+      "albumKey": "new avatar",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Latroit House Ensemble feat. Latroit, Nomvula & Soweto Gospel Choir",
+      "album": "Classics, Vol. 1",
+      "artistKey": "latroit house ensemble feat latroit nomvula and soweto gospel choir",
+      "albumKey": "classics vol 1",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Liam Mour",
+      "album": "Brian Damage",
+      "artistKey": "liam mour",
+      "albumKey": "brian damage",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-10-29",
+          "url": "https://www.indieshuffle.com/liam-mour-brian-damage/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rochelle Jordan",
+      "album": "Disc 1",
+      "artistKey": "rochelle jordan",
+      "albumKey": "disc 1",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-29",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13448,6 +13613,24 @@
       "album": "Our Love Will Live Forever",
       "artistKey": "actors",
       "albumKey": "our love will live forever",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Francis of Delirium",
+      "album": "Live on KEXP",
+      "artistKey": "francis of delirium",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13516,6 +13699,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Rolling Blackouts Coastal Fever",
+      "album": "Sideways to New Italy",
+      "artistKey": "rolling blackouts coastal fever",
+      "albumKey": "sideways to new italy",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Saul Williams feat. Moor Mother & Gonjasufi",
       "album": "Leap Life",
       "artistKey": "saul williams feat moor mother and gonjasufi",
@@ -13537,6 +13738,24 @@
       "artist": "Souls of Mischief",
       "album": "Live on KEXP",
       "artistKey": "souls of mischief",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-10-28",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yellow Fang",
+      "album": "Live on KEXP",
+      "artistKey": "yellow fang",
       "albumKey": "live on kexp",
       "sources": [
         {
@@ -13934,24 +14153,6 @@
       "album": "Nostalgia For The Future",
       "artistKey": "abyssinian creole khingz gabriel teodros",
       "albumKey": "nostalgia for the future",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Francis of Delirium",
-      "album": "Live on KEXP",
-      "artistKey": "francis of delirium",
-      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -15082,64 +15283,10 @@
       "mentionCount": 1
     },
     {
-      "artist": "Azmito & Nicofasho",
-      "album": "Funkster's Paradise",
-      "artistKey": "azmito and nicofasho",
-      "albumKey": "funksters paradise",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Cleo Sol",
       "album": "Gentlewoman",
       "artistKey": "cleo sol",
       "albumKey": "gentlewoman",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Coco & Clair Clair",
-      "album": "One One",
-      "artistKey": "coco and clair clair",
-      "albumKey": "one one",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jennifer Loveless",
-      "album": "Familiar",
-      "artistKey": "jennifer loveless",
-      "albumKey": "familiar",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -15218,42 +15365,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-10-19",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "James Ivy",
-      "album": "The Seams",
-      "artistKey": "james ivy",
-      "albumKey": "the seams",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jonfri",
-      "album": "Djúpfalsað efni",
-      "artistKey": "jonfri",
-      "albumKey": "djupfalsa efni",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-18",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

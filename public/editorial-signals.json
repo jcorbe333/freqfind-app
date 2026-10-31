@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T14:44:42.192Z",
+  "generatedAt": "2026-10-31T14:10:20.053Z",
   "items": [
     {
       "artist": "brakence",
@@ -668,6 +668,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Aphex Twin",
+      "album": "Drukqs (25th Anniversary Edition)",
+      "artistKey": "aphex twin",
+      "albumKey": "drukqs 25th anniversary edition",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-10-31",
+          "url": "https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Heathers",
       "album": "Awesome",
       "artistKey": "heathers",
@@ -1057,24 +1075,6 @@
           "weight": 5,
           "publishedAt": "2026-10-22",
           "url": "https://pitchfork.com/reviews/albums/baba-stiltz-totally/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dummy",
-      "album": "do you love the color of the sky?",
-      "artistKey": "dummy",
-      "albumKey": "do you love the color of the sky",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-22",
-          "url": "https://pitchfork.com/reviews/albums/dummy-do-you-love-the-color-of-the-sky/"
         }
       ],
       "editorialWeight": 5,
@@ -13315,24 +13315,6 @@
           "weight": 4,
           "publishedAt": "2025-10-31",
           "url": "https://daily.bandcamp.com/album-of-the-day/chino-amobi-eroica-ii-christian-nihilism-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Spells",
-      "album": "The Night Has Eyes",
-      "artistKey": "the spells",
-      "albumKey": "the night has eyes",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-10-30",
-          "url": "https://daily.bandcamp.com/album-of-the-day/the-spells-the-night-has-eyes-review"
         }
       ],
       "editorialWeight": 4,

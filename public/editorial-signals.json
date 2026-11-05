@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T15:54:22.748Z",
+  "generatedAt": "2026-11-05T15:59:25.386Z",
   "items": [
     {
       "artist": "brakence",
@@ -352,31 +352,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Loidis",
-      "album": "From the Toolkit of Lovers",
-      "artistKey": "loidis",
-      "albumKey": "from the toolkit of lovers",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-03",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-27",
-          "url": "https://pitchfork.com/reviews/albums/loidis-from-the-toolkit-of-lovers/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Jill Scott",
       "album": "To Whom This May Concern",
       "artistKey": "jill scott",
@@ -577,6 +552,24 @@
       "mentionCount": 2
     },
     {
+      "artist": "Twisted Teens",
+      "album": "The Holy Cross Tigers",
+      "artistKey": "twisted teens",
+      "albumKey": "the holy cross tigers",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-05",
+          "url": "https://pitchfork.com/reviews/albums/twisted-teens-the-holy-cross-tigers/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Various Artists",
       "album": "Katamari Fortissimo Damacy",
       "artistKey": "various artists",
@@ -617,6 +610,24 @@
       "album": "Spontaneous Music Live",
       "artistKey": "sml",
       "albumKey": "spontaneous music live",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Twisted Teens",
+      "album": "Florida Water Blues",
+      "artistKey": "twisted teens",
+      "albumKey": "florida water blues",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -844,6 +855,60 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Brat Star",
+      "album": "Southern Ontario Gothic",
+      "artistKey": "brat star",
+      "albumKey": "southern ontario gothic",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-05",
+          "url": "https://pitchfork.com/reviews/albums/brat-star-southern-ontario-gothic/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "John Errol",
+      "album": "Damage",
+      "artistKey": "john errol",
+      "albumKey": "damage",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-05",
+          "url": "https://pitchfork.com/reviews/albums/john-errol-damage/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Yeah Yeah Yeahs",
+      "album": "Hidden in Pieces: Live at the Royal Albert Hall",
+      "artistKey": "yeah yeah yeahs",
+      "albumKey": "hidden in pieces live at the royal albert hall",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-05",
+          "url": "https://pitchfork.com/reviews/albums/yeah-yeah-yeahs-hidden-in-pieces-live-at-the-royal-albert-hall/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1182,60 +1247,6 @@
           "weight": 5,
           "publishedAt": "2026-10-28",
           "url": "https://pitchfork.com/reviews/albums/yung-miami-watch-dis/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hysterical Love Project",
-      "album": "February’s Album",
-      "artistKey": "hysterical love project",
-      "albumKey": "februarys album",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-27",
-          "url": "https://pitchfork.com/reviews/albums/hysterical-love-project-februarys-album/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Skino",
-      "album": "Blood & Oil",
-      "artistKey": "skino",
-      "albumKey": "blood and oil",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-27",
-          "url": "https://pitchfork.com/reviews/albums/skino-blood-and-oil/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tony Iommi",
-      "album": "From the Dark",
-      "artistKey": "tony iommi",
-      "albumKey": "from the dark",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-27",
-          "url": "https://pitchfork.com/reviews/albums/tony-iommi-from-the-dark/"
         }
       ],
       "editorialWeight": 5,
@@ -2147,24 +2158,6 @@
       "album": "Popstar",
       "artistKey": "tinashe",
       "albumKey": "popstar",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Twisted Teens",
-      "album": "Florida Water Blues",
-      "artistKey": "twisted teens",
-      "albumKey": "florida water blues",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9361,6 +9354,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Shygirl",
+      "album": "SWALLOW!",
+      "artistKey": "shygirl",
+      "albumKey": "swallow",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-11-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/shygirl-swallow-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Silverwingkiller",
+      "album": "Desperate Struggle",
+      "artistKey": "silverwingkiller",
+      "albumKey": "desperate struggle",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-11-05",
+          "url": "https://thequietus.com/quietus-reviews/silverwingkiller-desperate-struggle/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Andy Ingamells",
       "album": "Vanity Project",
       "artistKey": "andy ingamells",
@@ -9574,24 +9603,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Johnny Marr",
-      "album": "The Age of Everything",
-      "artistKey": "johnny marr",
-      "albumKey": "the age of everything",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-10-27",
-          "url": "https://thequietus.com/quietus-reviews/johnny-marr-the-age-of-everything-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -13411,20 +13422,146 @@
       "mentionCount": 1
     },
     {
-      "artist": "Júlia Colom",
-      "album": "Paradís",
-      "artistKey": "julia colom",
-      "albumKey": "paradis",
+      "artist": "Abyssinian Creole",
+      "album": "Nostalgia for the Future",
+      "artistKey": "abyssinian creole",
+      "albumKey": "nostalgia for the future",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-11-04",
-          "url": "https://daily.bandcamp.com/album-of-the-day/julia-colom-paradis-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-05",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Amen Dunes",
+      "album": "Freedom",
+      "artistKey": "amen dunes",
+      "albumKey": "freedom",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "CHVRCHES",
+      "album": "Roses",
+      "artistKey": "chvrches",
+      "albumKey": "roses",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-11-05",
+          "url": "https://www.indieshuffle.com/chvrches-roses/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Finn Rees",
+      "album": "Feel The Sun",
+      "artistKey": "finn rees",
+      "albumKey": "feel the sun",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "IMIJ",
+      "album": "IMIJ",
+      "artistKey": "imij",
+      "albumKey": "imij",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "L.A. Witch",
+      "album": "L.A. WITCH",
+      "artistKey": "l a witch",
+      "albumKey": "l a witch",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Too Many Zooz",
+      "album": "Hip Hop Instrumentals",
+      "artistKey": "too many zooz",
+      "albumKey": "hip hop instrumentals",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-05",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Colin Meloy",
+      "album": "Live on KEXP",
+      "artistKey": "colin meloy",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13451,6 +13588,60 @@
       "album": "Cannonball",
       "artistKey": "man woman chainsaw",
       "albumKey": "cannonball",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Omari Jazz, Bocha, Donte Thomas",
+      "album": "Live on KEXP",
+      "artistKey": "omari jazz bocha donte thomas",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "quickly, quickly",
+      "album": "Live on KEXP",
+      "artistKey": "quickly quickly",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-04",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ringdown",
+      "album": "Live on KEXP",
+      "artistKey": "ringdown",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13609,6 +13800,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Loidis",
+      "album": "From the Toolkit of Lovers",
+      "artistKey": "loidis",
+      "albumKey": "from the toolkit of lovers",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-03",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Mas Aya & Lido Pimienta",
       "album": "A Guide To The Birdsong Remixed",
       "artistKey": "mas aya and lido pimienta",
@@ -13685,24 +13894,6 @@
       "album": "Mutualkind",
       "artistKey": "asa tone",
       "albumKey": "mutualkind",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Colin Meloy",
-      "album": "Live on KEXP",
-      "artistKey": "colin meloy",
-      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -15139,96 +15330,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Beach Vacation",
-      "album": "Delayed Affection",
-      "artistKey": "beach vacation",
-      "albumKey": "delayed affection",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cornelius",
-      "album": "Refractions",
-      "artistKey": "cornelius",
-      "albumKey": "refractions",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Francisca Valenzuela",
-      "album": "MALDITA",
-      "artistKey": "francisca valenzuela",
-      "albumKey": "maldita",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hologram Teen",
-      "album": "Connection transpacifique (Morcheeba Remix)",
-      "artistKey": "hologram teen",
-      "albumKey": "connection transpacifique morcheeba remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Latroit House Ensemble feat. Latroit, Nick Clow & Nomvula",
-      "album": "Classics, Vol. 1",
-      "artistKey": "latroit house ensemble feat latroit nick clow and nomvula",
-      "albumKey": "classics vol 1",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-23",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lozen",
       "album": "Live on KEXP",
       "artistKey": "lozen",
@@ -15690,24 +15791,6 @@
           "weight": 3,
           "publishedAt": "2026-06-16",
           "url": "https://www.indieshuffle.com/seb-wildblood-folded-ft-jouska/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ecca Vandal",
-      "album": "EYES SHUT",
-      "artistKey": "ecca vandal",
-      "albumKey": "eyes shut",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-06-11",
-          "url": "https://www.indieshuffle.com/ecca-vandal-eyes-shut/"
         }
       ],
       "editorialWeight": 3,

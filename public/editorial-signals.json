@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T14:35:15.449Z",
+  "generatedAt": "2026-11-08T14:41:26.596Z",
   "items": [
     {
       "artist": "brakence",
@@ -815,6 +815,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Donald Fagen",
+      "album": "The Nightfly",
+      "artistKey": "donald fagen",
+      "albumKey": "the nightfly",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-08",
+          "url": "https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Bob Dylan",
       "album": "The Rolling Thunder Revue: The 1976 Live Recordings",
       "artistKey": "bob dylan",
@@ -1222,24 +1240,6 @@
           "weight": 5,
           "publishedAt": "2026-10-30",
           "url": "https://pitchfork.com/reviews/albums/satanic-planet-dead-deities/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Anderson Paak Cordae",
-      "album": "Heavy Is the Crown",
-      "artistKey": "anderson paak cordae",
-      "albumKey": "heavy is the crown",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-10-29",
-          "url": "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/"
         }
       ],
       "editorialWeight": 5,
@@ -9365,6 +9365,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "PISS",
+      "album": "Live on KEXP",
+      "artistKey": "piss",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Rizan Said",
       "album": "Ma Waraa Al-Shaabi (ما وراء الشعبي) / Beyond Shaabi",
       "artistKey": "rizan said",
@@ -13379,20 +13397,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "yaz lancaster",
-      "album": "AFTER",
-      "artistKey": "yaz lancaster",
-      "albumKey": "after",
+      "artist": "Austin TV",
+      "album": "Live on KEXP",
+      "artistKey": "austin tv",
+      "albumKey": "live on kexp",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-11-07",
-          "url": "https://daily.bandcamp.com/album-of-the-day/yaz-lancaster-after-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-08",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hermanos Gutiérrez",
+      "album": "Los Ojos Del Cóndor",
+      "artistKey": "hermanos gutierrez",
+      "albumKey": "los ojos del condor",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Shaky",
+      "album": "Another Late Night",
+      "artistKey": "shaky",
+      "albumKey": "another late night",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-08",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13433,10 +13487,100 @@
       "mentionCount": 1
     },
     {
+      "artist": "CRRDR",
+      "album": "El Sonido Cancioneros Podcast Feature",
+      "artistKey": "crrdr",
+      "albumKey": "el sonido cancioneros podcast feature",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "JAYMYLONI",
       "album": "Sybil Club",
       "artistKey": "jaymyloni",
       "albumKey": "sybil club",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kalia Vandever, Taylor Deupree, Thomas Morgen",
+      "album": "Wither Light and Airy",
+      "artistKey": "kalia vandever taylor deupree thomas morgen",
+      "albumKey": "wither light and airy",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Logic1000 feat. Christine and the Queens",
+      "album": "The Only One (feat. Christine and the Queens) (Hercules & Love Affair Remix)",
+      "artistKey": "logic1000 feat christine and the queens",
+      "albumKey": "the only one feat christine and the queens hercules and love affair remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "motifs",
+      "album": "Live on KEXP",
+      "artistKey": "motifs",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MYXA",
+      "album": "She Wonders (Single)",
+      "artistKey": "myxa",
+      "albumKey": "she wonders single",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13469,10 +13613,100 @@
       "mentionCount": 1
     },
     {
+      "artist": "Rasha Nahas, Or Bareket",
+      "album": "Manaqish",
+      "artistKey": "rasha nahas or bareket",
+      "albumKey": "manaqish",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Squash Blossoms",
+      "album": "You Got Away",
+      "artistKey": "squash blossoms",
+      "albumKey": "you got away",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Supaman",
+      "album": "Pray for Rain",
+      "artistKey": "supaman",
+      "albumKey": "pray for rain",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sycco",
+      "album": "Look Up",
+      "artistKey": "sycco",
+      "albumKey": "look up",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Too Many Zooz",
       "album": "Hip Hop Instrumentals",
       "artistKey": "too many zooz",
       "albumKey": "hip hop instrumentals",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-07",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Waikiflow",
+      "album": "Necesisto aprender a soltar",
+      "artistKey": "waikiflow",
+      "albumKey": "necesisto aprender a soltar",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14927,24 +15161,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "motifs",
-      "album": "Live on KEXP",
-      "artistKey": "motifs",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-27",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Ocean Company",
       "album": "Oscillate",
       "artistKey": "ocean company",
@@ -15125,42 +15341,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Luisa Almaguer",
-      "album": "Sin Lázaro",
-      "artistKey": "luisa almaguer",
-      "albumKey": "sin lazaro",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Saul Williams",
-      "album": "Leap Life",
-      "artistKey": "saul williams",
-      "albumKey": "leap life",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-26",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Stars",
       "album": "Live on KEXP",
       "artistKey": "stars",
@@ -15190,24 +15370,6 @@
           "weight": 3,
           "publishedAt": "2026-10-26",
           "url": "https://www.indieshuffle.com/wallners-movie-stars/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "ĠENN feat. Aidan Moffat",
-      "album": "Jaguar Sun",
-      "artistKey": "genn feat aidan moffat",
-      "albumKey": "jaguar sun",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-25",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

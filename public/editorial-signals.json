@@ -1,6 +1,31 @@
 {
-  "generatedAt": "2026-11-10T15:59:36.846Z",
+  "generatedAt": "2026-11-11T15:45:42.223Z",
   "items": [
+    {
+      "artist": "Shygirl",
+      "album": "SWALLOW!",
+      "artistKey": "shygirl",
+      "albumKey": "swallow",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-11",
+          "url": "https://pitchfork.com/reviews/albums/shygirl-swallow/"
+        },
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-11-05",
+          "url": "https://daily.bandcamp.com/album-of-the-day/shygirl-swallow-review"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
     {
       "artist": "PISS",
       "album": "you made me / skin on linen",
@@ -227,31 +252,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Mandy, Indiana",
-      "album": "URGH",
-      "artistKey": "mandy indiana",
-      "albumKey": "urgh",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-02-03",
-          "url": "https://stereogum.com/2487243/album-of-the-week-mandy-indiana-urgh/reviews/album-of-the-week/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
       "artist": "Interpol",
       "album": "This Mirror Weighs a Ton",
       "artistKey": "interpol",
@@ -261,7 +261,7 @@
           "sourceId": "kexp-song-of-the-day",
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
-          "publishedAt": "2026-11-09",
+          "publishedAt": "2026-11-10",
           "url": "https://www.kexp.org/playlist/"
         },
         {
@@ -295,31 +295,6 @@
           "weight": 5,
           "publishedAt": "2026-11-06",
           "url": "https://pitchfork.com/reviews/albums/untitled-halo-untitled-halo/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Jill Scott",
-      "album": "To Whom This May Concern",
-      "artistKey": "jill scott",
-      "albumKey": "to whom this may concern",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-29",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2026-01-01",
-          "url": "https://theneedledrop.com/loved-list/2026/"
         }
       ],
       "editorialWeight": 10,
@@ -552,6 +527,24 @@
       "mentionCount": 2
     },
     {
+      "artist": "Sufjan Stevens",
+      "album": "Worst Christmas Ever!",
+      "artistKey": "sufjan stevens",
+      "albumKey": "worst christmas ever",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-11",
+          "url": "https://pitchfork.com/reviews/albums/sufjan-stevens-worst-christmas-ever/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Twisted Teens",
       "album": "The Holy Cross Tigers",
       "artistKey": "twisted teens",
@@ -671,6 +664,24 @@
           "weight": 5,
           "publishedAt": "2024-01-01",
           "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Javelin",
+      "artistKey": "sufjan stevens",
+      "albumKey": "javelin",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
         }
       ],
       "editorialWeight": 6,
@@ -801,6 +812,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "The Cats Miaow",
+      "album": "When You Smiled and Turned Away",
+      "artistKey": "the cats miaow",
+      "albumKey": "when you smiled and turned away",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-11",
+          "url": "https://pitchfork.com/reviews/albums/the-cats-miaow-when-you-smiled-and-turned-away/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1193,78 +1222,6 @@
           "weight": 5,
           "publishedAt": "2026-11-03",
           "url": "https://pitchfork.com/reviews/albums/two-shell-infinite-now/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Andy Stott",
-      "album": "Late Loop",
-      "artistKey": "andy stott",
-      "albumKey": "late loop",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-02",
-          "url": "https://pitchfork.com/reviews/albums/andy-stott-late-loop/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ashe",
-      "album": "The Girl of Your Dreams",
-      "artistKey": "ashe",
-      "albumKey": "the girl of your dreams",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-02",
-          "url": "https://pitchfork.com/reviews/albums/ashe-the-girl-of-your-dreams/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Shovel Dance Collective",
-      "album": "Everything in Readiness",
-      "artistKey": "shovel dance collective",
-      "albumKey": "everything in readiness",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-02",
-          "url": "https://pitchfork.com/reviews/albums/shovel-dance-collective-everything-in-readiness/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "William Basinski",
-      "album": "Passing the Cup of Sorrows",
-      "artistKey": "william basinski",
-      "albumKey": "passing the cup of sorrows",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-02",
-          "url": "https://pitchfork.com/reviews/albums/william-basinski-passing-the-cup-of-sorrows/"
         }
       ],
       "editorialWeight": 5,
@@ -1722,6 +1679,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Jill Scott",
+      "album": "To Whom This May Concern",
+      "artistKey": "jill scott",
+      "albumKey": "to whom this may concern",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Kaátaìra",
       "album": "Caminhos de Água",
       "artistKey": "kaataira",
@@ -1762,6 +1737,24 @@
       "album": "status update music",
       "artistKey": "leroy",
       "albumKey": "status update music",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2026-01-01",
+          "url": "https://theneedledrop.com/loved-list/2026/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mandy, Indiana",
+      "album": "URGH",
+      "artistKey": "mandy indiana",
+      "albumKey": "urgh",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -5092,24 +5085,6 @@
       "album": "O Monolith",
       "artistKey": "squid",
       "albumKey": "o monolith",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Sufjan Stevens",
-      "album": "Javelin",
-      "artistKey": "sufjan stevens",
-      "albumKey": "javelin",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9192,6 +9167,78 @@
       "mentionCount": 1
     },
     {
+      "artist": "Chastity Belt",
+      "album": "All My Friends",
+      "artistKey": "chastity belt",
+      "albumKey": "all my friends",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-11-11",
+          "url": "https://daily.bandcamp.com/album-of-the-day/chastity-belt-all-my-friends-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Coil",
+      "album": "Gold is the Metal (with the Broadest Shoulders)",
+      "artistKey": "coil",
+      "albumKey": "gold is the metal with the broadest shoulders",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-11-11",
+          "url": "https://thequietus.com/quietus-reviews/coil/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Interpol",
+      "album": "Live on KEXP",
+      "artistKey": "interpol",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "More Eaze",
+      "album": "Valley and Structure",
+      "artistKey": "more eaze",
+      "albumKey": "valley and structure",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-11-11",
+          "url": "https://thequietus.com/quietus-reviews/more-eaze-valley-and-structure-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Claire Cronin",
       "album": "The Bruise",
       "artistKey": "claire cronin",
@@ -9221,6 +9268,24 @@
           "weight": 4,
           "publishedAt": "2026-11-10",
           "url": "https://daily.bandcamp.com/album-of-the-day/dawuna-loves-arp-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Krill",
+      "album": "Secret Language",
+      "artistKey": "krill",
+      "albumKey": "secret language",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-11-10",
+          "url": "https://stereogum.com/2517187/album-of-the-week-krill-secret-language/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -9300,24 +9365,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Shygirl",
-      "album": "SWALLOW!",
-      "artistKey": "shygirl",
-      "albumKey": "swallow",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-11-05",
-          "url": "https://daily.bandcamp.com/album-of-the-day/shygirl-swallow-review"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Silverwingkiller",
       "album": "Desperate Struggle",
       "artistKey": "silverwingkiller",
@@ -9390,24 +9437,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Marta Salogni & Stefano Pilia",
-      "album": "Phren",
-      "artistKey": "marta salogni and stefano pilia",
-      "albumKey": "phren",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-11-03",
-          "url": "https://thequietus.com/quietus-reviews/marta-salogni-stefano-pilia-phren-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Moses Boyd",
       "album": "Songs For Sinners",
       "artistKey": "moses boyd",
@@ -9459,24 +9488,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Last Path",
-      "album": "Blunt Synopsis",
-      "artistKey": "the last path",
-      "albumKey": "blunt synopsis",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-11-02",
-          "url": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -13458,20 +13469,110 @@
       "mentionCount": 1
     },
     {
-      "artist": "Zig-Zag Band",
-      "album": "Chigiyo Music Kings 1987–1998",
-      "artistKey": "zig zag band",
-      "albumKey": "chigiyo music kings 1987 1998",
+      "artist": "ACTORS",
+      "album": "Our Love Will Live Forever",
+      "artistKey": "actors",
+      "albumKey": "our love will live forever",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-11-10",
-          "url": "https://daily.bandcamp.com/album-of-the-day/zig-zag-band-chigiyo-music-kings-1987-1998"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-11",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Flowers Must Die",
+      "album": "Tystnad",
+      "artistKey": "flowers must die",
+      "albumKey": "tystnad",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kareen Lomax",
+      "album": "NAJI",
+      "artistKey": "kareen lomax",
+      "albumKey": "naji",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "KNEECAP & Kelly Lee Owens",
+      "album": "FENIAN (Kelly Lee Owens Remix)",
+      "artistKey": "kneecap and kelly lee owens",
+      "albumKey": "fenian kelly lee owens remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Marlon Funaki",
+      "album": "when sunday comes around",
+      "artistKey": "marlon funaki",
+      "albumKey": "when sunday comes around",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-11-11",
+          "url": "https://www.indieshuffle.com/marlon-funaki-when-sunday-comes-around/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MJ Lenderman",
+      "album": "Heart Of Gold: The Songs of Neil Young, Vol. 3 - Into The Black",
+      "artistKey": "mj lenderman",
+      "albumKey": "heart of gold the songs of neil young vol 3 into the black",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-11",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13602,6 +13703,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Gurriers",
+      "album": "Nobody's Coming to Save You",
+      "artistKey": "gurriers",
+      "albumKey": "nobodys coming to save you",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Johan Agebjörn",
       "album": "Casablanca Nights 2: The Unveiled Chapter",
       "artistKey": "johan agebjorn",
@@ -13714,6 +13833,24 @@
       "album": "Fortunia",
       "artistKey": "otom",
       "albumKey": "fortunia",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-10",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Pixies",
+      "album": "Go Man Go / Dig for Fire (Albini version)",
+      "artistKey": "pixies",
+      "albumKey": "go man go dig for fire albini version",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14398,24 +14535,6 @@
       "album": "Dancing On The Wall (Deluxe Edition)",
       "artistKey": "muna",
       "albumKey": "dancing on the wall deluxe edition",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Pixies",
-      "album": "Go Man Go / Dig for Fire (Albini version)",
-      "artistKey": "pixies",
-      "albumKey": "go man go dig for fire albini version",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -15186,150 +15305,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "2Krispii",
-      "album": "Every Conservative in America Right Now",
-      "artistKey": "2krispii",
-      "albumKey": "every conservative in america right now",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Adrian Younge & Ali Shaheed Muhammad",
-      "album": "The Midnight Hour: Lost Tapes JID028",
-      "artistKey": "adrian younge and ali shaheed muhammad",
-      "albumKey": "the midnight hour lost tapes jid028",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Darlynn",
-      "album": "Dyke Den",
-      "artistKey": "darlynn",
-      "albumKey": "dyke den",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Francis of Delirium",
-      "album": "Run, Run Pure Beauty",
-      "artistKey": "francis of delirium",
-      "albumKey": "run run pure beauty",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hearts Apart",
-      "album": "Xanax, Dramas & Rock'n'Roll",
-      "artistKey": "hearts apart",
-      "albumKey": "xanax dramas and rocknroll",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Keep Shelly in Athens",
-      "album": "Still",
-      "artistKey": "keep shelly in athens",
-      "albumKey": "still",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kelela & PinkPantheress",
-      "album": "new avatar",
-      "artistKey": "kelela and pinkpantheress",
-      "albumKey": "new avatar",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Latroit House Ensemble feat. Latroit, Nomvula & Soweto Gospel Choir",
-      "album": "Classics, Vol. 1",
-      "artistKey": "latroit house ensemble feat latroit nomvula and soweto gospel choir",
-      "albumKey": "classics vol 1",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Liam Mour",
       "album": "Brian Damage",
       "artistKey": "liam mour",
@@ -15341,42 +15316,6 @@
           "weight": 3,
           "publishedAt": "2026-10-29",
           "url": "https://www.indieshuffle.com/liam-mour-brian-damage/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Rochelle Jordan",
-      "album": "Disc 1",
-      "artistKey": "rochelle jordan",
-      "albumKey": "disc 1",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-29",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Thao",
-      "album": "Live on KEXP",
-      "artistKey": "thao",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-10-29",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

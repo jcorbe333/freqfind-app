@@ -1,6 +1,31 @@
 {
-  "generatedAt": "2026-11-12T16:29:11.473Z",
+  "generatedAt": "2026-11-13T15:50:40.200Z",
   "items": [
+    {
+      "artist": "Krill",
+      "album": "Secret Language",
+      "artistKey": "krill",
+      "albumKey": "secret language",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-13",
+          "url": "https://pitchfork.com/reviews/albums/krill-secret-language/"
+        },
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-11-10",
+          "url": "https://stereogum.com/2517187/album-of-the-week-krill-secret-language/reviews/album-of-the-week/"
+        }
+      ],
+      "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
     {
       "artist": "Dawuna",
       "album": "Love’s Arp",
@@ -70,31 +95,6 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "June McDoom",
-      "album": "Follow The Light",
-      "artistKey": "june mcdoom",
-      "albumKey": "follow the light",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-04",
-          "url": "https://pitchfork.com/reviews/albums/june-mcdoom-follow-the-light/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-10-21",
-          "url": "https://daily.bandcamp.com/album-of-the-day/june-mcdoom-follow-the-light-review"
         }
       ],
       "editorialWeight": 11,
@@ -527,29 +527,22 @@
       "mentionCount": 2
     },
     {
-      "artist": "Ceremony",
-      "album": "Tell Me Your Dream",
-      "artistKey": "ceremony",
-      "albumKey": "tell me your dream",
+      "artist": "Armand Hammer",
+      "album": "Snakes & Ladders",
+      "artistKey": "armand hammer",
+      "albumKey": "snakes and ladders",
       "sources": [
         {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-03",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-08-04",
-          "url": "https://stereogum.com/2506867/album-of-the-week-ceremony-tell-me-your-dream/reviews/album-of-the-week/"
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-13",
+          "url": "https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/"
         }
       ],
-      "editorialWeight": 9,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
     },
     {
       "artist": "Sun Araw",
@@ -689,6 +682,24 @@
           "weight": 5,
           "publishedAt": "2024-01-01",
           "url": "https://theneedledrop.com/loved-list/2024/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Armand Hammer",
+      "album": "We Buy Diabetic Test Strips",
+      "artistKey": "armand hammer",
+      "albumKey": "we buy diabetic test strips",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
         }
       ],
       "editorialWeight": 6,
@@ -840,6 +851,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Grumpy",
+      "album": "Unfindable Ring",
+      "artistKey": "grumpy",
+      "albumKey": "unfindable ring",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-13",
+          "url": "https://pitchfork.com/reviews/albums/grumpy-unfindable-ring/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wavves",
+      "album": "Cherry Soda",
+      "artistKey": "wavves",
+      "albumKey": "cherry soda",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-13",
+          "url": "https://pitchfork.com/reviews/albums/wavves-cherry-soda/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "2hollis",
       "album": "Pirouette",
       "artistKey": "2hollis",
@@ -851,6 +898,24 @@
           "weight": 5,
           "publishedAt": "2026-11-12",
           "url": "https://pitchfork.com/reviews/albums/2hollis-pirouette/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "U2",
+      "album": "Carnaval De Luz",
+      "artistKey": "u2",
+      "albumKey": "carnaval de luz",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-12",
+          "url": "https://pitchfork.com/reviews/albums/u2-carnaval-de-luz/"
         }
       ],
       "editorialWeight": 5,
@@ -1146,60 +1211,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Baby Osamaa",
-      "album": "On Tha Run",
-      "artistKey": "baby osamaa",
-      "albumKey": "on tha run",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-04",
-          "url": "https://pitchfork.com/reviews/albums/baby-osamaa-on-tha-run/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Dis Fig",
-      "album": "What to Make of These Mortal Hands",
-      "artistKey": "dis fig",
-      "albumKey": "what to make of these mortal hands",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-04",
-          "url": "https://pitchfork.com/reviews/albums/dis-fig-what-to-make-of-these-mortal-hands/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Niagara",
-      "album": "Catedral Gótica",
-      "artistKey": "niagara",
-      "albumKey": "catedral gotica",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-04",
-          "url": "https://pitchfork.com/reviews/albums/niagara-catedral-gotica/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "SUN ARAW",
       "album": "Rapid Response",
       "artistKey": "sun araw",
@@ -1211,24 +1222,6 @@
           "weight": 4,
           "publishedAt": "2026-10-26",
           "url": "https://daily.bandcamp.com/album-of-the-day/sun-araw-rapid-response-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Greg Freeman",
-      "album": "All Set The Bone",
-      "artistKey": "greg freeman",
-      "albumKey": "all set the bone",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-09-29",
-          "url": "https://stereogum.com/2512728/album-of-the-week-greg-freeman-all-set-the-bone/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 5,
@@ -4246,24 +4239,6 @@
       "album": "My Back Was a Bridge for You to Cross",
       "artistKey": "anohni and the johnsons",
       "albumKey": "my back was a bridge for you to cross",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Armand Hammer",
-      "album": "We Buy Diabetic Test Strips",
-      "artistKey": "armand hammer",
-      "albumKey": "we buy diabetic test strips",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9156,6 +9131,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Donwill & The Expert",
+      "album": "EXPERTISE",
+      "artistKey": "donwill and the expert",
+      "albumKey": "expertise",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-11-13",
+          "url": "https://daily.bandcamp.com/album-of-the-day/donwill-the-expert-expertise-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Tara Cunningham",
+      "album": "Warm Ground",
+      "artistKey": "tara cunningham",
+      "albumKey": "warm ground",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-11-13",
+          "url": "https://thequietus.com/quietus-reviews/tara-cunningham-warm-ground-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Spydergum",
       "album": "Spydergum",
       "artistKey": "spydergum",
@@ -9282,24 +9293,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Krill",
-      "album": "Secret Language",
-      "artistKey": "krill",
-      "albumKey": "secret language",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-11-10",
-          "url": "https://stereogum.com/2517187/album-of-the-week-krill-secret-language/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Ana Lua Caiano",
       "album": "Devagar Que A Vida É Curta",
       "artistKey": "ana lua caiano",
@@ -9365,24 +9358,6 @@
           "weight": 4,
           "publishedAt": "2026-11-06",
           "url": "https://thequietus.com/quietus-reviews/rizan-said/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Silverwingkiller",
-      "album": "Desperate Struggle",
-      "artistKey": "silverwingkiller",
-      "albumKey": "desperate struggle",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-11-05",
-          "url": "https://thequietus.com/quietus-reviews/silverwingkiller-desperate-struggle/"
         }
       ],
       "editorialWeight": 4,
@@ -9459,24 +9434,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Greg Freeman",
-      "album": "Live on KEXP",
-      "artistKey": "greg freeman",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9599,6 +9556,24 @@
           "weight": 4,
           "publishedAt": "2026-10-22",
           "url": "https://daily.bandcamp.com/album-of-the-day/kill-alters-we-can-rot-together-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "June McDoom",
+      "album": "Follow The Light",
+      "artistKey": "june mcdoom",
+      "albumKey": "follow the light",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-21",
+          "url": "https://daily.bandcamp.com/album-of-the-day/june-mcdoom-follow-the-light-review"
         }
       ],
       "editorialWeight": 4,
@@ -9887,6 +9862,24 @@
           "weight": 4,
           "publishedAt": "2026-09-29",
           "url": "https://daily.bandcamp.com/album-of-the-day/anne-waldman-thurston-moore-james-ilgenfritz-anagram-ensemble-the-travel-agency-is-on-fire-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Greg Freeman",
+      "album": "All Set The Bone",
+      "artistKey": "greg freeman",
+      "albumKey": "all set the bone",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-09-29",
+          "url": "https://stereogum.com/2512728/album-of-the-week-greg-freeman-all-set-the-bone/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -10571,6 +10564,24 @@
           "weight": 4,
           "publishedAt": "2026-08-05",
           "url": "https://daily.bandcamp.com/album-of-the-day/manuela-ocampo-ocasos-y-albas-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Ceremony",
+      "album": "Tell Me Your Dream",
+      "artistKey": "ceremony",
+      "albumKey": "tell me your dream",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-08-04",
+          "url": "https://stereogum.com/2506867/album-of-the-week-ceremony-tell-me-your-dream/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -13422,20 +13433,38 @@
       "mentionCount": 1
     },
     {
-      "artist": "Shungu",
-      "album": "Faith In The Unknown",
-      "artistKey": "shungu",
-      "albumKey": "faith in the unknown",
+      "artist": "Robyn",
+      "album": "Expression on Your Face / Fembot",
+      "artistKey": "robyn",
+      "albumKey": "expression on your face fembot",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-11-12",
-          "url": "https://daily.bandcamp.com/album-of-the-day/shungu-faith-in-the-unknown-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-13",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Thandii x Regalado",
+      "album": "Coco Okayo",
+      "artistKey": "thandii x regalado",
+      "albumKey": "coco okayo",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13522,7 +13551,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-11-12",
-          "url": "https://www.indieshuffle.com/jamal-bucanon-live-like-this-seb-wildblood-remix/"
+          "url": "https://www.indieshuffle.com/jamal-bucanon-live-like-this-seb-wildblood-remix"
         }
       ],
       "editorialWeight": 3,
@@ -13720,7 +13749,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-11-11",
-          "url": "https://www.indieshuffle.com/marlon-funaki-when-sunday-comes-around/"
+          "url": "https://www.indieshuffle.com/marlon-funaki-when-sunday-comes-around"
         }
       ],
       "editorialWeight": 3,
@@ -14718,24 +14747,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Thandii x Regalado",
-      "album": "Coco Okayo",
-      "artistKey": "thandii x regalado",
-      "albumKey": "coco okayo",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Tomo Nakayama",
       "album": "Melonday",
       "artistKey": "tomo nakayama",
@@ -14782,7 +14793,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-11-05",
-          "url": "https://www.indieshuffle.com/chvrches-roses/"
+          "url": "https://www.indieshuffle.com/chvrches-roses"
         }
       ],
       "editorialWeight": 3,
@@ -15024,60 +15035,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Acapulco",
-      "album": "Pipe Dreams",
-      "artistKey": "acapulco",
-      "albumKey": "pipe dreams",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Atlas Sound",
-      "album": "Octoberland",
-      "artistKey": "atlas sound",
-      "albumKey": "octoberland",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Cate Le Bon",
-      "album": "Everybody's Got a Song to Sing",
-      "artistKey": "cate le bon",
-      "albumKey": "everybodys got a song to sing",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Duval Timothy",
       "album": "Fall Again (Ft. Lil Silva & Melanie Faye)",
       "artistKey": "duval timothy",
@@ -15088,7 +15045,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-11-03",
-          "url": "https://www.indieshuffle.com/duval-timothy-fall-again-ft-lil-silva-melanie-faye/"
+          "url": "https://www.indieshuffle.com/duval-timothy-fall-again-ft-lil-silva-melanie-faye"
         }
       ],
       "editorialWeight": 3,
@@ -15106,25 +15063,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-11-03",
-          "url": "https://www.indieshuffle.com/garren-sean-ur-voice/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jack Tiraquon",
-      "album": "The World Is Overhead",
-      "artistKey": "jack tiraquon",
-      "albumKey": "the world is overhead",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-03",
-          "url": "https://www.kexp.org/playlist/"
+          "url": "https://www.indieshuffle.com/garren-sean-ur-voice"
         }
       ],
       "editorialWeight": 3,
@@ -15136,42 +15075,6 @@
       "album": "Live on KEXP",
       "artistKey": "lime garden",
       "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Loidis",
-      "album": "From the Toolkit of Lovers",
-      "artistKey": "loidis",
-      "albumKey": "from the toolkit of lovers",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mas Aya & Lido Pimienta",
-      "album": "A Guide To The Birdsong Remixed",
-      "artistKey": "mas aya and lido pimienta",
-      "albumKey": "a guide to the birdsong remixed",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -15204,78 +15107,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Dolours",
-      "album": "Parade",
-      "artistKey": "dolours",
-      "albumKey": "parade",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Nine Perfect Lives",
-      "album": "Die",
-      "artistKey": "nine perfect lives",
-      "albumKey": "die",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Tame Impala",
-      "album": "Triple J's Like a Version",
-      "artistKey": "tame impala",
-      "albumKey": "triple js like a version",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wolf Alice",
-      "album": "Visions of a Life",
-      "artistKey": "wolf alice",
-      "albumKey": "visions of a life",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-02",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Angus & Julia Stone",
       "album": "Monroe",
       "artistKey": "angus and julia stone",
@@ -15286,7 +15117,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-11-01",
-          "url": "https://www.indieshuffle.com/angus-julia-stone-monroe/"
+          "url": "https://www.indieshuffle.com/angus-julia-stone-monroe"
         }
       ],
       "editorialWeight": 3,
@@ -15304,7 +15135,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-10-29",
-          "url": "https://www.indieshuffle.com/liam-mour-brian-damage/"
+          "url": "https://www.indieshuffle.com/liam-mour-brian-damage"
         }
       ],
       "editorialWeight": 3,
@@ -15322,7 +15153,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-10-28",
-          "url": "https://www.indieshuffle.com/michael-kiwanuka-summer-clothes/"
+          "url": "https://www.indieshuffle.com/michael-kiwanuka-summer-clothes"
         }
       ],
       "editorialWeight": 3,
@@ -15340,7 +15171,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-10-26",
-          "url": "https://www.indieshuffle.com/wallners-movie-stars/"
+          "url": "https://www.indieshuffle.com/wallners-movie-stars"
         }
       ],
       "editorialWeight": 3,
@@ -15358,7 +15189,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-10-23",
-          "url": "https://www.indieshuffle.com/snazzy-all-in-due-time/"
+          "url": "https://www.indieshuffle.com/snazzy-all-in-due-time"
         }
       ],
       "editorialWeight": 3,
@@ -15376,7 +15207,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-10-21",
-          "url": "https://www.indieshuffle.com/yung-lean-storm-ii-ft-gener8ion/"
+          "url": "https://www.indieshuffle.com/yung-lean-storm-ii-ft-gener8ion"
         }
       ],
       "editorialWeight": 3,
@@ -15394,7 +15225,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-10-12",
-          "url": "https://www.indieshuffle.com/dncr-rgh/"
+          "url": "https://www.indieshuffle.com/dncr-rgh"
         }
       ],
       "editorialWeight": 3,
@@ -15412,7 +15243,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-10-09",
-          "url": "https://www.indieshuffle.com/majid-jordan-best-behaviour-feat-clementine-douglas/"
+          "url": "https://www.indieshuffle.com/majid-jordan-best-behaviour-feat-clementine-douglas"
         }
       ],
       "editorialWeight": 3,
@@ -15430,7 +15261,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-09-28",
-          "url": "https://www.indieshuffle.com/arlo-parks-senses-ft-sampha/"
+          "url": "https://www.indieshuffle.com/arlo-parks-senses-ft-sampha"
         }
       ],
       "editorialWeight": 3,
@@ -15448,7 +15279,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-09-15",
-          "url": "https://www.indieshuffle.com/oscar-lindsey-painting-the-walls/"
+          "url": "https://www.indieshuffle.com/oscar-lindsey-painting-the-walls"
         }
       ],
       "editorialWeight": 3,
@@ -15466,7 +15297,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-09-11",
-          "url": "https://www.indieshuffle.com/hockitay-half-smile/"
+          "url": "https://www.indieshuffle.com/hockitay-half-smile"
         }
       ],
       "editorialWeight": 3,
@@ -15484,7 +15315,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-09-08",
-          "url": "https://www.indieshuffle.com/mackeeper-holy-moses/"
+          "url": "https://www.indieshuffle.com/mackeeper-holy-moses"
         }
       ],
       "editorialWeight": 3,
@@ -15502,7 +15333,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-08-25",
-          "url": "https://www.indieshuffle.com/beatenberg-scatterlings-ft-johnny-clegg/"
+          "url": "https://www.indieshuffle.com/beatenberg-scatterlings-ft-johnny-clegg"
         }
       ],
       "editorialWeight": 3,
@@ -15520,7 +15351,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-08-20",
-          "url": "https://www.indieshuffle.com/bonobo-always-on-your-side-ft-joy-crookes/"
+          "url": "https://www.indieshuffle.com/bonobo-always-on-your-side-ft-joy-crookes"
         }
       ],
       "editorialWeight": 3,
@@ -15538,7 +15369,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-08-20",
-          "url": "https://www.indieshuffle.com/no-new-lovers-cycles/"
+          "url": "https://www.indieshuffle.com/no-new-lovers-cycles"
         }
       ],
       "editorialWeight": 3,
@@ -15556,7 +15387,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-08-17",
-          "url": "https://www.indieshuffle.com/fred-again-mabe-ft-latin-mafia-mabe-fratti/"
+          "url": "https://www.indieshuffle.com/fred-again-mabe-ft-latin-mafia-mabe-fratti"
         }
       ],
       "editorialWeight": 3,
@@ -15574,7 +15405,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-08-14",
-          "url": "https://www.indieshuffle.com/angus-julia-stone-celestial-bodies/"
+          "url": "https://www.indieshuffle.com/angus-julia-stone-celestial-bodies"
         }
       ],
       "editorialWeight": 3,
@@ -15592,7 +15423,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-08-06",
-          "url": "https://www.indieshuffle.com/brandano-life-g-on/"
+          "url": "https://www.indieshuffle.com/brandano-life-g-on"
         }
       ],
       "editorialWeight": 3,
@@ -15610,7 +15441,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-08-01",
-          "url": "https://www.indieshuffle.com/sofi-tukker-barthelona/"
+          "url": "https://www.indieshuffle.com/sofi-tukker-barthelona"
         }
       ],
       "editorialWeight": 3,
@@ -15628,7 +15459,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-07-28",
-          "url": "https://www.indieshuffle.com/balming-tiger-oui/"
+          "url": "https://www.indieshuffle.com/balming-tiger-oui"
         }
       ],
       "editorialWeight": 3,
@@ -15646,7 +15477,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-07-25",
-          "url": "https://www.indieshuffle.com/retro-kid-let-it-out/"
+          "url": "https://www.indieshuffle.com/retro-kid-let-it-out"
         }
       ],
       "editorialWeight": 3,
@@ -15664,7 +15495,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-07-24",
-          "url": "https://www.indieshuffle.com/winn-winn-give-af/"
+          "url": "https://www.indieshuffle.com/winn-winn-give-af"
         }
       ],
       "editorialWeight": 3,
@@ -15682,7 +15513,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-07-22",
-          "url": "https://www.indieshuffle.com/doc-rhombus-shaken-up/"
+          "url": "https://www.indieshuffle.com/doc-rhombus-shaken-up"
         }
       ],
       "editorialWeight": 3,
@@ -15700,7 +15531,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-07-20",
-          "url": "https://www.indieshuffle.com/rowena-wise-blood-ties/"
+          "url": "https://www.indieshuffle.com/rowena-wise-blood-ties"
         }
       ],
       "editorialWeight": 3,
@@ -15718,7 +15549,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-07-08",
-          "url": "https://www.indieshuffle.com/jjerome87-track-and-field/"
+          "url": "https://www.indieshuffle.com/jjerome87-track-and-field"
         }
       ],
       "editorialWeight": 3,
@@ -15736,7 +15567,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-07-05",
-          "url": "https://www.indieshuffle.com/matt-maltese-coward-ft-biig-piig/"
+          "url": "https://www.indieshuffle.com/matt-maltese-coward-ft-biig-piig"
         }
       ],
       "editorialWeight": 3,
@@ -15754,7 +15585,7 @@
           "sourceLabel": "IndieShuffle",
           "weight": 3,
           "publishedAt": "2026-06-29",
-          "url": "https://www.indieshuffle.com/john-conway-forget-him/"
+          "url": "https://www.indieshuffle.com/john-conway-forget-him"
         }
       ],
       "editorialWeight": 3,

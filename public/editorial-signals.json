@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T15:50:40.200Z",
+  "generatedAt": "2026-11-14T14:41:49.328Z",
   "items": [
     {
       "artist": "Krill",
@@ -273,6 +273,31 @@
         }
       ],
       "editorialWeight": 11,
+      "multiSourceBonus": 2,
+      "mentionCount": 2
+    },
+    {
+      "artist": "U2",
+      "album": "Carnaval De Luz",
+      "artistKey": "u2",
+      "albumKey": "carnaval de luz",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-13",
+          "url": "https://www.kexp.org/playlist/"
+        },
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-12",
+          "url": "https://pitchfork.com/reviews/albums/u2-carnaval-de-luz/"
+        }
+      ],
+      "editorialWeight": 10,
       "multiSourceBonus": 2,
       "mentionCount": 2
     },
@@ -797,24 +822,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Phoebe Bridgers",
-      "album": "Punisher",
-      "artistKey": "phoebe bridgers",
-      "albumKey": "punisher",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Daphni",
       "album": "Sizzling",
       "artistKey": "daphni",
@@ -848,6 +855,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hiroshi Yoshimura",
+      "album": "Quiet Forest",
+      "artistKey": "hiroshi yoshimura",
+      "albumKey": "quiet forest",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-14",
+          "url": "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -898,24 +923,6 @@
           "weight": 5,
           "publishedAt": "2026-11-12",
           "url": "https://pitchfork.com/reviews/albums/2hollis-pirouette/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "U2",
-      "album": "Carnaval De Luz",
-      "artistKey": "u2",
-      "albumKey": "carnaval de luz",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-12",
-          "url": "https://pitchfork.com/reviews/albums/u2-carnaval-de-luz/"
         }
       ],
       "editorialWeight": 5,
@@ -1168,24 +1175,6 @@
           "weight": 5,
           "publishedAt": "2026-11-05",
           "url": "https://pitchfork.com/reviews/albums/brat-star-southern-ontario-gothic/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "John Errol",
-      "album": "Damage",
-      "artistKey": "john errol",
-      "albumKey": "damage",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-05",
-          "url": "https://pitchfork.com/reviews/albums/john-errol-damage/"
         }
       ],
       "editorialWeight": 5,
@@ -8051,6 +8040,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Phoebe Bridgers",
+      "album": "Punisher",
+      "artistKey": "phoebe bridgers",
+      "albumKey": "punisher",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Poppy",
       "album": "I Disagree",
       "artistKey": "poppy",
@@ -9380,24 +9387,6 @@
       ],
       "editorialWeight": 4,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Phoebe Bridgers",
-      "album": "Lost Weekend",
-      "artistKey": "phoebe bridgers",
-      "albumKey": "lost weekend",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -13415,20 +13404,110 @@
       "mentionCount": 1
     },
     {
-      "artist": "Sister Irene O’Connor",
-      "album": "Fire of God’s Love",
-      "artistKey": "sister irene oconnor",
-      "albumKey": "fire of gods love",
+      "artist": "Baauer & Krystal Klear",
+      "album": "U Give Me Love (Krystal Klear Remix)",
+      "artistKey": "baauer and krystal klear",
+      "albumKey": "u give me love krystal klear remix",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-11-13",
-          "url": "https://daily.bandcamp.com/album-of-the-day/sister-irene-oconnor-fire-of-gods-love-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-13",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Breeze",
+      "album": "Lobster",
+      "artistKey": "breeze",
+      "albumKey": "lobster",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Erykah Badu & The Alchemist feat. Steve Lacy",
+      "album": "Before The World Blows",
+      "artistKey": "erykah badu and the alchemist feat steve lacy",
+      "albumKey": "before the world blows",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jody Glenham, Devours",
+      "album": "Overtime (Devours Remix)",
+      "artistKey": "jody glenham devours",
+      "albumKey": "overtime devours remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "MUNA",
+      "album": "Dancing On The Wall (Deluxe Edition)",
+      "artistKey": "muna",
+      "albumKey": "dancing on the wall deluxe edition",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Neko Case",
+      "album": "Live on KEXP",
+      "artistKey": "neko case",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-13",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -14729,24 +14808,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "MUNA",
-      "album": "Dancing On The Wall (Deluxe Edition)",
-      "artistKey": "muna",
-      "albumKey": "dancing on the wall deluxe edition",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-06",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Tomo Nakayama",
       "album": "Melonday",
       "artistKey": "tomo nakayama",
@@ -14927,42 +14988,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Howlin Rain & Ty Segall",
-      "album": "Watermelon",
-      "artistKey": "howlin rain and ty segall",
-      "albumKey": "watermelon",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Man/Woman/Chainsaw",
-      "album": "Cannonball",
-      "artistKey": "man woman chainsaw",
-      "albumKey": "cannonball",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Omari Jazz, Bocha, Donte Thomas",
       "album": "Live on KEXP",
       "artistKey": "omari jazz bocha donte thomas",
@@ -15017,24 +15042,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Avalanches feat. Nikki Nair, Jessy Lanza & Prentiss",
-      "album": "Together (Remixes)",
-      "artistKey": "the avalanches feat nikki nair jessy lanza and prentiss",
-      "albumKey": "together remixes",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Duval Timothy",
       "album": "Fall Again (Ft. Lil Silva & Melanie Faye)",
       "artistKey": "duval timothy",
@@ -15064,42 +15071,6 @@
           "weight": 3,
           "publishedAt": "2026-11-03",
           "url": "https://www.indieshuffle.com/garren-sean-ur-voice"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Lime Garden",
-      "album": "Live on KEXP",
-      "artistKey": "lime garden",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-03",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Watergirls",
-      "album": "The Whole of the Moon",
-      "artistKey": "the watergirls",
-      "albumKey": "the whole of the moon",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-03",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,
@@ -15568,24 +15539,6 @@
           "weight": 3,
           "publishedAt": "2026-07-05",
           "url": "https://www.indieshuffle.com/matt-maltese-coward-ft-biig-piig"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Josh Conway",
-      "album": "forget him",
-      "artistKey": "josh conway",
-      "albumKey": "forget him",
-      "sources": [
-        {
-          "sourceId": "indieshuffle",
-          "sourceLabel": "IndieShuffle",
-          "weight": 3,
-          "publishedAt": "2026-06-29",
-          "url": "https://www.indieshuffle.com/john-conway-forget-him"
         }
       ],
       "editorialWeight": 3,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T14:41:49.328Z",
+  "generatedAt": "2026-11-15T15:11:01.956Z",
   "items": [
     {
       "artist": "Krill",
@@ -858,6 +858,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "artistKey": "pearl jam",
+      "albumKey": "yield",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-15",
+          "url": "https://pitchfork.com/reviews/albums/pearl-jam-yield/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Hiroshi Yoshimura",
       "album": "Quiet Forest",
       "artistKey": "hiroshi yoshimura",
@@ -1157,24 +1175,6 @@
           "weight": 5,
           "publishedAt": "2026-11-06",
           "url": "https://pitchfork.com/reviews/albums/nomi-this-wolf-may-cry/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Brat Star",
-      "album": "Southern Ontario Gothic",
-      "artistKey": "brat star",
-      "albumKey": "southern ontario gothic",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-05",
-          "url": "https://pitchfork.com/reviews/albums/brat-star-southern-ontario-gothic/"
         }
       ],
       "editorialWeight": 5,
@@ -13386,20 +13386,128 @@
       "mentionCount": 1
     },
     {
-      "artist": "Red River Dialect",
-      "album": "Basic Country Mustard",
-      "artistKey": "red river dialect",
-      "albumKey": "basic country mustard",
+      "artist": "El Búho",
+      "album": "Hogar",
+      "artistKey": "el buho",
+      "albumKey": "hogar",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-11-14",
-          "url": "https://daily.bandcamp.com/album-of-the-day/red-river-dialect-basic-country-mustard-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-15",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Helado Tropical",
+      "album": "Live on KEXP",
+      "artistKey": "helado tropical",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Japanese Heart Software",
+      "album": "Desiderium",
+      "artistKey": "japanese heart software",
+      "albumKey": "desiderium",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "New World Man",
+      "album": "I Am the Machine",
+      "artistKey": "new world man",
+      "albumKey": "i am the machine",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "XELTA",
+      "album": "B.D.S.M.",
+      "artistKey": "xelta",
+      "albumKey": "b d s m",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-15",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jamie She",
+      "album": "Funeral Songs",
+      "artistKey": "jamie she",
+      "albumKey": "funeral songs",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Robin Kester",
+      "album": "Perspective (Tom Sharkett Remix)",
+      "artistKey": "robin kester",
+      "albumKey": "perspective tom sharkett remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-14",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -14376,24 +14484,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Robin Kester",
-      "album": "Perspective (Tom Sharkett Remix)",
-      "artistKey": "robin kester",
-      "albumKey": "perspective tom sharkett remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-09",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Austin TV",
       "album": "Live on KEXP",
       "artistKey": "austin tv",
@@ -14826,24 +14916,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Amen Dunes",
-      "album": "Freedom",
-      "artistKey": "amen dunes",
-      "albumKey": "freedom",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "CHVRCHES",
       "album": "Roses",
       "artistKey": "chvrches",
@@ -14916,42 +14988,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "IMIJ",
-      "album": "IMIJ",
-      "artistKey": "imij",
-      "albumKey": "imij",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "L.A. Witch",
-      "album": "L.A. WITCH",
-      "artistKey": "l a witch",
-      "albumKey": "l a witch",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Mammút",
       "album": "River's End",
       "artistKey": "mammut",
@@ -14962,78 +14998,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-11-05",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Colin Meloy",
-      "album": "Live on KEXP",
-      "artistKey": "colin meloy",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Omari Jazz, Bocha, Donte Thomas",
-      "album": "Live on KEXP",
-      "artistKey": "omari jazz bocha donte thomas",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "quickly, quickly",
-      "album": "Live on KEXP",
-      "artistKey": "quickly quickly",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-04",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Ringdown",
-      "album": "Live on KEXP",
-      "artistKey": "ringdown",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-04",
           "url": "https://www.kexp.org/playlist/"
         }
       ],

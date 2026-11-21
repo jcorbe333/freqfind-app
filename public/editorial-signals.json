@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T16:35:04.817Z",
+  "generatedAt": "2026-11-21T15:51:13.358Z",
   "items": [
     {
       "artist": "Armand Hammer",
@@ -477,24 +477,6 @@
       "mentionCount": 2
     },
     {
-      "artist": "Sun Araw",
-      "album": "Rapid Response EP",
-      "artistKey": "sun araw",
-      "albumKey": "rapid response ep",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-12",
-          "url": "https://pitchfork.com/reviews/albums/sun-araw-rapid-response-ep/"
-        }
-      ],
-      "editorialWeight": 6,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "Tierra Whack",
       "album": "WHACK'S MUSEUM",
       "artistKey": "tierra whack",
@@ -726,6 +708,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Rem",
+      "album": "Reveal (25th Anniversary Edition)",
+      "artistKey": "rem",
+      "albumKey": "reveal 25th anniversary edition",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-21",
+          "url": "https://pitchfork.com/reviews/albums/rem-reveal-25th-anniversary-edition/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1122,24 +1122,6 @@
       ],
       "editorialWeight": 5,
       "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "SUN ARAW",
-      "album": "Rapid Response",
-      "artistKey": "sun araw",
-      "albumKey": "rapid response",
-      "sources": [
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-10-26",
-          "url": "https://daily.bandcamp.com/album-of-the-day/sun-araw-rapid-response-review"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 1,
       "mentionCount": 1
     },
     {
@@ -9423,24 +9405,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Interpol",
-      "album": "Live on KEXP",
-      "artistKey": "interpol",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 1,
-      "mentionCount": 1
-    },
-    {
       "artist": "x.y.r.",
       "album": "Saga",
       "artistKey": "x y r",
@@ -9596,6 +9560,24 @@
           "weight": 4,
           "publishedAt": "2026-10-27",
           "url": "https://daily.bandcamp.com/album-of-the-day/orchestra-baobab-made-in-senegal-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "SUN ARAW",
+      "album": "Rapid Response",
+      "artistKey": "sun araw",
+      "albumKey": "rapid response",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-10-26",
+          "url": "https://daily.bandcamp.com/album-of-the-day/sun-araw-rapid-response-review"
         }
       ],
       "editorialWeight": 4,
@@ -13473,20 +13455,56 @@
       "mentionCount": 1
     },
     {
-      "artist": "DJ Lag",
-      "album": "Southside Mixtape",
-      "artistKey": "dj lag",
-      "albumKey": "southside mixtape",
+      "artist": "Julia Holter, Hologram Teen",
+      "album": "Pyramid Disko (Captain Fluo Night Versions)",
+      "artistKey": "julia holter hologram teen",
+      "albumKey": "pyramid disko captain fluo night versions",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-11-20",
-          "url": "https://daily.bandcamp.com/album-of-the-day/dj-lag-southside-mixtape-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-21",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Kokoroko feat. Nyron Higor",
+      "album": "Tempos Difíceis Sempre Passam",
+      "artistKey": "kokoroko feat nyron higor",
+      "albumKey": "tempos dificeis sempre passam",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Macklemore",
+      "album": "Where's Our Love",
+      "artistKey": "macklemore",
+      "albumKey": "wheres our love",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13495,6 +13513,42 @@
       "album": "I Must Be Dreaming",
       "artistKey": "alabama shakes",
       "albumKey": "i must be dreaming",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Frightened Rabbit",
+      "album": "Live on KEXP",
+      "artistKey": "frightened rabbit",
+      "albumKey": "live on kexp",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lalitree Darnielle",
+      "album": "Ethereal",
+      "artistKey": "lalitree darnielle",
+      "albumKey": "ethereal",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -13567,6 +13621,24 @@
       "album": "Chốn Ta Về",
       "artistKey": "saigon soul revival",
       "albumKey": "chon ta ve",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-20",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Thundercat feat. Steve Lacy, Steve Arrington & Childish Gambino",
+      "album": "It Is What It Is",
+      "artistKey": "thundercat feat steve lacy steve arrington and childish gambino",
+      "albumKey": "it is what it is",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -15093,60 +15165,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "ACTORS",
-      "album": "Our Love Will Live Forever",
-      "artistKey": "actors",
-      "albumKey": "our love will live forever",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Flowers Must Die",
-      "album": "Tystnad",
-      "artistKey": "flowers must die",
-      "albumKey": "tystnad",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Kareen Lomax",
-      "album": "NAJI",
-      "artistKey": "kareen lomax",
-      "albumKey": "naji",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Marlon Funaki",
       "album": "when sunday comes around",
       "artistKey": "marlon funaki",
@@ -15169,24 +15187,6 @@
       "album": "Where the Birds Fly",
       "artistKey": "misha panfilov",
       "albumKey": "where the birds fly",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "MJ Lenderman",
-      "album": "Heart Of Gold: The Songs of Neil Young, Vol. 3 - Into The Black",
-      "artistKey": "mj lenderman",
-      "albumKey": "heart of gold the songs of neil young vol 3 into the black",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",

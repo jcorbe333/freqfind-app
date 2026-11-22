@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T15:51:13.358Z",
+  "generatedAt": "2026-11-22T15:50:25.554Z",
   "items": [
     {
       "artist": "Armand Hammer",
@@ -95,31 +95,6 @@
           "weight": 4,
           "publishedAt": "2026-11-10",
           "url": "https://stereogum.com/2517187/album-of-the-week-krill-secret-language/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 11,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "Dawuna",
-      "album": "Love’s Arp",
-      "artistKey": "dawuna",
-      "albumKey": "loves arp",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-12",
-          "url": "https://pitchfork.com/reviews/albums/dawuna-loves-arp/"
-        },
-        {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2026-11-10",
-          "url": "https://daily.bandcamp.com/album-of-the-day/dawuna-loves-arp-review"
         }
       ],
       "editorialWeight": 11,
@@ -585,6 +560,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Soul Glo",
+      "album": "Diaspora Problems",
+      "artistKey": "soul glo",
+      "albumKey": "diaspora problems",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2022-01-01",
+          "url": "https://theneedledrop.com/loved-list/2022/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Sudan Archives",
       "album": "Natural Brown Prom Queen",
       "artistKey": "sudan archives",
@@ -675,6 +668,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Undeath",
+      "album": "Lesions of a Different Kind",
+      "artistKey": "undeath",
+      "albumKey": "lesions of a different kind",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2020-01-01",
+          "url": "https://theneedledrop.com/loved-list/2020/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Daphni",
       "album": "Sizzling",
       "artistKey": "daphni",
@@ -708,6 +719,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mariah Carey",
+      "album": "Glitter",
+      "artistKey": "mariah carey",
+      "albumKey": "glitter",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-22",
+          "url": "https://pitchfork.com/reviews/albums/mariah-carey-glitter/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -6147,24 +6176,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Soul Glo",
-      "album": "Diaspora Problems",
-      "artistKey": "soul glo",
-      "albumKey": "diaspora problems",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2022-01-01",
-          "url": "https://theneedledrop.com/loved-list/2022/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Spiritualized",
       "album": "Everything Was Beautiful",
       "artistKey": "spiritualized",
@@ -8217,24 +8228,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Undeath",
-      "album": "Lesions of a Different Kind",
-      "artistKey": "undeath",
-      "albumKey": "lesions of a different kind",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2020-01-01",
-          "url": "https://theneedledrop.com/loved-list/2020/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Alex Cameron",
       "album": "Miami Memory",
       "artistKey": "alex cameron",
@@ -9081,6 +9074,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "SOUL GLO",
+      "album": "NA I'M GON GRAB ALLAT",
+      "artistKey": "soul glo",
+      "albumKey": "na im gon grab allat",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Undeath",
+      "album": "Arterial Bombardment",
+      "artistKey": "undeath",
+      "albumKey": "arterial bombardment",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Lottie Brazier",
       "album": "On Course But No-One There To Salute You",
       "artistKey": "lottie brazier",
@@ -9398,6 +9427,24 @@
           "weight": 4,
           "publishedAt": "2026-11-11",
           "url": "https://daily.bandcamp.com/album-of-the-day/chastity-belt-all-my-friends-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Dawuna",
+      "album": "Love’s Arp",
+      "artistKey": "dawuna",
+      "albumKey": "loves arp",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-11-10",
+          "url": "https://daily.bandcamp.com/album-of-the-day/dawuna-loves-arp-review"
         }
       ],
       "editorialWeight": 4,
@@ -13437,20 +13484,38 @@
       "mentionCount": 1
     },
     {
-      "artist": "The Bug vs Ghost Dubs",
-      "album": "Implosion",
-      "artistKey": "the bug vs ghost dubs",
-      "albumKey": "implosion",
+      "artist": "UCHE YARA",
+      "album": "BODYSCANNER",
+      "artistKey": "uche yara",
+      "albumKey": "bodyscanner",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-11-21",
-          "url": "https://daily.bandcamp.com/album-of-the-day/the-bug-vs-ghost-dubs-implosion-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-22",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wild Pink",
+      "album": "Still Coming Down",
+      "artistKey": "wild pink",
+      "albumKey": "still coming down",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13495,6 +13560,24 @@
       "album": "Where's Our Love",
       "artistKey": "macklemore",
       "albumKey": "wheres our love",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-21",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Peaches feat. Joe Talbot",
+      "album": "You’re Alright (Pixel Grip Remix)",
+      "artistKey": "peaches feat joe talbot",
+      "albumKey": "youre alright pixel grip remix",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14017,24 +14100,6 @@
       "album": "It Is What It Is",
       "artistKey": "thundercat feat louis cole",
       "albumKey": "it is what it is",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-18",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "UCHE YARA",
-      "album": "BODYSCANNER",
-      "artistKey": "uche yara",
-      "albumKey": "bodyscanner",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14985,78 +15050,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Adrian Younge & Ali Shaheed Muhammad feat. The Midnight Hour",
-      "album": "Jazz Is Dead 021",
-      "artistKey": "adrian younge and ali shaheed muhammad feat the midnight hour",
-      "albumKey": "jazz is dead 021",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "AJ Suede",
-      "album": "Gloom",
-      "artistKey": "aj suede",
-      "albumKey": "gloom",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Champagne Bubblebath",
-      "album": "Mixtape: Volume One",
-      "artistKey": "champagne bubblebath",
-      "albumKey": "mixtape volume one",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "D’Leesa",
-      "album": "Healer",
-      "artistKey": "dleesa",
-      "albumKey": "healer",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Jamal Bucanon",
       "album": "Live Like This (Seb Wildblood Remix)",
       "artistKey": "jamal bucanon",
@@ -15075,96 +15068,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Latroit House Ensemble feat. Latroit, Nick Clow & Nomvula",
-      "album": "Classics, Vol. 1",
-      "artistKey": "latroit house ensemble feat latroit nick clow and nomvula",
-      "albumKey": "classics vol 1",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Naima Bock",
-      "album": "Rocks",
-      "artistKey": "naima bock",
-      "albumKey": "rocks",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Black Tones",
-      "album": "Diamond Ruby Night",
-      "artistKey": "the black tones",
-      "albumKey": "diamond ruby night",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Too Many Zooz",
-      "album": "Hip Hop Instrumentals",
-      "artistKey": "too many zooz",
-      "albumKey": "hip hop instrumentals",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Trampled by Turtles",
-      "album": "Life Is Good on the Open Road",
-      "artistKey": "trampled by turtles",
-      "albumKey": "life is good on the open road",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-12",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Marlon Funaki",
       "album": "when sunday comes around",
       "artistKey": "marlon funaki",
@@ -15176,42 +15079,6 @@
           "weight": 3,
           "publishedAt": "2026-11-11",
           "url": "https://www.indieshuffle.com/marlon-funaki-when-sunday-comes-around"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Misha Panfilov",
-      "album": "Where the Birds Fly",
-      "artistKey": "misha panfilov",
-      "albumKey": "where the birds fly",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-11",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "The Womack Sisters",
-      "album": "Live on KEXP",
-      "artistKey": "the womack sisters",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-11",
-          "url": "https://www.kexp.org/playlist/"
         }
       ],
       "editorialWeight": 3,

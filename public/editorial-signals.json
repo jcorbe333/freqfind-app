@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T15:50:25.554Z",
+  "generatedAt": "2026-11-23T19:43:58.679Z",
   "items": [
     {
       "artist": "Armand Hammer",
@@ -295,31 +295,6 @@
           "weight": 5,
           "publishedAt": "2026-01-01",
           "url": "https://theneedledrop.com/loved-list/2026/"
-        }
-      ],
-      "editorialWeight": 10,
-      "multiSourceBonus": 2,
-      "mentionCount": 2
-    },
-    {
-      "artist": "U2",
-      "album": "Carnaval De Luz",
-      "artistKey": "u2",
-      "albumKey": "carnaval de luz",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-13",
-          "url": "https://www.kexp.org/playlist/"
-        },
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-12",
-          "url": "https://pitchfork.com/reviews/albums/u2-carnaval-de-luz/"
         }
       ],
       "editorialWeight": 10,
@@ -722,6 +697,60 @@
       "mentionCount": 1
     },
     {
+      "artist": "Atlas Sound",
+      "album": "Thanatos",
+      "artistKey": "atlas sound",
+      "albumKey": "thanatos",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-23",
+          "url": "https://pitchfork.com/reviews/albums/atlas-sound-thanatos/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lambchop",
+      "album": "Demoed EP",
+      "artistKey": "lambchop",
+      "albumKey": "demoed ep",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-23",
+          "url": "https://pitchfork.com/reviews/albums/lambchop-demoed-ep/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Sheherazaad",
+      "album": "Khudgarzi",
+      "artistKey": "sheherazaad",
+      "albumKey": "khudgarzi",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-23",
+          "url": "https://pitchfork.com/reviews/albums/sheherazaad-khudgarzi/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "Mariah Carey",
       "album": "Glitter",
       "artistKey": "mariah carey",
@@ -1093,60 +1122,6 @@
           "weight": 5,
           "publishedAt": "2026-11-14",
           "url": "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Grumpy",
-      "album": "Unfindable Ring",
-      "artistKey": "grumpy",
-      "albumKey": "unfindable ring",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-13",
-          "url": "https://pitchfork.com/reviews/albums/grumpy-unfindable-ring/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Wavves",
-      "album": "Cherry Soda",
-      "artistKey": "wavves",
-      "albumKey": "cherry soda",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-13",
-          "url": "https://pitchfork.com/reviews/albums/wavves-cherry-soda/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "2hollis",
-      "album": "Pirouette",
-      "artistKey": "2hollis",
-      "albumKey": "pirouette",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-12",
-          "url": "https://pitchfork.com/reviews/albums/2hollis-pirouette/"
         }
       ],
       "editorialWeight": 5,
@@ -9074,6 +9049,42 @@
       "mentionCount": 1
     },
     {
+      "artist": "Bang on a Can All-Stars",
+      "album": "Sakamoto: 1996",
+      "artistKey": "bang on a can all stars",
+      "albumKey": "sakamoto 1996",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-11-23",
+          "url": "https://daily.bandcamp.com/album-of-the-day/bang-on-a-can-all-stars-sakamoto-1996-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Robyn Rocket and People You May of Heard Of",
+      "album": "Open Doors to Other People’s Worlds",
+      "artistKey": "robyn rocket and people you may of heard of",
+      "albumKey": "open doors to other peoples worlds",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-11-23",
+          "url": "https://thequietus.com/quietus-reviews/robyn-rocket-and-people-you-may-of-heard-of-open-doors-to-other-peoples-worlds-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "SOUL GLO",
       "album": "NA I'M GON GRAB ALLAT",
       "artistKey": "soul glo",
@@ -9373,24 +9384,6 @@
           "weight": 4,
           "publishedAt": "2026-11-13",
           "url": "https://thequietus.com/quietus-reviews/tara-cunningham-warm-ground-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Spydergum",
-      "album": "Spydergum",
-      "artistKey": "spydergum",
-      "albumKey": "spydergum",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-11-12",
-          "url": "https://thequietus.com/quietus-reviews/spydergum-spydergum-review/"
         }
       ],
       "editorialWeight": 4,
@@ -13484,6 +13477,114 @@
       "mentionCount": 1
     },
     {
+      "artist": "Hearts Apart",
+      "album": "Xanax Dramas & Rock 'n' Roll",
+      "artistKey": "hearts apart",
+      "albumKey": "xanax dramas and rock n roll",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jamie Perrett",
+      "album": "The Outlier",
+      "artistKey": "jamie perrett",
+      "albumKey": "the outlier",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Spacestation",
+      "album": "Who KIlled Spacestation",
+      "artistKey": "spacestation",
+      "albumKey": "who killed spacestation",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-23",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jah-Lil",
+      "album": "In the Present",
+      "artistKey": "jah lil",
+      "albumKey": "in the present",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Logic1000 feat. yunè pinku",
+      "album": "Confirmation!",
+      "artistKey": "logic1000 feat yune pinku",
+      "albumKey": "confirmation",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Lowly",
+      "album": "Softy",
+      "artistKey": "lowly",
+      "albumKey": "softy",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
       "artist": "UCHE YARA",
       "album": "BODYSCANNER",
       "artistKey": "uche yara",
@@ -13506,6 +13607,24 @@
       "album": "Still Coming Down",
       "artistKey": "wild pink",
       "albumKey": "still coming down",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-22",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "YEИDRY feat. Saso",
+      "album": "Como agua",
+      "artistKey": "ye dry feat saso",
+      "albumKey": "como agua",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14600,24 +14719,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Logic1000 feat. yunè pinku",
-      "album": "Confirmation!",
-      "artistKey": "logic1000 feat yune pinku",
-      "albumKey": "confirmation",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-16",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Lucy Dreams",
       "album": "VVVV",
       "artistKey": "lucy dreams",
@@ -14942,24 +15043,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Breeze",
-      "album": "Lobster",
-      "artistKey": "breeze",
-      "albumKey": "lobster",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Erykah Badu & The Alchemist feat. Steve Lacy",
       "album": "Before The World Blows",
       "artistKey": "erykah badu and the alchemist feat steve lacy",
@@ -14982,60 +15065,6 @@
       "album": "Overtime (Devours Remix)",
       "artistKey": "jody glenham devours",
       "albumKey": "overtime devours remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Neko Case",
-      "album": "Live on KEXP",
-      "artistKey": "neko case",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Robyn",
-      "album": "Expression on Your Face / Fembot",
-      "artistKey": "robyn",
-      "albumKey": "expression on your face fembot",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-13",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Thandii x Regalado",
-      "album": "Coco Okayo",
-      "artistKey": "thandii x regalado",
-      "albumKey": "coco okayo",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",

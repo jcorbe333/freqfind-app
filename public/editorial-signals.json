@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T19:16:16.802Z",
+  "generatedAt": "2026-11-25T18:19:58.920Z",
   "items": [
     {
       "artist": "RÓIS",
@@ -467,6 +467,24 @@
       "mentionCount": 1
     },
     {
+      "artist": "Mitski",
+      "album": "The Land Is Inhospitable and So Are We",
+      "artistKey": "mitski",
+      "albumKey": "the land is inhospitable and so are we",
+      "sources": [
+        {
+          "sourceId": "needle-drop-loved-list",
+          "sourceLabel": "The Needle Drop Loved List",
+          "weight": 5,
+          "publishedAt": "2023-01-01",
+          "url": "https://theneedledrop.com/loved-list/2023/"
+        }
+      ],
+      "editorialWeight": 6,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
       "artist": "Soul Glo",
       "album": "Diaspora Problems",
       "artistKey": "soul glo",
@@ -626,6 +644,24 @@
       ],
       "editorialWeight": 6,
       "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Weird Baile",
+      "album": "Collected Rips 2004-2024",
+      "artistKey": "weird baile",
+      "albumKey": "collected rips 2004 2024",
+      "sources": [
+        {
+          "sourceId": "pitchfork-bnm",
+          "sourceLabel": "Pitchfork Best New Music",
+          "weight": 5,
+          "publishedAt": "2026-11-25",
+          "url": "https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/"
+        }
+      ],
+      "editorialWeight": 5,
+      "multiSourceBonus": 0,
       "mentionCount": 1
     },
     {
@@ -1072,24 +1108,6 @@
           "weight": 5,
           "publishedAt": "2026-11-15",
           "url": "https://pitchfork.com/reviews/albums/pearl-jam-yield/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Hiroshi Yoshimura",
-      "album": "Quiet Forest",
-      "artistKey": "hiroshi yoshimura",
-      "albumKey": "quiet forest",
-      "sources": [
-        {
-          "sourceId": "pitchfork-bnm",
-          "sourceLabel": "Pitchfork Best New Music",
-          "weight": 5,
-          "publishedAt": "2026-11-14",
-          "url": "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/"
         }
       ],
       "editorialWeight": 5,
@@ -4701,24 +4719,6 @@
       "album": "Burning Desire",
       "artistKey": "mike",
       "albumKey": "burning desire",
-      "sources": [
-        {
-          "sourceId": "needle-drop-loved-list",
-          "sourceLabel": "The Needle Drop Loved List",
-          "weight": 5,
-          "publishedAt": "2023-01-01",
-          "url": "https://theneedledrop.com/loved-list/2023/"
-        }
-      ],
-      "editorialWeight": 5,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Mitski",
-      "album": "The Land Is Inhospitable and So Are We",
-      "artistKey": "mitski",
-      "albumKey": "the land is inhospitable and so are we",
       "sources": [
         {
           "sourceId": "needle-drop-loved-list",
@@ -9053,9 +9053,81 @@
       "mentionCount": 1
     },
     {
-      "artist": "Philip Golub",
+      "artist": "Kogumaza",
+      "album": "You Found Yourself Where You Found Yourself",
+      "artistKey": "kogumaza",
+      "albumKey": "you found yourself where you found yourself",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-11-25",
+          "url": "https://thequietus.com/quietus-reviews/kogumaza-you-found-yourself-where-you-found-yourself-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Mitski",
+      "album": "Nothing’s About to Happen to Me",
+      "artistKey": "mitski",
+      "albumKey": "nothings about to happen to me",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 1,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Purple Pilgrims",
+      "album": "Given To The Night",
+      "artistKey": "purple pilgrims",
+      "albumKey": "given to the night",
+      "sources": [
+        {
+          "sourceId": "bandcamp-album-of-the-day",
+          "sourceLabel": "Bandcamp Album of the Day",
+          "weight": 4,
+          "publishedAt": "2026-11-25",
+          "url": "https://daily.bandcamp.com/album-of-the-day/purple-pilgrims-given-to-the-night-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Wilder Maker",
+      "album": "Smoking The Bunny",
+      "artistKey": "wilder maker",
+      "albumKey": "smoking the bunny",
+      "sources": [
+        {
+          "sourceId": "the-quietus",
+          "sourceLabel": "The Quietus",
+          "weight": 4,
+          "publishedAt": "2026-11-25",
+          "url": "https://thequietus.com/quietus-reviews/wilder-maker-smoking-the-bunny-review/"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Phillip Golub",
       "album": "Loop 8/9",
-      "artistKey": "philip golub",
+      "artistKey": "phillip golub",
       "albumKey": "loop 8 9",
       "sources": [
         {
@@ -9082,6 +9154,24 @@
           "weight": 4,
           "publishedAt": "2026-11-24",
           "url": "https://daily.bandcamp.com/album-of-the-day/rosetta-temporal-lapse-review"
+        }
+      ],
+      "editorialWeight": 4,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Star&#8217;s Revenge",
+      "album": "Star&#8217;s Revenge II",
+      "artistKey": "star and 8217 s revenge",
+      "albumKey": "star and 8217 s revenge ii",
+      "sources": [
+        {
+          "sourceId": "stereogum-album-of-the-week",
+          "sourceLabel": "Stereogum Album of the Week",
+          "weight": 4,
+          "publishedAt": "2026-11-24",
+          "url": "https://stereogum.com/2520760/album-of-the-week-stars-revenge-stars-revenge-ii/reviews/album-of-the-week/"
         }
       ],
       "editorialWeight": 4,
@@ -9215,24 +9305,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Anthony Child",
-      "album": "Beginning of the Shadow",
-      "artistKey": "anthony child",
-      "albumKey": "beginning of the shadow",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-11-18",
-          "url": "https://thequietus.com/quietus-reviews/anthony-child-beginning-of-the-shadow-review/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Soup Activists",
       "album": "Where the Rubbish Goes",
       "artistKey": "soup activists",
@@ -9316,24 +9388,6 @@
           "weight": 4,
           "publishedAt": "2026-11-17",
           "url": "https://stereogum.com/2518002/album-of-the-week-danz-cm-the-interdimensional-extraterrestrial-time-travelers-society/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Iceboy Violet",
-      "album": "How to Glitch Under The Map",
-      "artistKey": "iceboy violet",
-      "albumKey": "how to glitch under the map",
-      "sources": [
-        {
-          "sourceId": "the-quietus",
-          "sourceLabel": "The Quietus",
-          "weight": 4,
-          "publishedAt": "2026-11-17",
-          "url": "https://thequietus.com/quietus-reviews/iceboy-violet-how-to-glitch-under-the-map-review/"
         }
       ],
       "editorialWeight": 4,
@@ -12959,24 +13013,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Mx Lonely",
-      "album": "All Monsters",
-      "artistKey": "mx lonely",
-      "albumKey": "all monsters",
-      "sources": [
-        {
-          "sourceId": "stereogum-album-of-the-week",
-          "sourceLabel": "Stereogum Album of the Week",
-          "weight": 4,
-          "publishedAt": "2026-02-18",
-          "url": "https://stereogum.com/2489529/album-of-the-week-mx-lonely-all-monsters/reviews/album-of-the-week/"
-        }
-      ],
-      "editorialWeight": 4,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "KMRU",
       "album": "Kin",
       "artistKey": "kmru",
@@ -13481,20 +13517,128 @@
       "mentionCount": 1
     },
     {
-      "artist": "أحمد [Ahmed]",
-      "album": "سماع [Sama’a] (Audition)",
-      "artistKey": "ahmed",
-      "albumKey": "samaa audition",
+      "artist": "Alabama Shakes",
+      "album": "I Must Be Dreaming",
+      "artistKey": "alabama shakes",
+      "albumKey": "i must be dreaming",
       "sources": [
         {
-          "sourceId": "bandcamp-album-of-the-day",
-          "sourceLabel": "Bandcamp Album of the Day",
-          "weight": 4,
-          "publishedAt": "2025-11-24",
-          "url": "https://daily.bandcamp.com/album-of-the-day/ahmed-samaa-audition-review"
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-25",
+          "url": "https://www.kexp.org/playlist/"
         }
       ],
-      "editorialWeight": 4,
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Death Valley Girls",
+      "album": "Welcome to Earth",
+      "artistKey": "death valley girls",
+      "albumKey": "welcome to earth",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Erykah Badu & The Alchemist",
+      "album": "Before The World Blows",
+      "artistKey": "erykah badu and the alchemist",
+      "albumKey": "before the world blows",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Growing Pains",
+      "album": "Daniel Loves Mandy Forever",
+      "artistKey": "growing pains",
+      "albumKey": "daniel loves mandy forever",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Hexteria",
+      "album": "Renaisséance",
+      "artistKey": "hexteria",
+      "albumKey": "renaisseance",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Jody Glenham",
+      "album": "Overtime (Devours Remix)",
+      "artistKey": "jody glenham",
+      "albumKey": "overtime devours remix",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Nina Simone",
+      "album": "Verve Remixed // Nina Simone",
+      "artistKey": "nina simone",
+      "albumKey": "verve remixed nina simone",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-25",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
       "multiSourceBonus": 0,
       "mentionCount": 1
     },
@@ -13539,6 +13683,24 @@
       "album": "Qué les Pasó a Mis Amigos?",
       "artistKey": "ela minus and nick leon",
       "albumKey": "que les paso a mis amigos",
+      "sources": [
+        {
+          "sourceId": "kexp-song-of-the-day",
+          "sourceLabel": "KEXP Song of the Day",
+          "weight": 3,
+          "publishedAt": "2026-11-24",
+          "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Emma Ruth Rundle",
+      "album": "Live on KEXP",
+      "artistKey": "emma ruth rundle",
+      "albumKey": "live on kexp",
       "sources": [
         {
           "sourceId": "kexp-song-of-the-day",
@@ -14165,24 +14327,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "Alabama Shakes",
-      "album": "I Must Be Dreaming",
-      "artistKey": "alabama shakes",
-      "albumKey": "i must be dreaming",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-20",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Frightened Rabbit",
       "album": "Live on KEXP",
       "artistKey": "frightened rabbit",
@@ -14446,6 +14590,24 @@
           "weight": 3,
           "publishedAt": "2026-11-19",
           "url": "https://www.kexp.org/playlist/"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "Caleb Kunle",
+      "album": "Hear Me Out",
+      "artistKey": "caleb kunle",
+      "albumKey": "hear me out",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-11-18",
+          "url": "https://www.indieshuffle.com/caleb-kunle-hear-me-out"
         }
       ],
       "editorialWeight": 3,
@@ -15245,78 +15407,6 @@
       "mentionCount": 1
     },
     {
-      "artist": "El Búho",
-      "album": "Hogar",
-      "artistKey": "el buho",
-      "albumKey": "hogar",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Erykah Badu & The Alchemist",
-      "album": "Before The World Blows",
-      "artistKey": "erykah badu and the alchemist",
-      "albumKey": "before the world blows",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Helado Tropical",
-      "album": "Live on KEXP",
-      "artistKey": "helado tropical",
-      "albumKey": "live on kexp",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Japanese Heart Software",
-      "album": "Desiderium",
-      "artistKey": "japanese heart software",
-      "albumKey": "desiderium",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
       "artist": "Kiefer feat. Tony Stone, Erick the Architect & CARRTOONS",
       "album": "Memory Bomb",
       "artistKey": "kiefer feat tony stone erick the architect and carrtoons",
@@ -15381,78 +15471,6 @@
           "sourceLabel": "KEXP Song of the Day",
           "weight": 3,
           "publishedAt": "2026-11-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "New World Man",
-      "album": "I Am the Machine",
-      "artistKey": "new world man",
-      "albumKey": "i am the machine",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "XELTA",
-      "album": "B.D.S.M.",
-      "artistKey": "xelta",
-      "albumKey": "b d s m",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-15",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Jamie She",
-      "album": "Funeral Songs",
-      "artistKey": "jamie she",
-      "albumKey": "funeral songs",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-14",
-          "url": "https://www.kexp.org/playlist/"
-        }
-      ],
-      "editorialWeight": 3,
-      "multiSourceBonus": 0,
-      "mentionCount": 1
-    },
-    {
-      "artist": "Robin Kester",
-      "album": "Perspective (Tom Sharkett Remix)",
-      "artistKey": "robin kester",
-      "albumKey": "perspective tom sharkett remix",
-      "sources": [
-        {
-          "sourceId": "kexp-song-of-the-day",
-          "sourceLabel": "KEXP Song of the Day",
-          "weight": 3,
-          "publishedAt": "2026-11-14",
           "url": "https://www.kexp.org/playlist/"
         }
       ],
@@ -15832,6 +15850,24 @@
           "weight": 3,
           "publishedAt": "2026-08-14",
           "url": "https://www.indieshuffle.com/angus-julia-stone-celestial-bodies"
+        }
+      ],
+      "editorialWeight": 3,
+      "multiSourceBonus": 0,
+      "mentionCount": 1
+    },
+    {
+      "artist": "BRANDANO",
+      "album": "Life g/on",
+      "artistKey": "brandano",
+      "albumKey": "life g on",
+      "sources": [
+        {
+          "sourceId": "indieshuffle",
+          "sourceLabel": "IndieShuffle",
+          "weight": 3,
+          "publishedAt": "2026-08-06",
+          "url": "https://www.indieshuffle.com/brandano-life-g-on"
         }
       ],
       "editorialWeight": 3,
